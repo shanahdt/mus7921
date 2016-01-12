@@ -1,6 +1,11 @@
-# mus7921
-Computational Musicology and the Digital Humanities
+## Computational Musicology and the Digital Humanities
 
-**Syllabus**
+### Syllabus
 
-Test
+The syllabus can be found [here](syllabus.pdf).
+
+## Details
+
+More details can be found on the wiki.
+
+
