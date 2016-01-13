@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Lyric Suite                    
+!!!OPS: Op. 54
+!!!OMV: Norwegian Rustic March
+!!!AIN: forte
+!!!ODT: 1891/// 
+!!!OCY: Norge
+!!!OPC: Bergen    
+!!!PDT: 1891///
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+8cc\L
+8dd\J
+=
+8ee\L
+8cc\
+[8ee\J
+8ee\L]
+16ddq/LL
+16eeq/JJ
+8dd\
+8b\J
+=
+4dd\
+[8dd\
+8dd\L]
+8cc\
+8a\J
+=
+8cc\L
+8a\
+8cc\J
+8b/L
+8g/
+8b/J
+=
+4a/
+[8a/
+8a/]
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1892///
+!!!OCL: RSC
+!!!ODT: <1892/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: The Nutcracker Suite, Op. 71a, Orch.
+!!!title2: Dance of the Reed Flutes
+!!!statkey: D
+!!DEBUGGING: t197 % 491 % 1892(prf) % St. Petersburg % T197 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+16dd\LL
+16cc#\
+16dd\
+16cc#\JJ
+8dd\L
+8cc#\J
+=
+8ee\
+32dd\LLL
+32ff#\
+32aa\
+32ddd\JJJ
+4fff#\
+=
+!! 8va below
+16ggg\LL
+16fff#\
+16ggg\
+16fff#\JJ
+16eee\LL
+16ddd\
+16aa\
+16ff#\JJ
+=
+4dd/
+8dddq/
+4ccc#\
+!! end 8va
+=
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. Air and Variations
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 1 in B Flat
+!!!title2: 2nd Set
+!!!statkey: B-
+!!DEBUGGING: h199 % . % 1733(p) % London? % H199 % . % x % Air and Variations % piano % 2nd Set % Suite No. 1 in B Flat % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4do\
+8.reT\L
+32do\LL
+32re\JJJ
+16mi\LL
+16re\
+16do\
+16re\JJ
+8mi\L
+8fa\J
+=
+4mi\
+8.reT\L
+32do\LL
+32re\JJJ
+16mi\LL
+16re\
+16do\
+16re\JJ
+8mi\L
+8fa\J
+=
+4mi\
+8.faT\L
+32mi\LL
+32fa\JJJ
+16so\LL
+16fa\
+16mi\
+16fa\JJ
+8so\L
+8la\J
+=
+*-

@@ -1,0 +1,72 @@
+**kern
+*clefG2
+*k[]
+*M3/8
+*a:
+16a
+16cc
+16b
+16a
+8b
+=
+8a
+8cc
+8b
+=
+4dd
+16a
+16b
+=
+16a
+16cc
+16b
+16a
+8b
+=
+16dd
+16ff
+16dd
+16ff
+8ee
+=
+16dd
+16ff
+16dd
+16ff
+8ee
+=
+16cc
+16dd
+4ee
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1917
+!!!place: Helvetia, Morges
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1521e % . % 1917 % Morges, Switzerland % S1521e % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1917///
+!!!ODT: <1917/12/31/
+!!!splace: Helvetia, Geneva
+!!!CDT: ///-
+!!DEBUGGING: . . 1917(prf) Geneva (S1521e) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1921///
+!!!ODT: <1921/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . . 1921(p) R (S1521e) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: n.d.///
+!!!ODT: <n.d./12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . . n.d.(p) B (S1521e) . . . . . . STRAVINSKY, Igor

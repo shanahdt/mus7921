@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1854/12/31/
+!!!PDT: 1854///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1852///-1853
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Sonara in B Minor
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l204 % . % 1852-1853 % Weimar % L204 % . % a % . % piano % . % Sonara in B Minor % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1854(p) Leipzig (L204) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+4G\
+4r
+4G\
+=
+4r
+4G\
+4.Fn\
+8E-\
+=
+4D\
+4Cn/
+4BB-/
+4AA-/
+=
+4r
+4GG/
+4r
+4GG/
+=
+*-

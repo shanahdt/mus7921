@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Gluck, Christoph
+!!!CDT: 1714/07/02/-1787/11/15/
+!!!CNT: Bohemian
+!!!OPR: Iphigenia in Aulis
+!!!OTL: Overture           
+!!!thm: C
+!!!AIN: orchestra      
+!!!MPD: 1774///
+!!!MLC: France, Paris  
+!!!PDT: 1774///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+8cc\L
+8ee\
+8ff#\J
+=
+4gg\
+[4gg\
+8gg\L]
+16aa\L
+16gg\JJ
+16ggq/
+8ffn\L
+16ee\L
+16ff\JJ
+=
+[2ee\
+8ee\L]
+8cc\
+8ee\
+8ff#\J
+=
+4gg\
+[4gg\
+8gg\L]
+16aa\L
+16gg\JJ
+16ggq/
+8ffn\L
+16ee\L
+16ff\JJ
+=
+[2ee\
+8ee\]
+*-

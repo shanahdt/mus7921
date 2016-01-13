@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <n.d./12/31/
+!!!OMV: Mov. 3
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1777
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: England, London
+!!!theme: A
+!!!title1: Quartet in F
+!!!title2: 3rd Movement
+!!!statkey: F
+!!DEBUGGING: h333 % . % -1777 % Eszterh&aacute;za % H333 % . % a % 3 % string % . % Quartet in F % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) London (H333) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . (spurious) London (H333) . a 3 string . Quartet in F HAYDN, Franz Josef 1732
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4do\
+16so\LL
+16la\
+16so\
+16fa\JJ
+4mi/
+=
+4do\
+16mi\LL
+16fa\
+16mi\
+16re\JJ
+4do\
+=
+2so\
+16fa\LL
+16mi\
+16re\
+16do\JJ
+=
+8so/L
+8fa/
+8fa/
+8mi/J
+4mi/
+=
+*-

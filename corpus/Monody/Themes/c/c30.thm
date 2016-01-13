@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: The Hurdy Gurdy
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Illinois, Chicago
+!!!theme: A
+!!!title1: Adventures in a Perambulator
+!!!title2: 3rd Movement, The Hurdy Gurdy
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c30 % . % 1914 % Chicago % C30 % . % a % 3: The Hurdy Gurdy % orchestra % . % Adventures in a Perambulator % CARPENTER, John Alden % 1876
+**kern
+*clefG2
+*k[]
+*E:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4bb\
+4ccc#\
+4bb\
+4aa\
+=
+4gg#\
+4ff#\
+2ee\
+=
+8dd#\L
+8ee\
+8dd#\
+8cc#\J
+8b/L
+8a#/
+8g#/
+8a#/J
+=
+8b/L
+8a#/
+8g#/
+8f#/J
+8g#/
+*-

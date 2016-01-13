@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1852/12/31/
+!!!PDT: 1852///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1851
+!!!instrument: piano or orchestra
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Transcendental Etude No. 4
+!!!title2: Mazeppa
+!!!statkey: B-
+!!DEBUGGING: l191 % . % 1851 % Weimar % L191 % . % b % . % piano or orchestra % Mazeppa % Transcendental Etude No. 4 % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852(p) Leipzig (L191) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+2dd\
+4.dd\
+8cc\
+=
+2b-\
+4.b-\
+8b-\
+=
+4.a/
+8a/
+4.gg-\
+8a/
+=
+2cc\
+4b-\
+*-

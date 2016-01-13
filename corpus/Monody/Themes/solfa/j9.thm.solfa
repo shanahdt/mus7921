@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Janácek, Leos
+!!!CDT: 1854/07/03/-1928/08/12/
+!!!CNT: Czech
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1928/12/31/
+!!!PDT: 1928///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: orchestra
+!!!place: Czech, Brno
+!!!splace: Czech, Prague
+!!!theme: A: STARODAVNY
+!!!title1: L&aacute;ssk&eacute; Tance
+!!!title2: Bohemian Folk Dances
+!!!statkey: C
+!!DEBUGGING: j9 % 264 % 1893 % Brno % J9 % . % a: Starodavny % . % orchestra % Bohemian Folk Dances % L&aacute;ssk&eacute; Tance % JAN&Aacute;CEK, Leos % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1928(p) Prague (J9) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8mi\L
+8re\J
+4do\
+4ti\
+=
+4la\
+2so\
+=
+16do\LL
+16re\
+16mi\
+16fa\JJ
+4so\
+4mi\
+=
+4re\
+2do\
+=
+*-

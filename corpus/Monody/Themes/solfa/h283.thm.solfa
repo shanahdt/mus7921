@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Harris, Roy
+!!!CDT: 1898/02/12/-1979/10/01/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1929///
+!!!OCL: RSC
+!!!ODT: <1929/12/31/
+!!!OMV: Mov. 1: Prelude
+!!!OPS: Opus 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928
+!!!instrument: piano
+!!!place: France, Paris
+!!!splace: United States of America, New York
+!!!title1: Sonata
+!!!title2: 1st Movement (Prelude)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h283 % . % 1928 % Paris % H283 % 1 % x % 1: Prelude % piano % . % Sonata % HARRIS, Roy % 1898
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1929(prf) New York (H283) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+*M5/4
+=
+!! ! NB. Key & key signature disagree.
+4do/
+8so/
+8r
+4do/
+4do/
+8so/
+8r
+=
+4do/
+4do/
+4do/
+4so/
+4me/
+=
+*-

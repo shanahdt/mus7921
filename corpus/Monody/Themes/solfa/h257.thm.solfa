@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 12
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Water Music
+!!!title2: 12th Movement
+!!!statkey: D
+!!DEBUGGING: h257 % 225 % 1717(prf) % London % H257 % . % x % 12 % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H257) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4so/
+8r
+8so/
+4do\
+4do\
+=
+4do\
+8r
+8do\
+4mi\
+4mi\
+=
+4mi\
+8r
+8mi\
+4so\
+4so\
+=
+4.so\
+16fa\LL
+16mi\JJ
+16re\LL
+16do\
+16re\
+16mi\JJ
+8re\L
+8re\J
+=
+4re\
+*-

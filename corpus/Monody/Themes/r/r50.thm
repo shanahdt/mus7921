@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 10
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1910
+!!!instrument: piano
+!!!place: Ukraina, Ivanovka
+!!!title1: Preludes
+!!!title2: Famous C Sharp Minor
+!!!statkey: D
+!!DEBUGGING: r50 % 370 % 1910 % Ivanovka % R50 % 32 No. 10 % x % . % piano % Famous C Sharp Minor % Preludes % RAKHMANINOV, Sergey % 1873
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+12.ee\L
+24ff#\k
+12ee\J
+=
+[2ff#\
+6ff#\]
+12ee\
+12.dd\L
+24ee\k
+12dd\J
+=
+[2ee\
+6ee\]
+12dd\
+12.cc#\L
+24dd\k
+12cc#\J
+=
+2dd\
+[2dd\
+=
+2.dd\]
+*-

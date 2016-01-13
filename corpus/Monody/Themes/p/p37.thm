@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!ONM: No. 24
+!!!OPS: Opus 1
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Caprices
+!!!title2: "Militaire"
+!!!statkey: a
+!!DEBUGGING: p37 % 349 % c1805 % Lucca % P37 % 1 No. 24 % x % . % violn % "Militaire" % Caprices % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P37) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8a/L
+16r
+16a/Jk
+16a/LL
+16cc/
+16b/
+16a/JJ
+=
+8ee/L
+16r
+16e/Jk
+16e/LL
+16g#/
+16f#/
+16e/JJ
+=
+8a/L
+16r
+16a/Jk
+16a/LL
+16cc/
+16b/
+16a/JJ
+=
+4ee\
+8e/
+8r
+=
+*-

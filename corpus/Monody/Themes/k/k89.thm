@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Felszant&oacute;m A Cs&aacute;sz&aacute;r Udvar&aacute;t
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: a
+!!DEBUGGING: k89 % 271 % 1927 % Budapest % K89 % 15 % x % Felszant&oacute;m A Cs&aacute;sz&aacute;r Udvar&aacute;t % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K89) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8a/L
+8g#/
+8a/
+8b/J
+=
+4cc\
+4b\
+=
+8.ee\L
+16ee\Jk
+4dd\
+=
+16ee\LK
+8.ee\
+16dd\K
+8.cc\J
+=
+4b\
+4e/
+=
+8.a/L
+16a/Jk
+4g/
+=
+*-

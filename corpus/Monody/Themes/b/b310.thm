@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OPR, OTL
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!PDT: 1722///
+!!!ODT: <1722/12/31/
+!!!OCY: Deutschland
+!!!OPC: C&ouml;then
+!!!OPR: Well-tempered Clavichord, Book I
+!!!OTL: Fugue No.5
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#c#]
+*D:
+*M4/4
+=
+4r
+32D\LLL
+32E\
+32F#\
+32G\
+32F#\
+32E\
+32F#\
+32D\JJJ
+8.B\L
+16B\Jk
+8.A\L
+16G\Jk
+=
+8.F#\L
+16G\Jk
+8.F#\L
+16E\Jk
+4D\
+*-

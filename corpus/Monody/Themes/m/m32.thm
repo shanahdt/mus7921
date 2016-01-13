@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!OMV: Mov. III: In War///-Time
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1891///-1895
+!!!instrument: orchestra
+!!!place: United States of America, Massachusetts, Boston
+!!!splace: Deutschland, Leipzig & United States of America, New York
+!!!title1: Suite No. 2
+!!!title2: (Indian0
+!!!statkey: d
+!!DEBUGGING: m32 % . % 1891-1895 % Boston % M32 % . % x % III: In War-Time % orchestra % (Indian0 % Suite No. 2 % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) Leipzig, New York (M32) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=
+8.d/L
+16e/Jk
+8f/L
+8a/J
+=
+8g/L
+16g/L
+16f/JJ
+8e/L
+8c/J
+=
+8d/L
+8a/
+8g/
+8f/J
+=
+8e/L
+8e/J
+4d/
+=
+*-

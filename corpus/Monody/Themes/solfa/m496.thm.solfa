@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 491
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in C Minor
+!!!title2: 1st Movement
+!!!statkey: c
+!!DEBUGGING: m496 % . % 1786 % Vienna % M496 % K 491 % x % 1 % piano, orchestra % . % Concerto in C Minor % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=
+2.do/
+=
+2.me/
+=
+2le/
+4so/
+=
+4fi/
+4me\
+8.r
+16fi/
+=
+4le/
+4so/
+4fa/
+=
+4mi/
+4ra\
+8.r
+16mi/
+=
+4se/
+4fa/
+4me/
+=
+4re/
+*-

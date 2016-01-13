@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Willow Song
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Othello Suite
+!!!title2: 4th Movement (Willow Song)
+!!!statkey: A-
+!!DEBUGGING: c393 % . % 1909 % London % C393 % . % x % 4: Willow Song % orchestra % . % Othello Suite % COOLERIDGE-TAYLOR, Samuel % 1875
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/8
+8so/
+=
+8.do/L
+16re/k
+8me/J
+=
+8.re/L
+16me/k
+8fa/J
+=
+8.so/L
+16so/k
+8so/J
+=
+4so/
+8so\
+=
+8.te\L
+16so\k
+8me\J
+=
+16fa/LL
+16te/JJ
+4te/
+=
+*-

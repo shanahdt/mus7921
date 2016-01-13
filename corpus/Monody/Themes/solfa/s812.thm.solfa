@@ -1,0 +1,64 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*C:
+16do
+16re
+16mi
+16so
+8la
+16la
+16so
+8la
+16la
+16do
+16la
+16so
+16mi
+16re
+=
+16do
+16re
+16mi
+16so
+8mi
+16mi
+16re
+2mi
+=
+16re
+16mi
+16fa
+16so
+8fa
+16fa
+16mi
+8re
+16re
+16mi
+16fa
+16so
+16fa
+16mi
+=
+*-
+!!!COM: Scott, Cyril
+!!!CNT: English
+!!!date: 1903?
+!!!place: England, Liverpool(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s812 % . % 1903? % Liverpool? % S812 % . % . % . % . % . % . % SCOTT, Cyril
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1903?///
+!!!ODT: <1903?/12/31/
+!!!splace: England, London(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1903(prf)? London? (S812) . . . . . . .

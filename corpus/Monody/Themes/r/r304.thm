@@ -1,0 +1,69 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1903/12/31/
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 9
+!!!PDT: 1903(rev)///
+!!!PDT: 1913///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1868
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Royssia, St. Petersburg
+!!!theme: AA: INTRO
+!!!title1: Antar Symphony
+!!!title2: 1st Movement, Intro
+!!!statkey: f#
+!!!statkey: f#
+!!DEBUGGING: r304 % . % 1868 % St. Petersburg % R304 % 9 % aa: Intro % 1 % orchestra % . % Antar Symphony % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(rev) . (R304) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1913(p) St. Petersburg (R304) 9 aa: Intro 1 orchestra . Antar Symphony RIMSKY-KORSAKOV, Nikolay 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1903(rev)(p) St. Petersburg (R304) 9 aa: Intro 1 orchestra . Antar Symphony RIMSKY-KORSAKOV, Nikolay 1844
+**kern
+*clefF4
+*k[f#c#g#]
+*f#:
+*M4/4
+! 
+2c#\
+=
+2d\
+2A\
+=
+2B-\
+2E#\
+=
+2F#\
+2C#/
+=||
+*clefF4
+*k[f#c#g#]
+*f#:
+! 
+4C#/
+=
+4D\
+8.F\L
+16A\Jk
+4B-\
+4c#\
+*clefG2
+=
+4d/
+8.f/L
+16a/Jk
+4b-\
+4cc#\
+=
+4dd\
+*-

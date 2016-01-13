@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV     
+!!!COM: Galuppi, Baldassare
+!!!CDT: 1706/10/18/-1785/01/03/
+!!!CNT: Italian
+!!!OTL: Sonata in C Minor for Piano or Harpsichord
+!!!OMV: Mov. 1 
+!!!AIN: cemba forte 
+!!!ODT: N/A     
+!!!OCY: Italia
+!!!OPC: Venezia         
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+32ccc\LLL
+32gg\
+32ee-\
+32cc\JJJ
+32g/LLL
+32e-/
+32c/
+32G/JJJ
+8C/
+8cc\
+4cc\
+4bn\
+=
+32aa-\LLL
+32ff\
+32dd\
+32bn\JJJ
+32a-/LLL
+32f/
+32d/
+32F/JJJ
+*clefF4
+8BBn/
+*clefG2
+8dd\
+4dd\
+4cc\
+=
+*-

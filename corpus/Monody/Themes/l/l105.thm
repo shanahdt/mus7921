@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1855///
+!!!OCL: RSC
+!!!ODT: 1849///
+!!!ODT: <1855/12/31/
+!!!OPC: Deutschland, Weimar
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: piano, orchestra
+!!!splace: Deutschland, Weimar
+!!!theme: A
+!!!title1: Concerto No. 1 in E Falt
+!!!statkey: c
+!!DEBUGGING: l105 % . % 1849(c) % Weimar % L105 % . % a % . % piano, orchestra % . % Concerto No. 1 in E Falt % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1856(rev) . (L105) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1855(prf) Weimar (L105) . a . piano, orchestra . Concerto No. 1 in E Falt LISZT, Franz 1811
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+4..e-/
+16d/
+4e-/
+4d/
+=
+8e-/L
+8d/J
+8d-/
+8r
+2r;
+=
+4..d-/
+16c/
+4d-/
+4c/
+=
+8d-/L
+8c/J
+8Bn/
+8r
+2r
+=
+*-

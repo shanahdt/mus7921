@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1735///-1740///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Concerto No.1 in D minor for Three Pianos and Orchestra
+!!!SET: No. 1
+!!!AIN: 3 forte orchestra
+!!!OMV: Mov. 2
+!!!OTA: Ala Siciliana
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=
+8.ff\L
+16cc\k
+16ccq/
+[8dd\J
+8dd\L]
+16cc\L
+16b-\
+16a\
+16b-\JJ
+=
+16b-q/
+8.a\L
+16b-\k
+8cc\J
+8f/L
+8a/
+8cc/J
+=
+8.gg\L
+16dd\k
+16ddq/
+[8ee-\J
+8ee-\L]
+16dd\L
+16cc\
+16bn\
+16cc\JJ
+=
+16ccq/
+8.bn\
+*-

@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1796///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quintet in E Flat 
+!!!OPS: Op. 16
+!!!OMV: Mov. 2
+!!!AIN: clars cor fagot forte oboe 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+8ff\L
+8ee-\
+8dd\
+8cc\J
+=
+8.b-\L
+32dd\LL
+32cc\JJJ
+8.b-\L
+32cc\LL
+32dd\JJJ
+=
+8ffq/
+8ee-\L
+8dd\
+8cc\
+8b-\J
+=
+8aS\L
+32cc\LL
+32b-\
+32a\
+32b-\JJJ
+8.cc\L
+16cc#\Jk
+=
+*-

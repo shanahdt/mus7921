@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1828///
+!!!OCL: RSC
+!!!ODT: <1828/12/31/
+!!!ODT: <1833/12/31/
+!!!OMV: Mov. Meeresstille
+!!!OPS: Opus 27
+!!!PDT: 1833///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1828
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!title1: Meeresstille und Gl&uuml;ckliche Fahrt
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: m245 % . % 1828 % Berlin % M245 % 27 % x % Meeresstille % orchestra % Overture % Meeresstille und Gl&uuml;ckliche Fahrt % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1828(prf) . (M245) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1833(p) Leipzig (M245) 27 x Meeresstille orchestra Overture Meeresstille und Gl&uuml;ckliche Fahrt MENDELSSOHN, Felix 1809
+**solfa
+*clefF4
+*k[f#c#]
+*D:
+*M4/4
+=
+2do\
+4.so/
+8fa/
+=
+1mi/
+*clefG2
+=
+2so/
+4.la\
+8ti\
+=
+1do\
+=
+2do\
+4.re\
+8mi\
+=
+2fa\
+4mi\
+4re\
+=
+4do\
+4so/
+4mi/
+4fa/
+=
+2mi/
+2re/
+=
+*-

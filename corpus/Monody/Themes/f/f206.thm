@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720
+!!!instrument: violn, piano
+!!!place: France, Paris
+!!!title1: Gavotte
+!!!statkey: E
+!!DEBUGGING: f206 % . % 1720 % Paris % F206 % . % x % . % violn, piano % . % Gavotte % FRANCOEUR, Fran&ccedil;ois % 1698
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/2
+8e/L
+8f#/
+8g#/
+8a/J
+=
+2b\
+4cc#\
+8bT/L
+8a/J
+=
+2b\
+4ee\
+8dd#\L
+8cc#\J
+=
+4b\
+8a/L
+8g#/J
+4.a/
+8b\
+=
+8.g#/L
+16f#/Jk
+4e/
+*-

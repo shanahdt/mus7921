@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OTA, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///-1801///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1802//
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.13 in E Flat for Piano                  
+!!!OPS: Op. 27
+!!!ONM: No. 1
+!!!OTA: Sonata Quasi Una Fantasia
+!!!SET: No. 13
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefF4
+*k[]
+*C:
+*M6/8
+16so\LL
+16fa\JJ
+=
+16mi\LL
+16so\
+16do\
+16so\
+16mi\
+16do\JJ
+*clefG2
+16so/LL
+16mi/
+16do/
+16so/
+16mi/
+16do/JJ
+=
+8so\L
+8mi\
+8do\J
+4ti\
+*-

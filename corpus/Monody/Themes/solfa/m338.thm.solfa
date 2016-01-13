@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1832///
+!!!OCL: RSC
+!!!ODT: <1832/12/31/
+!!!ODT: <1868/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 107
+!!!PDT: 1868///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1832
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin(?)
+!!!splace: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Symphony No. 5 in D
+!!!title2: "Reformation"
+!!!statkey: d
+!!DEBUGGING: m338 % . % 1832 % Berlin? % M338 % 107 % b % 1 % orchestra % "Reformation" % Symphony No. 5 in D % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1832(prf) Berlin (M338) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1868(p) Leipzig (M338) 107 b 1 orchestra "Reformation" Symphony No. 5 in D MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M2/2
+=
+1do/
+=
+2..do/
+8do/
+=
+[1so\
+=
+4so\]
+4r
+2do/
+=
+2le\
+2so\
+=
+2fa\
+2me\
+=
+[1do\
+=
+4do\]
+*-

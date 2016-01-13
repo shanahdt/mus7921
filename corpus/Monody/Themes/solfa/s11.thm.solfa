@@ -1,0 +1,67 @@
+**solfa
+*clefG2
+*k[b-e-a-]
+*M4/4
+!! NB. Key & key signature disagree.
+*B:
+qso
+8le
+8r
+qdo
+8ra
+8r
+qme
+8fe
+8r
+qso
+8le
+8r
+=
+qdo
+8ra
+8r
+qme
+8fe
+8r
+qso
+8le
+8r
+qme
+8fe
+8r
+=
+qdo
+8ra
+8r
+qso
+8le
+8r
+qme
+8fe
+8r
+qdo
+8ra
+8r
+=
+2te
+4te
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1886
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s11 % . % 1886 % Paris? % S11 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1922///
+!!!ODT: <1922/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1922(p) Paris (S11) . . . . . . .

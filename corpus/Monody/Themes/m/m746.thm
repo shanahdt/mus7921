@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1781///
+!!!OMV: Mov. 3
+!!!OPC: Oesterreich, Vienna
+!!!OPS: Opus K 375
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: woodwind
+!!!title1: Serenade in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!!DEBUGGING: m746 % . % 1781(c) % Vienna % M746 % K 375 % x % 3 % woodwind % . % Serenade in E Flat % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(rev) . (M746) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/2
+=
+2b-\
+4.ee-\
+8ee-\
+=
+8ee-\L
+16gg\L
+16ff\JJ
+4ff\
+2r
+=
+2b-\
+4.ff\
+8ff\
+=
+8ff\L
+16aa-\L
+16gg\JJ
+4gg\
+2r
+=
+*-

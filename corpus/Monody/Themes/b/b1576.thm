@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Symphony No. 1 in C Minor
+!!!OPS: Op. 68
+!!!OMV: Mov. 1
+!!!thm: Introduction A2
+!!!AIN: orchestra
+!!!ODT: 1855//-1876///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1877///
+!!!MRD: 1876///
+!!!MLC: Karlsruhe          
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M6/8
+=
+[4.cc\
+4cc\]
+[8cc#\
+=
+4cc#\]
+[8dd\
+8.dd\L]
+16ee-\L
+16ff\
+[16gg\JJ
+=
+4gg\]
+[8aa-\
+4aa-\]
+[8aan\
+=
+4aa\]
+[8bb-\
+4bb-\]
+[8aa-\
+=
+8.aa-\L]
+16gg\L
+16g\
+16dd\JJ
+4gg\
+8ff\
+=
+*-

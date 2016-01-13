@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1741/12/31/
+!!!OMV: Mov. La Cupis
+!!!PDT: 1741///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1741(p)
+!!!instrument: flt, violn, cemba
+!!!place: France, Paris
+!!!title1: Pi&egrave;ces de Clavecin en Concert
+!!!title2: No. 5
+!!!statkey: F
+!!DEBUGGING: r103 % 373 % 1741(p) % Paris % R103 % . % x % La Cupis % flt, violn, cemba % No. 5 % Pi&egrave;ces de Clavecin en Concert % RAMEAU, Jean Philippe % 1683
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4r
+4.so\
+8le\
+=
+4.so\
+8faT\
+4r
+=
+4r
+4.fa\
+8so\
+=
+4.fa\
+8meT\
+4r
+=
+4r
+4.me\
+16fa\LL
+16so\JJ
+=
+2so\
+8faT\L
+8me\J
+=
+8meq/
+2.reT\
+=
+*-

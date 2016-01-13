@@ -1,0 +1,60 @@
+**solfa
+*clefG2
+*k[f#c#g#]
+*M6/8
+*A:
+8do
+8do
+8ti
+8ti
+4la
+=
+4re
+8ti
+4.so
+=
+16la
+16do
+16ti
+16do
+8la
+4.ti
+=
+[4.do
+8]do
+8r
+8r
+=
+8ti
+8do
+[8re
+8]re
+16do
+16re
+16do
+16ti
+=
+4mi
+24re
+24mi
+24re
+4do
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1880
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s124 % . % 1880 % Paris? % S124 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1881///
+!!!ODT: <1881/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1881(p) Paris (S124) . . . . . . .

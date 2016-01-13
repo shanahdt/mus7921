@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Waltz
+!!!OPS: Opus 130
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1913
+!!!instrument: orchestra
+!!!place: Deutschland, Meiningen
+!!!title1: Balletmusik
+!!!title2: Waltz
+!!!statkey: c#
+!!DEBUGGING: r223 % . % 1913 % Meiningen % R223 % 130 % x % Waltz % orchestra % . % Balletmusik % REGER, Max % 1873
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+4so/
+4.la/
+8do/
+=
+2.mi/
+=
+4so/
+4.la/
+8do/
+=
+2.fa/
+=
+4te/
+4.ti/
+8re/
+=
+2.fa/
+=
+4di/
+4.re/
+8fa/
+=
+2.la\
+=
+*-

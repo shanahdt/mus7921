@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 9
+!!!OPC: England, London(?)
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: flt, cbass
+!!!splace: England, London
+!!!title1: Sonata in B Minor
+!!!title2: 3rd Movement
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h154 % . % c1730(p) % London? % H154 % 1 No. 9 % x % 3 % flt, cbass % . % Sonata in B Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H154) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4g/
+4r
+4dd\
+4r
+=
+16r
+16gg\LL
+16ff#\
+16ee\JJ
+16dd\LL
+16ccn\
+16b\
+16a\JJ
+16g\LL
+16a\
+16b\
+16cc\JJ
+16dd\LL
+16ee\
+16ff#\
+16gg\JJ
+=
+16aa\LL
+16gg\
+16aa\
+16bb\JJ
+16aa\LL
+16bb\
+16gg\
+16aa\JJ
+8bb\L
+8gg\J
+*-

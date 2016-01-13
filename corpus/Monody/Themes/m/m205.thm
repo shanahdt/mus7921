@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1831///
+!!!OCL: RSC
+!!!ODT: <1831/12/31/
+!!!ODT: <1832/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus 25
+!!!PDT: 1832///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1831
+!!!instrument: piano, orchestra
+!!!place: Deutschland, Muenchen(?)
+!!!splace: Deutschland, Leipzig
+!!!splace: Deutschland, Muenchen
+!!!title1: Concerto No. 1 in G Minor
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: m205 % . % 1831 % Munich? % M205 % 25 % x % 3 % piano, orchestra % . % Concerto No. 1 in G Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1831(prf) Munich (M205) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1832(p) Leipzig (M205) 25 x 3 piano, orchestra . Concerto No. 1 in G Minor MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+4.bb\
+8aa\
+4.gg\
+8ff#\
+=
+8aa\L
+8gg\
+8ff#\
+8ee\J
+4dd\
+8r
+8b\
+=
+8a/L
+8g#/
+8a/
+8b/J
+8cc\L
+8cc#\
+8dd\
+8ee\J
+=
+8ff#\
+8r
+8gg\
+8r
+8aa\
+8r
+8aa#\
+8r
+=
+*-

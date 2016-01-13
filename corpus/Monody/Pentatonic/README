@@ -1,0 +1,91 @@
+CHEKSUMS for files from /users/craig/songs/pentatonic
+at http://kern.ccarh.org
+downloaded on Sat Apr 24 22:03:13 PDT 2010
+A current version of these files may be downloaded using the address:
+   http://kern.ccarh.org/cgi-bin/ksdata?l=/users/craig/songs/pentatonic&f=zip
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+414831845 330 penta01.krn
+2264232747 488 penta02.krn
+3094240702 739 penta03.krn
+277499376 532 penta04.krn
+582822362 365 penta05.krn
+279050553 522 penta06.krn
+751845097 383 penta07.krn
+2044873715 574 penta08.krn
+246248886 598 penta09.krn
+112012868 362 penta10.krn
+2603454315 324 penta11.krn
+4152898188 587 penta12.krn
+1526553526 656 penta13.krn
+3524912624 426 penta14.krn
+2062412979 458 penta15.krn
+735236182 350 penta16.krn
+3638839727 360 penta17.krn
+788082406 574 penta18.krn
+1547786636 447 penta19.krn
+3837986088 295 penta20.krn
+144169449 544 penta21.krn
+4253878893 433 penta22.krn
+888589423 370 penta23.krn
+1329678095 391 penta24.krn
+921177636 352 penta25.krn
+760650653 467 penta26.krn
+3917498582 803 penta27.krn
+2682810231 580 penta28.krn
+3093933680 732 penta29.krn
+2110406887 768 penta30.krn
+293613363 644 penta31.krn
+3201712107 681 penta32.krn
+3360147850 903 penta33.krn
+172274960 532 penta34.krn
+892945295 399 penta35.krn
+904581448 538 penta36.krn
+232314166 523 penta37.krn
+2377119631 473 penta38.krn
+3158940178 741 penta39.krn
+4250900634 350 penta40.krn
+2051929475 516 penta41.krn
+3415874901 460 penta42.krn
+1867875302 347 penta43.krn
+783255274 724 penta44.krn
+336148094 467 penta45.krn
+2706511274 478 penta46.krn
+1732181756 528 penta47.krn
+698056742 542 penta48.krn
+56742748 646 penta49.krn
+2141326095 573 penta50.krn
+2464843652 562 penta51.krn
+3807738333 346 penta52.krn
+3149675690 315 penta53.krn
+2342818418 562 penta54.krn
+773859128 372 penta55.krn
+3589929638 357 penta56.krn
+1056227388 447 penta57.krn
+516234181 382 penta58.krn
+1683718443 286 penta59.krn
+1470581506 497 penta60.krn
+1936271741 473 penta61.krn
+4150256828 514 penta62.krn
+1844980252 440 penta63.krn
+3832012241 430 penta64.krn
+3215359561 570 penta65.krn
+1959750 376 penta66.krn
+626704943 282 penta67.krn

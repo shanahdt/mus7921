@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Quantz, Johann
+!!!CDT: 1697/01/30/-1773/07/12/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Arioso
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: flt, string
+!!!place: ?
+!!!title1: Concerto in G
+!!!title2: 2nd Movement (Arioso)
+!!!statkey: g
+!!DEBUGGING: q3 % (367) % n.d. % ? % Q3 % . % x % 2: Arioso % flt, string % . % Concerto in G % QUANTZ, Johann % 1697
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+8so/
+=
+16fa/LL
+16me/
+16re/
+16do/JJ
+8.le\L
+32do\LL
+32te\JJJ
+8le\L
+8so\J
+=
+8.fit\L
+16so\Jk
+[4so/
+16so/LL]
+16fa/
+16me/
+16re/JJ
+=
+16.me\LL
+32fa\k
+16.so\
+32so\JJk
+4so\
+4fa\
+16meq/LL
+16faq/JJ
+=
+16.me\LL
+32fa\k
+16.so\
+32so\JJk
+4so\
+*-

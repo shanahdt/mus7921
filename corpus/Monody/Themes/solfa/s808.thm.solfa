@@ -1,0 +1,39 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*G:
+4mi
+8.do
+16la
+=
+[4so
+8.]so
+16mi
+=
+8.re
+16le
+8.so
+16ti
+=
+8do
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1829///-1832
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s808 % 433 % 1829-1832 % Leipzig % S808 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1834///
+!!!ODT: <1834/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1834(p) ? (S808) . . . . . . .

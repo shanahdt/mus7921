@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 261
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1776
+!!!instrument: violn, orchestra
+!!!place: Oesterreich, Salzburg
+!!!title1: Adagio in E
+!!!statkey: E
+!!DEBUGGING: m428 % . % 1776 % Salzburg % M428 % K 261 % x % . % violn, orchestra % . % Adagio in E % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4so\
+16fa\LL
+16mi\
+16fa\
+16so\JJ
+8..so\L
+32si\Jkk
+8la\
+8r
+=
+4fa\
+16mi\LL
+16re\
+16mi\
+16fa\JJ
+8..fa\L
+32fi\Jkk
+8so\
+8r
+=
+*-

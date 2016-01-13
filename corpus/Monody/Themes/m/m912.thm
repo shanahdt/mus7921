@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 319
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Symphony No. 33 in B Flat
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: m912 % 337 % 1779 % Salzburg % M912 % K 319 % a % 1 % orchestra % . % Symphony No. 33 in B Flat % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) Vienna (M912) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+2.bb-\
+=
+4r
+8b-\
+8r
+8cc\
+8r
+=
+8dd\
+8r
+8ee-\
+8r
+8een\
+8r
+=
+8ff\
+8r
+8gg\
+8r
+8dd\
+8r
+=
+4.ee-\
+8dd\
+4cc\
+=
+*-

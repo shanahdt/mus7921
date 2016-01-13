@@ -1,0 +1,58 @@
+#!/bin/bash
+# - reusable
+# - flexible
+# - play nicely with others (stdin)
+# - be noisy if there are problems   (stderr)
+
+# key signature by area
+# npvi by area
+# opening interval by area
+
+#########This loops over each folder (which is the argument), and searches for area
+
+
+
+npviGetter()
+{
+	area=$(grep 'ARE' $file)
+	rhythm=$(nPVI $file)
+	printf "$area,$rhythm\n"
+}
+
+keyGetter()
+{
+	area=$(grep 'ARE' $file)
+	key=$(grep '^\*k' $file)
+	printf "$area,$key\n"
+}
+
+firstNoteGetter()
+{
+	area=$(grep 'ARE' $file)
+	first=$(mint $file | rid -GLId | grep -v '\[' | grep -v '='| head -1)
+	printf "$area,$first\n"
+}
+
+everythingGetter(){
+	area=$(grep 'ARE' $file)
+	rhythm=$(nPVI $file)
+	key=$(grep '^\*k' $file)
+	first=$(mint $file | rid -GLId | grep -v '\[' | grep -v '='| head -1)
+	printf "$area,$key,$rhythm,$first\n"
+}	
+
+
+while getopts nkfe\? name
+do
+	for file in $2/*.krn
+		do
+			case $name in
+				n)    npviGetter $1;;
+				k)    keyGetter $1;;
+				f)    firstNoteGetter $1;;
+				e)	  everythingGetter $1;;
+				\?)   echo "you did me wrong, brosef."
+			esac
+		done
+done
+

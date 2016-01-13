@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1888///
+!!!ODT: <1888/12/31/
+!!!OMV: Mov. Clown
+!!!ONM: No. 4
+!!!OPC: United States of America, Massachusetts, Boston
+!!!OPS: Opus 38
+!!!PDT: 1888///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: piano
+!!!splace: Deutschland, Breslau, & United States of America, New York
+!!!splace: United States of America, Massachusetts, Boston & United States of America, New York
+!!!title1: Marionettes
+!!!statkey: A-
+!!DEBUGGING: m16 % . % 1888(c) % Boston % M16 % 38 No. 4 % x % Clown % piano % . % Marionettes % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(p) Breslau, New York (M16) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(rev) Boston, New York (M16) 38 No. 4 x Clown piano . Marionettes MACDOWELL, Edward 1860
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M2/4
+=
+8do\L
+8do\
+8ti\
+8ti\J
+=
+16so\LL
+16la\J
+8so\J
+4re\
+=
+8fa\
+4re\
+8mi\
+=
+8re\L
+8mi\J
+4do/
+=
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1883/12/31/
+!!!OMV: Mov. 2: Chant Russe
+!!!OPS: Opus 29
+!!!PDT: 1883///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879
+!!!instrument: violn, orchestra
+!!!place: ?
+!!!splace: Deutschland, Mainz
+!!!title1: Concerto Russe
+!!!title2: 2nd Movement (Chant Russe)
+!!!statkey: D
+!!DEBUGGING: l12 % . % 1879 % ? % L12 % 29 % x % 2: Chant Russe % violn, orchestra % . % Concerto Russe % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1883(p) Mainz (L12) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/2
+=
+2r
+2r
+3mi/
+6so/
+=
+1la\
+6so/
+3do/
+=
+1mi/
+6mi/
+6fa/
+6so/
+=
+1la\
+6so/
+3la\
+!!   Encoding error:  change 2 to 3
+=
+[1.so/
+=
+2so/]
+6do/
+6re/
+6mi/
+3mi/
+6mi/
+=
+1so/
+*-

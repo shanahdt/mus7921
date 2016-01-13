@@ -1,0 +1,48 @@
+**kern
+*clefF4
+*k[b-]
+*M3/4
+*F:
+8c
+=
+8f
+8d
+4.B-
+8A
+=
+8d
+8B-
+4.G
+8F
+=
+8B-
+8G
+4.D
+8E-
+=
+8F
+8G
+8A
+8B-
+8B
+8c
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1905
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s105 % . % 1905 % Paris? % S105 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1905///
+!!!ODT: <1905/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1905(p) Paris (S105) . . . . . . .

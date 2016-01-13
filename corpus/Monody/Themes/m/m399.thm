@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 9: Sumare
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920///-1921
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Saudades Do Brazil
+!!!title2: IX. Sumare
+!!!statkey: C
+!!DEBUGGING: m399 % . % 1920-1921 % Paris % M399 % . % x % 9: Sumare % piano % . % Saudades Do Brazil % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+8.r
+16gg\
+8ff\L
+8ee\J
+=
+8.dd\L
+16gg\k
+8ff\
+8ee\J
+=
+8.dd\L
+16gg\k
+8ff\
+8ee\J
+=
+16dd\LK
+8dd\
+16dd\Jk
+16cc\LK
+8b\
+16cc\Jk
+=
+4dd\
+8a/L
+8b/J
+=
+16cc\LK
+8dd\
+16cc\Jk
+*-

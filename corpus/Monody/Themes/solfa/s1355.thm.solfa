@@ -1,0 +1,56 @@
+**solfa
+*clefG2
+*k[]
+*M4/4
+*a:
+12r
+12so
+12do
+=
+[4fe
+12]fe
+12re
+12do
+[4fa
+12]fa
+12fe
+12re
+=
+[4so
+12]so
+12fa
+12fe
+[4la
+12]la
+12so
+12fa
+=
+[4de
+12]de
+12la
+12so
+[4fe
+12]fe
+12re
+12ra
+=
+4do
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1911///-1915
+!!!place: Deutschland, Berlin(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1355 % . % 1911-1915 % Berlin? % S1355 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1915///
+!!!ODT: <1915/12/31/
+!!!splace: Deutschland, Berlin
+!!!CDT: ///-
+!!DEBUGGING: . . 1915(prf) Berlin (S1355) . . . . . . .

@@ -1,0 +1,45 @@
+**solfa
+*clefG2
+*k[b-e-]
+*met(C|)
+*M2/2
+*B-:
+4mi
+8mi
+8mi
+4do
+4do
+=
+4ti
+8ti
+8ti
+Q16ti
+2fa
+=
+4mi
+8mi
+8mi
+8mi
+16la
+16r
+4la
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1827
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s306 % . % 1827 % Vienna % S306 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1839///
+!!!ODT: <1839/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1839(p) Vienna? (S306) . . . . . . .

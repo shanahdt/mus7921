@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1879/12/31/
+!!!PDT: 1879///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879(p)
+!!!place: Royssia, Moskova
+!!!title1: Chant Sans Paroles, Op. 40, No. 6, Pft.
+!!!statkey: a
+!!DEBUGGING: t129 % . % 1879(p) % Moscow % T129 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+4so\
+4fi\
+=
+4so\
+8fa\L
+8me\J
+=
+4re\
+8do/L
+8re/J
+=
+4me\
+8re/L
+8do/J
+=
+4re\
+16meq/LL
+16req/JJ
+8do/L
+8re/J
+=
+4me\
+8re/L
+8do/J
+=
+8so\
+*-

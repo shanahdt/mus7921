@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Prelude
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G
+!!!title2: Prelude
+!!!statkey: G
+!!DEBUGGING: p352 % . % n.d. % London % P352 % . % x % Prelude % cemba % . % Suite No. 1 in G % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+8mi/L
+8do/
+8so/
+8mi/J
+*clefF4
+8so\L
+8ti\
+8re\J
+*clefG2
+8ti/
+=
+8do/L
+8so/
+8mi/
+8do/J
+*clefF4
+8mi\L
+8so\
+8do\J
+*clefG2
+8so/
+=
+8la/L
+8fa/
+8do/
+8la/J
+*clefF4
+8do/L
+8mi/
+8so/J
+*clefG2
+8mi/
+=
+8fa/L
+8re/
+8la/
+8fa/J
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1711/12/31/
+!!!PDT: 1711///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1711(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto Grosso in B Minor, Op. 3, No. 10, Orch.
+!!!title2: 2nd Movement
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v161 % 506 % 1711(p) % Amsterdam % V161 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[f#c#]
+*E:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4aa\
+4.aa\
+8aa\
+=
+8.aa\L
+16b\k
+8.b\
+16cc#\k
+8.dd#\
+16ee\Jk
+=
+8.ff#\L
+16dd#\k
+8.dd#\
+16ee\k
+8.ff#\
+16gg\Jk
+=
+[4aa\
+8.aa\L]
+16aa\k
+8.aa\
+16aa\Jk
+=
+4gg\
+4r
+4r
+=
+*-

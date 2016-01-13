@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: The Birth of Venus
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Trittico Botticelliano
+!!!title2: 3rd Movement (The Birth of Venus)
+!!!statkey: c#
+!!DEBUGGING: r297 % 383 % 1927 % Rome % R297 % . % a % 3: The Birth of Venus % orchestra % . % Trittico Botticelliano % RESPIGHI, Ottorino % 1879
+**kern
+*clefF4
+*k[f#c#g#d#]
+*E:
+*M6/4
+=
+[1.e\
+=
+1.e\_
+=
+2e\]
+2A\
+2B\
+=
+1.c#\
+=
+[1.c#\
+=
+2c#\]
+2F#\
+2G#\
+=
+2.c#\
+2e\
+4d#\
+=
+1.c#\
+=
+*-

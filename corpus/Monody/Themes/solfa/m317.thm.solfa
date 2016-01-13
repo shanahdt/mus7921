@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1840///
+!!!OCL: RSC
+!!!ODT: <1840/12/31/
+!!!ODT: <1843/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 56
+!!!PDT: 1843///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1842
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Symphony No. 3 in A Minor
+!!!title2: "Scotch"
+!!!statkey: F
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m317 % 306 % 1842 % Berlin % M317 % 56 % b % 2 % orchestra % "Scotch" % Symphony No. 3 in A Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1840(prf) Leipzig (M317) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 306 1843(p) Leipzig (M317) 56 b 2 orchestra "Scotch" Symphony No. 3 in A Minor MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[b-]
+*C:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8so\
+=
+8so\L
+8fa\
+8mi\
+8re\J
+=
+16doq/LL
+16req/JJ
+8do\L
+16ti\L
+16la\JJ
+8so/L
+8so/J
+=
+8so/L
+8so/J
+8soq/
+8do/L
+16fi/L
+16fi/JJ
+=
+8so/
+8r
+8r
+*-

@@ -1,0 +1,57 @@
+**solfa
+*clefG2
+*k[b-]
+*M2/4
+*F:
+8do
+8so
+8so
+16fi
+16la
+=
+8so
+16fi
+16la
+8so
+8mi
+=
+8me
+8ti
+8ti
+16fi
+16la
+=
+8so
+16me
+16fi
+8mi
+8ti
+=
+8re
+8so
+8so
+16re
+16fa
+=
+8mi
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!MPD: 1883///
+!!!ODT: <1883/12/31/
+!!!date: 1883(prf)
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1224 % . % 1883(prf) % Berlin % S1224 % . % . % . % . % . % . % STRAUSS, Johann Jr.
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1884///
+!!!ODT: <1884/12/31/
+!!!splace: Deutschland, Hamburg
+!!!CDT: ///-
+!!DEBUGGING: . . 1884(p) Hamburg (S1224) . . . . . . .

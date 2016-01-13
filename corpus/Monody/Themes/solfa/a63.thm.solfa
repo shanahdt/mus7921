@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Auber, Daniel-François-Esprit
+!!!CDT: 1782/01/29/-1871/05/12/
+!!!CNT: French
+!!!ODT: <1828///
+!!!MLC: France, Paris
+!!!thm: A
+!!!AIN: orchestra
+!!!OTL: Overture
+!!!OPR: La Muette De Portici
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-]
+*met(C)
+*M4/4
+*g:
+8so
+16la
+16r
+8la
+16ti
+16r
+8ti
+16do
+16r
+8do
+16re
+16r
+=
+4.re
+8me
+4do
+4r
+=
+2.la
+12la
+12so
+12fi
+=
+2.la
+12la
+12so
+12fi
+=
+8la
+16r
+16so
+*-

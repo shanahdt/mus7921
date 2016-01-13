@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Pescetti, Giovanni
+!!!CDT: 1704///-1766///
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1739/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1739///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739(p)
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Sonata in C Minor
+!!!title2: 2nd Movement
+!!!statkey: c
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p76 % . % 1739(p) % London % P76 % . % x % 2 % cemba % . % Sonata in C Minor % PESCETTI, Giovanni % 1704
+**solfa
+*clefG2
+*k[b-e-a-]
+*D-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+32soq/LLL
+32fiq/
+32myq/JJJ
+8fi\
+32soq/LLL
+32fiq/
+32myq/JJJ
+4fi\
+24fi\LL
+24ti\
+24fi\JJ
+32laq/LLL
+32soq/
+32fiq/JJJ
+8la\
+32laq/LLL
+32soq/
+32fiq/JJJ
+4so\
+24so\LL
+24ti\
+24so\JJ
+=
+32soq/LLL
+32fiq/
+32myq/JJJ
+8fi\
+32soq/LLL
+32fiq/
+32myq/JJJ
+4fi\
+24fi\LL
+24ti\
+24fi\JJ
+32fiq/LLL
+32miq/
+32riq/JJJ
+8mi\
+*-

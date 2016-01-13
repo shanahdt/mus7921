@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1786///
+!!!MPD: 1789///
+!!!OCL: RSC
+!!!ODT: 1786///
+!!!ODT: <1786/12/31/
+!!!ODT: <1789/12/31/
+!!!OPS: Opus K 492
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Marriage of Figaro
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: m603 % . % 1786(prf) % Vienna % M603 % K 492 % a % . % orchestra % Overture % Marriage of Figaro % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789(prf) . (M603) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1786(c) Vienna (M603) K 492 a . orchestra Overture Marriage of Figaro MOZART, Wolfgang Amadeus 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+8do/L
+8ti/
+8do/
+8ti/J
+4do/
+4r
+=
+8do/L
+8ti/
+8do/
+8re/J
+8mi/L
+8re/
+8mi/
+8fa/J
+=
+8so/L
+8fi/
+8so/
+8fi/J
+4so/
+4r
+=
+*-

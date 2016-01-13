@@ -1,0 +1,62 @@
+**solfa
+*clefG2
+*k[b-e-]
+*met(C)
+*M4/4
+*B-:
+4mi
+=
+8re
+8do
+8.fa
+16mi
+4re
+8.la
+16re
+=
+4do
+8.ti
+16mi
+4re
+8do
+8so
+=
+8fa
+8mi
+8.la
+16so
+4fa
+8.do
+16fa
+=
+4mi
+8.re
+16so
+4fa
+4mi
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1853
+!!!place: D&uuml;sseldorf
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s620 % . % 1853 % D&uuml;sseldorf % S620 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1937///
+!!!ODT: <1937/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1937(p) ? (S620) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1937///
+!!!ODT: <1937/12/31/
+!!!splace: Deutschland, Berlin
+!!!CDT: ///-
+!!DEBUGGING: . . 1937(prf) Berlin (S620) . . . . . . SCHUMANN, Robert

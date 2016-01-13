@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. VIII: Con mortuis in lingua mortua
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: VIII. Con mortuis in lingua mortua
+!!!statkey: b
+!!DEBUGGING: m1036 % 343 % 1874 % St. Petersburg % M1036 % .  % x % VIII: Con mortuis in lingua mortua % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M6/4
+=
+4r
+4le/
+4so/
+4do\
+4re\
+4so\
+=
+4me\
+4re\
+4so\
+4me\
+4re\
+4do\
+=
+4so/
+*-

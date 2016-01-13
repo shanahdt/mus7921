@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1901///
+!!!OCL: RSC
+!!!ODT: <1901/12/31/
+!!!OMV: Mov. 3: Romance
+!!!OPS: Opus 17
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1900///-1901
+!!!instrument: 2 piano
+!!!place: Royssia, Moskova
+!!!splace: Royssia, Moskova(?)
+!!!title1: Suite No. 2
+!!!title2: 3rd Movement (Romance)
+!!!statkey: f
+!!DEBUGGING: r65 % . % 1900-1901 % Moscow % R65 % 17 % x % 3: Romance % 2 piano % . % Suite No. 2 % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(prf) Moscow? (R65) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M6/8
+=
+8r
+8so/L
+8la/
+8ti/
+8do/
+8re/J
+=
+8mi/L
+8la/
+8ti/
+8do/
+8re/
+8mi/J
+=
+4la/
+[8so/
+8so/L]
+8mi/
+8re/J
+=
+[4.mi/
+8mi/]
+8r
+*-

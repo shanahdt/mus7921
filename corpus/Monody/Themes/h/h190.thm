@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 12
+!!!OPC: England, London(?)
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: violn, cbass
+!!!splace: England, London
+!!!title1: Sonata in F
+!!!title2: 4th Movement
+!!!statkey: F
+!!DEBUGGING: h190 % 222 % c1730(p) % London? % H190 % 1 No. 12 % x % 4 % violn, cbass % . % Sonata in F % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H190) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 222 (doubtful) London (H190) 1 No. 12 x 4 violn, cbass . Sonata in F HANDEL, George Frederick 1685
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+12cc\
+=
+12ff\L
+12ee\
+12ff\J
+12ff\L
+12ee\
+12ff\J
+12gg\L
+12ff\
+12gg\J
+8.cc\L
+16cc\Jk
+=
+12gg\L
+12ff\
+12gg\J
+12gg\L
+12ff\
+12gg\J
+12aa\L
+12gg\
+12aa\J
+8.cc\L
+16cc\Jk
+=
+12aa\L
+12gg\
+12aa\J
+*-

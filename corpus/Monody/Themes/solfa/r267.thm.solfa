@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Arie di Corte
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: B
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 3
+!!!statkey: G
+!!DEBUGGING: r267 % 381 % ? % ? % R267 % . % b % 2: Arie di Corte % orchestra % Suite No. 3 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+16mi\LL
+16fa\J
+8so\J
+4so\
+4la\
+=
+8fa\L
+16so\L
+16fa\JJ
+4mi\
+4re/
+=
+8mi/L
+8re/J
+4mi\
+8do\L
+16so\L
+16fa\JJ
+=
+8mi\L
+16mi\L
+16fa\JJ
+16so\LL
+16mi\J
+8re\J
+4do/
+=
+*-

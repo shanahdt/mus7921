@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Theme and Variations
+!!!OPS: Opus K 361
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781 or 1781///-1784
+!!!instrument: woodwind, cbass
+!!!place: Oesterreich, Vienna
+!!!title1: Serenade in B Flat
+!!!title2: 6th Movement (Theme & Variations)
+!!!statkey: B-
+!!DEBUGGING: m741 % . % 1781 or 1781-1784 % Vienna % M741 % K 361 % x % 6: Theme and Variations % woodwind, cbass % . % Serenade in B Flat % c1786(p) % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+8so\
+=
+8mi\L
+8do\
+8do\
+8do\J
+=
+8do\L
+8ti\J
+[4fa\
+=
+8fa\L]
+8mi\
+8re\
+8la\J
+=
+8do/L
+8tiT/J
+4do\
+=
+*-

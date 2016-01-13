@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1882/12/31/
+!!!PDT: 1882///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1882(p)
+!!!place: Royssia, Moskova
+!!!title1: Trio in A Minor, Op. 50, Pft., Vn. & Vcl.
+!!!title2: 1st Movement
+!!!statkey: E
+!!DEBUGGING: t293 % . % 1882(p) % Moscow % T293 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+[4so\
+6so\]
+12fa\
+=
+2mi\
+[4fa\
+6fa\]
+12mi\
+=
+2re\
+8mi\L
+8do\
+8re\
+8mi\J
+=
+4fa\
+4la\
+4do\
+8ti\L
+8la\J
+=
+4.so\
+*-

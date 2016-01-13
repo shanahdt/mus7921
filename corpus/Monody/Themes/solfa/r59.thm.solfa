@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus 19
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1901
+!!!instrument: cello, piano
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Sonata in G Minor
+!!!title2: 4th Movement
+!!!statkey: e
+!!DEBUGGING: r59 % . % 1901 % Moscow % R59 % 19 % a % 4 % cello, piano % . % Sonata in G Minor % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefF4
+*k[f#]
+*G:
+*M4/4
+=
+[4mi\
+12mi\L]
+12re\
+12do\J
+12do\L
+12la\
+12so\J
+6mi\
+12fa\
+=
+[4mi\
+12mi\L]
+12re\
+12do\J
+12do\L
+12la\
+12so\J
+6mi\
+12fa\
+=
+12mi\L
+12so\
+12la\J
+[4la\
+6la\]
+12so\
+6fa\
+12mi\
+=
+*-

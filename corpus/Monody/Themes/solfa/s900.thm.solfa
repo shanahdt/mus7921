@@ -1,0 +1,56 @@
+**solfa
+*clefG2
+*k[]
+*met(C|)
+*M2/2
+!! NB. Key & key signature disagree.
+*B:
+8so
+8so
+=
+4so
+8so
+8so
+4so
+8so
+8so
+=
+4so
+4do
+4do
+8re
+8me
+=
+8fa
+8me
+8re
+8do
+4te
+4te
+=
+4fa
+8fa
+8fa
+4fa
+8fa
+8fa
+=
+4fa
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1939
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s900 % 438 % 1939 % Leningrad % S900 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1939///
+!!!ODT: <1939/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1939(prf) . (S900) . . . . . . .

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Gabriel-Marie, Jean
+!!!CDT: 1852/01/08/-1928/08/29/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1852
+!!!instrument: piano
+!!!theme: A
+!!!title1: La Cinquantaine
+!!!title2: Air Dans Le Style Ancien
+!!!statkey: a
+!!DEBUGGING: g1 % . % 1852 % . % G1 % . % a % . % piano % Air Dans Le Style Ancien % La Cinquantaine % GABRIEL-MARIE % .
+**solfa
+*clefG2
+*k[]
+*a:
+*M2/2
+*>[A,B,B,C]
+*>A
+4so/
+=1!|:
+*>B
+4do/
+4so\
+4so\
+4so\
+=
+(16soq/LL
+16leq/JJ
+4so\)
+8fa\L
+8so\J
+2le\
+=3:|!
+*>C
+8do\
+8r
+8te\L
+8le\J
+4so\
+4fa\
+=
+4me\
+8re/L
+8do/J
+4re\
+4me\
+=
+2..reT\
+8do/
+=
+2.re\
+*-

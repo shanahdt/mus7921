@@ -1,0 +1,63 @@
+!!!ref: COM CDT, OPR, OTL
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OPR: Hungarian Dances for Piano, 4 Hands
+!!!ODT: 1852///-1869///
+!!!OCY: Deutschland
+!!!OPC: Hamburg
+!!!PDT: 1869///-1880///
+!!!OTL: Hungarian Dance No.7 in A 
+!!!AIN: forte(4 hands)
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+16c#/LL
+16d/
+16d#/JJ
+=
+16d#q/LL
+16eq/
+16f#q/JJ
+16e/LL
+32r
+32d#/k
+16e/
+32r
+32f#/JJk
+16e/LL
+32r
+32d#/k
+16e/
+32r
+32f#/JJk
+=
+8e/L
+8a/J
+4cc#\
+=
+16d#q/LL
+16eq/
+16f#q/JJ
+16e/LL
+16d#/
+16e/
+16f#/JJ
+16e/LL
+16ee/
+16cc#/
+16a/JJ
+=
+8f#/L
+8b/J
+4dd\
+=
+*-

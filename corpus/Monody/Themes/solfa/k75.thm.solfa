@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Dal
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!theme: B: NAPOLEON BEVONUL&Aacute;SA
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k75 % . % 1927 % Budapest % K75 % 15 % b: Napoleon Bevonul&aacute;sa % Dal % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K75) . . . . . . . .
+**solfa
+*clefF4
+*k[]
+*B:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4do/
+4so/
+4do/
+4re/
+=
+8so\L
+8mi\J
+4do/
+8r
+8so/L
+8do/
+8re/J
+=
+8so\L
+8mi\J
+4do/
+8r
+8so/L
+8do/
+8re/J
+=
+8so/L
+8mi/
+8do/
+8so/J
+8do\L
+8mi\
+8so\
+8la\J
+=
+4do\
+2so\
+*-

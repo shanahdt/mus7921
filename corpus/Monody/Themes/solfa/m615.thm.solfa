@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 298
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: flt, string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in A
+!!!title2: 1st Movement
+!!!statkey: A
+!!DEBUGGING: m615 % . % 1777 % Vienna % M615 % K 298 % x % 1 % flt, string % . % Quartet in A % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+4so/
+=
+4do/
+8do/L
+8re/J
+8faq/
+4mi\
+8req/
+4do/
+=
+4so\
+8so\L
+8la\J
+4so\
+4fa\
+=
+8fa\L
+8mi\
+8re\
+8do\J
+8do/L
+16re/L
+16do/J
+8ti/
+8do/J
+=
+4re\
+*-

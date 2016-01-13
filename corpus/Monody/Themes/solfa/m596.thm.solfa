@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1790///
+!!!OCL: RSC
+!!!ODT: 1790///
+!!!ODT: <1790/12/31/
+!!!OPS: Opus K 595 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Cosi Fan Tutte
+!!!title2: Overture
+!!!statkey: C
+!!DEBUGGING: m596 % . % 1790(prf) % Vienna % M596 % K 595  % b % . % orchestra % Overture % Cosi Fan Tutte % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1790(c) . (M596) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/2
+=
+8r
+8do/L
+8ti/
+8do/J
+8ti/L
+8do/
+8ti/
+8do/J
+=
+8miq/
+8re/L
+8do/
+8do/
+8do/J
+8ti/L
+8do/
+8ti/
+8do/J
+=
+*-

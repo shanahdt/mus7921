@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus 19
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1901
+!!!instrument: cello, piano
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Sonata in G Minor
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: r55 % . % 1901 % Moscow % R55 % 19 % a % 2 % cello, piano % . % Sonata in G Minor % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefF4
+*k[b-e-a-]
+*c:
+*M12/8
+8le/
+=
+8so/L
+8r
+8fa/J
+8me/L
+8r
+8re/J
+8do/
+8r
+8r
+4r
+8le/
+=
+8so/L
+8r
+8fa/J
+8me/L
+8r
+8re/J
+8do/
+8r
+8r
+4r
+8do/
+=
+8me\L
+8me\
+8me\J
+8do/L
+8do/
+8do/J
+8le/L
+8le/
+8le/J
+8so/L
+8so/
+8so/J
+=
+8do/
+*-

@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1819/12/31/
+!!!PDT: 1819///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1818
+!!!place: Deutschland, Dresden
+!!!splace: Deutschland, Berlin
+!!!title1: Jubel-Ouvert\u3re
+!!!title2: Intro.
+!!!statkey: E
+!!DEBUGGING: w232 % . % 1818 % Dresden % W232 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1819(p) Berlin (W232) . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+2do\
+8.so\L
+16so\Jk
+=
+4.so\
+8mi\L
+8do\
+8so\J
+=
+[2so\
+8.so\L]
+16so\Jk
+=
+2.so\
+=
+*-

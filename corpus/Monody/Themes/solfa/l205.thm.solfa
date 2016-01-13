@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1867/12/31/
+!!!PDT: 1867///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1863
+!!!instrument: piano
+!!!place: Italia, Roma
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Sonara in B Minor
+!!!statkey: D
+!!DEBUGGING: l205 % 284 % 1863 % Rome % L205 % . % b % . % piano % . % Sonara in B Minor % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1867(p) Leipzig (L205) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M2/2
+16le/
+=
+2le\
+4..ti/
+16do\
+=
+2.me\
+12re/L
+12ti/
+12le/J
+=
+4fa/
+4r
+8r
+8mi/L
+8fa/
+8so/J
+=
+2.te/
+12le/L
+12fa/
+12re/J
+=
+4ti/
+*-

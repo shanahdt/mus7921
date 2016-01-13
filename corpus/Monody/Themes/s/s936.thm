@@ -1,0 +1,53 @@
+**kern
+*clefF4
+*k[]
+*met(C|)
+*M2/2
+!! NB. Key & key signature disagree.
+*C#:
+2C#
+2G#
+=
+2G#
+2G#
+=
+2F#
+4c#
+4A
+=
+1c#
+=
+2C#
+2G#
+=
+2G#
+4F#
+4G#
+=
+2c#
+[2c#
+=
+2]c#
+*-
+!!!COM: Sibelius, Jean
+!!!CNT: Finnish
+!!!date: 1892
+!!!place: Suomi, Helsinki
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s936 % . % 1892 % Helsinki % S936 % . % . % . % . % . % . % SIBELIUS, Jean
+!!SUPPLEMENTARY INFORMATION
+!!!splace: Suomi, Helsinki(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1902(rev) Helsinki? (S936) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1902///
+!!!ODT: <1902/12/31/
+!!!splace: Deutschland, Berlin
+!!!CDT: ///-
+!!DEBUGGING: . . 1902(prf) Berlin (S936) . . . . . . SIBELIUS, Jean

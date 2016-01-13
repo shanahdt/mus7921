@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Françaix, Jean
+!!!CDT: 1912/05/23/-1997/09/25/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: violn, piano
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Sonatine
+!!!title2: 2nd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: f126 % . % 1934 % Paris % F126 % . % b % 2 % violn, piano % . % Sonatine % FRAN\2CAIX, Jean % 1912
+**kern
+*clefG2
+*k[]
+*B:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4b\
+8b\L
+8b\J
+4b\
+=
+8cc#\L
+8b\J
+8cc#\L
+8dd#\J
+4b\
+=
+4b\
+8b\L
+8b\J
+4b\
+=
+8cc#\L
+8b\J
+8cc#\L
+8dd#\J
+4b\
+=
+8ff#\L
+8dd\J
+8ff#\L
+8gg#\J
+4ff#\
+=
+*-

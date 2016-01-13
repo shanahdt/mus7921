@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 464
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in A
+!!!title2: 2nd Movement
+!!!statkey: A
+!!DEBUGGING: m656 % . % 1785 % Vienna % M656 % K 464 % x % 2 % string % . % Quartet in A % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M656) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+2do/
+4mi/
+=
+4so/
+4fa/
+4r
+=
+2re/
+4fa/
+=
+4la/
+4so/
+4r
+=
+4so\
+4so\
+4so\
+=
+4so\
+8.fa\L
+16mi\Jk
+4re\
+=
+*-

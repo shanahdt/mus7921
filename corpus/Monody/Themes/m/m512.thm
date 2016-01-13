@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 216
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Salzburg
+!!!title1: Concerto in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: m512 % . % 1775 % Salzburg % M512 % K 216 % x % 1 % piano, orchestra % . % Concerto in G % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4gg\
+4.gg\
+16ff#\LL
+16gg\JJ
+16ff#\LL
+16gg\
+16ff#\
+16gg\JJ
+=
+4dd\
+4.dd\
+16cc#\LL
+16dd\JJ
+16cc#\LL
+16dd\
+16cc#\
+16dd\JJ
+=
+4b\
+4.b\
+8ccn\
+8dd\L
+8ee\J
+=
+8g/L
+8f#/J
+4f#/
+*-

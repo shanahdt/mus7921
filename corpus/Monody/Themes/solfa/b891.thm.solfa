@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1815///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1816///
+!!!PPP: &Ouml;sterreich, Wien   
+!!!OTL: Sonata No.10 in G for Violin and Piano       
+!!!OPS: Op. 96
+!!!SET: No. 10
+!!!OMV: Mov. 4
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+4do\
+16fa\LL
+16mi\
+16re\
+16do\JJ
+=
+8re\L
+8so\J
+8so\
+8r
+=
+4mi\
+16fa\LL
+16mi\
+16re\
+16do\JJ
+=
+8mi\L
+8re\J
+8re\
+8r
+=
+*-

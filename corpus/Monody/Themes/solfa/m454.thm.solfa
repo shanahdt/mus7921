@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 414
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Concerto in A
+!!!title2: 1st Movement
+!!!statkey: A
+!!DEBUGGING: m454 % 314 % 1782 % Vienna % M454 % K 414 % a % 1 % piano, orchestra % . % Concerto in A % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M454) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+4do/
+4do/
+4mi\
+4so\
+=
+16so\LK
+8.fa\J
+16mi\LK
+8.re\J
+16do/LK
+8.ti/J
+16la/LK
+8.so/J
+=
+4re\
+4re\
+4fa\
+4la\
+=
+4.so\
+8mi\
+4so\
+4r
+=
+*-

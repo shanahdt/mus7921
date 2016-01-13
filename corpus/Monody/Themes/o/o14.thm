@@ -1,0 +1,73 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1858///
+!!!MPD: 1874(rev)///
+!!!OCL: RSC
+!!!ODT: <1858/12/31/
+!!!ODT: <1874/12/31/
+!!!OMV: Mov. Galop
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1858(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: AA
+!!!title1: Orpheus in Hades
+!!!title2: Opera
+!!!statkey: D
+!!DEBUGGING: o14 % . % 1858(prf) % Paris % O14 % . % aa % Galop % orchestra % Opera % Orpheus in Hades % OFFENBACH, Jacques % 1819
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1874(rev)(prf) . (O14) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+8a\L
+8ee\
+8ee\
+8ff#\J
+=
+8ff#q/
+8ee\L
+8dd\
+8dd\
+8ff#\J
+=
+8gg\L
+8bb\
+8ddd\
+8bb\J
+=
+8bb\L
+8aa\J
+4aa\
+=
+8bb\L
+8cc#\
+8cc#\
+8bb\J
+=
+8aa\L
+8dd\
+8dd\
+8ff#\J
+=
+8ggq/
+8ff#\L
+8ee\
+8ff#\
+8ee\J
+=
+8ggq/
+8ff#\L
+8ee\
+8ff#\
+8ee\J
+=
+*-

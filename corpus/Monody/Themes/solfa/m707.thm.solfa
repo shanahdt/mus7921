@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1788/12/31/
+!!!OPS: Opus K 494
+!!!PDT: 1788///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!splace: England, London & Deutschland, Speyer
+!!!title1: Rondo in F
+!!!statkey: F
+!!DEBUGGING: m707 % . % 1786 % Vienna % M707 % K 494 % x % . % piano % . % Rondo in F % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1788(p) London, Speyer (M707) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+2do\
+2mi\
+=
+8mi\L
+8re\
+8re\
+8ti\J
+4.do\
+8mi\
+=
+8mi\L
+8re\
+8re\
+8ti\J
+4.do\
+8mi\
+=
+8so\
+*-

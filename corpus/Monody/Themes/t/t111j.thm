@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Thomson, Virgil
+!!!CDT: 1896/11/25/-1989/09/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1938/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938(prf)
+!!!place: United States of America, Connecticut, Hartford 
+!!!title1: Filling Station, Ballet
+!!!title2: No. 9 (The Big Apple)
+!!!statkey: d
+!!DEBUGGING: t111j % 485 % 1938(prf) % Hartford, CT % T111j % . % . % . % . % . % . % THOMSON, Virgil
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+*>[A,A,B]
+*>A
+=
+4dd\
+8cc#\L
+[8dd\J
+8dd\L]
+8ccn\J
+4dd-\
+=
+4cc\
+4a/
+2r
+=3:|!
+*>B
+4aa\
+8gg#\L
+[8aa\J
+8aa\L]
+8ff#\J
+4ggn\
+=
+4ffn\
+8dd#\L
+[8een\J
+8ee\L]
+8cc#\J
+4dd\
+=
+8ccn\L
+8bn\J
+8b-/L
+[8a/J
+8a/L]
+8a/J
+4g/
+=
+4f/
+4d/
+*-

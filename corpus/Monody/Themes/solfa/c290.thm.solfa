@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Prelude                   
+!!!OPS: Op. 28
+!!!ONM: No. 5
+!!!AIN: forte           
+!!!ODT: 1836///-1839/// 
+!!!OCY: France               
+!!!OPC: Paris
+!!!PDT: 1839///
+!!!PPP: Deutschlan, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=
+*^
+8.ryy	16la/LL
+.	16so/
+.	16ti/
+8la\L	16la/
+.	16re/
+16so\J	16so/JJ
+=2	=
+16ryy	16ti/LL
+8le\L	16le/
+.	16re/
+8so\J	16so/
+.	16ti/
+16la\L	16la/JJ
+=3	=
+16ryy	16re/LL
+8so\J	16so/
+.	16ti/
+8le\L	16le/
+.	16re/
+16so\J	16so/JJ
+=4	=
+16ryy	16ti/LL
+8la\L	16la/
+.	16re/
+8so\J	16so/
+.	16ti/
+16ryy	16mi/JJ
+*v	*v
+=
+16do/
+*-

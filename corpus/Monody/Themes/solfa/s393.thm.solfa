@@ -1,0 +1,49 @@
+**solfa
+*clefF4
+*k[b-e-a-d-g-]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*F:
+16so
+=
+4..so
+16fa
+4me
+8.r
+16fa
+=
+4..me
+16re
+8.do
+16ti
+8.do
+16re
+=
+Q32do
+Q32re
+4..me
+16re
+4do
+4te
+=
+4le
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1828
+!!!place: Neue Wieden
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s393 % . % 1828 % Neue Wieden % S393 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) Vienna? (S393) . . . . . . .

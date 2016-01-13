@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Chabrier, Alexis Emmanuel
+!!!CDT: 1841/01/18/-1894/09/13/
+!!!CNT: French
+!!!OTL: Haba&ntilde;era for Piano or Orchestra
+!!!AIN: forte orchestra
+!!!PDT: 1885///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+12a/L
+12a/
+12a/J
+8a/L
+8b/J
+=
+12b\L
+12cc#\
+12cc#\J
+8cc#\L
+8dd\J
+=
+12dd\L
+12cc#\
+12cc#\J
+8cc#q/
+8b/L
+8a/J
+=
+2cc#\
+=
+12cc#\L
+12dd\
+12ee\J
+8dd\L
+8cc#\J
+=
+12b\L
+12cc#\
+12dd\J
+8cc#\L
+8b\J
+=
+*-

@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1877/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1877///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1877
+!!!instrument: cello, orchestra
+!!!place: ?
+!!!splace: Deutschland, Berlin
+!!!title1: Concerto in D Minor
+!!!title2: 3rd Movement
+!!!statkey: D
+!!DEBUGGING: l8 % . % 1877 % ? % L8 % . % x % 3 % cello, orchestra % . % Concerto in D Minor % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1877(p) Berlin (L8) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M6/8
+8do/
+=
+4re/
+8mi/
+8fa/L
+8so/
+8la/J
+=
+8ti\L
+8do\
+8re\J
+8.mi/L
+16mi/k
+8mi/J
+=
+[4.mi/
+8mi/L]
+8mi/
+8re/J
+=
+8do/L
+8ti/
+8do/J
+8re/L
+8mi/
+8fa/J
+=
+8miq/
+8so/L
+8fa/
+8mi/J
+8re/L
+8so/J
+*-

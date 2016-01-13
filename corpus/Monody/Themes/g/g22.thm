@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OMV     
+!!!COM: Geminiani, Francesco
+!!!CDT: 1822/12/05/-1762/09/17/
+!!!CNT: Italian
+!!!OTL: Sonata in C Minor for Violin and Piano
+!!!OMV: Mov. 2 
+!!!AIN: forte violn
+!!!PDT: 1739/// 
+!!!PPP: England, London 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+16cc\LL
+16dd\
+16ee-\
+16ff\JJ
+8gg\L
+8aa-\J
+8bn\L
+8dd\J
+8f/L
+8a-/J
+=
+16d/LL
+16f/
+16bn/
+16dd/JJ
+16ff\LL
+16aa-\
+16gg\
+16ff\JJ
+16ee-\LL
+16dd\
+16cc\
+16bn\JJ
+4cc\
+=
+*-

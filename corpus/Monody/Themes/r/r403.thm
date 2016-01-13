@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1925///
+!!!OCL: RSC
+!!!ODT: <1925/12/31/
+!!!OMV: Mov. Danse des Nymphes
+!!!OPS: Opus 24
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923///-1924
+!!!instrument: orchestra
+!!!place: Varengeville
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: La Naissance de la Lyre
+!!!title2: Danse des Nymphes
+!!!statkey: d
+!!DEBUGGING: r403 % . % 1923-1924 % Varengeville % R403 % 24 % a % Danse des Nymphes % orchestra % . % La Naissance de la Lyre % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1925(prf) Paris (R403) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4ff\
+2ee\
+=
+8dd\L
+8ee\
+8dd\
+8cc\J
+8dd\L
+8ee\J
+=
+4.gg\
+8ff\
+4ee\
+=
+8dd\L
+8ee\
+8dd\
+8cc\J
+4a/
+=
+2.g/
+=
+2.g/
+=
+[2.a/
+=
+2.a/]
+=
+*-

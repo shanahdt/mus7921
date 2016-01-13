@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 2: Allemande
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 4 in E Minor
+!!!title2: 2nd Movement (Allemande)
+!!!statkey: e
+!!DEBUGGING: h210 % . % 1720(p) % London? % H210 % . % x % 2: Allemande % piano % . % Suite No. 4 in E Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+4do\
+=
+[4do\
+16do\LL]
+16te\
+16le\
+16so\JJ
+8fa\L
+16so\L
+16le\JJ
+8.so/L
+16fa/Jk
+=
+8me/L
+8do/J
+8.so\L
+16la\Jk
+8te\L
+8so\J
+8.ti\L
+16ti\Jk
+=
+8.do\
+*-

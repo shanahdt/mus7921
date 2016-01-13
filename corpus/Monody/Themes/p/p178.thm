@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Poulenc, Francis
+!!!CDT: 1899/01/07/1963-/01/30/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Intro
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928
+!!!instrument: piano
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Toccata
+!!!statkey: a
+!!DEBUGGING: p178 % . % 1928 % Paris % P178 % . % a % Intro % piano % . % Toccata % POULENC, Francis % 1899
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+4e/
+8a/L
+8f/J
+4e/
+8a/L
+8f/J
+=
+4e/
+4f/
+4g/
+4a/
+=
+4e/
+8a/L
+8f/J
+4e/
+8a/L
+8f/J
+=
+4bb\
+4eee\
+8ddd\L
+8ccc\
+8bb\
+8aa\J
+=
+*-

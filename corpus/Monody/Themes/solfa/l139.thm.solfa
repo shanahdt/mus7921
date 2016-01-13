@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845///-1852
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Les Fun&eacute;railles
+!!!statkey: f
+!!DEBUGGING: l139 % . % 1845-1852 % Weimar % L139 % . % b % . % piano % . % Les Fun&eacute;railles % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1853(p) Leipzig (L139) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+2mi\
+4..la\
+16le\
+=
+[2le\
+8le\L]
+8so\
+8do\
+8re\J
+=
+4mi\
+4mi\
+4..la\
+16le\
+=
+[2le\
+8le\L]
+8so\
+8do\
+8re\J
+=
+4mi\
+4mi\
+4.fa\
+8di/
+=
+4re\
+*-

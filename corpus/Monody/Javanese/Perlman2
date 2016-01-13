@@ -1,0 +1,104 @@
+From Marc_Perlman@Brown.edu  Tue Mar  7 18:32:56 2000
+Return-Path: <Marc_Perlman@Brown.edu>
+Received: from vega.brown.edu (vega.cis-176.brown.edu [128.148.176.47])
+	by tactus.som.ohio-state.edu (8.9.3/8.9.3) with ESMTP id SAA15618
+	for <dhuron@tactus.som.ohio-state.edu>; Tue, 7 Mar 2000 18:32:55 -0500
+Received: from [128.148.91.30] (bootp-30.orwig.brown.edu [128.148.91.30])
+	by vega.brown.edu (8.9.3/8.9.3) with SMTP id SAA24282
+	for <dhuron@tactus.som.ohio-state.edu>; Tue, 7 Mar 2000 18:38:52 -0500 (EST)
+X-Sender: Marc_Perlman@postoffice.brown.edu
+Message-Id: <v02130500b4eb3cd2fa47@[128.148.91.30]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 7 Mar 2000 18:35:32 -0500
+To: David Huron <dhuron@tactus.som.ohio-state.edu>
+From: Marc_Perlman@Brown.edu (Marc Perlman)
+Subject: Re: Javanese analysis
+Status: RO
+
+Dear David,
+  Wow--talk about quick service!  That's astounding.  I am very impressed!
+
+I will sit down with the results in a little while, but right off the bat I
+notice some potential trouble spots.
+
+First, collapsing pitch into pitch class makes the results mostly
+impossible to interpret.  Will it be tricky to get Humdrum to deal with
+pitch rather than pitch class?
+
+Second, the distinction between balungan nibani and regular balungan is
+crucial.  In balungan nibani, there are only two melodic events per gatra.
+Perhaps this is really a question of the interpretation of notated periods
+(sustains; i.e., "tied" notes).  For example, these are all valid gatra:
+
+End of
+Previous
+Gatra        Gatra
+
+2            .6.5
+2            .5.3
+2            .3.1
+6            .5.3
+6            .3.5
+3            .6.5
+
+These, however, are not valid shapes:
+
+>            2665
+>            2553
+>            2331
+>            1332
+>            6553
+>            6335
+>            3665
+
+... even though that's what you get if you "fill in the dots."
+
+In particular, it's important to be able to distinguish between:
+
+2            .3.1
+
+and:
+
+[any note]   23.1
+
+... both of which will turn into 2331 once the periods are filled in.  In
+other words, I need to be able to analyze at two levels: (1) the "ties" are
+ignored, so for example three consecutive occurrances of the pitch 6, all
+tied together, would count the same as three repeated 6's; (2) the "ties"
+are recognized, so that 6.. could be distinguished from 666.
+
+
+>>Are there any _gatra_ that occur much more frequently at one pitch level
+>>than at the pitch an octave higher or lower?
+>
+>Do you want exact octave transpositions or any transposition?
+
+This question is the one that, more than any other, I need answered.  But
+it can't be answered by collapsing pitch into pitch-class.  I want to
+compare the number of occurrences of each gatra with the number of
+occurrences of the same contour an octave higher or lower.  For example,
+how many times does 6_ 5_ 3_ 5_ appear, compared to how many times 6 5 3 5
+appears?  So the ability to analyze in terms of pitch (rather than just
+pitch class) will be crucial for me.
+
+Humdrum looks so prodigiously powerful that I desperately hope it will be
+able to solve these little problems!
+
+Thanks for taking the time to do this ... I really am more grateful than I
+can say!  I first tried to build my own analysis tools eleven years ago, so
+Humdrum looks like the answer to a very old dream of mine!
+
+All the best,
+Marc
+
+
+
+
+
+-----------------------------------------------------------------
+--------------Marc Perlman           Assistant Professor---------
+---Department of Music      Box 1924          Brown University---
+Providence, RI 02912 USA   Tel (401) 863-3234  Fax (401) 863-1256
+
+

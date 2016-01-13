@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Minuet
+!!!OPS: Opus 103a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: violn, piano
+!!!place: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Suite in A Minor
+!!!title2: 5th Movement (Minuet)
+!!!statkey: F
+!!DEBUGGING: r245 % . % 1908 % Leipzig % R245 % 103a % a % 5: Minuet % violn, piano % . % Suite in A Minor % REGER, Max % 1873
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4aa\
+4ff\
+4cc\
+=
+4.cc\
+8dd\
+4cc\
+=
+4.ccc\
+4aa\
+8ff\
+=
+4.ee-\
+8gg\
+4ee-\
+=
+8dd\L
+8cc\
+8b-\
+8cc\
+8cc\
+8dd\J
+=
+8dd\L
+8cc#\
+8bn\
+8cc#\
+8ddn\
+8a\J
+=
+8a/L
+8g/
+8g/
+8f/J
+4e/
+=
+*-

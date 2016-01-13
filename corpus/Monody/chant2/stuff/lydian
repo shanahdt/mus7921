@@ -1,0 +1,7 @@
+awk -f averint lu06.sem > 5
+awk -f averint lu08.sem >> 5
+awk -f averint lu15.sem >> 5
+awk -f averint lu24.sem >> 5
+awk -f averint lu55.sem >> 5
+awk -f averint lu69.sem >> 5
+awk -f averint lu75.sem >> 5

@@ -1,0 +1,42 @@
+**solfa
+*clefF4
+*k[b-]
+*M3/4
+*d:
+12so
+12le
+12so
+4do
+12de
+12do
+12de
+=
+4me
+12re
+12me
+12re
+4do
+=
+8te
+8le
+2so
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1905
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s106 % . % 1905 % Paris? % S106 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1905///
+!!!ODT: <1905/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1905(p) Paris (S106) . . . . . . .

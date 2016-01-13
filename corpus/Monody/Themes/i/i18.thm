@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Rome-Palerme
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1922
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Escales
+!!!title2: 1st Movement (Rome - Palerme)
+!!!statkey: d
+!!DEBUGGING: i18 % . % 1922 % Rome % I18 % . % b % 1: Rome-Palerme % orchestra % . % Escales % IBERT, Jacques % 1890
+**kern
+*clefF4
+*k[b-]
+*F:
+*M6/8
+=
+8.G\L
+16A\k
+8B-\J
+8.c\L
+16e\k
+8d\J
+=
+8.B-\L
+16c\k
+8A-\J
+8.d\L
+16e\k
+8d\J
+=
+8.B-\L
+16c\k
+8A-\J
+8.d\L
+16e\k
+8d\J
+=
+8.B-\L
+16c\k
+8A-\J
+4.d\
+=
+*-

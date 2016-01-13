@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 320
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!title1: Serenade in D
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: m731 % . % 1779 % Salzburg % M731 % K 320 % x % 3 % orchestra % . % Serenade in D % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4so\
+16fiq/
+8so\L
+16fiq/
+8so\
+16fiq/
+8so\
+16fiq/
+8so\J
+=
+16laq/
+8so\L
+16fa\L
+16mi\JJ
+4mi\
+4r
+=
+*-

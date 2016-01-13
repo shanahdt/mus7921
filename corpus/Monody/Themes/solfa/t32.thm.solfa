@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Sonata in C, Vn. & Pft.
+!!!title2: 1st Movement
+!!!statkey: C
+!!DEBUGGING: t32 % . % n.d. % n/a % T32 % . % . % . % . % . % . % TARTINI, Giuseppe
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+8so/
+=
+8do\L
+8re\
+8mi\
+8fa\J
+8.so\L
+32fa\LL
+32mi\JJJ
+8re\L
+8mi\J
+=
+8fa\L
+8re\
+8mi\
+8do\J
+4re\
+8do\L
+16so\L
+32fa\L
+32mi\JJJ
+=
+8re\L
+8mi\
+8ti\
+8do\J
+8re\L
+24mi\L
+24re\
+24mi\JJ
+8re\
+*-

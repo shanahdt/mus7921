@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!ODT: N/A 
+!!!OCY: N/A   
+!!!OTL: Sonata No.2 in C for Cello and Piano                       
+!!!OMV: Mov. 3
+!!!AIN: cello forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[]
+*C:
+*M2/4
+8G\
+=
+16cq/LL
+16dq/JJ
+16.c\LL
+32B\k
+16.c\
+32d\JJk
+16cq/LL
+16dq/JJ
+16.c\LL
+32B\k
+16.c\
+32d\JJk
+=
+8c\L
+8G\
+8E\
+8C\J
+=
+16eq/LL
+16fq/JJ
+16.e\LL
+32d\k
+16.e\
+32f\JJk
+16eq/LL
+16fq/JJ
+16.e\LL
+32d\k
+16.e\
+32f\JJk
+=
+8e\L
+8c\J
+*-

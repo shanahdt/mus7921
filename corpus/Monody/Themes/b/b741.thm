@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1799///?
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1799///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.10 in G for Piano                  
+!!!OPS: Op. 14
+!!!ONM: No. 2
+!!!SET: No. 10
+!!!OMV: Mov. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+16r
+16d/LL
+16dd/
+16a#/JJ
+=
+16b/LL
+16f#/J
+8.g/J
+16d/LL
+16dd/
+16a#/JJ
+=
+16b/LL
+16f#/J
+8.g/J
+16e\LL
+16ee\
+16b\JJ
+=
+16cc/LL
+16g#/J
+8.a/J
+16e\LL
+16ee\
+16b\JJ
+=
+16cc/LL
+16g#/J
+8.a/J
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1865///
+!!!OCL: RSC
+!!!ODT: 1849///
+!!!ODT: <1865/12/31/
+!!!OPC: Deutschland, Weimar
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: piano, orchestra
+!!!splace: Netherlands, Den Hague
+!!!title1: Totentanz
+!!!statkey: d
+!!DEBUGGING: l218 % . % 1849(c) % Weimar % L218 % . % x % . % piano, orchestra % . % Totentanz % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1859(rev) . (L218) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1865(prf) The Hague (L218) . x . piano, orchestra . Totentanz LISZT, Franz 1811
+**solfa
+*clefF4
+*k[b-]
+*d:
+*M4/4
+=
+2me\
+2re\
+=
+2me\
+2do\
+=
+2re\
+2te/
+=
+1do\
+=
+2me\
+4me\
+4fa\
+=
+4me\
+4re\
+4do\
+4te/
+=
+2re\
+2me\
+=
+1re\
+=
+*-

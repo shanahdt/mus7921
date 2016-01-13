@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1717///-1723///
+!!!OCY: Deutschland
+!!!OPC: C&ouml;then
+!!!OTL: Sonata No.2 in A for Violin and Piano
+!!!SET: No. 1
+!!!OMV: Mov. 1
+!!!AIN: forte violn 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+=
+4a/
+8e/
+16f#/LL
+16g#/JJ
+8.g#t/L
+32f#/LL
+32g#/JJJ
+=
+16a/LL
+16g#/
+16a/
+16b/
+16cc#/
+16b/JJ
+16bq/LL
+16cc#q/JJ
+8dd\L
+16cc#\L
+16b\J
+8ee\J
+=
+*-

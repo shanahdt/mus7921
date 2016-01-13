@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Tunis-Nefta
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1922
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!title1: Escales
+!!!title2: 2nd Movement (Tunis - Nefta)
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i19 % . % 1922 % Rome % I19 % . % x % 2: Tunis-Nefta % orchestra % . % Escales % IBERT, Jacques % 1890
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+1do/
+=
+*M3/4
+8re/L
+8do/
+8ti/
+8le/J
+4so/
+=
+*M4/4
+1so/
+=
+*M3/4
+[2do/
+8do/L]
+8re/J
+=
+*M4/4
+8me\L
+8fi\J
+2.me\
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1768///
+!!!OCL: RSC
+!!!ODT: <1768/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1768(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Bastien et Bastienne
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: m594a % . % 1768(prf) % Vienna % M594a % . % x % . % orchestra % Opera % Bastien et Bastienne % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+2do/
+4mi\
+=
+2do/
+4so/
+=
+4do/
+8do/L
+8so/
+8so/
+8so/J
+=
+2do/
+4r
+=
+4re/
+8re/L
+8di/
+8re/
+8mi/J
+=
+2fa\
+8mi\
+8r
+=
+*-

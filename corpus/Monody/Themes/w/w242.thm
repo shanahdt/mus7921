@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1803///
+!!!OCL: RSC
+!!!ODT: <1803/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1801///-1802
+!!!place: Oesterreich, Salzburg
+!!!splace: Deutschland
+!!!splace: Deutschland, Augsburg
+!!!title1: Peter Schmoll und Seine Nachbaren, Overture
+!!!statkey: B-
+!!DEBUGGING: w242 % . % 1801-1802 % Salzburg % W242 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1803(prf) Augsburg (W242) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1807(rev) Germany (W242) . . . . . . WEBER, Carl Maria Von
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4.b-\
+8b-\
+4.dd\
+8dd\
+=
+4.ff\
+8ee-\
+4dd\
+4dd\
+=
+8ddq/
+4cc\
+4cc\
+4cc\
+4cc\
+=
+2dd\
+4cc\
+4r
+=
+*-

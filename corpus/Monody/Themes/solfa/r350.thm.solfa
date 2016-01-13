@@ -1,0 +1,79 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1882///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!ODT: <1882/12/31/
+!!!ODT: <1898/12/31/
+!!!OMV: Mov. Dance of the Buffoons
+!!!PDT: 1881///
+!!!PDT: 1898///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1880///-1881
+!!!instrument: orchestra
+!!!place: Royssia
+!!!splace: Royssia, St. Petersburg
+!!!theme: C
+!!!title1: Snow Maiden
+!!!title2: Opera
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r350 % . % 1880-1881 % Russia % R350 % . % c % Dance of the Buffoons % orchestra % Opera % Snow Maiden % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881(p) St. Petersburg (R350) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1895(rev) St. Petersburg (R350) . c Dance of the Buffoons orchestra Opera Snow Maiden RIMSKY-KORSAKOV, Nikolay 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1898(p) St. Petersburg (R350) . c Dance of the Buffoons orchestra Opera Snow Maiden RIMSKY-KORSAKOV, Nikolay 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1882(prf) St. Petersburg (R350) . c Dance of the Buffoons orchestra Opera Snow Maiden RIMSKY-KORSAKOV, Nikolay 1844
+**solfa
+*clefG2
+*k[]
+*F:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+16so/LL
+16la/JJ
+16te/LL
+16la/
+16so/
+16la/JJ
+=
+2te/
+=
+8r
+16so/LL
+16la/JJ
+16te/LL
+16la/
+16so/
+16la/JJ
+=
+2te/
+=
+8r
+16so/LL
+16la/JJ
+16te/LL
+16la/
+16so/
+16do/JJ
+=
+8te/L
+16so/L
+16la/JJ
+16te/LL
+16la/
+16so/
+16do/JJ
+=
+8te/
+*-

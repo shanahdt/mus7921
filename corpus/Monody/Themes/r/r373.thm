@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Valse Lente
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!title1: La Boutique Fantasque
+!!!title2: Ballet
+!!!statkey: G
+!!DEBUGGING: r373 % 387 % ? % ? % R373 % . % x % 6: Valse Lente % orchestra % Ballet % La Boutique Fantasque % ROSSINI, Gioachino Antonio % 1792
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8d/
+=
+8c#/L
+8d/J
+4.b\
+8f#/
+=
+8a/L
+8g/J
+4.bb\
+8ff#\
+=
+8aa\L
+8ee-\J
+4.gg\
+8ee\
+=
+8aa\L
+8dd\J
+4.gg\
+8b\
+=
+8ee\L
+8a\J
+4.ee\
+8a#/
+=
+8ee\L
+8b\J
+4.dd\
+*-

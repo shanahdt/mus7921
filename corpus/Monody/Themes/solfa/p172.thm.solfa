@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Poulenc, Francis
+!!!CDT: 1899/01/07/1963-/01/30/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: piano
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Movements Perp&eacute;tuals
+!!!title2: No. 3
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p172 % 357 % 1918 % Paris % P172 % . % b % . % piano % No. 3 % Movements Perp&eacute;tuals % POULENC, Francis % 1899
+**solfa
+*clefG2
+*k[]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4mi/
+4mi/
+4.mi/
+8re/
+=
+8mi/L
+8re/
+8mi/
+8so/J
+4.mi/
+8re/
+=
+8mi/L
+8re/
+8mi/
+8la/J
+16soq/LL
+16laq/JJ
+16so/LL
+16fa/
+16mi/
+16re/JJ
+8mi/L
+8mi/J
+=
+*-

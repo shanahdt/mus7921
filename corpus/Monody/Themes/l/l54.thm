@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Leclair, Jean-Marie
+!!!CDT: 1697/05/10/-1764/10/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1737/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 3
+!!!OPC: France, Paris
+!!!OPS: Opus 9
+!!!PDT: c1737///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1737(p)
+!!!instrument: violn, piano
+!!!title1: Sonata in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: l54 % 276 % c1737(p) % Paris % L54 % 9 No. 3 % x % 1 % violn, piano % . % Sonata in D % LECLAIR, Jean-Marie % 1697
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8r
+16r
+16aa\
+8.ff#t\L
+16ee\Jk
+=
+8.dd\L
+16a\Jk
+8.f#t/L
+32g/LL
+32a/JJJ
+4d/
+4ff#\
+=
+16ff#q/LL
+16ggq/JJ
+4ff#\
+4ee\
+8r
+16r
+16ee\
+8.cc#t\L
+32dd\LL
+32ee\JJJ
+=
+8.a/L
+16e/Jk
+8.c#t/L
+32d/LL
+32e/JJJ
+4A/
+4gg\
+=
+16ggq/LL
+16aaq/JJ
+4gg\
+4ff#\
+*-

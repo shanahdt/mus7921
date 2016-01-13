@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <n.d./12/31/
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 45: Tarantella
+!!!statkey: C
+!!DEBUGGING: m305 % . % 1845 % Leipzig % M305 % . % x % . % piano % No. 45: Tarantella % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) Bonn (M305) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=
+8g/L
+8a/
+8g/J
+8g/L
+8a/
+8g/J
+=
+8g/L
+8a/
+8g/J
+8g/L
+8a/
+8g/J
+=
+8g/L
+8a/
+8b/J
+8cc\L
+8dd\
+8ee\J
+=
+8ff\L
+8a\
+8dd\J
+4cc\
+8b\
+=
+*-

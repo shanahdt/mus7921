@@ -1,0 +1,13 @@
+
+This directory contains a series of musical excepts consisting
+only of isochronous note durations.  For example, a given file
+may contain pitch sequences consisting solely of eighth notes.
+
+Four types of passages have been encoded:
+
+   (1) Treble voice passages
+   (2) Bass voice passages
+   (3) Inner voice passages
+   (4) Solo voice passages
+
+Each is indicated in their respective files.

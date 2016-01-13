@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1849/12/31/
+!!!PDT: 1849///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1848
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!title1: Etude No. 2 in D Flat
+!!!statkey: D-
+!!DEBUGGING: l117 % . % 1848 % Weimar % L117 % . % x % . % piano % . % Etude No. 2 in D Flat % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1849(p) Leipzig (L117) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M4/4
+=
+4r
+8so/
+8r
+8la\
+8r
+8do\
+8r
+=
+8re\
+8r
+8mi\
+8r
+8re\
+8r
+8la\
+8r
+=
+4do\
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1684///
+!!!OCL: RSC
+!!!ODT: <1684/12/31/
+!!!OMV: Mov. Minuet
+!!!PDT: 1684///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1684(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Amadis de Gaule
+!!!title2: Opera
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l291 % . % 1684(prf) % Paris % L291 % . % x % Minuet % orchestra % Opera % Amadis de Gaule % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1684(p) . (L291) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4.cc#\
+8dd\
+4ee\
+=
+4dd\
+4b\
+4ee\
+=
+4.a/
+8a/
+4b\
+=
+4.cc#\
+8dd\
+4ee\
+=
+4ff#\
+4gg#\
+4aa\
+=
+4gg#\
+4.aa\
+16gg#\LL
+16aa\JJ
+=
+2bb\
+4ee\
+=
+*-

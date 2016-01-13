@@ -1,0 +1,58 @@
+**kern
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*D-:
+qff
+16ee
+16dd
+16ee
+16ff
+8gg
+8gg
+=||
+qgg
+8ff
+8ff
+qff
+8dd
+8dd
+=
+qff
+16ee
+16dd
+16ee
+16ff
+8gg
+8gg
+=
+qbb
+16aa
+16gg
+16aa
+16bb
+8ccc
+8ccc
+=
+qee
+16dd
+16cc#
+16dd
+16ee
+8aa
+8aa
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1918
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1410 % 464 % 1918 % Berlin % S1410 % . % . % . % . % . % . % STRAUSS, Richard

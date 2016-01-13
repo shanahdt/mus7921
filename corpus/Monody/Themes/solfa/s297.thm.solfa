@@ -1,0 +1,43 @@
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*M3/4
+!! NB. Key & key signature disagree.
+*B:
+4.so
+8so
+4so
+=
+4.do
+8do
+4do
+=
+4.de
+8de
+4de
+=
+2.fa
+=
+4.fe
+8fe
+4do
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1822
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s297 % 407 % 1822 % Vienna % S297 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1823///
+!!!ODT: <1823/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1823(p) Vienna? (S297) . . . . . . .

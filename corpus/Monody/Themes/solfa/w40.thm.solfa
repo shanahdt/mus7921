@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1870///
+!!!OCL: RSC
+!!!ODT: <1870/12/31/
+!!!ODT: <1874/12/31/
+!!!PDT: 1874///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1856
+!!!place: Helvetia
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Muenchen
+!!!title1: Die Walk\u3re, Opera (Der Ring Der Nibelungen, Part II)
+!!!title2: Ride of the Valkyries
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w40 % . % 1856 % Switzerland % W40 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1870(prf) Munich (W40) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1874(p) Mainz (W40) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[f#c#]
+*C:
+*M9/8
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+8.ri\
+16so\Jk
+4.ti\
+8soq/
+4ti\
+8r
+=
+8so\L
+8.ri\
+16so\Jk
+4.ti\
+8soq/
+4ti\
+8r
+=
+8so\L
+8.mi\
+16so\Jk
+4.do\
+8doq/
+4mi\
+8r
+=
+8so\L
+8.mi\
+16so\Jk
+4.do\
+8doq/
+4mi\
+8r
+=
+*-

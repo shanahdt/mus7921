@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1737///
+!!!OCL: RSC
+!!!ODT: <1737, 1754/12/31/
+!!!ODT: <1737/12/31/
+!!!OMV: Mov. Minuet 1
+!!!PDT: 1737, 1754///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1737, 1754(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Castor et Pollux
+!!!title2: Opera
+!!!statkey: D
+!!DEBUGGING: r81 % 372 % 1737, 1754(p) % Paris % R81 % . % x % Minuet 1 % orchestra % Opera % Castor et Pollux % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1737(prf) . (R81) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+8do\L
+8re\J
+4mi\
+[4re\
+=
+4re\]
+4so/
+[4do\
+=
+4do\]
+8ti/L
+8la/
+8so/
+8fa/J
+=
+8mi/L
+8fa/J
+2so/
+=
+4do/
+4fa/
+4mi/
+=
+4la\
+4so/
+4do\
+=
+8do/L
+8ti/
+8la/
+8so/
+8fa/
+8mi/J
+=
+2.reT/
+=
+*-

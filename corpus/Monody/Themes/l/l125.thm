@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1852/12/31/
+!!!PDT: 1852///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1851
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!title1: Transcendental Etude No. 7
+!!!title2: Eroica
+!!!statkey: E-
+!!DEBUGGING: l125 % . % 1851 % Weimar % L125 % . % x % . % piano % Eroica % Transcendental Etude No. 7 % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852(p) Leipzig (L125) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+12r
+(12b-\L
+12bn\
+12cc\
+12cc#\
+12dd\J)
+=
+2ee-\
+!!   Encoding error:   removing dot
+4..ee-\
+16ee-\
+=
+2ee-\
+12r
+(12dd\L
+12ee-\
+12gg\
+12ee-\
+12cc-\J)
+=
+2b-\
+4..b-\
+16b-\
+=
+2b-\
+*-

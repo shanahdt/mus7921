@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Herbert, Victor
+!!!CDT: 1859/02/01/-1924/05/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1911///
+!!!OCL: RSC
+!!!ODT: <1911/12/31/
+!!!OMV: Mov. Haba&ntilde;era
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1911
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, Pennsylvania, Philadelphia
+!!!title1: Natoma
+!!!title2: Opera
+!!!statkey: d
+!!DEBUGGING: h720 % . % 1911 % New York % H720 % . % x % Haba&ntilde;era % orchestra % Opera % Natoma % HERBERT, Victor % 1859
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(prf) Philadelphia (H720) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=
+8r
+8so/
+8.so;/L
+16fi/Jk
+=
+8le\
+8r
+[4so/
+=
+12so/L]
+12ti/
+12do/J
+12re/L
+12me/
+12do/J
+=
+8me/
+8r
+4re/
+=
+*-

@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Warlock, Peter
+!!!CDT: 1894/10/30/-1930/12/17/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926
+!!!place: England, London(?)
+!!!title1: Capriol, Suite for Orch.
+!!!title2: 2nd Movement (Pavane)
+!!!statkey: F
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w196 % . % 1926 % London? % W196 % . % . % . % . % . % . % WARLOCK, Peter
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1928(rev) . (W196) . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+2do/
+=
+4do/
+4ti/
+=
+4do/
+4re/
+=
+2me\
+=
+4me\
+4so\
+=
+4fa\
+4me\
+=
+4me\
+4re/
+=
+2me\
+=
+*-

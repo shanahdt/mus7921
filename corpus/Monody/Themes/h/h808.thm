@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 5: Saturn, the Bringer of Old Age
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: The Planets
+!!!title2: 5th Movement (Saturn, the Bringer of Old Age)
+!!!statkey: a
+!!DEBUGGING: h808 % 253 % 1914-1916 % London % H808 % 32 % x % 5: Saturn, the Bringer of Old Age % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H808) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+2F#/
+4.B/
+8c#/
+=
+2c#/
+2B/
+=
+4f#/
+4a/
+4g#/
+4e/
+=
+1f#/
+=
+*-

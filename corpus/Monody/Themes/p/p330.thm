@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1689///
+!!!OCL: RSC
+!!!ODT: <1689/12/31/
+!!!OMV: Mov. Sailor's Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1689(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Dido and Aeneas
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: p330 % . % 1689(prf) % London % P330 % . % x % Sailor's Dance % orchestra % Opera % Dido and Aeneas % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/2
+=
+4bb-\
+4ff\
+2gg\
+=
+4ff\
+4dd\
+2ee-\
+=
+4cc\
+8b-/L
+8a/J
+4dd\
+8a/L
+8b-/J
+=
+4a/
+4f/
+2f/
+=
+4d/
+4f/
+4b-\
+4f/
+=
+4g/
+4cc\
+4b-\
+4a/
+=
+4cc\
+4ff\
+4dd\
+4gg\
+=
+*-

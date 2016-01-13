@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1838/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 40
+!!!PDT: 1838///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837
+!!!instrument: piano, orchestra
+!!!place: Deutschland, Bingen am Rhein
+!!!splace: Deutschland, Leipzig
+!!!title1: Concerto No. 2 in D Minor
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m209 % . % 1837 % Bingen am Rhein % M209 % 40 % x % 2 % piano, orchestra % . % Concerto No. 2 in D Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1838(p) Leipzig (M209) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+8f/L
+8b-/J
+=
+8.a\L
+16b-\k
+8cc\
+8dd\J
+=
+8ee-\L
+8cc\
+8b-\
+8a\J
+=
+8ff\L
+8dd\
+8cc\
+8b-\J
+=
+4a/
+8f/L
+8b-/J
+=
+8.a\L
+16b-\k
+8cc\
+8dd\J
+=
+8ee-\L
+8cc\
+8b-\
+8a\J
+=
+8dd\L
+8b-\J
+*-

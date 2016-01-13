@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 37
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!theme: B
+!!!title1: Caprice Espagnol
+!!!statkey: C
+!!DEBUGGING: m407 % 311 % ? % ? % M407 % 37 % b % . % piano % . % Caprice Espagnol % MOSZKOWSKI, Moritz % 1854
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+8mi\L
+8.ri\
+16mi\Jk
+=
+8mi\L
+8.fa\
+16so\Jk
+=
+8so\
+8la/
+8r
+=
+8r
+8fa\L
+8mi\J
+=
+8re\
+*-

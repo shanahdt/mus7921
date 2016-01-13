@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1795///
+!!!OCL: RSC
+!!!ODT: <1795/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 103
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1795
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A: INTRO
+!!!title1: Symphony in E Flat
+!!!title2: "Drum Roll"
+!!!statkey: E-
+!!DEBUGGING: h666 % . % 1795 % London % H666 % B. & H. No. 103 % a: Intro % 1 % orchestra % "Drum Roll" % Symphony in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1795(prf) . (H666) . . . . . . . .
+**solfa
+*clefF4
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+2.do;\
+=
+4do\
+4ti\
+4do\
+=
+4la/
+4fa\
+4re\
+=
+4ti\
+4so\
+4fa\
+=
+4mi\
+4do\
+4la/
+=
+*-

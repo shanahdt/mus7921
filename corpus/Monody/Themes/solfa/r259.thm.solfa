@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Laura Soave
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: B
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 2
+!!!statkey: D
+!!DEBUGGING: r259 % 381 % ? % ? % R259 % . % b % 1: Laura Soave % orchestra % Suite No. 2 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M6/4
+4mi\
+=
+4mi\
+8do\L
+8fa\J
+4mi\
+4mi\
+4mi\
+4re\
+=
+4do\
+8la\L
+8ti\
+8do\
+8re\J
+4do\
+4do\
+4so/
+=
+4la\
+8la\L
+8so\
+8la\
+8ti\J
+4do\
+2re\
+=
+2.mi\
+*-

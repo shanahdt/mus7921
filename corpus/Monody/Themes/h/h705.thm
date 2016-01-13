@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1970/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1970///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797, 1795?
+!!!instrument: violn, piano, cello
+!!!place: Oesterreich, Vienna & England, London(?)
+!!!splace: ?
+!!!title1: Trio No. 3 in C
+!!!title2: 2nd Movement
+!!!statkey: A
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h705 % 248 % -1797, 1795? % Vienna, London? % H705 % . % x % 2 % violn, piano, cello % . % Trio No. 3 in C % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1970(p) ? (H705) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*B-:
+*M6/8
+8ddq/
+!! ! NB. Key & key signature disagree.
+32cc#\LLL
+32b\
+32cc#\
+32dd\JJJ
+!!   B&M  Encoding errors?  change 16's to 32's
+=
+8ee\L
+8cc#\
+8a\J
+8.b/L
+16g#/k
+8e/J
+=
+8a\L
+8b\
+8cc#\J
+8dd\
+8r
+8eeq/
+32dd\LLL
+32cc#\
+32dd\
+32ee\JJJ
+!!   B&M  Encoding errors?  change 16's to 32's
+=
+8ff#\L
+8dd\
+8b\J
+8.ee\L
+16cc#\k
+8a\J
+=
+*-

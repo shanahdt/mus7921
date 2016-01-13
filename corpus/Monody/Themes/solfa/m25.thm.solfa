@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1898/12/31/
+!!!OPS: Opus 55
+!!!PDT: 1898///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1898
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!title1: Sea Pieces
+!!!title2: No. 4: Starlight 
+!!!statkey: A
+!!DEBUGGING: m25 % 291 % 1898 % New York % M25 % 55 % x % . % piano % No. 4: Starlight  % Sea Pieces % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1898(p) . (M25) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+2so\
+4re\
+8fa\L
+8la\J
+=
+2do\
+2so\
+=
+4mi\
+8la\L
+8mi\J
+4.re\
+8ri\
+=
+4mi\
+4re\
+2la/
+=
+*-

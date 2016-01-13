@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1781/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 376
+!!!PDT: 1781///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in F
+!!!title2: 3rd Movement
+!!!statkey: F
+!!DEBUGGING: m836 % . % 1781 % Vienna % M836 % K 376 % x % 3 % violn, piano % . % Sonata in F % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1781(p) . (M836) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+4cc\
+=
+8ff\
+8r
+4ff\
+8aaq/
+4gg\
+8.gg\L
+16ee\Jk
+=
+4.ff\
+8aa\
+8ccc\
+8r
+8.ccc\L
+16aa\Jk
+=
+8ff\
+8r
+8.ccc\L
+16aa\Jk
+8ff\
+8r
+*-

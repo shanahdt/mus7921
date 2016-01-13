@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Bartók, Béla
+!!!CDT: 1881/03/25/-1945/09/26/
+!!!CNT: Hungarian
+!!!PDT: 1911///
+!!!OCY: Hungary
+!!!OPC: Butapest
+!!!OTL: Allegro Barbaro for Piano
+!!!AIN: forte
+!!!thm: B
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[]
+*G-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4F##\
+4E#\
+=
+4.AA/
+8E#\
+=
+4F##\
+4E#\
+=
+8AA/L
+8BB/J
+4BB#/
+=
+4F##\
+4E#\
+=
+4.AA/
+8E#\
+=
+4F##\
+4E#\
+=
+8BB#/L
+8BBn/J
+4AA/
+=
+*-

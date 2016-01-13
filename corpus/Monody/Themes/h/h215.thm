@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 2: Allemande
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 5 in E
+!!!title2: 2nd Movement (Allemande)
+!!!statkey: E
+!!DEBUGGING: h215 % . % 1720(p) % London? % H215 % . % x % 2: Allemande % piano % . % Suite No. 5 in E % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+16r
+16b\LL
+16cc#\
+16dd#\JJ
+=
+[4ee\
+16ee\LL]
+16ee\
+16ff#\
+16gg#\JJ
+16aa\LL
+16dd#\
+16ee\
+16ff#\JJ
+16a/LL
+16cc#/
+16b/
+16a/JJ
+=
+[4g#/
+16g#/LL]
+16f#/
+16g#/
+16e/JJ
+2bT\
+=
+*-

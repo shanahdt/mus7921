@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!ODT: 1912///-1916///
+!!!OCY: United States of America                    
+!!!OPC: New York 
+!!!OTL: Israel Symphony 
+!!!thm: A
+!!!AIN: bass 4 feme orchestra 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=
+4r
+12so/L
+12do/
+12re/J
+=
+8do\L
+[8la\J
+8la\L]
+8so\J
+=
+[2so;\
+=
+8so\]
+8r
+=||
+*clefG2
+*k[b-]
+*F:
+*M3/4
+4la\
+=
+8do\L
+[8so\J
+4so\]
+12la\L
+12so\
+12do\J
+=
+8do/L
+[8re/J
+2re;/]
+=
+*-

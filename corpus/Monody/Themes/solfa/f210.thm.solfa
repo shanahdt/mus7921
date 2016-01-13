@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Courante
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: violn, piano or cemba
+!!!place: France, Paris
+!!!title1: Sonata in D Minor
+!!!title2: 2nd Movement (Courante)
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: f210 % . % 1773 % Paris % F210 % . % x % 2: Courante % violn, piano or cemba % . % Sonata in D Minor % FRANCOEUR, Fran&ccedil;ois % 1698
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M6/4
+!! ! NB. Key & key signature disagree.
+8so\
+=
+2.so\
+8do\L
+8te\
+8le\
+8so\
+8fa\
+8me\J
+=
+8meq/
+4re/
+8doq/
+4ti/
+4.do/
+8re/
+4.re/
+8do/
+=
+4.do/
+*-

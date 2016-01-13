@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1741/12/31/
+!!!OMV: Mov. La Forqueray
+!!!PDT: 1741///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1741(p)
+!!!instrument: flt, violn, cemba
+!!!place: France, Paris
+!!!title1: Pi&egrave;ces de Clavecin en Concert
+!!!title2: No. 5
+!!!statkey: F
+!!DEBUGGING: r102 % 373 % 1741(p) % Paris % R102 % . % x % La Forqueray % flt, violn, cemba % No. 5 % Pi&egrave;ces de Clavecin en Concert % RAMEAU, Jean Philippe % 1683
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/0
+=
+4r
+4dd\
+4d/
+[4dd\
+=
+8dd\L]
+8cc\
+8b-\
+8a\J
+8g/L
+8f/
+8e/
+8d/J
+=
+4c/
+4cc\
+4c/
+[4cc\
+=
+8cc/L]
+8b-/
+8a/
+8g/J
+8f/L
+8e/
+8d/
+8c/J
+=
+4B-/
+4b-\
+4B-/
+4b-\
+=
+*-

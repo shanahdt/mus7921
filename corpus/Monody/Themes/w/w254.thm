@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1812/12/31/
+!!!PDT: 1812///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1812
+!!!place: Deutschland, Berlin
+!!!title1: Sonata No. 1 in C, Op. 24, Pft.
+!!!title2: 3rd Movement
+!!!statkey: e
+!!DEBUGGING: w254 % . % 1812 % Berlin % W254 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1812(p) . (W254) . . . . . . .
+**kern
+*clefF4
+*k[f#]
+*e:
+*M3/4
+8E\L
+8F#\
+=
+8G\
+8A\J
+4B\
+4c\
+=
+2B\
+8E\L
+8F#\
+=
+8G\
+8A\J
+4B\
+4c\
+=
+2B\
+*clefG2
+8e/L
+8c/J
+=
+4B/
+8g/L
+8c/J
+4B/
+=
+8b/L
+8c/J
+4B/
+8cc/L
+8c/J
+=
+4B/
+*-

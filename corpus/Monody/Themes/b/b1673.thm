@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Piano Trio No. 2 in C
+!!!OPS: Op. 87
+!!!OMV: Mov. 1
+!!!thm: C
+!!!AIN: cello forte violn
+!!!ODT: 1880///-1882///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien   
+!!!PDT: 1883///
+!!!MRD: 1882///
+!!!MLC: Deutschland, Frankfurt am Main 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+12aa\L
+12gg\
+12ff#\J
+4ee\
+4ee-\
+=
+12gg\L
+12ff#\
+12ee\J
+4dd\
+4cc#\
+=
+12ff#\L
+12ee\
+12dd\J
+4cc#\
+12ff#\L
+12ee\
+12ddn\J
+=
+2ccn\
+4b\
+=
+*-

@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1931///
+!!!OCL: RSC
+!!!ODT: <1931/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1929///-1930
+!!!instrument: piano, orchestra
+!!!place: Montfort///-l’Amaury
+!!!splace: Oesterreich, Vienna
+!!!theme: AA
+!!!title1: Concerto for the Left Hand
+!!!statkey: D
+!!DEBUGGING: r132 % . % 1929-1930 % Montfort-l’Amaury % R132 % . % aa % . % piano, orchestra % . % Concerto for the Left Hand % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1931(prf) Vienna (R132) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#]
+*D:
+*M3/4
+16EE/
+=
+[4FF#/
+8.FF#/L]
+16EE/Jk
+8.GG/L
+16FF#/Jk
+=
+[4AA/
+8.AA/L]
+32EE/LL
+32GG/JJJ
+8.BB/L
+16F#/Jk
+=
+[4F#\
+8.F#\L]
+16G\Jk
+8.E/L
+16BB/Jk
+=
+4AA/
+*-

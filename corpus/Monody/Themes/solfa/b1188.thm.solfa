@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!ODT: 1915///-1916///
+!!!OCY: Schweiz                    
+!!!OPC: Genf
+!!!OTL: Schelomo for Cello and Orchestra
+!!!OTA: Hebrew Rhapsody
+!!!thm: B
+!!!AIN: cello orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8r
+8so/
+8do/L
+24ti/k
+12do/J
+!!   B&M Encoding error?  replace 8.,16,8  with 12..24,12
+8ra/L
+[8do/J
+8do/]
+8r
+=
+8r
+8so/
+8do/L
+24ti/k
+12do/J
+!!   B&M Encoding error?  replace 8.,16,8  with 12..24,12
+16me/LK
+[8.ra/J
+8ra/L]
+8do/J
+=
+8r
+8so\
+8teq/
+8.le\L
+16so\Jk
+4.so\
+8fi\
+=
+*-

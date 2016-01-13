@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1749///
+!!!OCL: RSC
+!!!ODT: <1749/12/31/
+!!!OMV: Mov. 4: La Rejouissance
+!!!PDT: 1749///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1749(p)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Fireworks Music
+!!!title2: 4th Movement (La Rejouissance)
+!!!statkey: D
+!!DEBUGGING: h124 % . % 1749(p) % London % H124 % . % x % 4: La Rejouissance % orchestra % . % Fireworks Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1749(prf) . (H124) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8so/
+=
+8do\L
+8do\
+8do\
+8do\J
+16do\LL
+16re\
+16mi\
+16re\JJ
+8do\L
+16do\L
+16re\JJ
+=
+8mi\L
+8mi\
+8mi\
+8mi\J
+16mi\LL
+16fa\
+16so\
+16fa\JJ
+8mi\L
+16mi\L
+16fa\JJ
+=
+8so\L
+8so\
+8so\
+8so\J
+4.so\
+*-

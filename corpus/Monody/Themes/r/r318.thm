@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!OMV: Mov. Fandango Asturiano
+!!!OPS: Opus 34
+!!!PDT: 1888///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!title1: Capriccio Espagnol
+!!!title2: Fandango Asturiano
+!!!statkey: A
+!!DEBUGGING: r318 % . % 1887 % St. Petersburg % R318 % 34 % x % Fandango Asturiano % orchestra % . % Capriccio Espagnol % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(p) Leipzig (R318) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+8aa\L
+8bb\J
+=
+4ccc#t\
+8bb\L
+8ccc#\
+8ddd\
+8ccc#\J
+=
+4bbT\
+8gg#\
+8r
+8bb\L
+8ccc#\J
+=
+8ddd\L
+8ccc#\
+8bb\
+8ccc#\
+8ddd\
+8bb\J
+=
+4ccc#t\
+8aa\
+8r
+*-

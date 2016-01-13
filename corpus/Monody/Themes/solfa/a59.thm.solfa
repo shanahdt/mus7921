@@ -1,0 +1,59 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Auber, Daniel-François-Esprit
+!!!CDT: 1782/01/29/-1871/05/12/
+!!!CNT: French
+!!!ODT: 1837///
+!!!MLC: France, Paris
+!!!thm: D
+!!!AIN: orchestra
+!!!OTL: Overture
+!!!OPR: Le Domino Noir
+!!!OPREN:The Black Domino
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*M3/8
+*F:
+8do
+16do
+16re
+[8mi
+=
+8mi]
+16mi
+16fa
+[8so
+=
+8so]
+8la
+8fi
+=
+8so
+16mi
+16do
+[8so
+=
+8so]
+16fa
+16so
+[8la
+=
+8la]
+16fa
+16so
+8la
+=
+8la
+16so
+16fa
+16mi
+16re
+=
+8do
+*-

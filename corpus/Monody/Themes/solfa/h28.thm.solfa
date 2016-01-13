@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1736///
+!!!OCL: RSC
+!!!ODT: <1736/12/31/
+!!!ODT: <1738/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 6
+!!!OPS: Opus 4
+!!!PDT: 1738///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1736(prf)
+!!!instrument: organ, orchestra
+!!!place: England, London
+!!!title1: Concerto No. 6 in B Flat 
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: h28 % 213 % 1736(prf) % London % H28 % 4 No. 6 % x % 2 % organ, orchestra % . % Concerto No. 6 in B Flat  % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1738(p) . (H28) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4r
+4.so\
+8so\
+=
+4le\
+4.fa\
+8fa\
+=
+4so\
+4.me\
+8me\
+=
+4fa\
+4.re\
+8re\
+=
+4me\
+4.so\
+8so\
+=
+8do\L
+8me\J
+4.fa\
+8so\
+=
+4so\
+*-

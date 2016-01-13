@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1936///
+!!!OCL: RSC
+!!!ODT: <1936/12/31/
+!!!OPS: Opus 67
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936(prf)
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: C: THE DUCK
+!!!title1: Peter and the Wolf
+!!!statkey: A-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p243 % . % 1936(prf) % Moscow % P243 % 67 % c: The Duck % . % orchestra % . % Peter and the Wolf % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936 . (P243) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8leq/
+2.se/
+=
+8seq/
+8fa/L
+8fe/
+8me/
+8fe/
+8faq/
+8te/
+8le/J
+=
+8leq/
+2.se/
+=
+8seq/
+8fa/L
+8fe/
+8me/
+8fe/J
+8faq/
+8fa\L
+8re\J
+=
+4me\
+4.se\
+8me\
+=
+4ra\
+4fe\
+8le/L
+8te/J
+=
+4de/
+*-

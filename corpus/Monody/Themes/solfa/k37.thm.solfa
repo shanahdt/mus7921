@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Dance of the Young Maidens
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: a
+!!DEBUGGING: k37 % . % 1942 % Moscow % K37 % . % x % Dance of the Young Maidens % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K37) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+4so/
+8do/
+8r
+8do/
+8r
+8do/
+8r
+=
+8req/
+8.do/L
+16ti/Jk
+8.do/L
+16re/Jk
+2do/
+=
+8do/
+8r
+8do/L
+8so/J
+8do/L
+8so/J
+8so/L
+8do/J
+=
+8req/
+8.do/L
+16ti/Jk
+8.do/L
+16re/Jk
+2do/
+=
+*-

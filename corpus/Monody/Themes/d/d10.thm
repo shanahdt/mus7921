@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Dargomizhsky, Alexander
+!!!CDT: 1813/02/14/-1869/01/17/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1856///
+!!!OCL: RSC
+!!!ODT: <1856/12/31/
+!!!OMV: Mov. Gypsy Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1856(prf)
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Roussalka
+!!!title2: Opera
+!!!statkey: D
+!!DEBUGGING: d10 % . % 1856(prf) % St. Petersburg % D10 % . % x % Gypsy Dance % orchestra % Opera % Roussalka % DARGOMIJSKY, Alexander Sergeivich % 1813
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+16ff#\LL
+16gg\
+16aa\
+16bb\JJ
+16aa\LL
+16bb\
+16aa\
+16gg\JJ
+16ff#\LL
+16gg\
+16ff#\
+16ee\JJ
+16dd\LL
+16ee\
+16ff#\
+16dd\JJ
+=
+16gg\LL
+16ff#\
+16gg\
+16aa\JJ
+16bb\LL
+16ccc#\
+16ddd\
+16bb\JJ
+16aa\LL
+16bb\
+16aa\
+16gg\JJ
+8ff#\
+*-

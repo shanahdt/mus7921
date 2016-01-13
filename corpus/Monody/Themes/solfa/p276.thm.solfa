@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Friar Lawrence
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 2
+!!!statkey: B-
+!!DEBUGGING: p276 % . % 1936 % Moscow % P276 % 64 % b % 3: Friar Lawrence % orchestra % Suite No. 2 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+2so/
+4do\
+4mi\
+=
+4fa\
+4mi\
+4do\
+8di/L
+8la/J
+=
+4re\
+4do\
+4la/
+4fa/
+=
+4mi/
+4do/
+2so/
+=
+*-

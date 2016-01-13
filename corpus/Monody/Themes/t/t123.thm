@@ -1,0 +1,38 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1880///
+!!!OCL: RSC
+!!!ODT: <1880/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1880(prf)
+!!!place: Royssia, Moskova
+!!!title1: Capriccio Italien, Op. 45, Orch.
+!!!statkey: A
+!!DEBUGGING: t123 % . % 1880(prf) % Moscow % T123 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+8e/L
+8f#/
+8g#/J
+=
+[2.a/
+=
+4a/]
+8g#/
+8bq/
+8.a/L
+16gn/k
+8fn/J
+=
+[2.e/
+=
+4.e/]
+*-

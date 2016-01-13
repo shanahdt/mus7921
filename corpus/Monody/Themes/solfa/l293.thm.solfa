@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1676///
+!!!OCL: RSC
+!!!ODT: <1676/12/31/
+!!!ODT: <1689/12/31/
+!!!OMV: Mov. Entr&eacute;e des Songes Agr&eacute;ables
+!!!PDT: 1689///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1676(prf)
+!!!instrument: orchestra
+!!!place: France, Saint-Germain
+!!!splace: France, Paris
+!!!title1: Atys
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: l293 % . % 1676(prf) % Saint-Germain % L293 % . % x % Entr&eacute;e des Songes Agr&eacute;ables % orchestra % Opera % Atys % . % LULLY, Jean Baptiste
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1689(p) Paris (L293) . . . . . . LULLY, Jean Baptiste 1632
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4r
+4me\
+4fa\
+=
+4so\
+4fa\
+4me\
+=
+2.re/
+=
+4me\
+4fa\
+4so\
+=
+4le\
+4fa\
+4te\
+=
+2so\
+8so\L
+8le\J
+=
+4te\
+4te\
+4so\
+=
+4le\
+4le\
+4so\
+=
+4so\
+4.fa\
+8so\
+=
+*-

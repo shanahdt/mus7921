@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 576
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Sonata in D
+!!!title2: 2nd Movement
+!!!statkey: A
+!!DEBUGGING: m809 % . % 1789 % Vienna % M809 % K 576 % b % . % piano % . % Sonata in D % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+8.mi\L
+64fa\LLL
+64mi\
+64re\
+64mi\JJJJ
+8so\L
+8fa\
+8re\
+8ti\J
+=
+8.do/L
+32mi/LL
+32do/JJJ
+2so\
+=
+16so\LL
+16do\
+16ti\
+16te\JJ
+16si\LL
+16la\
+16so\
+16fa\JJ
+16mi\LL
+16re\
+16fa\
+16la\JJ
+=
+8.do/
+*-

@@ -1,0 +1,56 @@
+
+===============================================================
+   Welcome to FluteStudy, a database of Royal Conservatory
+               of Music graded Flute studies.
+===============================================================
+
+           =====================================
+           All studies were encoded by Joy Ollen.
+           =====================================
+
+	The purpose of this project is to provide a sample of
+test pieces for a program capable of estimating the technical
+performance difficulty of flute repertoire.  In order to test
+the reliability of the program, it is useful to have a body
+of independently-graded repertoire available.
+
+	All studies in the database were selected from the
+Royal Conservatory of Music Flute Syllabus.  This is a national
+teaching curriculum used in Canada for private study and is
+over one hundred years old.  The flute curriculum is listed
+in the syllabus for grades 2, 4, 6, 8, 9, 10 and an Associate
+Certificate level.  Studies are required for all but the last.
+
+	The studies included in the database were randomly
+selected by the rolling of a die for each grade level.  A
+shortlist from which studies were selected from each grade was
+prepared based upon score availability.
+
+	Two of the studies, andersen15,12 and TG2,5, use
+the metronome markings indicated in the scores.  The rest of 
+the studies did not give any metronome markings and so an 
+experienced flute performer/teacher was consulted to suggest 
+appropriate markings for the grade level.  Those markings have 
+been included.
+
+	The studies have been encoded using **kern and include
+information on pitch, duration, articulation, and breath
+markings.
+
+	A **dynam spine includes dynamics.  In encoding
+the dynamic markings some rationalization was necessary and
+interpreted dynamic markings not found in the score have been
+preceded by X.
+
+
+Grade    File           Title                       Composer
+
+ 2   Endresen11      Supplementary Study No. 11  Endresen, R. W.
+ 2   Endresen6	     Supplementary Study No. 6   Endresen, R. W.
+ 4   Endresen37      Supplementary Study No. 37  Endresen, R. W.
+ 8   Berbiguier12    Etude No. 12                Berbiguier, Antoine
+ 8   Berbiguier4     Etude No. 4                 Berbiguier, Antoine
+ 9   TG2-5           Etude No. 5                 Taffanel, Paul and Philippe Gaubert
+10   KargElert8      Caprice No. 8               Karg-Elert, Sigfrid
+10   Andersen15-12   Etude Op. 15, No. 12        Andersen, Karl Joachim
+

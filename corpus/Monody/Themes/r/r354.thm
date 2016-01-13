@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1900///
+!!!OCL: RSC
+!!!ODT: <1900/12/31/
+!!!ODT: <1901/12/31/
+!!!OMV: Mov. Flight of the Bumble Bee
+!!!PDT: 1901///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1899///-1900
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Royssia, Moskova
+!!!theme: B
+!!!title1: Tsar Saltan
+!!!title2: Opera
+!!!statkey: a
+!!DEBUGGING: r354 % . % 1899-1900 % St. Petersburg % R354 % . % b % Flight of the Bumble Bee % orchestra % Opera % Tsar Saltan % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(p) . (R354) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1900(prf) Moscow (R354) . b Flight of the Bumble Bee orchestra Opera Tsar Saltan RIMSKY-KORSAKOV, Nikolay 1844
+**kern
+*clefF4
+*k[]
+*a:
+*M2/4
+8e\L
+8c\J
+=
+8A\L
+8F\J
+8A\L
+8c\J
+=
+4e\
+8e\L
+8c\J
+=
+8A\L
+8F\J
+8A\L
+8c\J
+=
+4e\
+*-

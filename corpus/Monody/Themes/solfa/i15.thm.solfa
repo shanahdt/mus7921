@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1937
+!!!instrument: flt, guitr
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Entr'Acte
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i15 % . % 1937 % Rome % I15 % . % a % . % flt, guitr % . % Entr'Acte % IBERT, Jacques % 1890
+**solfa
+*clefG2
+*k[]
+*F#:
+*M3/4
+*>[A,A,B]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+16meq/LL
+16faq/JJ
+4se\
+8me\L
+8fa\
+8se\
+8me\J
+=
+8fa\L
+8me\
+8re\
+8me\
+8fa\
+8re\J
+=3:|!
+*>B
+16meq/LL
+16faq/JJ
+4se\
+4fa\
+4me\
+=
+16req/LL
+16meq/JJ
+4fa\
+4me\
+4re\
+=
+8me\L
+8re\
+8do\
+8re\
+8me\
+8fa\J
+=
+*-

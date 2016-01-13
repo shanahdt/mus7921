@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: The Lake
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!AGN: Suite
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Illinois, Chicago
+!!!title1: Adventures in a Perambulator
+!!!title2: 4th Movement, The Lake
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c35 % 121 % 1914 % Chicago % C35 % . % x % 4: The Lake % orchestra % . % Adventures in a Perambulator % CARPENTER, John Alden % 1876
+**solfa
+*clefG2
+*k[]
+*D-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4so/
+4la/
+4do/
+=
+4re/
+4mi/
+8so/L
+8mi/J
+=
+4re/
+4do/
+4la/
+=
+4so/
+4mi/
+4re/
+=
+8mi/L
+8so/J
+32soq/LLL
+32doq/JJJ
+[2la/
+=
+4la/]
+*-

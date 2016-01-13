@@ -1,0 +1,60 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*D:
+[8so
+24]so
+24re
+24ti
+[8so
+24]so
+24re
+24ti
+=
+8so
+8la
+8te
+8la
+=
+16so
+16fa
+16me
+16re
+8do
+8do
+=
+*M3/4
+[8so
+24]so
+24re
+24ti
+16so
+16la
+16te
+16la
+16so
+16fa
+16me
+16re
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1921
+!!!place: Helvetia, Biarritz
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1595 % . % 1921 % Biarritz % S1595 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: n.d.///
+!!!ODT: <n.d./12/31/
+!!!splace: C
+!!!CDT: ///-
+!!DEBUGGING: . . n.d.(p) C (S1595) . . . . . . .

@@ -1,0 +1,57 @@
+**solfa
+*clefG2
+*k[f#c#]
+*M2/4
+*D:
+8so
+8ti
+=
+[4do
+16]do
+8.r
+=
+[4re
+16]re
+8.r
+=
+8mi
+[8so
+16]so
+16mi
+16do
+16ti
+=
+4.la
+8la
+=
+16so
+16la
+16ti
+16do
+4fa
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1937///-1938
+!!!place: France, Paris
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1534b % . % 1937-1938 % Paris % S1534b % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1938///
+!!!ODT: <1938/12/31/
+!!!splace: S
+!!!CDT: ///-
+!!DEBUGGING: . . 1938(p) S (S1534b) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1938///
+!!!ODT: <1938/12/31/
+!!!splace: United States of America, Washington D.C.
+!!!CDT: ///-
+!!DEBUGGING: . . 1938(prf) Washington D.C. (S1534b) . . . . . . STRAVINSKY, Igor

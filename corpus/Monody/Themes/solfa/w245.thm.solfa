@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1819/12/31/
+!!!PDT: 1819///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1819
+!!!place: Deutschland, Hosterwitz 
+!!!splace: Deutschland, Berlin
+!!!title1: Polacca Brillante, Op. 72, Pft.
+!!!statkey: E
+!!DEBUGGING: w245 % . % 1819 % Hosterwitz, Germany % W245 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1819(p) Berlin (W245) . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+8.mit\L
+16re\Jk
+8.do\L
+16so\Jk
+16.mi\LL
+32do\k
+16.mi\
+32la\JJk
+=
+16.so\LL
+32fa\k
+16.re\
+32ti\JJk
+16.so\LL
+32la\k
+16.so\
+32ti\JJk
+4re\
+=
+8.faT\L
+16re\Jk
+8.ti\L
+16la\Jk
+16.so\LL
+32fa\k
+16.mi\
+32re\JJk
+=
+16.do\LL
+32do\k
+16.la\
+32fi\JJk
+16.so\
+*-

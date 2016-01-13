@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: La Neapolitaine
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 2 in D Minor
+!!!title2: 5th Movement, La Neapolitaine
+!!!statkey: D
+!!DEBUGGING: c20 % . % 1731 % Paris % C20 % . % x % 5: La Neapolitaine % cello, piano % . % Suite No. 2 in D Minor % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**kern
+*clefF4
+*k[f#c#]
+*D:
+*M2/2
+4d\
+=
+4d\
+4A\
+4A\
+4d\
+=
+8dq/
+2e\
+4A\
+4e\
+=
+4e\
+4A\
+4A\
+4e\
+=
+8eq/
+4.f#\
+8e\
+4d\
+*-

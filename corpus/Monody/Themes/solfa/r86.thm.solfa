@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1739///
+!!!OCL: RSC
+!!!ODT: <1739,1744/12/31/
+!!!ODT: <1739/12/31/
+!!!OMV: Mov. Air en Rondeau
+!!!PDT: 1739,1744///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739,1744(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Dardanus
+!!!title2: Opera
+!!!statkey: D
+!!DEBUGGING: r86 % . % 1739,1744(p) % Paris % R86 % . % x % Air en Rondeau % orchestra % Opera % Dardanus % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1739(prf) . (R86) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/0
+4mi\
+8so/L
+8so/J
+=
+4soT/
+4fa/
+4re\
+8fa/L
+8fa/J
+=
+4faT/
+4mi/
+4do\
+8do/L
+8do/J
+=
+8do/L
+8do/
+8do/
+8re/J
+8mit/L
+8re/
+8mi/
+8fa/J
+=
+2reT/
+*-

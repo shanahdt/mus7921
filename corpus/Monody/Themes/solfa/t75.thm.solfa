@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1930/12/31/
+!!!PDT: 1930///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930(p)
+!!!place: Deutschland, Kassel
+!!!title1: Suite in A Minor, Str. & Pft.
+!!!title2: Overture
+!!!statkey: a
+!!DEBUGGING: t75 % 483 % 1930(p) % Kassel % T75 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+4.do/
+8me\
+4.reT\
+8do/
+=
+16soq/LL
+16faq/JJ
+2.so\
+8r
+8so\
+=
+16doq/LL
+16tiq/JJ
+4.do\
+8do\
+4.re\
+8me\
+=
+4me\
+2te\
+8r
+8do\
+=
+8teq/
+4.lat\
+8so\
+8.la\L
+16so\k
+8.fa\
+16so\Jk
+=
+4sot\
+*-

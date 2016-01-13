@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1825//
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 183///
+!!!PPP: Deutschland, Berlin
+!!!OTL: Quartet in A Minor
+!!!OPS: Op. 132
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8f/L
+8g/
+8a/J
+=
+4..b-\
+16a/
+4g/
+4g/
+=
+4b-\
+8a/L
+8g/J
+4f/
+8g/L
+8a/J
+=
+4.g/
+8e/
+4.f/
+8Bn/
+=
+4c/
+*-

@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1812///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1814///
+!!!PDT: 1817///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Symphony No.8 in F    
+!!!OPS: Op. 93
+!!!SET: No. 8
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+[2mi\
+8.mi\L]
+16do\Jk
+=
+2.do\
+=
+[2fa\
+8.fa\L]
+16do\Jk
+=
+2.do\
+=
+[2la\
+8.la\L]
+16do\Jk
+=
+2ti\
+8so\
+8r
+=
+8so\
+8r
+8fa\
+8r
+8re\
+8r
+=
+2.do\
+=
+*-

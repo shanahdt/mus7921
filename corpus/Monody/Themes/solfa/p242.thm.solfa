@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1936///
+!!!OCL: RSC
+!!!ODT: <1936/12/31/
+!!!OPS: Opus 67
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936(prf)
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: B: THE BIRD
+!!!title1: Peter and the Wolf
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p242 % . % 1936(prf) % Moscow % P242 % 67 % b: The Bird % . % orchestra % . % Peter and the Wolf % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936 . (P242) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8soq/
+8fa\L
+8re\J
+8soq/
+8fi\L
+8fi\J
+8fi\L
+8fi\J
+8soq/
+8fi\L
+8re\J
+=
+16do\LL
+16ra\
+16de\
+16te\JJ
+8la/L
+24so/L
+24la/
+24so/JJ
+8fa\L
+8fa\
+8te\
+8re\J
+=
+*-

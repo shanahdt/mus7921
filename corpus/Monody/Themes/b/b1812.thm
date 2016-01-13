@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!ref: COM CDT, OTL, thm
+!!!COM: Buxtehude, Dietrich
+!!!CDT: c1637///-1707/05/09/
+!!!CNT: German; Danish
+!!!OTL: Prelude and Fugue No. 8 in E Major for Organ
+!!!thm: B (Fugue)
+!!!AIN: organ
+!!!OCY: 
+!!!OPC:      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4r
+4b\
+4g#/
+4cc#\
+=
+4b\
+4ee\
+16dd#\LL
+16ee\
+16cc#\
+16dd#\JJ
+16b\LL
+16cc#\
+16a\
+16b\JJ
+=
+16g#/LL
+16b/
+16cc#/
+16dd#/JJ
+16ee/LL
+16g#/
+16a/
+16g#/JJ
+8f#\L
+8ff#\
+8b\
+8ee\J
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1735///
+!!!OCL: RSC
+!!!ODT: <1735/12/31/
+!!!OMV: Mov. Musette
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1735(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Alcina
+!!!title2: Opera
+!!!statkey: g
+!!DEBUGGING: h129 % 219 % 1735(prf) % London % H129 % . % x % Musette % orchestra % Opera % Alcina % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+16do/LK
+8.so/
+16mi/K
+8.do/J
+2la\
+=
+16so\LK
+8.re\
+16mi\K
+8.ti\J
+2do\
+=
+16do/LK
+8.so/
+16mi/K
+8.do/J
+2la\
+=
+16so\LK
+8.mi\
+16fa\K
+8.re\J
+2do\
+=
+*-

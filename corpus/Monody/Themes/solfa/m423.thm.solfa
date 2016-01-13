@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No.5
+!!!OPS: Opus 12
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n/a
+!!!instrument: piano
+!!!place: ?
+!!!theme: A
+!!!title1: Spanish Dances
+!!!title2: Bolero
+!!!statkey: D
+!!DEBUGGING: m423 % . % n/a % n/a % M423 % 12 No.5 % a % . % piano % Bolero % Spanish Dances % MOSZKOWSKI, Moritz % 1854
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+[4so\
+16so\LL]
+32r
+32la\k
+16so\
+32r
+32fa\JJk
+16mi\LL
+32r
+32fa\k
+16re\
+32r
+32mi\JJk
+=
+4do\
+8so/
+8r
+8..do\L
+32re\Jkk
+=
+[4mi\
+16mi\LL]
+32r
+32fa\k
+16mi\
+32r
+32re\JJk
+16do\LL
+32r
+32ti\k
+16la\
+32r
+32ti\JJk
+=
+2so/
+*-

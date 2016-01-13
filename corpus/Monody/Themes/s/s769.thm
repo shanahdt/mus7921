@@ -1,0 +1,48 @@
+**kern
+*clefG2
+*k[]
+*M3/4
+*C:
+4ccc
+4fff
+4eee
+=
+4ddd
+4eee
+4ddd
+=
+4ccc#
+4ccc
+4bb
+=
+8.ddd
+16ccc
+4bb
+4aa
+=
+4gg
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1845///-1846
+!!!place: Deutschland, Dresden
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s769 % 431 % 1845-1846 % Dresden % S769 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1847///
+!!!ODT: <1847/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1847(p) ? (S769) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1846///
+!!!ODT: <1846/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . 431 1846(prf) Leipzig (S769) . . . . . . SCHUMANN, Robert

@@ -1,0 +1,63 @@
+!!!ref: COM CDT, OPR, OPS, OTL, thm
+!!!COM: Dvorák, Antonin
+!!!CDT: 1841/09/08/-1904/05/01/
+!!!CNT: Czech
+!!!OPR: Slavonic Dances for Orchestra
+!!!OPS: Op. 46
+!!!OTL: Slavonic Dance No. 6
+!!!SET: No. 6 
+!!!thm: A       
+!!!AIN: orchestra        
+!!!ODT: 1878///
+!!!OCY: Czechoslovakia
+!!!OPC: Prague
+!!!PDT: 1878///
+!!!PPP: Deutschland, Berlin
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+8ff#\L
+8gg\
+8aa\
+8dd\J
+4ff#t\
+=
+8ee\L
+8ff#\
+8ee\
+8cc#\J
+4a/
+=
+8b\L
+8cc#\
+8dd\
+8g\J
+4bT\
+=
+8a/L
+8b/
+8a/
+8f#/J
+4d/
+=
+2f#/
+8e/L
+8g/J
+=
+2f#/
+8e/L
+8g/J
+=
+[2.f#/
+=
+8f#/]
+*-

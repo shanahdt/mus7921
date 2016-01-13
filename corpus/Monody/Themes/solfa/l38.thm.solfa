@@ -1,0 +1,71 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1875/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 21
+!!!PDT: 1875///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: violn, orchestra
+!!!place: France, Paris(?)
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Symphonie Espagnole
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: l38 % . % 1874 % Paris? % L38 % 21 % b % 2 % violn, orchestra % . % Symphonie Espagnole % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1875(p) Paris (L38) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/8
+8so\
+=
+[4.re\
+=
+4re\]
+8re\
+=
+4re\
+[8do\
+=
+8do\]
+4re\
+=
+[4.mi\
+!!   Encoding error:  changing 2 to 4
+=
+4.mi\_
+!!   Encoding error:  changing 2 to 4
+=
+4mi\]
+!!   Encoding error:  changing 2 to 4
+8r
+=
+4so\
+8so\
+=
+[4.re\
+!!   Encoding error:  changing 2 to 4
+=
+4re\]
+8re\
+=
+4re\
+[8do\
+=
+8do\]
+4re\
+=
+4.mi\
+!!   Encoding error:  changing 2 to 4
+=
+*-

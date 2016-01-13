@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1839///
+!!!OCL: RSC
+!!!ODT: <1839/12/31/
+!!!ODT: <n.d./12/31/
+!!!OMV: Mov. Intro
+!!!OPS: Opus 95
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1839
+!!!instrument: orchestra
+!!!place: D&uuml;sseldorf
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Ruy Blas
+!!!statkey: c
+!!DEBUGGING: m253 % 303 % 1839 % D&uuml;sseldorf % M253 % 95 % a % Intro % orchestra % . % Ruy Blas % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1839(prf) Leipzig (M253) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 303 n.d.(p) Leipzig (M253) 95 a Intro orchestra . Ruy Blas MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/2
+=
+4r
+8r
+8so/
+8fi/L
+8so/
+8le/
+8so/J
+=
+8me\L
+8re\
+8do\
+8so\J
+8fi/L
+8so/
+8le/
+8so/J
+=
+8so\L
+8me\
+8do\
+8do\J
+8ti\L
+8do\
+8re\
+8do\J
+=
+2do\
+8te\L
+8le\
+8so\
+8fi\J
+=
+4fi\
+4so\
+*-

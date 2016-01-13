@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeffler, Charles Martin
+!!!CDT: 1861/01/30/-1935/05/19/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1894
+!!!instrument: string
+!!!place: United States of America, Massachusetts, Boston
+!!!theme: B
+!!!title1: Quintet in One Movement
+!!!statkey: F
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l259 % . % 1894 % Boston % L259 % . % b % . % string % . % Quintet in One Movement % LOEFFLER, Charles Martin % 1861
+**solfa
+*clefG2
+*k[b-]
+*D-:
+*M4/4
+!! ! NB. Key & key signature disagree.
+8mi/
+8r
+=
+4.re/
+8do/
+8re/L
+8mi/
+8fa/
+8so/J
+=
+8la/L
+8so/J
+4r
+4r
+8mi/
+8r
+=
+4.re/
+8do/
+8re/L
+8mi/
+8fa/
+8mi/J
+=
+8re/L
+8r
+8do/J
+8r
+8la/
+8r
+*-

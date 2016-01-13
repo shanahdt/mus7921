@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1888///
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888(prf)
+!!!place: Deutschland, Muenchen
+!!!splace: Wu\3rzburg
+!!!title1: Die Feen, Opera
+!!!title2: Overture
+!!!statkey: E
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w12 % . % 1888(prf) % Munich % W12 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1834 Wu\3rzburg (W12) . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*F-:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+8r
+8my/L
+8fi/
+8ri/J
+8di/L
+8ty/
+8se/
+8fi/J
+=
+8ri\L
+8ri\J
+2di\
+4ty\
+=
+8fi\L
+8fi\J
+2my\
+4ri\
+=
+2fi\
+4se\
+4r
+=
+*-

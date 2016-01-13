@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Symphony No. 4 in E Flat Major
+!!!OTP: Romantic
+!!!OMV: Mov. 3
+!!!thm: A
+!!!AIN: orchestra
+!!!ODT: 1874///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefF4
+*k[b-e-]
+*B-:
+*M2/4
+16do\
+=
+8do\L
+8do\J
+12do\L
+12so\
+12do\J
+=
+4do\
+8.r
+*clefG2
+16so/
+=
+8so/L
+8so/J
+12so/L
+12mi/
+12so/J
+=
+4so/
+8.r
+16do\
+=
+12do/L
+12so/
+12mi/J
+8so/
+16r
+16do\
+=
+12do/L
+12so/
+12mi/J
+8so/
+*-

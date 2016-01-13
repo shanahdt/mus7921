@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!ONM: No. 91
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!theme: A
+!!!title1: Symphony in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!!DEBUGGING: h579 % . % 1788 % Eszterh&aacute;za % H579 % B. & H. No. 91 % a % 3 % orchestra % . % Symphony in E Flat % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+4b-\
+=
+4ee-\
+4e-/
+4ff\
+=
+4gg\
+4e-/
+32gg\LLL
+32aa-\JJ
+8.bb-\J
+=
+12aa-\L
+12gg\
+12ff\J
+12ee-\L
+12dd\
+12cc\J
+12b-\L
+12cc\
+12a-\J
+=
+4g/
+4e-/
+*-

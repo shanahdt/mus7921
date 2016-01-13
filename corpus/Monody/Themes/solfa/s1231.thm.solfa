@@ -1,0 +1,61 @@
+**solfa
+*clefG2
+*k[]
+*M3/4
+*C:
+4.do
+8do
+=
+4do
+8la
+8r
+[4la
+=
+4]la
+4.do
+8do
+=
+4do
+8la
+8r
+[4la
+=
+4]la
+4.la
+8do
+=
+4ti
+8fa
+8r
+[4fa
+=
+4]fa
+4.la
+8ti
+=
+4do
+8mi
+8r
+4mi
+=
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!MPD: 1885///
+!!!ODT: <1885/12/31/
+!!!date: 1885(prf)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1231 % . % 1885(prf) % Vienna % S1231 % . % . % . % . % . % . % STRAUSS, Johann Jr.
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1886///
+!!!ODT: <1886/12/31/
+!!!splace: Deutschland, Hamburg
+!!!CDT: ///-
+!!DEBUGGING: . . 1886(p) Hamburg (S1231) . . . . . . .

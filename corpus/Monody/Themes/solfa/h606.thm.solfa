@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1792///
+!!!OCL: RSC
+!!!ODT: <1792/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 94
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony in G
+!!!title2: "Surprise"
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h606 % 243 % 1791 % London % H606 % B. & H. No. 94 % b % 4 % orchestra % "Surprise" % Symphony in G % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1792(prf) . (H606) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*D:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8do\
+=
+8ti/L
+8so/
+8fa/
+8re/J
+=
+4.do/
+8do\
+=
+8ti\L
+8so\
+8so\
+8so\J
+=
+8.so\L
+16mi\Jk
+8do\
+*-

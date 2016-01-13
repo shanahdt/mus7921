@@ -1,0 +1,60 @@
+**kern
+*clefG2
+*k[b-e-]
+*met(C)
+*M4/4
+*g:
+4gg
+[4dd
+16dd]
+16b-
+16a
+16b-
+8.f#
+16f#
+=
+[4g
+8]g
+24g
+24f
+24e-
+8d
+8r
+[8d
+32]d
+32g
+32b-
+32dd
+=
+4ff
+[8ff
+32]ff
+32dd
+32b-
+32g
+4f#
+[8g
+24]g
+24a
+24b-
+=
+4a
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1868
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s23 % . % 1868 % Paris? % S23 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1868///
+!!!ODT: <1868/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1868(p) Paris (S23) . . . . . . .

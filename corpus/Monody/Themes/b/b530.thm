@@ -1,0 +1,49 @@
+!!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1798///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: Deutchland, Leipzig
+!!!OTL: Concerto No.2 in B Flat for Piano
+!!!SET: No.2
+!!!OPS: Op. 19
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2ff\
+8een\L
+8dd\
+8cc\
+8b-\J
+=
+4a/
+4r
+8dd\L
+8cc\
+8b-\
+8a\J
+=
+4g/
+4g/
+4g/
+4a/
+=
+2cc\
+4b-\
+*-

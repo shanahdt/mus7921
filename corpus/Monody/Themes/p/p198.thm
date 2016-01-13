@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 25
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1916///-1917
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Classical Symphonyy
+!!!title2: 2nd Movement
+!!!statkey: f#
+!!DEBUGGING: p198 % . % 1916-1917 % Petrograd % P198 % 25 % x % 2 % orchestra % . % Classical Symphonyy % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (P198) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4.aaa\
+16ggg#\LL
+16aaa\JJ
+16ggg#\LL
+16r
+16fff#\
+16ggg#\JJ
+=
+16fff#\LK
+16r
+8eee\
+8ddd\
+8ccc#\
+8bb\
+8aa\J
+=
+4gg#t\
+8ccc#\L
+16ddd\L
+16ccc#\JJ
+16bb\LL
+16aa\J
+8gg#\J
+=
+4.ff#\
+24ff#\LL
+24aa\JJ
+24r
+24aa\LL
+24ee#\JJ
+24r
+24ee#\LL
+24bb\JJ
+24r
+=
+4.ff#\
+*-

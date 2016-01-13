@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1840/12/31/
+!!!OMV: Mov. (Paganini Vn. Concerto No. 7 B Minor)
+!!!PDT: 1840///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1838
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: (6) Grandes Etudes de Paganini
+!!!title2: Etude No. 3 in G Sharp
+!!!statkey: g#
+!!DEBUGGING: l121 % . % 1838 % Vienna % L121 % . % a % (Paganini Vn. Concerto No. 7 B Minor) % piano % Etude No. 3 in G Sharp % (6) Grandes Etudes de Paganini % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1840(p) . (L121) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#a#]
+*g#:
+*M6/8
+8so/
+8so\
+8so\
+8fa\
+=
+8my\
+8my\
+8re/
+8do/
+8ti/
+8do/
+=
+8re/
+8so/
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Verdi, Giuseppe
+!!!CDT: 1813/10/9-10/-1901/01/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!PDT: 1876///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1876(p)
+!!!place: Italia, Milano
+!!!title1: Quartet in E Minor, Str.
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: v85 % 502 % 1876(p) % Milan % V85 % . % . % . % . % . % . % VERDI, Giuseppe % 1813
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8re\L
+16r
+16do\Jk
+4me\
+4so/
+=
+8re\L
+16r
+16do\Jk
+4me\
+4so/
+=
+8.mi\L
+16ri\k
+8.mi\
+16ri\k
+8.mi\
+16ri\Jk
+=
+2.mi\
+=
+8fa\L
+16r
+16mi\Jk
+4la\
+8so\
+8r
+=
+8re\L
+16r
+16do\Jk
+4fa\
+8mi\
+8r
+=
+*-

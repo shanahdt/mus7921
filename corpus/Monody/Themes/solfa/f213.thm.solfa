@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Rondeau
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: violn, piano or cemba
+!!!place: France, Paris
+!!!title1: Sonata in D Minor
+!!!title2: 5th Movement (Rondeau)
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: f213 % . % 1773 % Paris % F213 % . % x % 5: Rondeau % violn, piano or cemba % . % Sonata in D Minor % FRANCOEUR, Fran&ccedil;ois % 1698
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+8r
+8do/L
+8re/
+8me/J
+8me/L
+8re/
+8do/
+8ti/J
+=
+8do/L
+8do/
+8re/
+8me/J
+8me/L
+8re/
+8do/
+8ti/J
+=
+8do/L
+8do/
+8re/
+8me/J
+8me/L
+8re/
+8do/
+8ti/J
+=
+8do/L
+8ti/
+8do/
+8re/J
+8me\L
+8re\
+8me\
+8fa\J
+=
+8so\L
+8so\
+8so\
+8so\J
+*-

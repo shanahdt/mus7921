@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Courant
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 7 in D Minor
+!!!title2: Courant
+!!!statkey: d
+!!DEBUGGING: p361 % . % n.d. % London % P361 % . % x % Courant % cemba % . % Suite No. 7 in D Minor % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/4
+16do/
+=
+4do/
+8r
+4so/
+[8do/
+=
+8do/L]
+8re/J
+4.reT/
+16do/LL
+16re/JJ
+=
+8r
+4me/
+4do/
+[8so/
+=
+8so/L]
+8le/J
+4.faT/
+16me/LL
+16fa/JJ
+=
+*-

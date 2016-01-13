@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: <1717///
+!!!OCY: Deutschland
+!!!OPC: C&ouml;then
+!!!OTL: Brandenberg Concerto No.1 in F
+!!!SET: No. 1 
+!!!AIN: cor  Cstr fagot oboe cemba violn
+!!!OMV: Mov. 2
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*M3/4
+*d:
+[4so
+8so]
+16le
+16so
+16fa
+16me
+16re
+32fa
+32me
+=
+[4fa
+8fa]
+16so
+16le
+16so
+16fa
+16me
+32fa
+32re
+=
+32me
+32fa
+32me
+32re
+16do
+32re
+32ti
+8.do
+*-

@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Saraband
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 2 in G Minor
+!!!title2: Saraband
+!!!statkey: g
+!!DEBUGGING: p359 % . % n.d. % London % P359 % . % x % Saraband % cemba % . % Suite No. 2 in G Minor % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4meT\
+4.me\
+8fa\
+=
+8faq/
+4so\
+4.reT/
+8so\
+=
+8.do\L
+16do\Jk
+8.le\L
+16so\Jk
+8.fa\L
+16me\Jk
+=
+2reT/
+*-

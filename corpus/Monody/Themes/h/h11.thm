@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1863/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1863///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1863(p)
+!!!instrument: oboe, orchestra
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Hamburg(?)
+!!!title1: Concerto No. 3 in G Minor
+!!!title2: 3rd Movement
+!!!statkey: F
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h11 % . % 1863(p) % Leipzig % H11 % . % x % 3 % oboe, orchestra % . % Concerto No. 3 in G Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1703? Hamburg? (H11) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*B-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4ff\
+4.ff\
+8ee-\
+=
+4.dd\
+8ee-\
+4ff\
+=
+4b-\
+4gg\
+4ee-\
+=
+4.cc\
+8cc\L
+8dd\
+8ee-\J
+=
+4ff\
+4.ff\
+8ee-\
+=
+4dd\
+*-

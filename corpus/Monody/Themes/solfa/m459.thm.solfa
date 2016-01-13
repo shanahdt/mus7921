@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 449 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Concerto in E Flat
+!!!title2: 1st Movement
+!!!statkey: c
+!!DEBUGGING: m459 % . % 1784 % Vienna % M459 % K 449  % a % . % piano, orchestra % . % Concerto in E Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+2.do\
+=
+2.la\
+=
+4mi/
+4.fit/
+16mi/LL
+16fi/JJ
+=
+2.so\
+=
+4re/
+4.mit/
+16re/LL
+16mi/JJ
+=
+4.fa/
+8so\
+4la\
+=
+4so/
+4la/
+4ti/
+=
+8do/
+*-

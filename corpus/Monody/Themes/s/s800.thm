@@ -1,0 +1,72 @@
+**kern
+*clefG2
+*k[f#c#]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*A:
+4e
+[4ee
+8.]ee
+16ff
+8.ff#
+16dd
+=
+4dd
+[4cc#
+8.]cc#
+16cc#
+8.ee
+16a
+=
+4a
+[4a-
+8.]a-
+16a-
+8.b
+16f#
+=
+8e
+8f#
+8a-
+8a
+8b
+8cc#
+8dd
+8ee-
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s800 % . % 1841 % Leipzig % S800 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!splace: D&uuml;sseldorf
+!!!CDT: ///-
+!!DEBUGGING: . . 1851(rev) D&uuml;sseldorf (S800) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) ? (S800) . . . . . . SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(prf) Leipzig (S800) . . . . . . SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1852///
+!!!ODT: <1852/12/31/
+!!!splace: D&uuml;sseldorf
+!!!CDT: ///-
+!!DEBUGGING: . . 1852(prf) D&uuml;sseldorf (S800) . . . . . . SCHUMANN, Robert

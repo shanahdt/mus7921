@@ -1,0 +1,39 @@
+!!!ACO: Classical; RSC
+!!!COM: Medtner, Nicolas
+!!!CDT: 1880/01/05/-1951/11/13/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 20
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!title1: Fairy Tales
+!!!statkey: b-
+!!DEBUGGING: m190 % . % 1909 % Moscow % M190 % 20 No. 1 % x % . % piano % . % Fairy Tales % MEDTNER, Nicolas % 1880
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M4/4
+12r
+12do\L
+12re\J
+=
+12me\L
+12re\
+12me\J
+8do/L
+8te/J
+8so/L
+8fa/J
+8re/L
+8me/J
+=
+1do/
+=
+*-

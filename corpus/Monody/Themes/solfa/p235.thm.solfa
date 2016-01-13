@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1921///
+!!!OCL: RSC
+!!!ODT: <1921/12/31/
+!!!OMV: Mov. Scherzo
+!!!OPS: Opus 33
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, Illinois, Chicago
+!!!title1: Love of Three Oranges
+!!!title2: Opera
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p235 % . % 1919 % New York % P235 % 33 % x % Scherzo % orchestra % Opera % Love of Three Oranges % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1921(prf) Chicago (P235) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*F#:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+8do/L
+8mi/
+8do/J
+8do/L
+8mi/
+8do/J
+=
+8do/L
+8mi/
+8do/J
+8do/L
+8mi/
+8do/J
+=
+8do/L
+8re/
+8me/J
+8mi\L
+8fa\
+8so\J
+=
+4le\
+8r
+4fa\
+(40me\LLL
+40te\
+40le\
+40se\
+40fa\JJJ)
+=
+4mi/
+*-

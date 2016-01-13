@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Bartók, Béla
+!!!CDT: 1881/03/25/-1945/09/26/
+!!!CNT: Hungarian
+!!!ODT: 1907///-1908///?
+!!!OCY: Hungary
+!!!OPC: Budapest
+!!!OTL: Concerto for Violin and Orchestra
+!!!OPS: Op. 8c
+!!!ONM: No. 2
+!!!OMV: Mov. 2
+!!!AIN: orchestra violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*D:
+*M9/8
+=
+!! ! NB. Key & key signature disagree.
+16r
+16do\
+8do\L
+8ti\J
+8ti\L
+8la\
+16so\L
+16la\JJ
+8fa/
+4do/
+=
+16r
+16do/
+8fa/L
+8so/J
+8.la\L
+16so\k
+16la\L
+16ti\JJ
+8do\
+4so/
+=
+*-

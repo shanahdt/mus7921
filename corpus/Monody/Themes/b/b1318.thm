@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Borodin, Alexander
+!!!CDT: 1833/11/12/-1887/02/27/
+!!!CNT: Russian
+!!!ODT: 1869///-1876///
+!!!OCY: Rossiya
+!!!OPC: Sankt-Peterburg
+!!!PDT: 1887///
+!!!PPP: Rossiya, Sankt-Peterburg
+!!!OTL: Symphony No. 2 in B Minor
+!!!OMV: Mov. 4
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M3/4
+=
+8bb\L
+16bb\L
+16ccc#\JJ
+16bb\LL
+16gg#\J
+8ff#\J
+8dd#\L
+8ff#\J
+=
+*M2/4
+8cc#\L
+8ee\J
+16dd#\LL
+16cc#\J
+8b\J
+=
+*-

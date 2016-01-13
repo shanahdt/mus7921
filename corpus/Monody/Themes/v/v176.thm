@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1705/12/31/
+!!!PDT: 1705///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1705(p)
+!!!place: Italia, Venezia
+!!!title1: Trio Sonata in G Minor, Op. 1, No. 1, 2 Vns. & Pft.
+!!!title2: 2nd Movement (Allemande)
+!!!statkey: g
+!!DEBUGGING: v176 % 506 % 1705(p) % Venice % V176 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+8dd\
+=
+8gg\L
+8dd\
+8aa\
+8dd\J
+4bb-\
+8r
+8aa\
+=
+8gg\L
+8dd\
+8aa\
+8dd\J
+4.bb-\
+8gg\
+=
+8aa-\L
+8ff#\J
+2gg\
+4ff#\
+=
+4gg\
+*-

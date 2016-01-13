@@ -1,0 +1,49 @@
+**solfa
+*clefG2
+*k[b-e-a-]
+*M6/8
+*c:
+8do
+=
+8do
+8me
+8so
+8do
+8me
+8re
+=
+4.do
+8so
+8r
+8so
+=
+8so
+8le
+8fa
+8fa
+8so
+8me
+=
+8me
+8fa
+8re
+4do
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1827
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s290 % . % 1827 % Vienna % S290 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1870///
+!!!ODT: <1870/12/31/
+!!!splace: Deutschland, Leipzig(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1870(p) Leipzig? (S290) . . . . . . .

@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV 
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!PDT: 1726///-1731///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Partita No.6 in E Minor
+!!!SET: No. 6
+!!!OMV: Courante
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/8
+16so\
+=
+16so/LK
+8do/
+8ti/
+16do/Jk
+=
+16re/LK
+8le/
+8so/
+[16fa/Jk
+=
+16fa/LK]
+!!   B&M Encoding error?  8 changed to 16?
+8me/
+32re/LL
+32do/J
+16re/
+[16fa/JJ
+=
+16fa/LL]
+16ti/JJ
+*-

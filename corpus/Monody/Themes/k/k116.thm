@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: A
+!!!title1: Tambourin Chinois
+!!!statkey: g
+!!DEBUGGING: k116 % . % n.d.(c) % ? % K116 % 3 % a % . % violn, piano % . % Tambourin Chinois % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+8ggT\
+=
+8ff\L
+8dd\
+8cc\
+8b-\J
+=
+8g/L
+8f/J
+4g/
+=
+16cc\LL
+16dd\
+16cc\
+16b-\JJ
+4g/
+=
+16cc\LL
+16dd\
+16cc\
+16b-\JJ
+4g/
+=
+16cc\LL
+16dd\
+16cc\
+16b-\JJ
+16g/LL
+16a/
+16g/
+16f/JJ
+=
+16d/LL
+16f/
+16d/
+16B-/JJ
+4G/
+=
+*-

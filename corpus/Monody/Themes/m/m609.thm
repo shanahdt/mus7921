@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1775///
+!!!OCL: RSC
+!!!ODT: <1775/12/31/
+!!!OPS: Opus K 208
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Il Re Pastore
+!!!title2: Overture
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m609 % . % 1775(prf) % Salzburg % M609 % K 208 % b % . % orchestra % Overture % Il Re Pastore % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[]
+*G:
+*M4/4
+!! ! NB. Key & key signature disagree.
+8.b\L
+16b\Jk
+=
+4b\
+8cc\L
+8b\J
+8a/L
+8b/
+8cc/
+8a/J
+=
+4.dd\
+8b\
+4g/
+16b/LK
+8.g/J
+=
+16f#/LK
+8.e/J
+16cc/LK
+8.a/J
+16g/LK
+8.f#/J
+16ee\LK
+8.cc\J
+=
+8b/L
+8g/
+8cc/
+8a/J
+4dd\
+*-

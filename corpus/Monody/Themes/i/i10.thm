@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Waltz
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: Italia, Roma(?)
+!!!theme: A
+!!!title1: Divertissement
+!!!title2: 4th Movement (Waltz)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i10 % . % 1930 % Rome? % I10 % . % a % 4: Waltz % orchestra % . % Divertissement % IBERT, Jacques % 1890
+**kern
+*clefG2
+*k[]
+*E:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+16r
+16gg#\LL
+16gg#\
+16gg#\
+16ff##\
+16gg#\JJ
+=
+16r
+16gg#\LL
+16gg#\
+16gg#\
+16ff##\
+16gg#\JJ
+=
+16r
+16gg#\LL
+16gg#\
+16aa\
+16aa#\
+16bb\JJ
+=
+16r
+16ccc#\LL
+16ccc#\
+16bb\
+16aa#\
+16bb\JJ
+=
+*-

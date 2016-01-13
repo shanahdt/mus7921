@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1817///
+!!!OCL: RSC
+!!!ODT: <1817/12/31/
+!!!ODT: <1822-1823/12/31/
+!!!PDT: 1822-1823///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1817(prf)
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: C
+!!!title1: La Cenerentola
+!!!title2: Overture
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r380 % . % 1817(prf) % Rome % R380 % . % c % . % orchestra % Overture % La Cenerentola % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1822-1823(p) Paris (R380) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4c#/
+4d/
+=
+4d#/
+8e/
+8r
+=
+4c#/
+4d/
+=
+4d#/
+8e/
+8r
+=
+4.cc#\
+8g/
+=
+4.a/
+8e#/
+=
+8f#/L
+8e/
+8d/
+8c#/J
+=
+4e/
+8d/
+8r
+=
+*-

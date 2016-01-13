@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 285 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: flt, string
+!!!place: Deutschland, Mannheim
+!!!title1: Quartet in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: m612 % 322 % 1777 % Mannheim % M612 % K 285  % x % 1 % flt, string % . % Quartet in D % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+2so\
+[4mit\
+8.mi\L]
+16fa\Jk
+=
+8la\L
+8so\J
+2so\
+16faq/
+8mi\L
+16re\L
+16do\JJ
+=
+8do\L
+16re\L
+16mi\JJ
+16fa\LL
+16so\
+16la\
+16ti\JJ
+16do\LL
+16ti\
+16do\
+16ti\JJ
+16do\
+*-

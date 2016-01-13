@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1901///
+!!!OCL: RSC
+!!!ODT: <1901/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 18
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1900///-1901
+!!!instrument: piano, orchestra
+!!!place: Italia
+!!!splace: ?
+!!!theme: AB
+!!!title1: Concerto No. 2 in C Minor
+!!!title2: 2nd Movement
+!!!statkey: c#
+!!DEBUGGING: r10 % . % 1900-1901 % Italy % R10 % 18 % ab % 2 % piano, orchestra % . % Concerto No. 2 in C Minor % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(prf) ? (R10) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/2
+=
+4gg#\
+[4gg#\
+8gg#\L]
+8gg#\
+8ff#\
+8gg#\J
+8gg#\L
+8aa\
+8ff#\
+8ee\J
+=
+*M4/4
+[2gg#\
+8gg#\L]
+8ff#\
+8gg#\
+8ff#\J
+=
+[2.gg#\
+8gg#\]
+8r
+=
+*-

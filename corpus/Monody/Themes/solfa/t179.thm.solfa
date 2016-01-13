@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!PDT: 1876///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1876(p)
+!!!place: Royssia, Moskova
+!!!title1: The Seasons, Pft.
+!!!title2: Trioka (November) Op. 37, No. 11
+!!!statkey: G
+!!DEBUGGING: t179 % . % 1876(p) % Moscow % T179 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4.fa\
+8fa\
+8.fa\L
+32mi\LL
+32re\JJJ
+8do\L
+8so\J
+=
+8la\L
+8do\J
+2so\
+16la\LL
+16so\
+16fa\
+16mi\JJ
+=
+8fa\
+*-

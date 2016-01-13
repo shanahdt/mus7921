@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1735?///
+!!!OCL: RSC
+!!!ODT: <1735?/12/31/
+!!!ODT: <1738/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 2
+!!!OPS: Opus 4
+!!!PDT: 1738///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1738(p)
+!!!instrument: organ, orchestra
+!!!place: England, London
+!!!title1: Concerto No. 2 in B Flat 
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: h18 % . % 1738(p) % London % H18 % 4 No. 2 % x % 1 % organ, orchestra % . % Concerto No. 2 in B Flat  % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1735?(prf) . (H18) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4.b-\
+16r
+16f/
+8.b-\L
+16b-\k
+8.dd\
+16b-\Jk
+=
+4.ff\
+16r
+16cc\
+8.ff\L
+16ff\k
+8.aa\
+16ff\Jk
+=
+4.bb-\
+*-

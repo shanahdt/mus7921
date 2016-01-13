@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1865///
+!!!OCL: RSC
+!!!ODT: <1860/12/31/
+!!!ODT: <1865/12/31/
+!!!PDT: 1860///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1859
+!!!place: Helvetia, Lucerne
+!!!splace: Deutschland, Leipzig
+!!!splace: Deutschland, Muenchen
+!!!title1: Tristan und Isolde, Opera
+!!!title2: Act III, Love Death
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w91 % . % 1859 % Lucerne, Switzerland % W91 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1865(prf) Munich (W91) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1860(p) Leipzig (W91) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[]
+*D:
+*M4/4
+!! ! NB. Key & key signature disagree.
+8dd\L
+32ee\LL
+32dd\
+32cc#\
+32dd\JJJ
+16bb\LL
+16aa\
+16ff#\
+16dd\JJ
+8dd\L
+8cc#\J
+4ccn\
+=
+*-

@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1741/12/31/
+!!!OMV: Mov. Tambourin No. 2
+!!!PDT: 1741///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1741(p)
+!!!instrument: flt, violn, cemba
+!!!place: France, Paris
+!!!title1: Pi&egrave;ces de Clavecin en Concert
+!!!title2: No. 3
+!!!statkey: a
+!!DEBUGGING: r99 % 373 % 1741(p) % Paris % R99 % . % x % Tambourin No. 2 % flt, violn, cemba % No. 3 % Pi&egrave;ces de Clavecin en Concert % RAMEAU, Jean Philippe % 1683
+**solfa
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+4do\
+4do\
+=
+16do\LL
+16so\
+16le\
+16fa\JJ
+16so\LL
+16me\
+16fa\
+16re\JJ
+=
+8me/L
+8so/
+8do/
+8me/J
+=
+8so\L
+8do\
+8me\
+8so\J
+=
+8do\
+4so\
+16fa\LL
+16me\JJ
+=
+16re/LL
+16do/
+16ti/
+16la/JJ
+16so/LL
+16fa/
+16me/
+16re/JJ
+=
+*-

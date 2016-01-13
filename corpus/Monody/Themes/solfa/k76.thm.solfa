@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Dal
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!theme: C: GY&Aacute;SZINDUL&Oacute;
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: f
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k76 % . % 1927 % Budapest % K76 % 15 % c: Gy&aacute;szindul&oacute; % Dal % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K76) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*B-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8do/L
+8re/J
+4me/
+8tiq/
+2so/
+=
+8tiq/
+4fa/
+4so/
+2teT/
+=
+8do/L
+8re/J
+4me/
+8tiq/
+4.so/
+8me/
+=
+8fa/
+8r
+2fa/
+*-

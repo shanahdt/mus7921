@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, ONM, "!OPRTP", OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1805///-1806///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1807///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quartet in C
+!!!OPS: Op. 59
+!!!ONM: No. 3
+!!!OPRTP: Razumovsky
+!!!OMV: Mov. 2
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+=
+8r
+8r
+8so/
+8do/L
+8re/
+8me/J
+=
+8re/L
+8do/
+8ti/J
+8le/L
+8so/
+8fa/J
+=
+8me/L
+8re/
+8do/J
+[4.so/
+=
+4.so/_
+8so/L]
+8la/
+8ti/J
+=
+4do/
+*-

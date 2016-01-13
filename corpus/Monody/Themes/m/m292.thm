@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1837/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 38
+!!!PDT: 1837///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837
+!!!instrument: piano
+!!!place: Deutschland, Frankfurt(?)
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 14: Lost in Happiness
+!!!statkey: E-
+!!DEBUGGING: m292 % 305 % 1837 % Frankfurt? % M292 % 38 No. 2 % x % . % piano % No. 14: Lost in Happiness % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1837(p) Bonn (M292) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=
+8g\L
+8ee-\
+8dd\
+8bn\J
+=
+8cc\L
+16b-\L
+16a-\JJ
+8g/L
+8g/J
+=
+8g/L
+8g/
+8b-/
+8a-/J
+=
+4.f/
+16g/LL
+16a-/JJ
+=
+8b-\L
+8gg\
+8ff\
+8dd\J
+=
+8ee-\L
+16dd\L
+16cc\JJ
+8bn\L
+8b\J
+=
+*-

@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Violin Sonata No. 1 in G
+!!!OPS: Op. 78
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte violn
+!!!ODT: 1878///-1879///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1880///
+!!!MRD: 1880///
+!!!MLC: &Ouml;sterreich, Wien      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*D:
+*M6/4
+=
+!! ! NB. Key & key signature disagree.
+4f#/
+4.f#/
+8g/
+4a/
+4e/
+4f#/
+=
+4g/
+4.b\
+8dd\
+2dd\
+4a/
+=
+4b\
+4dd\
+4ee\
+4aa\
+4ff#\
+4dd\
+=
+4cc#\
+4.b\
+8ee\
+2ee\
+4a/
+=
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 5: Gigue
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 7 in G Minor
+!!!title2: 5th Movement (Gigue)
+!!!statkey: g
+!!DEBUGGING: h224 % . % 1720(p) % London? % H224 % . % x % 5: Gigue % piano % . % Suite No. 7 in G Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M12/8
+8dd\
+=
+8b-/L
+8a/
+8g/J
+8b-\L
+8dd\
+8gg\J
+4.ff#\
+8r
+8gg\L
+8dd\J
+=
+4.ee-\
+8r
+8ffn\L
+8ee-\J
+4.dd\
+8r
+8ee-\L
+8dd\J
+=
+4.cc\
+8r
+8dd\L
+8cc\J
+8b-/L
+8a/
+8g/J
+*-

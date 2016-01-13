@@ -1,0 +1,37 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*A-:
+4so
+=
+4do
+4re
+4mi
+4mi
+=
+2.re
+4mi
+=
+4re
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1888///-1889
+!!!place: Deutschland, Weimar
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1479 % 468 % 1888-1889 % Weimar % S1479 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1890///
+!!!ODT: <1890/12/31/
+!!!splace: Deutschland, Eisenach
+!!!CDT: ///-
+!!DEBUGGING: . . 1890(prf) Eisenach (S1479) . . . . . . .

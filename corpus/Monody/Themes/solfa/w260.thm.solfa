@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1816/12/31/
+!!!PDT: 1816///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1816
+!!!place: Deutschland, Berlin
+!!!title1: Sonata No. 2 in A Flat, Op. 39, Pft.
+!!!title2: 3rd Movement
+!!!statkey: b-
+!!DEBUGGING: w260 % . % 1816 % Berlin % W260 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1816(p) . (W260) . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M3/4
+=
+8soq/
+2.so\
+=
+8faq/
+2.fa\
+=
+32mi\LKK
+[8..mi\J
+2mi\_
+=
+2.mi\]
+=
+[2re\
+8.re\L]
+16do\Jk
+=
+2.ti\
+=
+[2.la\
+=
+2.la\]
+32siq/LLL
+32laq/JJJ
+=
+2.laT\
+32siq/LLL
+32laq/JJJ
+=
+8laq/
+2la\
+4r
+=
+2.so\
+=
+*-

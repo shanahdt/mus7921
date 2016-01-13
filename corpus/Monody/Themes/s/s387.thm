@@ -1,0 +1,42 @@
+**kern
+*clefG2
+*k[f#c#]
+*M2/4
+*D:
+8a
+=
+8.dd
+16dd
+8ff#
+8ff#
+=
+4dd
+4a
+=
+8..a
+32a
+16.ee
+32dd
+16.cc#
+32b
+=
+4.a
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1819
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s387 % . % 1819 % Vienna % S387 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1829///
+!!!ODT: <1829/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1829(p) Vienna? (S387) . . . . . . .

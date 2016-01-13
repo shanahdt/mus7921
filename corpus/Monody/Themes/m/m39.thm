@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!OPS: Opus 51
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: United States of America, New York
+!!!title1: Woodland Sketches
+!!!title2: No. 4: In Autumn
+!!!statkey: f#
+!!DEBUGGING: m39 % . % 1896 % Wiesbaden % M39 % 51 % x % . % piano % No. 4: In Autumn % Woodland Sketches % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1896(p) New York (M39) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M6/8
+8c#/
+=
+8.f#/L
+16g#/k
+8a/J
+8b\L
+8cc#\
+8a\J
+=
+8b\L
+8cc#\
+8ff#\J
+4cc#\
+8b\
+=
+8.cc#\L
+16ff#\k
+8aa\J
+8gg#\L
+8ggn\
+8ff#\J
+=
+*-

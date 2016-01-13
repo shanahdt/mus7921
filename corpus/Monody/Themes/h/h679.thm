@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1795///
+!!!OCL: RSC
+!!!ODT: <1795/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 104
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1795
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony in D
+!!!title2: "London"
+!!!statkey: B-
+!!DEBUGGING: h679 % . % 1795 % London % H679 % B. & H. No. 104 % b % 3 % orchestra % "London" % Symphony in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1795(prf) . (H679) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+4dd\
+=
+2ff\
+4dd\
+=
+2ff\
+8dd\L
+8ee-\J
+=
+8ff\L
+8gg\
+8aa\
+8bb-\
+8aa\
+8gg\J
+=
+8ff\L
+8ee-\
+8dd\
+8cc\
+8b-\
+8a\J
+=
+8g/L
+8f/
+8g/
+8a/
+8b-/
+8cc/J
+=
+8dd\
+*-

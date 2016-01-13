@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(prf)
+!!!place: United States of America, New York
+!!!title1: Concerto No. 2 in G, Op. 44, Pft. & Orch.
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: t136a % 488 % 1881(prf) % New York % T136a % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+4do\
+=
+8ti\L
+8la\J
+2ti\
+4do\
+=
+4re\
+4so/
+4r
+4mi\
+=
+4fa\
+4mi\
+4fa\
+4so\
+=
+8mi\L
+8do\J
+2re\
+*-

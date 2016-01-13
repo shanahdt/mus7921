@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1892///
+!!!OCL: RSC
+!!!ODT: <1892/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: The Nutcracker Suite, Op. 71a, Orch.
+!!!title2: Waltz of the Flowers
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t200 % 491 % 1892(prf) % St. Petersburg % T200 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#c#]
+*G:
+*M3/4
+!! ! NB. Key & key signature disagree.
+4so\
+4si\
+=
+2la\
+8re\
+8r
+=
+4r
+4mi\
+4fa\
+=
+2so\
+8do\
+8r
+=
+4r
+4re\
+4mi\
+=
+2fa\
+8la\
+8r
+=
+2mi\
+*-

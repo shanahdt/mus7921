@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Paderewski, Ignace Jan
+!!!CDT: 1860/11/18/-1941/06/29/
+!!!CNT: Polish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1888-1894/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 16
+!!!PDT: c1888-1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1888
+!!!instrument: piano
+!!!place: Oesterreich, Vienna(?)
+!!!title1: M&eacute;lodie
+!!!statkey: G-
+!!DEBUGGING: p15 % . % c1888 % Vienna? % P15 % 16 No. 2 % x % . % piano % . % M&eacute;lodie % PADEREWSKI, Ignace Jan % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1888-1894(p) Berlin (P15) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-g-c-]
+*G-:
+*M6/8
+=
+4so\
+4.do\
+8ti\
+=
+2do\
+4so\
+=
+8la\L
+8ti\J
+4do\
+4re\
+=
+[2mi\
+8.mi\L]
+16mi\Jk
+=
+4so\
+4.do\
+8re\
+=
+4mi\
+4.la\
+8ti\
+=
+4do\
+*-

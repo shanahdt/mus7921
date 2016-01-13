@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: La Primavera
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Trittico Botticelliano
+!!!title2: 1st Movement (La Primavera)
+!!!statkey: F
+!!DEBUGGING: r294 % 383 % 1927 % Rome % R294 % . % b % 1: La Primavera % orchestra % . % Trittico Botticelliano % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+2cc\
+4dd\
+4cc\
+=
+2cc\
+4a/
+4cc\
+=
+4dd\
+4cc\
+2cc\
+=
+2a;/
+2cc\
+=
+4cc\
+4a/
+4g/
+[4cc\
+=
+4cc\]
+4b-\
+2a/
+=
+4g/
+4a/
+*-

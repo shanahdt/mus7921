@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: violn, piano
+!!!place: ?
+!!!title1: Rondini on a Theme by Beethoven
+!!!statkey: E-
+!!DEBUGGING: k113 % . % ? % ? % K113 % . % x % . % violn, piano % . % Rondini on a Theme by Beethoven % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+4e-/
+4f/
+=
+8g/
+8r
+4g/
+4b-\
+=
+8a-/
+8r
+8a-/L
+8b-/
+8a-/
+8g/J
+=
+8f/
+8r
+8f/L
+8g/
+8a-/
+8an/J
+=
+2b-\
+8cc\L
+8dd\J
+=
+2ee-\
+8ff\L
+8ee-\J
+=
+4dd\
+4ccc\
+4dd\
+=
+4dd\
+4ccc\
+4dd\
+=
+8ee-\
+*-

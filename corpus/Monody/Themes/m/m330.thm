@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1833///
+!!!OCL: RSC
+!!!ODT: <1833/12/31/
+!!!ODT: <n.d./12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 90
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1832
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: England, London
+!!!theme: D
+!!!title1: Symphony No. 4 in A
+!!!title2: "Italian"
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m330 % . % 1832 % Berlin % M330 % 90 % d % 2 % orchestra % "Italian" % Symphony No. 4 in A % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1833(prf) London (M330) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) Leipzig (M330) 90 d 2 orchestra "Italian" Symphony No. 4 in A MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[b-]
+*A:
+*M4/4
+!! ! NB. Key & key signature disagree.
+8ee\L
+8dd\J
+4cc#\
+8ff#\L
+8ee\J
+=
+4dd\
+8bbn\L
+8aa\J
+8aa\L
+8gg#\
+8ff#\
+8gg#\J
+=
+8aa\L
+8bbn\
+8ccc#\
+8bb\J
+4aa\
+8gg#\L
+8ff#\J
+=
+8ee\
+*-

@@ -1,0 +1,51 @@
+**solfa
+*clefF4
+*k[b-e-a-]
+*M6/8
+!! NB. Key & key signature disagree.
+*B-:
+8so
+=
+[4.la
+4]la
+8la
+=
+4fa
+8mi
+8.re
+16do
+8re
+=
+4mi
+8do
+4.so
+=
+4fa
+8mi
+8.re
+16do
+8re
+=
+4mi
+8do
+4.so
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1868
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s26 % . % 1868 % Paris? % S26 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1868///
+!!!ODT: <1868/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1868(p) Paris (S26) . . . . . . .

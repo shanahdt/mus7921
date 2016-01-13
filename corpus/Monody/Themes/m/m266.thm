@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1838/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 44
+!!!PDT: 1838///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1838
+!!!instrument: string
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Qaurtet No. 3 in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: m266 % . % 1838 % Berlin % M266 % 44 % b % 1 % string % . % Qaurtet No. 3 in D % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1838(p) Leipzig (M266) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+[1aa\
+=
+4aa\]
+4aa#\
+4bb\
+4gg\
+=
+4ff#\
+4dd\
+2aa\
+=
+*-

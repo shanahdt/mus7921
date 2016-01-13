@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1932
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Toccata
+!!!statkey: e-
+!!DEBUGGING: k55 % . % 1932 % Moscow % K55 % . % b % . % piano % . % Toccata % KHACHATURIAN, Aram % 1903
+**solfa
+*clefG2
+*k[b-e-a-d-g-c-]
+*e-:
+*M4/4
+=
+2r
+8r
+8do/L
+8re/
+8me/J
+=
+24so/LL
+24fa/
+24so/J
+[8fa/J
+4fa/_
+16fa/LL]
+16me/
+16re/
+16me/JJ
+16me/LL
+16re/
+8req/
+16.do/
+32te/JJk
+=
+4do/
+*-

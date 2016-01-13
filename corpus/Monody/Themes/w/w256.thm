@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1812/12/31/
+!!!PDT: 1812///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1812
+!!!place: Deutschland, Berlin
+!!!title1: Sonata No. 1 in C, Op. 24, Pft.
+!!!title2: 4th Movement (Perpetual Motion)
+!!!statkey: C
+!!DEBUGGING: w256 % . % 1812 % Berlin % W256 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1812(p) . (W256) . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+16ccc\LL
+16bb\JJ
+=
+16aa\LL
+16gg\
+16ff#\
+16aa\JJ
+16gg\LL
+16ee\
+16dd#\
+16ffn\JJ
+=
+16ee\LL
+16cc\
+16b\
+16ddn\JJ
+16cc/LL
+16g/
+16cc/
+16b/JJ
+=
+16a/LL
+16g#/
+16a/
+16a#/JJ
+16b\LL
+16cc\
+16cc#\
+16dd\JJ
+=
+16dd#\LL
+16ee\
+16ff\
+16ff#\JJ
+16gg\LL
+16ff#\
+16aa\
+16gg\JJ
+=
+*-

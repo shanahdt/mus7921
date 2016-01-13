@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1734/12/31/
+!!!PDT: c1734///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1732
+!!!instrument: piano
+!!!place: England, London
+!!!splace: England, London(?)
+!!!title1: Fantasia in C
+!!!title2: 3rd Collection of Piano Works
+!!!statkey: C
+!!DEBUGGING: h245 % . % 1732 % London % H245 % . % x % . % piano % 3rd Collection of Piano Works % Fantasia in C % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1734(p) London? (H245) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+8so/
+=
+8do\L
+16mi\L
+16fa\JJ
+8so\L
+8so\J
+4do\
+8r
+8so/
+=
+8la\L
+16ti\L
+16do\JJ
+16re\LL
+16mi\
+16fa\
+16so\JJ
+8ti/L
+16la/L
+16ti/JJ
+8so/L
+16la/L
+16ti/JJ
+=
+16do\
+*-

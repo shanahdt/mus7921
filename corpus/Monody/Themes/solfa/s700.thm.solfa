@@ -1,0 +1,51 @@
+**solfa
+*clefG2
+*k[b-e-a-]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*B-:
+2la
+4.re
+8mi
+=
+4fa
+4so
+2si
+=
+2la
+4.re
+8mi
+=
+4fa
+4so
+2si
+=
+2la
+4.re
+8mi
+=
+4fa
+4fi
+4so
+4me
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1842
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s700 % . % 1842 % Leipzig % S700 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1843///
+!!!ODT: <1843/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1843(p) ? (S700) . . . . . . .

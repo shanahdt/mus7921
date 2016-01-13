@@ -1,0 +1,45 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*E-:
+2so
+=
+[1so
+=
+2]so
+2do
+=
+[1re
+=
+2]re
+2la
+=
+[1la
+=
+2]la
+2so
+=
+[1mi
+=
+2]mi
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1937
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s884 % . % 1937 % Leningrad % S884 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1937///
+!!!ODT: <1937/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1937(prf) . (S884) . . . . . . .

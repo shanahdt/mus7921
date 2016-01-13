@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1784/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 332
+!!!PDT: 1784///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781///-1783
+!!!instrument: piano
+!!!place: Deutschland, Muenchen or Oesterreich, Vienna
+!!!splace: Oesterreich, Vienna
+!!!title1: Sonata in F
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m792 % 331 % 1781-1783 % Munich or Vienna % M792 % K 332 % x % 2 % piano % . % Sonata in F % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1784(p) Vienna (M792) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4b-\
+[16dd\LL
+64dd\LL]
+64ee-\
+64dd\
+64cc\JJ
+16dd\
+16ee-\JJ
+8.een\L
+16ff\Jk
+8cc\
+8r
+=
+8.ee-\L
+16ff\k
+8.gg\
+16aa\Jk
+8.aa\L
+16bb-\Jk
+8ff\
+8r
+=
+*-

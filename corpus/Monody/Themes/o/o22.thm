@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!OMV: Mov. Act II Intermezzo (Barcarolle)
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1877///-1880
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Tales of Hoffman
+!!!title2: Opera
+!!!statkey: D
+!!DEBUGGING: o22 % . % 1877-1880 % Paris % O22 % . % x % Act II Intermezzo (Barcarolle) % orchestra % Opera % Tales of Hoffman % OFFENBACH, Jacques % 1819
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881(prf) . (O22) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . (finished by Guiraud) Paris (O22) . x Act II Intermezzo (Barcarolle) orchestra Opera Tales of Hoffman OFFENBACH, Jacques 1819
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M6/8
+=
+4f#/
+8g/
+4g/
+8f#/
+=
+8f#/L
+8e/
+8g/J
+4g/
+8f#/
+=
+8f#/L
+8e/
+8g/J
+4g/
+8f#/
+=
+4f#/
+*-

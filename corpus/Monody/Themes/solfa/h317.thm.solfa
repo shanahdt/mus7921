@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <-1762, c1757-1759?/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 1
+!!!OPC: Deutschland, Eisenstadt
+!!!OPS: Opus 1
+!!!PDT: -1762, c1757-1759?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1762, c1757///-1759?(p)
+!!!instrument: string
+!!!title1: Quartet in B Flat
+!!!title2: "La Chasse"
+!!!statkey: E-
+!!DEBUGGING: h317 % . % -1762, c1757-1759?(p) % Eisenstadt % H317 % 1 No. 1 % x % 3 % string % "La Chasse" % Quartet in B Flat % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+4so\
+8faq/
+8mi\L
+8req/
+8do\J
+8.ti\L
+32do\LL
+32re\JJJ
+4do\
+=
+4la\
+16so\LL
+16fa\
+16mi\
+16re\JJ
+4so\
+8do\L
+8mi\J
+=
+4so/
+4fat/
+4mi/
+4r
+=
+*-

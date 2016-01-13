@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 20: Coro
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Water Music
+!!!title2: 20th Movement (Coro)
+!!!statkey: D
+!!DEBUGGING: h267 % 226 % 1717(prf) % London % H267 % . % x % 20: Coro % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H267) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4mi\
+4mi\
+4mi\
+=
+4mi\
+8mi\L
+8fa\
+8mi\
+8fa\J
+=
+4so\
+4so\
+4so\
+=
+4.so\
+16fa\LL
+16so\JJ
+4la\
+=
+*-

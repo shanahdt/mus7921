@@ -1,0 +1,54 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M2/4
+!! NB. Key & key signature disagree.
+*D:
+4.so
+16fa
+16me
+=
+4.me
+16re
+16do
+=
+4.do
+16te
+16le
+=
+4.so
+16fa
+16me
+=
+4.ra
+16do
+16ra
+=
+4.fa
+8le
+=
+4.le
+16so
+16se
+=
+4.so
+*-
+!!!COM: Supp&eacute;, Franz von
+!!!CNT: Austrian
+!!!MPD: 1846///
+!!!ODT: <1846/12/31/
+!!!date: 1846(prf)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1642 % . % 1846(prf) % Vienna % S1642 % . % . % . % . % . % . % SUPP&Eacute;, Franz von
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1900///
+!!!ODT: <1900/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1900(p) . (S1642) . . . . . . .

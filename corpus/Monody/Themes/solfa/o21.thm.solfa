@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!OMV: Mov. Act II Entr'acte
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1877///-1880
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Tales of Hoffman
+!!!title2: Opera
+!!!statkey: A
+!!DEBUGGING: o21 % . % 1877-1880 % Paris % O21 % . % x % Act II Entr'acte % orchestra % Opera % Tales of Hoffman % OFFENBACH, Jacques % 1819
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881(prf) . (O21) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . (finished by Guiraud) Paris (O21) . x Act II Entr'acte orchestra Opera Tales of Hoffman OFFENBACH, Jacques 1819
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4do\
+4do\
+4re\
+=
+8.mi\L
+16fa\k
+8so\
+8mi\J
+8.reT\L
+32do\LL
+32re\JJJ
+=
+8.mi\L
+16fa\k
+8so\
+8mi\J
+8.reT\L
+32do\LL
+32re\JJJ
+=
+8mi\L
+8so\
+8la\
+8so\
+8fa\
+8mi\J
+=
+2.re\
+=
+*-

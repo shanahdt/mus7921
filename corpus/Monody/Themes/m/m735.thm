@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 7
+!!!OPS: Opus K 320
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!title1: Serenade in D
+!!!title2: 7th Movement
+!!!statkey: D
+!!DEBUGGING: m735 % 328 % 1779 % Salzburg % M735 % K 320 % x % 7 % orchestra % . % Serenade in D % c1786(p) % 1756
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+2d/
+8gq/
+4f#/
+8e/L
+8d/J
+=
+4a/
+4a/
+4a/
+4a/
+=
+4f#/
+4d/
+4a/
+4a/
+=
+4f#/
+4d/
+*-

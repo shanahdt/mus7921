@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!ODT: 1770///-1771///
+!!!OCY: France
+!!!OPC: Paris   
+!!!OTL: Concerto No. 3 in G for Cello and Strings
+!!!SET: No. 2
+!!!OMV: Mov. 1
+!!!AIN: cello Cstr
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+32b\LLL
+32a\
+32b\
+32cc\JJJ
+=
+8dd\
+4dd\
+16cc\LL
+16b\JJ
+24cc\LL
+24dd\
+24ee\JJ
+8eeq/
+4dd\
+16cc\LL
+16b\JJ
+=
+16b/LL
+16a/JJ
+4.a/
+16b\LL
+16cc\JJ
+16cc\LL
+16b\JJ
+8.b\
+*-

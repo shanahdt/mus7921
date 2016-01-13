@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!ODT: 1919///
+!!!OCY: United States of America                    
+!!!OPC: New York 
+!!!OTL: Suite for Viola and Orchestra
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: orchestra viola
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefF4
+*k[]
+*A-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16do\LL
+16so\J
+[8le\J
+8le\L]
+8so\J
+=
+4mi/
+8tiq/
+8do\L
+8me\J
+=
+4do\
+16fi\LL
+16so\
+16fi\
+16so\JJ
+=
+*-

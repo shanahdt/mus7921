@@ -1,0 +1,60 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Falla, Manuel De
+!!!CDT: 1876/11/23/-1946/11/14/
+!!!CNT: Spanish
+!!!OTL: La vida breve for Orchestra              
+!!!OMV: Dance No. 2
+!!!thm: A
+!!!AIN: orchestra
+!!!ODT: 1913///
+!!!OCY: France
+!!!OPC: Nice
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8re\
+8r
+12do\L
+12re\
+12do\J
+[4ti\
+=
+4ti\]
+2do\
+=
+8fa\
+8r
+12me\L
+12fa\
+12me\J
+[4re\
+=
+4re\]
+2ti\
+=
+8do\
+8r
+12ti\L
+12do\
+12ti\J
+!!   Encoding error:  changing 24's to 12's
+4le\
+=
+8r
+8so\L
+8le\
+8ti\
+8do\
+8re\J
+=
+*-

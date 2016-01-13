@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 219
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Concerto in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m527 % . % 1775 % Salzburg % M527 % K 219 % b % 3 % . % . % Concerto in A % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+16ee\LL
+16ffn\
+16dd\
+16ee\JJ
+=
+16ccn\LL
+16dd\
+16b\
+16cc\JJ
+16a/LL
+16b/
+16g#/
+16e/JJ
+=
+16a\LL
+16ccn\
+16b\
+16dd\JJ
+16cc\LL
+16ee\
+16dd\
+16ffn\JJ
+=
+8ee\L
+16gg#q/
+8aa\
+8ee\
+16gg#q/
+8aa\J
+=
+4ee\
+*-

@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1936///
+!!!OCL: RSC
+!!!ODT: <1936/12/31/
+!!!OPS: Opus 67
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936(prf)
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: E: THE GRANDFATHER
+!!!title1: Peter and the Wolf
+!!!statkey: b
+!!DEBUGGING: p245 % . % 1936(prf) % Moscow % P245 % 67 % e: The Grandfather % . % orchestra % . % Peter and the Wolf % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936 . (P245) . . . . . . . .
+**solfa
+*clefF4
+*k[f#c#]
+*b:
+*M4/4
+16do/
+=
+8so/L
+16r
+16so/Jk
+[4do/
+8.do/L]
+16re/Jk
+8.me/L
+16fa/Jk
+=
+8.so/L
+16me/Jk
+8te/L
+8te/J
+8te/L
+8te/J
+12te/L
+12do/
+12di/J
+=
+[4re/
+12re\L]
+12me\
+12mi\J
+4ti/
+12so\L
+12so\
+12so\J
+=
+2.so\
+*-

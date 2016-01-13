@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1735///
+!!!OCL: RSC
+!!!ODT: <1735/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1735(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Alcina
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: h128 % 219 % 1735(prf) % London % H128 % . % b % Overture % orchestra % Opera % Alcina % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/2
+=
+8so\L
+8so\
+8so\
+8so\J
+8so\L
+16fa\L
+16mi\JJ
+16re\LL
+16mi\
+16re\
+16mi\JJ
+=
+8fa/L
+8fa/
+8fa/
+8fa/J
+8fa\L
+16mi\L
+16re\JJ
+16do\LL
+16re\
+16do\
+16re\JJ
+=
+*-

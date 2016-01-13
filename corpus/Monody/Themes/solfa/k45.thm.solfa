@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Variations
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k45 % . % 1942 % Moscow % K45 % . % x % Variations % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K45) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*F:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4do\
+8r
+8ti\
+4te\
+=
+8teq/
+4le\
+8r
+8so\
+4fa\
+=
+[2.so\
+=
+2.so\]
+=
+8so\L
+8fi\J
+4fa\
+4me/
+=
+4fa\
+8r
+8le\
+4fa\
+=
+[2.me/
+=
+4me/]
+*-

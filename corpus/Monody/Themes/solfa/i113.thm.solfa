@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923
+!!!instrument: cello, piano
+!!!place: England, London
+!!!theme: A
+!!!title1: Sonata in G Minor
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: i113 % . % 1923 % London % I113 % . % a % 3 % cello, piano % . % Sonata in G Minor % IRELAND, John % 1879
+**solfa
+*clefF4
+*k[b-e-]
+*g:
+*M3/4
+16so\LL
+16so\J
+8te\
+8ra\J
+=
+4.so\
+16so\LL
+16so\JJ
+16fa\LL
+16mi\
+16me\
+16ra\JJ
+=
+4.so\
+16so\LL
+16so\J
+8te\
+8ra\J
+=
+*M2/4
+8so\L
+16so\L
+16so\JJ
+16fa/LL
+16mi/
+16me/
+16ra/JJ
+=
+4so/
+*-

@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1885///
+!!!OCL: RSC
+!!!ODT: <1885/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1885(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Suite No. 3, Op. 55, Orch.
+!!!title2: 4th Movement (Theme & Variations)
+!!!statkey: G
+!!DEBUGGING: t206 % . % 1885(prf) % St. Petersburg % T206 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/8
+8B/
+=
+8A/L
+8c/J
+8B/L
+8d/J
+=
+8dq/
+16A/LL
+16G#/J
+8A/J
+8A/L
+16A/L
+16B/JJ
+=
+8c/L
+16d/L
+16e/JJ
+8d/L
+8c/J
+=
+8B/L
+8d/J
+*-

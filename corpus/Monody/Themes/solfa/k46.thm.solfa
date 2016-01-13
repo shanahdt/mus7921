@@ -1,0 +1,72 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Sword Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k46 % . % 1942 % Moscow % K46 % . % a % Sword Dance % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K46) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+*M4/4
+*>[A,B,B,C]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+8r
+8ti\L
+8ti\
+8ti\J
+8ti\L
+8ti\
+8ti\
+8ti\J
+=
+8ti\L
+8ti\
+8ti\
+8ti\J
+8ti\L
+8ti\
+8ti\
+8ti\J
+=3!|:
+*>B
+16la\LL
+16te\J
+8ti\J
+8ti\L
+8ti\J
+16la\LL
+16te\J
+8ti\J
+8ti\L
+8ti\J
+=4:|!
+*>C
+8ti\L
+8te\
+8te\
+8la\J
+8la\L
+8le\
+8le\
+8so\J
+=
+4so\
+*-

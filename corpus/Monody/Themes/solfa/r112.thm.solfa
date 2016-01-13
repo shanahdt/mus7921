@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Le Rappel des Oiseaux
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!title2: Le Rappel des Diseaux
+!!!statkey: e
+!!DEBUGGING: r112 % . % 1724(p) % Paris % R112 % . % x % Le Rappel des Oiseaux % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R112) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=
+16r
+16so\LK
+16doq/LL
+16tiq/JJ
+[8do\J
+16do\LL]
+16so\J
+16doq/LL
+16tiq/JJ
+[8do\J
+=
+16do\LL]
+16so\
+16do\
+16so\JJ
+16doq/LL
+16tiq/JJ
+4do\
+=
+16r
+16so\LL
+16do\
+16so\JJ
+16do\LL
+16so\
+16do\
+16me\JJ
+=
+16doq/LL
+16tiq/JJ
+4do\
+*-

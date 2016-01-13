@@ -1,0 +1,63 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1801///-1802///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1803///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.6 in A for Violin and Piano       
+!!!OPS: Op. 30
+!!!ONM: No. 1
+!!!SET: No. 6
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4.do/
+*clefF4
+16re/LL
+16mi/JJ
+16fa/LL
+16mi/
+16re/
+16mi/JJ
+=
+4do/
+4mi/
+4so/
+=
+*clefG2
+[2.do/
+=
+4do/]
+4ti/
+4do/
+=
+4re\
+4mi\
+[4fa\
+=
+4fa\]
+4mi\
+[4la\
+=
+4la\]
+4so\
+8fa\L
+8re\J
+=
+4do/
+*-

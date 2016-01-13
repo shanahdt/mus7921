@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1878///
+!!!OCL: RSC
+!!!ODT: <1878/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1878(prf)
+!!!place: Royssia, Moskova
+!!!title1: Symphony No. 4 in F Minor, Op. 36
+!!!title2: 4th Movement
+!!!statkey: d
+!!DEBUGGING: t264 % . % 1878(prf) % Moscow % T264 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+4re\
+8.la\L
+16do\Jk
+8do\L
+8ti\J
+4la\
+=
+4so\
+8.la\L
+16mi\Jk
+8mi/L
+8fa/J
+4so\
+=
+4la\
+8.ti\L
+16so\Jk
+8so\L
+8la\
+8ti\
+8fa\J
+=
+8mi\L
+8fa\
+8so\
+8la\J
+8re/L
+8so/J
+*-

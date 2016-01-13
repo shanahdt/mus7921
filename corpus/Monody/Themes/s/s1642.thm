@@ -1,0 +1,54 @@
+**kern
+*clefG2
+*k[b-e-]
+*M2/4
+!! NB. Key & key signature disagree.
+*D:
+4.aa
+16gg
+16ff
+=
+4.ff
+16ee
+16dd
+=
+4.dd
+16cc
+16b-
+=
+4.a
+16g
+16f
+=
+4.e-
+16d
+16e-
+=
+4.g
+8b-
+=
+4.b-
+16a
+16a-
+=
+4.a
+*-
+!!!COM: Supp&eacute;, Franz von
+!!!CNT: Austrian
+!!!MPD: 1846///
+!!!ODT: <1846/12/31/
+!!!date: 1846(prf)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1642 % . % 1846(prf) % Vienna % S1642 % . % . % . % . % . % . % SUPP&Eacute;, Franz von
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1900///
+!!!ODT: <1900/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1900(p) . (S1642) . . . . . . .

@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1882///
+!!!OCL: RSC
+!!!ODT: <1882/12/31/
+!!!OMV: Mov. Prelude
+!!!PDT: 1882///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1882(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Namouna
+!!!title2: Ballet Suite
+!!!statkey: G
+!!DEBUGGING: l17 % . % 1882(prf) % Paris % L17 % . % a % Prelude % orchestra % Ballet Suite % Namouna % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881-1882 . (L17) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1882(p) Paris (L17) . a Prelude orchestra Ballet Suite Namouna LALO, Edouard 1823
+**solfa
+*clefF4
+*k[f#]
+*G:
+*M4/4
+16so/
+=
+8.do/L
+16mi/Jk
+[4so\
+8.so\L]
+16so\Jk
+8.la\L
+32mi\LL
+32so\JJJ
+=
+8.do\L
+16mi\Jk
+[4so\
+8.so\L]
+16la\Jk
+8.so\L
+32mi\LL
+32re\JJJ
+=
+8.mi\L
+16re\Jk
+8.do\L
+32la\LL
+32so\JJJ
+8.la\L
+16so\Jk
+8.mi/L
+32re/LL
+32mi/JJJ
+=
+12re/L
+12do/
+12re/J
+4mi/
+*-

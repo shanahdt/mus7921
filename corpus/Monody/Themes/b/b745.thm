@@ -1,0 +1,61 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1800///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Sonata No.11 in B Flat for Piano                  
+!!!OPS: Op. 22
+!!!SET: No. 11
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+4d/
+=
+4f/
+4d/
+4r
+4d/
+=
+4f/
+4d/
+4r
+4d/
+=
+4f/
+4b-\
+4dd\
+4ff\
+=
+2.bb-\
+16aa\LL
+16bb-\
+16ccc\
+16bb-\JJ
+=
+8aa\L
+8gg\
+8ff\
+8ee-\J
+8dd\L
+8cc\
+8gg\
+8ff\J
+=
+4ee-\
+4dd\
+*-

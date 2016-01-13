@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 8: Tijuca
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920///-1921
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Saudades Do Brazil
+!!!title2: VIII. Tijuca
+!!!statkey: C
+!!DEBUGGING: m398 % . % 1920-1921 % Paris % M398 % . % x % 8: Tijuca % piano % . % Saudades Do Brazil % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+16e/LK
+8cc/
+[16e/Jk
+16e/LK]
+8e/
+16cc/Jk
+=
+4cc\
+4b\
+=
+4b\
+8cc\L
+8dd\J
+=
+2ee\
+=
+*-

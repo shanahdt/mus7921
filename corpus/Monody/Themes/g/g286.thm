@@ -1,0 +1,59 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Peer Gynt Suite No. 1
+!!!OPS: Op. 46
+!!!SET: No. 1     
+!!!OMV: Mov. 3 (Anitra's Dance)
+!!!thm: B
+!!!AIN: orchestra
+!!!ODT: 1874///-1875///, 1888///
+!!!OCY: Norge 
+!!!OPC: Bergen   
+!!!PDT: 1888///          
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+4.ff\
+8ee\
+8ee\L
+8dd\J
+=
+4.dd\
+8ee\
+8ee\L
+8ff\J
+=
+2.ff\
+=
+4ee\
+4r
+4r
+=
+8r
+8f/L
+8d/
+8c/J
+8B/
+8f/L
+=
+8d/
+8c/J
+8B/
+8d/L
+8B/
+8A/J
+=
+4G#/
+*-

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Verdi, Giuseppe
+!!!CDT: 1813/10/9-10/-1901/01/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1853///
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(prf)
+!!!place: Italia, Venezia
+!!!title1: La Traviata, Opera
+!!!title2: Act I, Prelude
+!!!statkey: c#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v89 % . % 1853(prf) % Venice % V89 % . % . % . % . % . % . % VERDI, Giuseppe % 1813
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*B:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2do\
+4ti\
+4do\
+=
+2re\
+2me\
+=
+2re\
+4fa\
+4me\
+=
+2re\
+2r
+=
+2so\
+4fi\
+4fa\
+=
+2me\
+4re\
+4do\
+=
+2do\
+2ti\
+=
+*-

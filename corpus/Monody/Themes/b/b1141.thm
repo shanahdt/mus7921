@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Bizet, Georges
+!!!CDT: 1838/10/25/-1875/06/03/
+!!!CNT: French
+!!!ODT: 1871///
+!!!OCY: France            
+!!!OPC: Paris
+!!!MRD: 1873/3/2/
+!!!MLC: France, Paris
+!!!OTL: Petite Suite for Orchestra
+!!!OPS: Op. 22
+!!!OTP: Jeux d'Enfants 
+!!!OMV: Marche     
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-a-]
+*c:
+*M4/4
+=
+4r
+8GG/L
+16r
+16GG/Jk
+8C/
+8r
+8G\L
+16r
+16G\Jk
+=
+8c\
+8r
+*clefG2
+8g/L
+16r
+16g/Jk
+8cc\
+8r
+4ddT\
+16cc#q/LL
+16ddnq/JJ
+=
+8gg\
+8r
+*-

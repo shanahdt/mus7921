@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Berlioz, Hector
+!!!CDT: 1803/12/11/-1869/03/08/
+!!!CNT: French
+!!!MRD: 1862///
+!!!MLC: Deutschalnd, Baden-Baden
+!!!OPR: Beatrice and Benedict
+!!!OTL: Overture
+!!!thm: B (Variant of Introduction)  
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/2
+=
+12do\L
+12ti\
+12la\J
+12so\L
+12fa\
+12mi\J
+8so\
+!!   B&M Encoding error?   change 4 to 8?
+8r
+8.te\L
+16te\Jk
+=
+2di/
+8re/
+8r
+4r
+=
+12fa\L
+12mi\
+12re\J
+12la\L
+12so\
+12fa\J
+8re\
+8r
+4r
+=
+4la\
+8.fa\L
+16fa\Jk
+4la\
+4fa\
+=
+*-

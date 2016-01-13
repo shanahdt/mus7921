@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1782///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!theme: A
+!!!title1: Quartet in C 
+!!!title2: "The Bird"
+!!!statkey: C
+!!DEBUGGING: h361 % . % 1781 % Eszterh&aacute;za % H361 % . % a % 2 % string % "The Bird" % Quartet in C  % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(p) ? (H361) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+4do/
+=
+2do/
+8miq/
+4re/
+=
+4do/
+4ti/
+4do/
+=
+4re/
+4mi/
+4fa/
+=
+4fa/
+4mi/
+4re/
+=
+2re/
+8faq/
+4mi/
+=
+4re/
+4di/
+4re/
+=
+4mi/
+*-

@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Symphony No. 4 in E Minor
+!!!OPS: Op. 98
+!!!OMV: Mov. 1
+!!!thm: G
+!!!AIN: orchestra
+!!!ODT: 1884///-1885///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1886///
+!!!MRD: 1885///
+!!!MLC: &Ouml;sterreich, Meiningen
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*B:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+4r
+8r
+16do\LL
+16re\JJ
+2mi\
+=
+4r
+8r
+16re\LL
+16mi\JJ
+2fa\
+=
+4r
+8r
+16mi\LL
+16fa\JJ
+6so\
+6mi\
+6la\
+=
+6so\
+6mi\
+6do\
+6so\
+6re\
+6so\
+=
+*-

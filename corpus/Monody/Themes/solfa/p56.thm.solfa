@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 5
+!!!OPS: Opus 3
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn, guitr
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Sonata No. 11
+!!!title2: 2nd Movement
+!!!statkey: A
+!!DEBUGGING: p56 % . % c1805 % Lucca % P56 % 3 No. 5 % x % 2 % violn, guitr % . % Sonata No. 11 % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P56) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+4mi\
+16.mi\LL
+32fa\k
+16.re\
+32mi\JJk
+=
+4do\
+16.do\LL
+32re\k
+16.mi\
+32fa\JJk
+=
+8.so\L
+16so\Jk
+16.la\LL
+32so\k
+16.fa\
+32la\JJk
+=
+8.so\L
+16fa\Jk
+8mi\
+8r
+=
+*-

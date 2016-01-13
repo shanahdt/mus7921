@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Capri and Taormina
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Rossiniana
+!!!title2: Suite for Orchestra
+!!!statkey: g
+!!DEBUGGING: r285 % . % 1925 % Rome % R285 % . % a % 1: Capri and Taormina % orchestra % Suite for Orchestra % Rossiniana % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=
+16fi/LL
+16so/
+16le/
+16ti/
+16do/
+16re/JJ
+=
+16me/LL
+16fa/
+16me/
+16do/J
+8me/J
+=
+16fi/LL
+16so/
+16le/
+16ti/
+16do/
+16re/JJ
+=
+16me/LL
+16fa/
+16me/
+16do/J
+8me/J
+=
+4.so\
+=
+4.do/
+=
+4.re/
+=
+4.so/
+=
+*-

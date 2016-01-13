@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728/12/31/
+!!!OPC: France, Paris
+!!!PDT: c1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728(p)
+!!!instrument: cemba
+!!!title1: L'Indifferente
+!!!statkey: g
+!!DEBUGGING: r92 % . % c1728(p) % Paris % R92 % . % x % . % cemba % . % L'Indifferente % RAMEAU, Jean Philippe % 1683
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+8me\L
+8fa\
+8so\
+8fa\
+8so\
+8le\J
+=
+4so\
+4do\
+4do\
+=
+4do\
+8ti\L
+8do\
+8re\
+8ti\J
+=
+8do\L
+8te\
+8le\
+8so\
+8fa\
+8me\J
+=
+4le\
+4fa\
+4le\
+=
+4sot\
+4me\
+4so\
+=
+*-

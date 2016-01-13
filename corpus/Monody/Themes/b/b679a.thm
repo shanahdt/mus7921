@@ -1,0 +1,39 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1797///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien      
+!!!OTL: Serenade for Violin, Viola, and Cello                  
+!!!OPS: Op. 8
+!!!OMV: Mov. 1
+!!!AIN: forte viola violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8.a/L
+16g/Jk
+=
+8.f#/L
+16a/k
+8.dd/
+16a/Jk
+8.ff#\L
+16dd\k
+8.aa\
+16ff#\Jk
+=
+8ff#\L
+8ee\J
+4dd\
+4r
+*-

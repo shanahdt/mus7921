@@ -1,0 +1,11 @@
+% Bring the Noise
+
+A: I |
+B: i |
+
+Pt1: $A*8
+Pt2: [G#] $B*8
+Bk1: R | | | | 
+In: V | | | | 
+
+S: [E] $In $Pt1*2 $Pt2 $Bk1 $Pt1 $Pt2 $Pt1*2 $Pt2 $Pt1*3 $A*4

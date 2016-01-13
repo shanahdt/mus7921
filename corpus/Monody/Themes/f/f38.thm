@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Falla, Manuel De
+!!!CDT: 1876/11/23/-1946/11/14/
+!!!CNT: Spanish
+!!!OPR: El sombrero de tres picos
+!!!OPREN: The Three-Cornered Hat
+!!!OTL: Jota                  
+!!!thm: B           
+!!!AIN: orchestra
+!!!ODT: 1919///
+!!!OCY: Espa&ntild;a
+!!!OPC: Madrid
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+8.ee\L
+16ff\Jk
+8gg\L
+8aa\J
+8bb\L
+8gg\J
+=
+8.aa\L
+16bb\Jk
+8aa\L
+8gg\J
+8ff\L
+8gg\J
+=
+16ee\LL
+16ff\
+16ee\
+16ff\JJ
+20ee\LL
+20ff\
+20ee\
+20ff\
+20gg\JJ
+16aa\LL
+16bb\
+16ccc\
+16ddd\JJ
+=
+8eee\
+*-

@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1829/12/31/
+!!!OMV: Mov. Act 3: Soldier's Ballet
+!!!PDT: 1829///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1829(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: William Tell
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: r395 % . % 1829(p) % Paris % R395 % . % b % Act 3: Soldier's Ballet % orchestra % Opera % William Tell % ROSSINI, Gioachino Antonio % 1792
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8mi/L
+8la/J
+=
+4so/
+8so/L
+8re/J
+4do/
+=
+8mi\L
+8la\J
+4so\
+8la\L
+8re\J
+=
+4do\
+4mi\
+4la\
+=
+4so\
+2do\
+=
+8la\L
+8so\J
+2re\
+=
+8fa\L
+8mi\J
+2do\
+=
+8mi\L
+8re\J
+2fa\
+=
+8re\L
+8do\J
+2mi\
+=
+*-

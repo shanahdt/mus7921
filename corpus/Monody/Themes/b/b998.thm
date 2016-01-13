@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1811///-1812///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1813///
+!!!PDT: 1816///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Symphony No.7 in A    
+!!!OPS: Op. 92
+!!!SET: No. 7
+!!!OMV: Mov. 4
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8b\L
+16b\L
+16cc#\JJ
+16ee\LL
+16dd\
+16cc#\
+16b\JJ
+=
+8cc#\L
+16cc#\L
+16dd\JJ
+16ff#\LL
+16ee\
+16dd\
+16cc#\JJ
+=
+8b\L
+16b\L
+16cc#\JJ
+16ee\LL
+16dd\
+16cc#\
+16b\JJ
+=
+8.cc#\L
+16aa\Jk
+[4aa\
+=
+8aa\]
+*-

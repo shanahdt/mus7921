@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Sicilienne
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: N/A
+!!!instrument: violn, piano
+!!!place: ?
+!!!title1: Sicilienne et Rigaudon
+!!!title2: Arr. by Kreisler
+!!!statkey: b
+!!DEBUGGING: f214 % . % N/A % N/A % F214 % . % x % Sicilienne % violn, piano % Arr. by Kreisler % Sicilienne et Rigaudon % FRANCOEUR, Fran&ccedil;ois % 1698
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M6/8
+8so/
+=
+8.do\L
+16re\k
+8me\J
+8.fa\L
+16so\k
+8me\J
+=
+8do\L
+8me\
+8re\J
+4ti/
+8so/
+=
+8.do\L
+16re\k
+8me\J
+16fa\LL
+16so\J
+8fa\
+8me\J
+=
+[4.re\
+4re\]
+*-

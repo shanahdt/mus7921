@@ -1,0 +1,70 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1903/12/31/
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus 9
+!!!PDT: 1903(rev)///
+!!!PDT: 1913///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1868
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Royssia, St. Petersburg
+!!!title1: Antar Symphony
+!!!title2: 4th Movement
+!!!statkey: D-
+!!DEBUGGING: r313 % 384 % 1868 % St. Petersburg % R313 % 9 % x % 4 % orchestra % . % Antar Symphony % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(rev) . (R313) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 384 1913(p) St. Petersburg (R313) 9 x 4 orchestra . Antar Symphony RIMSKY-KORSAKOV, Nikolay 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 384 1903(rev)(p) St. Petersburg (R313) 9 x 4 orchestra . Antar Symphony RIMSKY-KORSAKOV, Nikolay 1844
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M2/4
+=
+2dd-\
+=
+4cc\
+8.a-/L
+16b-/Jk
+=
+[8cc\L
+32cc\LL]
+32dd-\
+32ee-\
+32dd-\JJJ
+[8cc\L
+32cc\LL]
+32dd-\
+32ee-\
+32dd-\JJJ
+=
+2cc\
+=
+4r
+8.b-\L
+16cc\Jk
+=
+8.dd-\L
+16cc\k
+8.ee-\
+16cc\Jk
+=
+[4dd-\
+8.dd-\L]
+32cc\LL
+32b-\JJJ
+=
+4a-/
+*-

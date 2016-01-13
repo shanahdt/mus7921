@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus K 421
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1783
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in D Minor
+!!!title2: 4th Movement
+!!!statkey: d
+!!DEBUGGING: m645 % . % 1783 % Vienna % M645 % K 421 % x % 4 % string % . % Quartet in D Minor % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M645) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M6/8
+8so/
+=
+8.doT\L
+16ti\k
+8do\J
+8.me\L
+16re\k
+8do\J
+=
+8.tit\L
+16do\k
+8re\J
+8so/
+8r
+16so\LL
+16so\JJ
+=
+8so\
+8r
+16so\LL
+16so\JJ
+8so\
+8r
+16so\LL
+16so\JJ
+=
+4.so\
+8re\
+8r
+*-

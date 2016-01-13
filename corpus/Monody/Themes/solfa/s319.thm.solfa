@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*M2/4
+*f:
+qfa
+8me
+16me
+16fa
+8me
+8re
+=
+Q16me
+Q16fa
+4so
+Q16me
+Q16fa
+4so
+=
+qfa
+8me
+16me
+16fa
+8me
+8so
+=
+qso
+4do
+qso
+4do
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1823///-1828
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s319 % . % 1823-1828 % Vienna % S319 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1828///
+!!!ODT: <1828/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1828(p) Vienna? (S319) . . . . . . .

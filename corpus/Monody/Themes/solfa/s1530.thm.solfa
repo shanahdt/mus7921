@@ -1,0 +1,57 @@
+**solfa
+*clefG2
+*k[f#c#]
+*M4/4
+!! NB. Key & key signature disagree.
+*A:
+8.mi
+16re
+[4re
+8]re
+8do
+8.do
+16re
+=
+[4re
+8]re
+[8do
+8]do
+[8le
+8]le
+8la
+=
+8.mi
+16re
+8.re
+16do
+8.do
+16te
+8.te
+16la
+=
+8.la
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1931
+!!!place: Voreppe
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1530 % 471 % 1931 % Voreppe % S1530 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1931///
+!!!ODT: <1931/12/31/
+!!!splace: S
+!!!CDT: ///-
+!!DEBUGGING: . . 1931(p) S (S1530) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1931///
+!!!ODT: <1931/12/31/
+!!!splace: Deutschland, Berlin
+!!!CDT: ///-
+!!DEBUGGING: . 471 1931(prf) Berlin (S1530) . . . . . . STRAVINSKY, Igor

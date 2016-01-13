@@ -1,0 +1,55 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*a:
+1so
+=
+2.do
+4re
+=
+8me
+8do
+8so
+8me
+4.le
+8so
+=
+4so
+2fi
+4fi
+=
+4.fa
+16so
+16le
+4so
+[4fa
+=
+4]fa
+2me
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1850
+!!!place: D&uuml;sseldorf
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s601 % . % 1850 % D&uuml;sseldorf % S601 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1854///
+!!!ODT: <1854/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1854(p) ? (S601) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1860///
+!!!ODT: <1860/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1860(prf) Leipzig (S601) . . . . . . SCHUMANN, Robert

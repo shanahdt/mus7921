@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!ONM: No. 4
+!!!OPS: Opus 1
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Caprices
+!!!title2: Op. 1, No. 4
+!!!statkey: c
+!!DEBUGGING: p22 % . % c1805 % Lucca % P22 % 1 No. 4 % x % . % violn % . % Caprices % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P22) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/4
+=
+8doq/
+[4do\
+16do\]
+16so\LL
+16do\
+16re\JJ
+=
+[4me\
+16me\]
+16re\LL
+16me\
+16fa\JJ
+=
+[4so\
+16so\]
+16fa\LL
+16me\
+16re\JJ
+=
+4me\
+16re\
+*-

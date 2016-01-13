@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1832///
+!!!OCL: RSC
+!!!ODT: <1832/12/31/
+!!!ODT: <1868/12/31/
+!!!OMV: Mov. 3: Ein Feste Burg ist unser Gott!
+!!!OPS: Opus 107
+!!!PDT: 1868///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1832
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin(?)
+!!!splace: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Symphony No. 5 in D
+!!!title2: "Reformation"
+!!!statkey: g
+!!DEBUGGING: m342 % . % 1832 % Berlin? % M342 % 107 % a % 3: Ein Feste Burg ist unser Gott! % orchestra % "Reformation" % Symphony No. 5 in D % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1832(prf) Berlin (M342) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1868(p) Leipzig (M342) 107 a 3: Ein Feste Burg ist unser Gott! orchestra "Reformation" Symphony No. 5 in D MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=
+4dd\
+8.b-/L
+16a/Jk
+=
+4g/
+16r
+16g\LL
+16b-\
+16dd\JJ
+=
+4gg\
+8.dd\L
+16ee-\Jk
+=
+8dd\
+4cc\
+8r
+=
+*-

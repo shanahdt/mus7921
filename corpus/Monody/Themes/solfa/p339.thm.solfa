@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: A New Irish Tune
+!!!title2: Lillibullero
+!!!statkey: G
+!!DEBUGGING: p339 % . % n.d. % London % P339 % . % x % . % cemba % Lillibullero % A New Irish Tune % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4.do/
+8re/
+4do/
+=
+2mi\
+4mi\
+=
+4.re/
+8mi\
+4re/
+=
+2.fa\
+=
+4mi\
+4so\
+4do/
+=
+2fa\
+4mi\
+=
+4.reT/
+8do/
+4ti/
+=
+2.do/
+=
+*-

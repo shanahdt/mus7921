@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Chaconne No. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!title1: Suite in G
+!!!title2: 2nd Set
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h231 % . % ? % ? % H231 % . % x % Chaconne No. 2 % piano % 2nd Set % Suite in G % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.  
+4do\
+4doT\
+16r
+32do\LLL
+32re\
+32.re\
+64do\k
+32re\
+32mi\JJJ
+=
+4do\
+4do\
+32r
+32so\LLL
+32la\
+32ti\
+32do\
+32re\
+64mi\L
+64fa\
+64so\
+64la\
+64fa\JJJJ
+=
+8fa\L
+16.ti\L
+32la\JJk
+4fa\
+*-

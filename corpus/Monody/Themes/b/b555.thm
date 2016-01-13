@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1805///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1805///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Minuet in G
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8.b\L
+16cc\Jk
+=
+8.dd\L
+16cc#\Jk
+8.dd\L
+16cc#\Jk
+8.dd\L
+16cc#\Jk
+=
+2dd\
+8.ee\L
+16b\Jk
+=
+2cc\
+8.dd\L
+16a\Jk
+=
+2b\
+*-

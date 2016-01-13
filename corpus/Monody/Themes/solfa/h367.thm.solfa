@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1782///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in D
+!!!title2: 2nd Movement
+!!!statkey: d
+!!DEBUGGING: h367 % . % 1781 % Eszterh&aacute;za % H367 % . % x % 2 % string % . % Quartet in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(p) ? (H367) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+8r
+8do\L
+8do\
+8do\J
+8do\L
+8me\
+8re\
+8do\J
+=
+4..do\
+32re\LLL
+32do\JJJ
+8ti\L
+8ti\J
+16ti\LL
+16do\
+16do\
+16re\JJ
+=
+8re\L
+8re\
+8re\
+8re\J
+8re\L
+8fa\
+8me\
+8re\J
+=
+*-

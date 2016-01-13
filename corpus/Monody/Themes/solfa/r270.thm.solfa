@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. The Fountain of Valle Giulia at Dawn
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Fountains of Rome
+!!!title2: The Fountain of Valle Giulia at Dawn
+!!!statkey: C
+!!DEBUGGING: r270 % . % 1914-1916 % Rome % R270 % . % a % The Fountain of Valle Giulia at Dawn % orchestra % . % Fountains of Rome % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[]
+*C:
+*M6/4
+=
+4.mi\
+8fa\
+8so\L
+8la\J
+20so\LL
+20la\
+20so\
+20fa\
+20mi\JJ
+[4re\
+12re\L]
+12do\
+12re\J
+=
+4.mi\
+8fa\
+8so\L
+8fa\J
+20mi\LL
+20fa\
+20mi\
+20re\
+20do\JJ
+[4ti\
+12ti/L]
+12la/
+12ti/J
+=
+4.di\
+8re\L
+8mi\
+8ti\J
+4.do\
+8re\L
+8mi\
+8ti\J
+=
+*-

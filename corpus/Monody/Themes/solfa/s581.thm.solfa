@@ -1,0 +1,59 @@
+**solfa
+*clefF4
+*k[]
+*met(C|)
+*M2/2
+!! NB. Key & key signature disagree.
+*E-:
+8.do
+16fa
+8me
+8r
+4r
+12ti
+12so
+12fa
+=
+8.do
+16mi
+8re
+8r
+4r
+12la
+12fi
+12mi
+=
+8me
+8r
+12fa
+12so
+12do
+8ti
+8r
+12la
+12fi
+12mi
+=
+12re
+12mi
+12fa
+12so
+12la
+12so
+*-
+!!!COM: Schuman, William
+!!!CNT: American
+!!!date: 1941
+!!!place: United States of America, New York
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s581 % . % 1941 % New York % S581 % . % . % . % . % . % . % SCHUMAN, William
+!!SUPPLEMENTARY INFORMATION
+!!!splace: United States of America, Massachusetts, Boston
+!!!CDT: ///-
+!!DEBUGGING: . . . Boston (S581) . . . . . . .

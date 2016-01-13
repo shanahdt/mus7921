@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 7
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: violn, orchestra
+!!!place: Italia, Milano(?)
+!!!splace: France, Paris & Deutschland, Mainz
+!!!title1: Concerto No. 2 in B Minor
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: p46 % . % 1826 % Milan? % P46 % 7 % x % 2 % violn, orchestra % . % Concerto No. 2 in B Minor % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Paris and Mainz (P46) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+2.do\
+8.ti\L
+16la\Jk
+=
+2la\
+8.so\L
+16fa\k
+8faq/
+8.mi\
+16re\Jk
+=
+2do\
+2re\
+16doq/LL
+16req/JJ
+=
+4.mi\
+32si\LL
+32ti\JJ
+4.mi\
+8re\
+=
+8di\L
+8te\
+8la\
+8so\J
+8fa\
+4re\
+8do\
+=
+*-

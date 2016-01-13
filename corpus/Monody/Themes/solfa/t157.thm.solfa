@@ -1,0 +1,39 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1888///
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Hamlet, Fantasy Overture, Op. 67
+!!!statkey: C
+!!DEBUGGING: t157 % . % 1888(prf) % St. Petersburg % T157 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefF4
+*k[]
+*a:
+*M4/4
+=
+2so\
+4.so\
+8re\
+=
+4fa\
+2.me\
+=
+8do\L
+8re\
+8me\
+8so\J
+4.fa\
+8fa\
+=
+1fa\
+=
+*-

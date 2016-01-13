@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933(rev)
+!!!place: England, Dorking
+!!!title1: A London Symphony
+!!!title2: 3rd Movement
+!!!statkey: d
+!!DEBUGGING: v26 % . % 1933(rev) % Dorking, England % V26 % . % . % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M6/8
+=
+8so/L
+8do/
+8te/J
+[4.do/
+=
+8do/L]
+8te/
+8do/J
+8re/L
+8me/
+8re/J
+=
+8so/L
+8do/
+8te/J
+8do/L
+8re/
+8me/J
+=
+8te\L
+8re\
+8re\J
+8re\L
+8fa\
+8fa\J
+=
+8fa\L
+8la\
+8la\J
+8la\L
+8fa\
+8fa\J
+=
+8fa\L
+8re\
+8re\J
+8re\L
+8la\
+8la\J
+=
+*-

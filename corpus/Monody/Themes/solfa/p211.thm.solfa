@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1923///
+!!!OCL: RSC
+!!!ODT: <1923/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 19
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1916///-1917
+!!!instrument: violn, orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Concerto No. 1
+!!!title2: 2nd Movement
+!!!statkey: a
+!!DEBUGGING: p211 % . % 1916-1917 % Petrograd % P211 % 19 % b % 2 % violn, orchestra % . % Concerto No. 1 % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1923(prf) Paris (P211) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8so/L
+8la/
+8so/
+8la/J
+8so/L
+8so/
+8fa/
+8so/J
+=
+8so/L
+8fa/
+8mi/
+8fa/J
+16miq/LL
+16faq/JJ
+8so/L
+8fa/
+8mi/
+8re/J
+=
+8la/L
+8la/
+8te/
+8la/J
+8te/L
+8te/
+8ti/
+8te/J
+=
+8ti/L
+8di/
+8fa/
+8la/J
+*-

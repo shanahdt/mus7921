@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Symphony No. 7 in E Major
+!!!OMV: Mov. 2
+!!!thm: B b
+!!!AIN: orchestra
+!!!ODT: 1881///-1883///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!MRD: 1884///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*F#:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+4cc#\
+8ff#\
+16cc#\LL
+16b#\
+16cc#\
+16dd#\JJ
+=
+8dd#\L
+8bbn\J
+8r
+16bb\LL
+16ccc#\JJ
+16ccc#\LL
+16ddd#\
+16ddd#\
+16eee#\JJ
+=
+8.fff#\L
+32eee#\LL
+32ddd#\JJJ
+8ccc#\L
+8ee#\J
+16ee#\LL
+16ff#\
+16gg#\
+16aa#\JJ
+=
+8cc#\
+*-

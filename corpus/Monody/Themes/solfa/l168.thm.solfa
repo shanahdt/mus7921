@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1848/12/31/
+!!!ODT: <1853/12/31/
+!!!PDT: 1848///
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1848(p)
+!!!instrument: piano
+!!!place: Oesterreich, Vienna & France, Paris
+!!!splace: Deutschland, Mainz
+!!!theme: C
+!!!title1: Hungarian Rhapsody No. 9 in E Flat
+!!!statkey: E-
+!!DEBUGGING: l168 % . % 1848(p) % Vienna, Paris % L168 % . % c % . % piano % . % Hungarian Rhapsody No. 9 in E Flat % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1853(p) Mainz (L168) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+=
+4so\
+8so\L
+8so\J
+=
+4.do\
+8do\
+=
+8te\L
+8le\
+8so\
+8fa\J
+=
+8so/L
+8do/J
+4do/
+=
+*-

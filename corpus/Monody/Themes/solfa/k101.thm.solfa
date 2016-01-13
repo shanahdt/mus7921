@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!title1: La Chasse, Caprice
+!!!title2: Style of Jean-Baptiste Cartier
+!!!statkey: E-
+!!DEBUGGING: k101 % . % n.d.(c) % ? % K101 % . % x % . % violn, piano % Style of Jean-Baptiste Cartier % La Chasse, Caprice % KREISLER, Fritz % 1875
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M6/8
+16do\LL
+16do\JJ
+=
+8do\L
+8re\
+8mi\J
+8re\L
+8mi\
+8fa\J
+=
+4.so\
+8mi\
+8r
+16re\LL
+16re\JJ
+=
+8mi\L
+8re\
+8do\J
+8re\L
+8do\
+8so\J
+=
+8mi/L
+8re/
+8do/J
+8re/
+8r
+*-

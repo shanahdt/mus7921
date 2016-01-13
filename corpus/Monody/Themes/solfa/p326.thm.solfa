@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Air No. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1695
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Bonduca
+!!!title2: The British Heroine Opera
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p326 % 365 % 1695 % London % P326 % . % x % Air No. 2 % orchestra % The British Heroine Opera % Bonduca % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*C:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+8do\
+8do\
+8me\J
+8me\L
+8re\
+8re\
+8so\J
+=
+8so/L
+8do/J
+8do\L
+16me\L
+16re\JJ
+4.ti\
+8ti\
+=
+8do/L
+8so/
+8so/
+8te/J
+8te/L
+8fa/
+8fa/
+8le/J
+=
+8le/L
+8so/
+8so/
+8fa/J
+2so/
+=
+*-

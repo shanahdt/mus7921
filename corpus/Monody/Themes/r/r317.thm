@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!OMV: Mov. Scene and Gypsy Song
+!!!OPS: Opus 34
+!!!PDT: 1888///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Capriccio Espagnol
+!!!title2: Scene and Gypsy Song
+!!!statkey: d
+!!DEBUGGING: r317 % . % 1887 % St. Petersburg % R317 % 34 % b % Scene and Gypsy Song % orchestra % . % Capriccio Espagnol % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(p) Leipzig (R317) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+=
+8r
+16e-/LL
+16f/
+16g/
+16a/JJ
+16b-\LL
+16a\
+16cc\
+16b-\
+16b-\
+16a\JJ
+=
+16a/LL
+16g/
+16g/
+16f/
+16f/
+16e-/JJ
+16e-/LL
+16d/
+16d/
+16d/J
+8d/J
+=
+*-

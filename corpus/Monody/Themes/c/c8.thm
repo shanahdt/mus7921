@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Cadman, Charles Wakefield
+!!!CDT: 1881/12/24/-1946/12/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Nuwana's Love Song
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Pennsylvania, Pittsburgh
+!!!title1: Thunderbird Suite
+!!!title2: 3rd Movement, Nuwana's Love Song (Blackfeet Indian Tune)
+!!!statkey: d
+!!DEBUGGING: c8 % . % 1914 % Pittsburgh % C8 % . % x % 3: Nuwana's Love Song % orchestra % . % Thunderbird Suite % CADMAN, Charles Wakefield % 1881
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+4dd\
+8cc#\L
+8a\J
+4ddn\
+8cc#\L
+8a\J
+=
+12g/L
+12a/
+12g/J
+8.f/L
+16d/Jk
+4.d/
+8f/
+=
+8.f/L
+16e/Jk
+16e/LK
+8.a/J
+4a/
+12g/L
+12a/
+12g/J
+=
+*M5/4
+8f/L
+8d/J
+8.f/L
+16f/Jk
+8g/L
+8d/J
+*-

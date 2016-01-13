@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 488
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Concerto in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m495 % 316 % 1786 % Vienna % M495 % K 488 % b % 3 % piano, orchestra % . % Concerto in A % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/2
+=
+2cc#\
+4.dd\
+8b\
+=
+2.ee\
+4ee#\
+=
+4ff#\
+4gg#\
+4aa\
+4gg#\
+=
+4gg#\
+4ff#\
+4een\
+4r
+=
+*-

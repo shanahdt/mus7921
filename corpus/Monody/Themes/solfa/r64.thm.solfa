@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1901///
+!!!OCL: RSC
+!!!ODT: <1901/12/31/
+!!!OMV: Mov. 2: Valse
+!!!OPS: Opus 17
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1900///-1901
+!!!instrument: 2 piano
+!!!place: Royssia, Moskova
+!!!splace: Royssia, Moskova(?)
+!!!theme: C
+!!!title1: Suite No. 2
+!!!title2: 2nd Movement (Valse)
+!!!statkey: E-
+!!DEBUGGING: r64 % . % 1900-1901 % Moscow % R64 % 17 % c % 2: Valse % 2 piano % . % Suite No. 2 % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(prf) Moscow? (R64) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+2do/
+[4ti/
+=
+4ti/]
+2do/
+=
+[2.la/
+=
+4la/]
+[2do/
+=
+2do/]
+[4ti/
+=
+4ti/]
+2do/
+=
+[2.le/
+=
+4le/]
+[2do/
+=
+2do/]
+[4so/
+=
+4so/]
+2do/
+=
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Locatelli, Pietro Antonio
+!!!CDT: 1696/09/03/-1764/03/30/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1721///
+!!!OCL: RSC
+!!!ODT: <1721/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 2
+!!!OPS: Opus 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1721
+!!!instrument: string orchestra, piano
+!!!place: Italia, Mantova
+!!!splace: Netherlands, Amsterdam
+!!!title1: Concerto Grosso
+!!!title2: 4th Movement
+!!!statkey: c
+!!DEBUGGING: l244 % 285 % 1721 % Mantua % L244 % 1 No. 2 % x % 4 % string orchestra, piano % . % Concerto Grosso % LOCATELLI, Pietro % 1695
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1721(prf) Amsterdam (L244) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/2
+=
+1do\
+=
+1re\
+=
+2.me\
+4so\
+=
+4fa\
+4me\
+2re\
+=
+2.do\
+[4me\
+=
+4me\]
+2re\
+4do\
+=
+4te\
+4so/
+[2so\
+=
+2so\]
+2fi\
+=
+4so\
+*-

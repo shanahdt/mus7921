@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Viotti, Giovanni Battista
+!!!CDT: 1755/05/12/-1824/03/03/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1803/12/31/
+!!!PDT: 1803///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1803(p)
+!!!place: France, Paris
+!!!title1: Concerto No. 22 in A Minor, Vn. & Orch.
+!!!title2: 2nd Movement
+!!!statkey: E
+!!DEBUGGING: v121 % 504 % 1803(p) % Paris % V121 % . % . % . % . % . % . % VIOTTI, Giovanni % 1755
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+16.mi\LL
+96fa\LL
+96mi\
+96re\JJ
+16mi\
+16fa\JJ
+=
+8re\L
+8la\
+8so\
+8ti\J
+4do\
+8r
+8so\
+=
+8.fa\L
+16so\Jk
+8mi\L
+16so\L
+16fa\JJ
+8mi\L
+8re\J
+*-

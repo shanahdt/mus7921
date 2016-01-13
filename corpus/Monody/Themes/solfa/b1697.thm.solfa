@@ -1,0 +1,59 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Variations on a Theme of Haydn
+!!!OPS: Op. 56a
+!!!thm: Theme
+!!!AIN: orchestra
+!!!ODT: 1873///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien  
+!!!PDT: 1874///
+!!!MRD: 1873///
+!!!MLC: &Ouml;sterreich, Wien                       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+8.mi\L
+16fa\k
+8mi\
+8mi\J
+=
+4fa\
+4mi\
+=
+4re\
+4do\
+=
+8.re\L
+16mi\Jk
+16fa\LL
+16re\
+16mi\
+16do\JJ
+=
+4mi\
+16re\LL
+16ti\
+16do\
+16re\JJ
+=
+8.mi\L
+16fa\k
+8mi\
+8mi\J
+=
+4fa\
+4mi\
+=
+*-

@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Pizzetti, Ildebrando
+!!!CDT: 1880/09/20/-1968/02/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Prayer for the Innocent
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918///-1919
+!!!instrument: violn, piano
+!!!place: Italia, Roma
+!!!title1: Sonata in A
+!!!title2: 2nd Movement (Prayer for the innocent)
+!!!statkey: a
+!!DEBUGGING: p141 % . % 1918-1919 % Rome % P141 % . % x % 2: Prayer for the Innocent % violn, piano % . % Sonata in A % PIZZETTI, Ildebrando % 1880
+**solfa
+*clefG2
+*k[]
+*a:
+*M3/2
+=
+[2me\
+3me\]
+6me\
+6me\
+6me\
+6me\
+=
+2re\
+1re\
+=
+8re/L
+8do/J
+[4me\
+2me\]
+[2do/
+=
+*M5/2
+2do/]
+6re\
+6do/
+6re\
+6me\
+6me\
+6re\
+4te/
+4do/
+4te/
+4le/
+=
+*M4/2
+2te/
+2so/
+*-

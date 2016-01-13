@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Trio in A Minor for Clarinet or Viola, Cello, and Piano
+!!!OPS: Op. 114
+!!!OMV: Mov. 2
+!!!AIN: cello clars/viola forte
+!!!ODT: 1891///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1892///
+!!!MRD: 1891///
+!!!MLC: Deutschland, Berlin        
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+[4aa\
+16aa\LL]
+16ff#\
+16dd\
+16cc#\JJ
+[4dd\
+16dd/LL]
+16b/
+16g/
+16f#/JJ
+=
+[4e/
+16e/LL]
+16f#/
+16g/
+16b/JJ
+4a/
+*-

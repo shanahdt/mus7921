@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Finale
+!!!OPS: Opus 130
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1913
+!!!instrument: orchestra
+!!!place: Deutschland, Meiningen
+!!!title1: Balletmusik
+!!!title2: Finale
+!!!statkey: b
+!!DEBUGGING: r224 % . % 1913 % Meiningen % R224 % 130 % x % Finale % orchestra % . % Balletmusik % REGER, Max % 1873
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M6/8
+=
+8a\L
+8b\
+8cc#\J
+8dd\L
+8ee\
+8ff#\J
+=
+8gg\L
+8r
+8gg\J
+8bb\L
+8r
+8bb\J
+=
+8gg#\L
+8r
+8gg#\J
+8bb\L
+8r
+8bb\J
+=
+8ddd\L
+8bb\
+8aa\J
+8bb\L
+8aa\
+8ff#\J
+=
+*-

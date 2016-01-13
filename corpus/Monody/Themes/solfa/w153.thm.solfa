@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928///-1929
+!!!place: England, Chelsea
+!!!splace: Italia, Ischia 
+!!!title1: Concerto, Viola & Orch.
+!!!title2: 1st Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w153 % . % 1928-1929 % Chelsea % W153 % . % . % . % . % . % . % WALTON, William Turner
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1961(rev) Ischia, Italy (W153) . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+*M9/8
+!! ! NB. Key & key signature disagree.
+8re/
+=
+[4.fa\
+8fa\L]
+8mi\
+8fa\J
+8mi/L
+8re/
+8mi/J
+=
+4re/
+8la/
+[4.so/
+4so/]
+8fa/
+=
+[4.so\
+8so\L]
+8la\
+8so\J
+4fa\
+8so\
+=
+[4.te\
+4te\]
+*-

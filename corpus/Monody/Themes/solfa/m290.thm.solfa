@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1835/12/31/
+!!!ONM: No. 4
+!!!OPS: Opus 30
+!!!PDT: 1835///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1834
+!!!instrument: piano
+!!!place: D&uuml;sseldorf
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 10
+!!!statkey: b
+!!DEBUGGING: m290 % . % 1834 % D&uuml;sseldorf % M290 % 30 No. 4 % x % . % piano % No. 10 % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1835(p) Bonn (M290) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M3/8
+8so/
+=
+8so/L
+16la/L
+16ti/
+16do/
+16re/JJ
+=
+8me\L
+8ti\
+8do\J
+=
+8fa\L
+8ti\
+8do\J
+=
+4re\
+8le\
+=
+8.so\L
+16fa\L
+16me\
+16re\JJ
+=
+8.fa\L
+16me\L
+16re\
+16do\JJ
+=
+*-

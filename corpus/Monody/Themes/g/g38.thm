@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1895
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: F: MEN OF HARLECH
+!!!title1: Welsh Rhapsody
+!!!statkey: f#
+!!DEBUGGING: g38 % . % 1895 % London % G38 % . % f: Men of Harlech % . % orchestra % . % Welsh Rhapsody % GERMAN, Sir Edward % 1862
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8.a/L
+16g#/Jk
+8f#/L
+8g#/J
+=
+8a/L
+8b/J
+8cc#/L
+8a/J
+=
+8dd\L
+8cc#\
+8b\
+8a\J
+=
+8g#/L
+8f#/J
+8g#/L
+8e/J
+=
+8.a/L
+16g#/Jk
+8f#/L
+8g#/J
+=
+8a\L
+8b\
+8cc#\
+8ff#\J
+=
+*-

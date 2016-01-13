@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1936?/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1936?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Sonata No. 2
+!!!title2: 3th Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h769 % . % 1936 % Berlin % H769 % . % a % 3 % piano % . % Sonata No. 2 % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936?(p) Mainz (H769) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*B:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8.do\L
+16me\L
+16.re\
+32me\JJk
+=
+8do\L
+8so\
+8me\J
+8do\L
+8.fa\
+16re\Jk
+=
+8te/L
+8la/
+8te/J
+*-

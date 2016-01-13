@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OPS: Opus K 455
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1783
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!splace: Oesterreich, Vienna
+!!!title1: Variations
+!!!title2: (Theme of Gluck)
+!!!statkey: G
+!!DEBUGGING: m1009 % . % 1783 % Vienna % M1009 % K 455 % x % . % piano % (Theme of Gluck) % Variations % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1784(rev) . (M1009) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) Vienna (M1009) K 455 x . piano (Theme of Gluck) Variations c1786(p) 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4g/
+4g/
+4f#/
+8f#/L
+8g/J
+=
+4e/
+8e/L
+8g/J
+2d/
+=
+4cc\
+4cc\
+8cc/L
+8b/
+8a/
+8g/J
+=
+4g/
+8b/L
+8a/J
+4g/
+*-

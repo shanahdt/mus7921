@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 595
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788?///-1791
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in B Flat
+!!!title2: 2nd Movement
+!!!statkey: E-
+!!DEBUGGING: m509 % . % 1788?-1791 % Vienna % M509 % K 595 % x % 2 % piano, orchestra % . % Concerto in B Flat % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) . (M509) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+2ee-\
+16ggq/
+8.ff\L
+16ee-\k
+8.ff\
+16gg\Jk
+=
+4.ee-\
+16ff\LL
+16gg\JJ
+4aa-\
+4gg\
+=
+4ff\
+4ee-\
+4dd\
+4ee-\
+=
+4.b-\
+*-

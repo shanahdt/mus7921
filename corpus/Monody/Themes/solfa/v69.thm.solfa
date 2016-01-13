@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Verdi, Giuseppe
+!!!CDT: 1813/10/9-10/-1901/01/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1871///
+!!!OCL: RSC
+!!!ODT: <1871/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1871(prf)
+!!!place: Egypt, Cairo
+!!!title1: A\i3da, Opera
+!!!title2: Act II, Ballet
+!!!statkey: c
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v69 % 501 % 1871(prf) % Cairo % V69 % . % . % . % . % . % . % VERDI, Giuseppe % 1813
+**solfa
+*clefG2
+*k[b-e-a-]
+*E:
+*M4/4
+8soq/
+!! ! NB. Key & key signature disagree.
+8le\
+8r
+8soq/
+8le\
+8r
+=
+8soq/
+16le\LL
+16te\
+16le\
+16so\JJ
+16fe\LL
+16se\
+16fe\
+16me\JJ
+16ra\LL
+16me\
+16fe\
+16ra\JJ
+8me\L
+8do\J
+=
+2ra\
+8doq/
+8ra\L
+8me\
+8fe\
+8se\J
+=
+8le\L
+16ra\Jk
+16r
+16teq/LL
+16deq/JJ
+8te\L
+8se\J
+*-

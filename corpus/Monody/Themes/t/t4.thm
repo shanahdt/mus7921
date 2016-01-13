@@ -1,0 +1,37 @@
+!!!COM: Tansman, Alexandre
+!!!CDT: 1897/06/12/-1986/11/15/
+!!!CNT: Polish; French
+!!!title1: Triptyque, Str. Orch. or Str. Quartet
+!!!title2: 2nd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+**kern
+*clefF4
+*k[]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4c\
+4.d\
+8c\L
+8f\
+8e\J
+=
+4d\
+8A\L
+8c\J
+8G\L
+8F\J
+[4E\
+=
+8E\L]
+8D\
+8A\
+8B-\J
+4G\
+8f\L
+8d\J
+=
+4.c\
+*-

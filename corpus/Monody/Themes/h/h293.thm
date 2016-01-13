@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Harris, Roy
+!!!CDT: 1898/02/12/-1979/10/01/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1933///
+!!!OCL: RSC
+!!!ODT: <1933/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933
+!!!instrument: string
+!!!place: United States of America, New York
+!!!splace: United States of America, Illinois, Chicago
+!!!title1: Three Variations on a String Quartet
+!!!statkey: C
+!!DEBUGGING: h293 % . % 1933 % New York % H293 % . % x % . % string % . % Three Variations on a String Quartet % HARRIS, Roy % 1898
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1933(prf) Chicago (H293) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/2
+=
+2e-/
+8c/
+8r
+8r
+8c/
+=
+2en/
+8c/
+8r
+8r
+8c/
+=
+2d/
+2f/
+=
+2g/
+8e-/
+8r
+8r
+8e-/
+=
+2a-/
+4.cc\
+*-

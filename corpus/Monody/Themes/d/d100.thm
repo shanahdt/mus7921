@@ -1,0 +1,59 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Pour Le Piano, Suite      
+!!!OMV: Toccata           
+!!!AIN: forte      
+!!!ODT: 1894///-1901///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M2/4
+=
+16ccc#\LL
+16gg#\
+16ff#\
+16gg#\JJ
+16dd#\LL
+16ff#\
+16ee\
+16dd#\JJ
+=
+16cc#/LL
+16g#/
+16f#/
+16g#/JJ
+16d#/LL
+16f#/
+16e/
+16d#/JJ
+=
+16c#/LL
+16g#/
+16d#/
+16g#/JJ
+16f#/LL
+16g#/
+16d#/
+16g#/JJ
+=
+16c#/LL
+16cc#/
+16b/
+16a/JJ
+16g#/LL
+16f#/
+16e/
+16d#/JJ
+=
+*-

@@ -1,0 +1,33 @@
+**solfa
+*clefG2
+*k[]
+*M6/8
+!! NB. Key & key signature disagree.
+*B:
+[8do
+=
+4]do
+8fe
+4se
+8so
+=
+8r
+8te
+16de
+16te
+4so
+8fe
+=
+*-
+!!!COM: Sch&ouml;nberg, Arnold
+!!!CNT: Austrian
+!!!date: 1911
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s266 % 405 % 1911 % Vienna % S266 % . % . % . % . % . % . % SCH&Ouml;NBERG, Arnold

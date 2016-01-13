@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Paderewski, Ignace Jan
+!!!CDT: 1860/11/18/-1941/06/29/
+!!!CNT: Polish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1890/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 17
+!!!PDT: 1890///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!splace: Deutschland, Berlin
+!!!theme: AB
+!!!title1: Concerto in A Minor
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: p8 % . % 1888 % Vienna % P8 % 17 % ab % 1 % piano, orchestra % . % Concerto in A Minor % PADEREWSKI, Ignace Jan % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1890(p) Berlin (P8) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+4so/
+4la/
+4ti/
+=
+4do/
+2so\
+=
+4fa\
+8so\L
+8fa\
+8me\
+8re\J
+=
+4do/
+2so\
+=
+8fa\L
+8fa\
+8so\
+8fa\
+8me\
+8re\J
+=
+2do/
+4re\
+=
+2me\
+4fa\
+=
+2.fa\
+=
+*-

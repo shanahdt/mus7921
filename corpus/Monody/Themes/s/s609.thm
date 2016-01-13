@@ -1,0 +1,49 @@
+**kern
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*a:
+4e
+=
+4f
+2e
+4d
+=
+4c
+4B
+4A
+4e
+=
+4f
+2e
+4d
+=
+4c
+4B
+4A
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s609 % . % 1841 % Leipzig % S609 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1846///
+!!!ODT: <1846/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1846(p) ? (S609) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1846///
+!!!ODT: <1846/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1846(prf) Leipzig (S609) . . . . . . SCHUMANN, Robert

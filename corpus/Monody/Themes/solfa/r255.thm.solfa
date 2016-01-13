@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Passo Mezzo e Mascherada
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1917
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 1
+!!!statkey: D
+!!DEBUGGING: r255 % 381 % 1917 % Rome % R255 % . % b % 4: Passo Mezzo e Mascherada % orchestra % Suite No. 1 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1923(rev) . (R255) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+8mi\L
+8mi\
+8mi\
+8mi\J
+=
+4mi\
+4so\
+=
+4.mi\
+8re\
+=
+4do\
+4so/
+=
+8mi\L
+8mi\
+8mi\
+8mi\J
+=
+4mi\
+8so\L
+8fa\J
+=
+4.mi\
+8re\
+=
+4do\
+4so/
+=
+4do\
+8ti\L
+8la\J
+=
+4ti\
+8ti\L
+8la\J
+=
+*-

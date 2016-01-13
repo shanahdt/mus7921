@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1829/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 16
+!!!PDT: 1829///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1829
+!!!instrument: piano
+!!!place: England, London
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Scherzo
+!!!statkey: e
+!!DEBUGGING: m309 % . % 1829 % London % M309 % 16 No. 2 % a % . % piano % . % Scherzo % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1829(p) Vienna (M309) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+8do\
+8ti\L
+8do\
+8re\
+8ti\J
+=
+8req/
+8do\L
+8ti\
+8do\J
+8me\
+8re\L
+8me\
+8fa\
+8re\J
+=
+8faq/
+8me\L
+8re\
+8me\J
+8so\
+8soq/
+8do\L
+8te\
+8le\
+8so\J
+=
+8le\L
+8so\
+8fa\
+8me\J
+*-

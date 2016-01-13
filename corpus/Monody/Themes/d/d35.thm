@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Estampes for Piano
+!!!OTL: La Sir&eacute;e dans Grenade
+!!!thm: A 
+!!!AIN: forte     
+!!!ODT: 1903///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M2/4
+=
+16dd\LL
+[16cc#\JJ
+4.cc#\_
+=
+4cc#\_
+16cc#\LL]
+16dd\
+16dd\
+16cc#\JJ
+=
+24cc#\LL
+24b#\
+24a\JJ
+[4.b#\
+=
+4b#\_
+16b#/LL]
+16a/
+16g#/
+16f#/JJ
+=
+16cc#/LL
+16b#/
+16a/
+[16f#/JJ
+8f#/]
+*-

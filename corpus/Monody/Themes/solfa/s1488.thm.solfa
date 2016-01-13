@@ -1,0 +1,47 @@
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*M3/8
+!! NB. Key & key signature disagree.
+*F-:
+8.;fi
+16fi
+=
+16.ri
+32ri
+16.fi
+32li
+16.di
+32ty
+=
+16.li
+32se
+16.my
+32di
+8li
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1927///-1928
+!!!place: Nice
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1488 % . % 1927-1928 % Nice % S1488 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1928///
+!!!ODT: <1928/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . . 1928(p) R (S1488) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1928///
+!!!ODT: <1928/12/31/
+!!!splace: United States of America, Washington D.C.
+!!!CDT: ///-
+!!DEBUGGING: . . 1928(prf) Washington D.C. (S1488) . . . . . . STRAVINSKY, Igor

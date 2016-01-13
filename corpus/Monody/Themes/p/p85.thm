@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Philips, Peter
+!!!CDT: 1560///-1633///
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: ?
+!!!title1: Galliardo
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p85 % . % n.d. % ? % P85 % . % x % . % cemba % . % Galliardo % PHILIPS, Peter % 1560
+**kern
+*clefG2
+*k[]
+*G:
+*M3/2
+=
+!! ! NB. Key & key signature disagree.
+2b\
+4b\
+2b\
+4a/
+=
+1g/
+2f#/
+=
+2g/
+4a/
+4.b\
+8a/
+4g/
+=
+2dd\
+2dd\
+2cc#\
+=
+2dd\
+4ee\
+4.ff#\
+8ee\
+4dd\
+=
+2gg\
+*-

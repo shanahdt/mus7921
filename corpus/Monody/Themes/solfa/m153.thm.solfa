@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1873///
+!!!OCL: RSC
+!!!ODT: <1873/12/31/
+!!!ODT: <1900/12/31/
+!!!OMV: Mov. Sc&egrave;ne Religieuse
+!!!PDT: 1900///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1873(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Les Erinnyes
+!!!title2: (Incidental Music)
+!!!statkey: D
+!!DEBUGGING: m153 % . % 1873(prf) % Paris % M153 % . % x % Sc&egrave;ne Religieuse % orchestra % (Incidental Music) % Les Erinnyes % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(rev. prf) . (M153) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1900(p) Paris (M153) . x Sc&egrave;ne Religieuse orchestra (Incidental Music) Les Erinnyes MASSENET, Jules 1842
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+8do\L
+8so\J
+=
+4so/
+4fa/
+8do\L
+8fa\J
+=
+4fa/
+4mi/
+4re/
+=
+4.do/
+8mi/L
+8so/
+8do/J
+=
+2ti\
+*-

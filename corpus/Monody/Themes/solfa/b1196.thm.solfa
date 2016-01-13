@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!ODT: 1919///
+!!!OCY: United States of America                    
+!!!OPC: New York 
+!!!OTL: Suite for Viola and Orchestra
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: orchestra viola
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4r
+4do/
+8te/L
+8la/J
+=
+8.do/L
+16te/Jk
+!!   This is a B3  in Barlow.  What is right?
+2la/
+=
+4ti/
+8fi/L
+[8fi/J
+12fi/L]
+12mi/
+12mi/J
+=
+4.fi/
+4.di\
+=
+8ti/L
+8li/J
+[8si/L
+32si/LL]
+32li/
+32si/
+32fi/JJJ
+4mi/
+=
+2.fi/
+=
+*-

@@ -1,0 +1,42 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M2/4
+*g:
+4so
+4do
+=
+[4le
+16]le
+16so
+16fa
+16me
+=
+4re
+4so
+=
+16fa
+16me
+16re
+16me
+4do
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1816
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s452 % . % 1816 % Vienna % S452 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1836///
+!!!ODT: <1836/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1836(p) Vienna? (S452) . . . . . . .

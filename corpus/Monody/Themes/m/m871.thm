@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 112
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1771
+!!!instrument: orchestra
+!!!place: Italia, Milano
+!!!theme: A
+!!!title1: Symphony No. 13 in F
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: m871 % . % 1771 % Milan % M871 % K 112 % a % 1 % orchestra % . % Symphony No. 13 in F % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4ff\
+4cc\
+4a/
+=
+4f/
+8r
+8f/L
+8f/
+8f/J
+=
+4e-/
+8r
+8e-/L
+8e-/
+8e-/J
+=
+4d/
+8r
+16dd\LL
+16een\JJ
+8ff\L
+8dd\J
+=
+8cc\L
+8ff\
+8aa\
+8ccc\J
+8bb-\L
+8gg\J
+=
+4ff\
+*-

@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL
+!!!COM: Gershwin, George
+!!!CDT: 1898/09/26/-1937/07/11/
+!!!CNT: American
+!!!OTL: Prelude No. 1 for Piano                 
+!!!SET: No. 1          
+!!!AIN: forte  
+!!!ODT: 1926/// 
+!!!OCY: United States of America
+!!!OPC: New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+16ccc#\LL
+16ddd\J
+8ff\J
+16bb-\LK
+8.bb-\J
+=
+16ccc#\LL
+16ddd\J
+8ff\J
+16aa-\LK
+8.aa-\J
+=
+16ff\LL
+16gg\J
+8cc#\J
+16dd\LL
+16ff\J
+8f\J
+=
+16a-/LL
+16ccn/
+16c/
+16d/JJ
+16f/LK
+8.f/J
+=
+32f/LLL
+32e-/
+32d/
+32c/JJ
+8d/J
+*-

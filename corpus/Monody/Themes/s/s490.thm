@@ -1,0 +1,54 @@
+**kern
+*clefG2
+*k[b-e-a-d-]
+*M2/4
+*A-:
+4a-
+8.a-
+16b-
+=
+4a-
+8g
+8e-
+=
+4cc
+8.cc
+16dd-
+=
+4cc
+4b-
+=
+4ee-
+8.ee-
+16ff
+=
+8ee-
+8dd
+8cc
+8b-
+=
+4a-
+8.cc
+16b-
+=
+4a-
+8g
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1816
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s490 % . % 1816 % Vienna % S490 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1884///
+!!!ODT: <1884/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1884(p) Vienna? (S490) . . . . . . .

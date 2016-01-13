@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Medtner, Nicolas
+!!!CDT: 1880/01/05/-1951/11/13/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 3
+!!!OPS: Opus 26
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912?
+!!!instrument: piano
+!!!place: Royssia, Moskova(?)
+!!!title1: Fairy Tales
+!!!statkey: f
+!!DEBUGGING: m191 % . % 1912? % Moscow? % M191 % 26 No. 3 % x % . % piano % . % Fairy Tales % MEDTNER, Nicolas % 1880
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+4.do/
+8re/L
+8me/
+8fa/J
+=
+8so\L
+8me\
+8le\
+8me\
+8so\
+8fa\J
+=
+8me/L
+8fa/J
+4.re/
+8do/
+=
+4.do/
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1685///
+!!!OCL: RSC
+!!!ODT: <1685/12/31/
+!!!OMV: Mov. Minuet
+!!!PDT: 1685///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1685(prf)
+!!!instrument: orchestra
+!!!place: France, Fontainbleau
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Le Temple de la Paix
+!!!title2: Minuet
+!!!statkey: F
+!!DEBUGGING: l308 % . % 1685(prf) % Fontainebleau % L308 % . % b % Minuet % orchestra % . % Le Temple de la Paix % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1685(p) Paris (L308) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4mi\
+4mi\
+4do\
+=
+4fa\
+2reT\
+32doq/LLL
+32req/JJJ
+=
+8mi\L
+8re\
+8mi\
+8fa\J
+4mi\
+=
+4mi\
+4mi\
+4do\
+=
+4fa\
+2reT\
+32doq/LLL
+32req/JJJ
+=
+2.mi\
+=
+*-

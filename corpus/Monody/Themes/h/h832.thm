@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!instrument: piano, orchestra
+!!!place: Helvetia(?)
+!!!theme: C
+!!!title1: Concertino
+!!!title2: 1st Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h832 % . % 1925 % Switzerland? % H832 % . % c % 1 % piano, orchestra % . % Concertino % HONEGGER, Arthur % 1892
+**kern
+*clefG2
+*k[]
+*E:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8e\L
+8dd#\
+[8ee\J
+16ee\LL]
+16dd#\
+16ee\
+16dd#\JJ
+16ee\LL
+16ff#\
+16ee\
+16dd#\JJ
+=
+8ddn\L
+16b\L
+16cc#\JJ
+8dd\L
+8ee\J
+8dd\L
+16b\L
+16ccn\JJ
+8dd\L
+8ff#\J
+=
+8ee\L
+8gg\
+8ff#\
+8ee\J
+8dd\L
+16cc#\L
+16b\JJ
+8a/L
+8g/J
+=
+*-

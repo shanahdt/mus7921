@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Humperdinck, Engelbert
+!!!CDT: 1854/09/01/-1921/09/27/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1893///
+!!!OCL: RSC
+!!!ODT: <1893/12/31/
+!!!ODT: <1894/12/31/
+!!!OMV: Mov. Prelude to Act II
+!!!PDT: 1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: orchestra
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Weimar
+!!!theme: B: PANTOMINE
+!!!title1: Hansel and Gretel
+!!!title2: Opera
+!!!statkey: E-
+!!DEBUGGING: h859 % 256 % 1893 % Frankfurt % H859 % . % b: Pantomine % Prelude to Act II % orchestra % Opera % Hansel and Gretel % HUMPERDINCK, Engelbert % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1893(prf) Weimar (H859) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 256 1894(p) Mainz (H859) . b: Pantomine Prelude to Act II orchestra Opera Hansel and Gretel HUMPERDINCK, Engelbert 1854
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+*>[A,A,B]
+*>A
+=
+2re\
+8do\L
+8ti\
+8la\
+8so\J
+=
+4do\
+4so\
+4fa/
+4mi/
+=3:|!
+*>B
+2la\
+8so/L
+8fa/
+8mi/
+8re/J
+=
+4do/
+4ti/
+4do/
+4re/
+=
+*-

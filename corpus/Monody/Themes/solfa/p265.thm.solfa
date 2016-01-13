@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 7: Death of Tybalt
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 1
+!!!statkey: A-
+!!DEBUGGING: p265 % . % 1936 % Moscow % P265 % 64 % a % 7: Death of Tybalt % orchestra % Suite No. 1 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**solfa
+*clefF4
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+8do/L
+16mi/L
+16le/JJ
+8so\L
+8do\
+8me\
+8do\J
+=
+4ti\
+8so\L
+8do\
+8me\
+8do\J
+=
+8ti\L
+8so\J
+8si\L
+8do\
+8la\
+8do\J
+=
+8si\L
+8ti\J
+8so/L
+8fa/
+8mi/
+8re/J
+=
+8do/
+*-

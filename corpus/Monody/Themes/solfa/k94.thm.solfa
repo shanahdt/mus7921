@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Korngold, Erich Wolfgang
+!!!CDT: 1897/05/29/-1957/11/29/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Mummenschantz
+!!!OPS: Opus 11
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna(?)
+!!!title1: Much Ado About Nothing
+!!!title2: Suite
+!!!statkey: C
+!!DEBUGGING: k94 % . % 1919 % Vienna? % K94 % 11 % x % 3: Mummenschantz % violn, piano % Suite % Much Ado About Nothing % KORNGOLD, Erich Wolfgang % 1897
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/4
+16mi/LL
+16fa/JJ
+=
+8laq/
+16so/LL
+16fa/
+16so/
+16mi/JJ
+16fa/LL
+16mi/
+8soq/
+16fa/
+16re/JJ
+=
+8mi/L
+8miq/
+16re/L
+16do/JJ
+8re/L
+8req/
+16do/L
+16ti/JJ
+=
+16do/LL
+16re/
+16mi/
+16fa/JJ
+8so/L
+8la/J
+=
+16fa/LL
+16mi/JJ
+4re/
+*-

@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1802/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1802///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1799
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!theme: A
+!!!title1: Quartet in F
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: h500 % . % 1799 % Vienna % H500 % . % a % 2 % string % . % Quartet in F % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1802(p) ? (H500) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+8cc/L
+8a/J
+=
+4f/
+8ff\L
+8ee\J
+4ff\
+=
+4gg\
+4cc\
+4gg\
+=
+4cc\
+4gg\
+4cc\
+=
+32ffq/LL
+32ggq/JJ
+4aa\
+4ff\
+*-

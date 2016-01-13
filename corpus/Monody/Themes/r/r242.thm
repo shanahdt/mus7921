@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Gavotte
+!!!OPS: Opus 103a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: violn, piano
+!!!place: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Suite in A Minor
+!!!title2: 2nd Movement (Gavotte)
+!!!statkey: a
+!!DEBUGGING: r242 % . % 1908 % Leipzig % R242 % 103a % b % 2: Gavotte % violn, piano % . % Suite in A Minor % REGER, Max % 1873
+**kern
+*clefG2
+*k[]
+*a:
+*M2/2
+=
+2cc\
+2b\
+=
+2b-\
+2a/
+=
+4.aa\
+8gg#\
+4.ggn\
+8ff#\
+=
+4.ffn\
+8ee\
+2dd#\
+=
+*-

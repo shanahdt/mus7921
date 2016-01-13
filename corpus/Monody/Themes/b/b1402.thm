@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Academic Festival Overture
+!!!OPS: Op. 80
+!!!thm: E (Gaudeamus Igitur)
+!!!ODT: 1880///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1881///                            
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8.cc/L
+16g/Jk
+4g/
+4cc\
+=
+8a/L
+8a/J
+2a/
+=
+8b\L
+8cc\J
+4dd\
+4b\
+=
+8cc\L
+8ee\J
+2cc\
+=
+*-

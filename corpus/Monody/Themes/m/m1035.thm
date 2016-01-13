@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. VII: The Market Place at Limoges
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: VII. The Market Place at Limoges
+!!!statkey: E-
+!!DEBUGGING: m1035 % 343 % 1874 % St. Petersburg % M1035 % .  % x % VII: The Market Place at Limoges % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+16b-\LL
+16an\
+16cc\
+16b-\JJ
+16ee-\LL
+16dd\
+16ff\
+16ee-\JJ
+16ff#\LL
+16gg\
+16ccc\
+16bb-\JJ
+16aa-\LL
+16gg\
+16ffn\
+16ee-\JJ
+=
+16ccc-\LL
+16ff\
+16bb-\
+16aa-\JJ
+16ccc-\LL
+16ff\
+16bb-\
+16aa-\JJ
+16ccc-\LL
+16ff\
+16bb-\
+16ff\JJ
+16aan\LL
+16dd\
+16aa-\
+16dd\JJ
+=
+*-

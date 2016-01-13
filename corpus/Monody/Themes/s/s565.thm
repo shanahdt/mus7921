@@ -1,0 +1,52 @@
+**kern
+*clefG2
+*k[]
+*M4/4
+!! NB. Key & key signature disagree.
+*B-:
+4ff
+4dd
+4ff
+8ff
+8bb-
+=
+4eee-
+4eee-
+4eee-
+[4eee-
+=
+1]eee-
+=
+16eee-
+16r
+8ddd-
+8ccc
+8bb-
+8aa-
+8gg
+8bb
+8ff#
+=
+2.aa
+8ff#
+8r
+=
+*-
+!!!COM: Schuman, William
+!!!CNT: American
+!!!date: 1939
+!!!place: United States of America, New York
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s565 % . % 1939 % New York % S565 % . % . % . % . % . % . % SCHUMAN, William
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1939///
+!!!ODT: <1939/12/31/
+!!!splace: United States of America, Massachusetts, Boston
+!!!CDT: ///-
+!!DEBUGGING: . . 1939(prf) Boston (S565) . . . . . . .

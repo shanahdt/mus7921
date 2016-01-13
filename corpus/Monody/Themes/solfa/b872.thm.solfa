@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1801///-1802///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1803///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.7 in C Minor for Violin and Piano       
+!!!OPS: Op. 30
+!!!ONM: No. 2
+!!!SET: No. 7
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+2.so/
+16me/LL
+16fa/
+16so/
+16me/JJ
+=
+4do/
+4r
+2r
+=
+2.do\
+16le/LL
+16te/
+16do/
+16le/JJ
+=
+4fa/
+4r
+2r
+*clefF4
+=
+[2fa\
+8fa\L]
+8me\
+8re\
+8do\J
+=
+4ti\
+*-

@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Humperdinck, Engelbert
+!!!CDT: 1854/09/01/-1921/09/27/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1897///
+!!!MPD: 1910///
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!ODT: <1910/12/31/
+!!!OMV: Mov. Prelude to Act II
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1897(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Muenchen
+!!!splace: Deutschland, Leipzig
+!!!splace: United States of America, New York
+!!!theme: B
+!!!title1: K&ouml;nigskinder
+!!!title2: Opera
+!!!statkey: e
+!!DEBUGGING: h866 % . % 1897(prf) % Munich % H866 % . % b % Prelude to Act II % orchestra % Opera % K&ouml;nigskinder % HUMPERDINCK, Engelbert % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) Leipzig (H866) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1910(rev) New York (H866) . b Prelude to Act II orchestra Opera K&ouml;nigskinder HUMPERDINCK, Engelbert 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1910(prf) New York (H866) . b Prelude to Act II orchestra Opera K&ouml;nigskinder HUMPERDINCK, Engelbert 1854
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M2/2
+4so/
+=
+2do/
+8re/L
+8do/
+8ti/
+8re/J
+=
+8me/L
+8re/
+8do/
+8me/J
+4so\
+4so/
+=
+2do/
+8te/L
+8do/
+8re/
+8te/J
+=
+8re/L
+8do/
+8te/
+8la/J
+4so/
+*-

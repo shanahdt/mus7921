@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!ONM: No. 36
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1780, c1770///-1775?
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!title1: Sonata in C Sharp
+!!!title2: 1st Movement
+!!!statkey: c#
+!!DEBUGGING: h520 % . % -1780, c1770-1775? % Eszterh&aacute;za % H520 % B. & H. No. 36 % x % 1 % piano % . % Sonata in C Sharp % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M4/4
+=
+8c#/L
+8d#q/
+32c#/LL
+32B#/
+32c#/
+32d#/JJJ
+8e/L
+8d#/J
+8c#/L
+8G#/J
+8c#/L
+8e/J
+=
+8c#/L
+8g#/
+8g#/
+8g#/J
+4g#/
+4r
+=
+*-

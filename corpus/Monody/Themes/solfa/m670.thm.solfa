@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 575
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: m670 % . % 1789 % Vienna % M670 % K 575 % x % 1 % string % . % Quartet in D % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+1do\
+=
+2mi\
+2so\
+=
+8soq/
+1fa\
+=
+16miq/
+2re\
+16doq/
+2ti\
+=
+8do\L
+8re\
+8mi\
+8ti\J
+8do/L
+8so/
+8la/
+8mi/J
+=
+2.so/
+*-

@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 80
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1770
+!!!instrument: string
+!!!place: Lodi
+!!!title1: Quartet in G
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: m632 % 323 % 1770 % Lodi % M632 % K 80 % x % 2 % string % . % Quartet in G % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4gg\
+8aaq/
+16gg\LL
+16ff#\
+16gg\
+16aa\JJ
+8gg\L
+8gg\
+8ff#\
+8aa\J
+=
+8gg\L
+8bb\
+8aa\
+8ccc\J
+8bb\
+8r
+4r
+=
+2gg\
+2dd\
+=
+*-

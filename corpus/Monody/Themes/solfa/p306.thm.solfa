@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 4
+!!!OPS: Opus 4
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1910///-1912
+!!!instrument: piano
+!!!place: Royssia, St. Petersburg
+!!!title1: Suggestion Diabolique
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p306 % . % 1910-1912 % St. Petersburg % P306 % 4 No. 4 % x % . % piano % . % Suggestion Diabolique % PROKOFIEV, Sergey % 1891
+**solfa
+*clefF4
+*k[]
+*D#:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+4do\
+8do\L
+8me\J
+8me\L
+8me\
+8ra\
+8do\J
+=
+4de\
+8r
+8de/
+4ra\
+8r
+8te/
+=
+4de\
+*clefG2
+8me/L
+8se/J
+8se/L
+8fa/
+8fe/
+8me/J
+=
+4me/
+*-

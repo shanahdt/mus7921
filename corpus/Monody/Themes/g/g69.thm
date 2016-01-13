@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Glazunov, Alexander
+!!!CDT: 1865/08/10/-1936/03/21/
+!!!CNT: Russian
+!!!OTL: Concerto in A Minor for Violin and Orcestra
+!!!OPS: Op. 82
+!!!thm: B
+!!!AIN: orchestra violn
+!!!ODT: 1904
+!!!OCY: Rossiya 
+!!!OPC: Sankt Peterburg
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+4r
+4ccc\
+4aa\
+4ff\
+=
+2.dd\
+4bb-\
+=
+8aa\L
+8gg\
+8b-\
+8dd\J
+4.ff\
+8ee\
+=
+8dd\L
+8ee\J
+[4a/
+4.a/]
+8cc\
+=
+8dd\L
+8ee\
+8gg\
+8ff\J
+4.cc\
+*-

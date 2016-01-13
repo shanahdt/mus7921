@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus 87
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?1905
+!!!instrument: violn, piano
+!!!place: Deutschland, Muenchen(?)
+!!!title1: Romance
+!!!statkey: G
+!!DEBUGGING: r235 % 380 % ?1905 % Munich? % R235 % 87 No. 2 % x % . % violn, piano % . % Romance % REGER, Max % 1873
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4mi\
+4mi\
+8re/L
+8do/J
+=
+4ti/
+4la/
+4so/
+=
+4fi/
+4si/
+8.la/L
+16do/Jk
+=
+4do/
+4di/
+8.re/L
+16fa/Jk
+=
+2fa\
+8.la/L
+16so/Jk
+=
+4so\
+8.fi\L
+16do\Jk
+8.do\L
+16mi\Jk
+=
+*-

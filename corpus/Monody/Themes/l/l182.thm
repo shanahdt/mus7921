@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!theme: C
+!!!title1: Hungarian Rhapsody No. 13 in A Minor
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l182 % . % 1853(p) % Berlin % L182 % . % c % . % piano % . % Hungarian Rhapsody No. 13 in A Minor % LISZT, Franz % 1811
+**kern
+*clefG2
+*k[]
+*G#:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8dd#q/
+8ee\L
+16ddd\Jk
+16r
+8eeq/
+8ddd\L
+8eeq/
+16ddd\Jk
+16r
+=
+8eeq/
+16.ddd\LL
+32ccc\k
+16.bb\
+32aa\JJk
+16.gg#\LL
+32aa\k
+16.bb\
+32gg#\JJk
+=
+8bbq/
+16.aa\LL
+32gg#\k
+16.aa\
+32bb\JJk
+8dddq/
+16.ccc\LL
+32bb\k
+16.ccc\
+32ddd\JJk
+=
+*-

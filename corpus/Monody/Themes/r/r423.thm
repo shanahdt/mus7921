@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1935///
+!!!OCL: RSC
+!!!ODT: <1935/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus 53
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: orchestra
+!!!place: Varengeville
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Symphony No. 4
+!!!title2: 4th Movement
+!!!statkey: A
+!!DEBUGGING: r423 % . % 1934 % Varengeville % R423 % 53 % a % 4 % orchestra % . % Symphony No. 4 % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935(prf) Paris (R423) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+4.aa\
+8ff#\
+4.ee\
+8ddd\
+=
+4.ccc#\
+8bb\
+8aa\L
+8ff#\
+8ee\
+8ff#\J
+=
+8aa\L
+8ff#\
+8ee\
+8cc#\J
+4.b\
+8cc#\
+=
+8a#\L
+8b\
+8dd\
+8b\J
+8cc#\L
+8ee\
+8cc#\
+8a#\J
+=
+*-

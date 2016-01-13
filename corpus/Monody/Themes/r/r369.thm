@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Danse Cosaque
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: A
+!!!title1: La Boutique Fantasque
+!!!title2: Ballet
+!!!statkey: f#
+!!DEBUGGING: r369 % 387 % ? % ? % R369 % . % a % 4: Danse Cosaque % orchestra % Ballet % La Boutique Fantasque % ROSSINI, Gioachino Antonio % 1792
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M2/4
+=
+8r
+8c#/
+8r
+8c#/
+=
+8f#/L
+8g#/J
+16f#q/LL
+16g#q/JJ
+8a/L
+16g#/L
+16f#/JJ
+=
+8g#/L
+8e/J
+4a/
+=
+4gn/
+4c#/
+=
+4f#/
+8r
+8c#/
+=
+8f#/L
+8g#/J
+16f#q/LL
+16g#q/JJ
+8a/L
+16g#/L
+16f#/JJ
+=
+8g#/L
+8e/J
+4a/
+=
+*-

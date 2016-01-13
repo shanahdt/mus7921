@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!ONM: No. 28
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1765
+!!!instrument: orchestra
+!!!place: Deutschland, Eisenstadt
+!!!theme: B
+!!!title1: Symphony in A
+!!!title2: 3rd Movement
+!!!statkey: a
+!!DEBUGGING: h533 % . % 1765 % Eisenstadt % H533 % B. & H. No. 28 % b % 3 % orchestra % . % Symphony in A % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+8me\L
+8fa\
+8me\
+8re\J
+4do/
+=
+2.ti/
+=
+8do/L
+8re/
+8do/
+8ti/J
+4do/
+=
+2.re\
+=
+*-

@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1723///
+!!!OCY: Deutschaland
+!!!OPC: C&ouml;then
+!!!thm: A
+!!!OMV: Mov. 1
+!!!OTL: Jesu, Joy of Man's Desiring
+!!!OPR: Cantata No. 147
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*M9/8
+*G:
+8r
+8g
+8a
+8b
+8dd
+8cc
+8cc
+8ee
+8dd
+=
+8dd
+8gg
+8ff#
+8gg
+8dd
+8b
+8g
+8a
+8b
+=
+*-
+!!DEBUGGING: b27 % . % 1723 % C&ouml;then % B27 % . % . % . % . % . % . % BACH, Johann Sebastian

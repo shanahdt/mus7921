@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[]
+*met(C|)
+*M2/2
+*C:
+4so
+=
+2so
+8do
+8r
+4so
+=
+2so
+8re
+8r
+4so
+=
+4so
+4la
+4so
+4fi
+=
+2so
+8mi
+8r
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1823
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s402 % . % 1823 % Vienna % S402 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1823///
+!!!ODT: <1823/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1823(prf) . (S402) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1891///
+!!!ODT: <1891/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1891(p) Vienna? (S402) . . . . . . SCHUBERT, Franz

@@ -1,0 +1,39 @@
+NOTE ON THE 30 CHINESE FOLK SONGS
+by Paul von Hippel
+Wednesday, October 14, 1998
+
+The 30 Chinese folk songs in this directory were encoded by David Huron at
+a time when the Humdrum format was not as standardized as it is today. On
+September 30, 1998, Paul von Hippel revised the encodings to conform
+to modern Humdrum conventions. Von Hippel's revisions are described in
+the editorial modification records ("!!!EMD") at the end of each file.
+The current version of the collection is 2.0.
+
+The encodings comprise the first 30 monophonic tunes from a printed
+collection of Chinese folk songs (Chung-kuo yin yueh yen chiu so, 1959).
+Specifically, the encodings comprise that volume's folk songs numbers
+1-18 and 20-31. Song number 19, which is not monophonic, was skipped in
+the encoding process.
+
+When a collection is represented by a non-random sample, as this one is,
+there is a danger that the sampled songs will share some quality that
+is not characteristic of the collection as a whole. For example, if the
+first 31 songs in the collection were all from a particular province of
+China, the sample would be biased toward that province -- although the
+collection as a whole might represent all provinces equally. Fortunately,
+a cursory inspection of the printed source does not suggest that the
+songs were ordered by category. If the sampling process introduced any
+biases, those biases were not immediately obvious.
+
+The updated encodings include two unusual features. First, all repeated
+sections in these encodings are written out in full. There is no need
+to expand the encodings using Humdrum's thru command.
+
+Second, in addition to the standard Humdrum reference records, these
+encodings include records beginning "!!!PPG" to indicate the page number
+on which each song began in the printed source.
+
+REFERENCES
+Chung-kuo yin yueh chiu so (1959).  Chung-kuo min ko Chung-kuo yin yueh
+yen chiu so pien [Chinese folk songs]. Beijing, China: Yin yueh ch'u
+pan she.

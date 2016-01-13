@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Toch, Ernst
+!!!CDT: 1887/12/07/-1964/10/01/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!title1: The Chinese Flute, Op. 29, Chamber Orch.
+!!!title2: 1st Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t119 % . % . % . % T119 % . % . % . % . % . % . % TOCH, Ernst
+**kern
+*clefG2
+*k[]
+*E-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+! .
+[1b-\
+=
+4b-\]
+4.a/
+4f#/
+8fn/
+=
+[1a-/
+=
+4.a-/]
+8r
+2r
+=||
+*clefG2
+! .
+4r
+4.b\
+4cc\
+8dd\
+=
+8ee-\L
+8cc\J
+[2b\
+8b\]
+8r
+=
+*-

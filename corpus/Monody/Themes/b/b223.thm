@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1717///-1723///
+!!!OCY: Deutschland
+!!!OPC: C&ouml;then
+!!!OTL: Suite No.1 in C for Orchestra
+!!!SET: No. 1
+!!!OMV: Forlane
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M6/4
+4cc\
+=
+2gg\
+4gg\
+4.gg\
+8aa\
+4bb-\
+=
+2aa\
+4dd\
+4.dd\
+8ee\
+4ff\
+=
+4.b\
+8cc\
+4dd\
+4.g/
+8gg\
+4ff\
+=
+4.ee\
+8ff\
+4gg\
+4cc\
+*-

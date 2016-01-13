@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 8
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in C Minor
+!!!title2: 3rd Movement
+!!!statkey: c
+!!DEBUGGING: h92 % . % 1739 % London % H92 % 6 No. 8 % x % 3 % string orchestra % . % Concerto Grosso in C Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H92) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+32me\LLL
+32fa\J
+16so\J
+8do\J
+32me/LLL
+32fa/J
+16so/J
+8do/J
+32ti\LLL
+32do\J
+16re\J
+8fa\J
+32ti/LLL
+32do/J
+16re/J
+8fa/J
+=
+32me\LLL
+32fa\J
+16so\J
+8do\J
+32me/LLL
+32fa/J
+16so/J
+8do/J
+16r
+16me\LL
+16re\
+16do\JJ
+16re\LL
+16ti\J
+8so\J
+=
+*-

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6
+!!!OPS: Opus K 334
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779///-1780
+!!!instrument: 2 violn, viola, cbass, 2 cor
+!!!place: Oesterreich, Salzburg
+!!!title1: Divertimento in D
+!!!title2: 6th Movement
+!!!statkey: D
+!!DEBUGGING: m584 % . % 1779-1780 % Salzburg % M584 % K 334 % x % 6 % 2 violn, viola, cbass, 2 cor % . % Divertimento in D % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M6/8
+=
+4.so\
+16fi\LL
+16so\
+16fi\
+16so\
+16fi\
+16so\JJ
+=
+4do\
+8so\
+8mi\
+8r
+8r
+=
+4so\
+8mi\
+8doT\L
+8ti\
+8do\J
+=
+4re\
+8ti\
+8so/
+8r
+8r
+=
+*-

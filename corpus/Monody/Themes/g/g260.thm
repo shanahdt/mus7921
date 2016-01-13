@@ -1,0 +1,62 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Little Bird                    
+!!!OPS: Op. 43
+!!!ONM: No. 4
+!!!AIN: forte
+!!!ODT: <1886/// 
+!!!OCY: Norge
+!!!OPC: Bergen    
+!!!PDT: 1886///
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+32aa\LLL
+32bb-\
+32aa\
+32bb-\JJJ
+=
+8aa\
+8r
+8a/
+4a/
+32ddd\LLL
+32eee\
+32ddd\
+32eee\JJJ
+=
+8ddd\
+8r
+8dd\
+4dd\
+32aa\LLL
+32bb-\
+32aa\
+32bb-\JJJ
+=
+8aa\
+8r
+32ff\LLL
+32gg\
+32ff\
+32gg\JJJ
+8ff\
+8r
+32aa\LLL
+32bb-\
+32aa\
+32bb-\JJJ
+=
+8aa\
+*-

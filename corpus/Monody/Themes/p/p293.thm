@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus 83
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1939///-1942
+!!!instrument: piano
+!!!place: Georgia, Tbilisi
+!!!theme: B
+!!!title1: Sonata No. 7
+!!!title2: 1st Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p293 % . % 1939-1942 % Tbilisi % P293 % 83 % b % 1 % piano % . % Sonata No. 7 % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[]
+*A-:
+*M9/8
+=
+!! ! NB. Key & key signature disagree.
+8ee-\L
+8ee-\
+8ee-\J
+[2.ee-\
+=
+*M6/8
+8ee-\L]
+8dd-\
+8a-\J
+8ff#\
+4een\
+=
+*M9/8
+4an/
+8ee\
+8aa\L
+8ccc\
+8bb\J
+8ee\L
+8ff#\
+8gg\J
+=
+8aa\L
+8gg\
+8cc\J
+8ff\L
+8ee-\
+8a-\J
+8b\L
+8cc#\
+8dd\J
+=
+*-

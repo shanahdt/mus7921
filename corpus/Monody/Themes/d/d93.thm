@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Petite Suite for Two Pianos
+!!!OMV: Menuet         
+!!!thm: A           
+!!!AIN: forte      
+!!!ODT: 1886///-1889///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4aa\
+4eee\
+4eee\
+=
+16eee\LL
+16ddd\
+16ccc\
+16ddd\JJ
+2eee\
+=
+8bb\L
+8ccc\
+8ddd\
+8bb\J
+16aa\LL
+16bb\
+16aa\
+16ffn\JJ
+=
+2.aa\
+=
+*-

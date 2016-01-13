@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Hornpipe
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1695
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Bonduca
+!!!title2: The British Heroine Opera
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p325 % 365 % 1695 % London % P325 % . % x % Hornpipe % orchestra % The British Heroine Opera % Bonduca % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-e-]
+*C:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4cc\
+8g\L
+8dd\J
+16ee-\LL
+16dd\J
+8cc\J
+=
+16bn\LL
+16cc\J
+8dd\J
+8g\L
+8ee-\J
+16ff\LL
+16ee-\J
+8dd\J
+=
+16ee-\LL
+16ff\J
+8gg\J
+8cc\L
+8gg\
+8ff\
+8ee-\J
+=
+16dd\LL
+16ee-\J
+8ff\J
+8b-\L
+8dd\
+8ee-\
+8dd\J
+=
+16cc\LL
+16dd\J
+8ee-\J
+*-

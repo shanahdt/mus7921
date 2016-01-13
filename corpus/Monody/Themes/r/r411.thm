@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1930///
+!!!OCL: RSC
+!!!ODT: <1930/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 42
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1929///-1930
+!!!instrument: orchestra
+!!!place: Varengeville
+!!!splace: United States of America, Massachusetts, Boston
+!!!theme: B
+!!!title1: Symphony No. 3 in G Minor
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: r411 % . % 1929-1930 % Varengeville % R411 % 42 % b % 1 % orchestra % . % Symphony No. 3 in G Minor % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1930(prf) Boston (R411) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+8ee-\L
+8gg\
+8ccc\J
+=
+2bb-\
+4eeen\
+=
+4ccc\
+4ff\
+4bb-\
+=
+4.dd\
+8gg\
+4ccc\
+=
+[2.fff\
+=
+2fff\]
+4ggg\
+=
+4.ddd\
+8ccc#\
+4ddd\
+=
+4aa\
+4ff#\
+4ccc\
+=
+2.ee-\
+=
+2.gg-\
+=
+4cc\
+2b-\
+=
+*-

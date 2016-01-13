@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Minuet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G
+!!!title2: Minuet
+!!!statkey: G
+!!DEBUGGING: p355 % . % n.d. % London % P355 % . % x % Minuet % cemba % . % Suite No. 1 in G % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4so\
+4so\
+4so\
+=
+4.soT\
+8la\
+4ti\
+=
+4do\
+4do\
+4do\
+=
+4.doT\
+8re\
+4mi\
+=
+4la\
+4re\
+4re\
+=
+4.reT\
+8do\
+4ti\
+=
+4mi\
+4.doT\
+8ti\
+=
+2laT\
+4so\
+=
+*-

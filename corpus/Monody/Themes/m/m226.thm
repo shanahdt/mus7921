@@ -1,0 +1,70 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1827///
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. Scherzo
+!!!ONM: No. 1
+!!!OPS: Opus 61
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Stettin
+!!!theme: B
+!!!title1: Midsummer's Night Dream
+!!!title2: Scherzo, Op. 61, No. 1
+!!!statkey: B-
+!!DEBUGGING: m226 % . % 1826 % Berlin % M226 % 61 No. 1 % b % Scherzo % orchestra % . % Midsummer's Night Dream % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(prf) Stettin (M226) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M226) 61 No. 1 b Scherzo orchestra . Midsummer's Night Dream MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+8f/
+=
+16g/LL
+16f/
+16e-/
+16g/
+16f/
+16e-/JJ
+=
+8f/L
+8B-/
+8f/J
+=
+16en/LL
+16d/
+16c/
+16e/
+16d/
+16c/JJ
+=
+4e-/
+16f/LL
+16e-/JJ
+=
+16d/LL
+16c/
+16B-/
+16g/
+16f/
+16e-/JJ
+=
+16d/LL
+16c/
+16B-/JJ
+*-

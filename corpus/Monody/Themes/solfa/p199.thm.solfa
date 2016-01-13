@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 3: Gavotte
+!!!OPS: Opus 25
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1916///-1917
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!theme: A
+!!!title1: Classical Symphonyy
+!!!title2: 3rd Movement (Gavotte)
+!!!statkey: b
+!!DEBUGGING: p199 % . % 1916-1917 % Petrograd % P199 % 25 % a % 3: Gavotte % orchestra % . % Classical Symphonyy % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (P199) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8la/L
+8so/
+8fi/
+8so/J
+=
+4so\
+4so/
+4fa\
+4fa/
+=
+4mi\
+4mi/
+4la\
+4di\
+=
+8ti\L
+8di\
+8re\
+8mi\J
+4fi\
+4si\
+=
+4la\
+4fa\
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1788/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 542
+!!!PDT: 1788///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: piano, violn, cello
+!!!place: Oesterreich, Vienna
+!!!title1: Trio in E
+!!!title2: 3rd Movement
+!!!statkey: E
+!!DEBUGGING: m1001 % . % 1788 % Vienna % M1001 % K 542 % x % 3 % piano, violn, cello % . % Trio in E % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1788(p) . (M1001) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/2
+=
+2ee\
+8aa\L
+8gg#\
+8ff#\
+8ee\J
+=
+8ff#\L
+8ee\
+8dd#\
+8ee\J
+4dd#\
+4r
+=
+2ff#\
+8bb\L
+8aa\
+8gg#\
+8ff#\J
+=
+8bb\L
+8gg#\
+8aa\
+8ff#\J
+4ee\
+*-

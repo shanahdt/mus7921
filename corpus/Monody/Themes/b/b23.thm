@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Bach, Johann Christian
+!!!CDT: 1735/09/05/-1782/01/01/
+!!!CNT: German
+!!!ODT: 1779
+!!!OCY: England
+!!!OPC: London
+!!!OTL: Sonata in G for Flute and Piano
+!!!OPS: Op. 16
+!!!ONM: No. 2
+!!!OMV: Mov. 1
+!!!AIN: forte flt
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*M2/4
+*G:
+8.dd
+32ee
+32ff#
+8gg
+8ff#
+=
+8ff#
+8ee
+8dd
+8r
+=
+8dd
+qff#
+16ee
+16dd
+16gg
+16dd
+16ee
+16dd
+=
+8dd
+8cc
+8b
+*-

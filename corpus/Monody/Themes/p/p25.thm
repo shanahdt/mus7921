@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!ONM: No. 7
+!!!OPS: Opus 1
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Caprices
+!!!title2: Op. 1, No. 7
+!!!statkey: a
+!!DEBUGGING: p25 % . % c1805 % Lucca % P25 % 1 No. 7 % x % . % violn % . % Caprices % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P25) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+8ee\L
+8ee\J
+=
+8.ccc\L
+16bb\k
+8aa\J
+4gg#\
+8bb\
+=
+8aa\L
+16ee\L
+16dd\
+16cc\
+16b\JJ
+8a\L
+8aa\
+8bb\J
+=
+8.ccc\L
+16ddd\k
+8eee\J
+8.fff\L
+16ggg\k
+8aaa\J
+=
+[4.g/
+8g/]
+*-

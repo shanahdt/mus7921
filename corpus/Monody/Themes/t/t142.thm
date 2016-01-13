@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(prf)
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in D, Op. 35, Vn. & Orch.
+!!!title2: 3rd Movement
+!!!statkey: D
+!!DEBUGGING: t142 % . % 1881(prf) % Vienna % T142 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+8d/L
+16d/L
+16c#/JJ
+8d/L
+8B/J
+=
+8c#/L
+8e/J
+8A/L
+16c#/L
+16d/JJ
+=
+16e/LL
+16c#/
+16e/
+16f#/JJ
+16g/LL
+16e/
+16a/
+16b/JJ
+=
+16cc#\
+*-

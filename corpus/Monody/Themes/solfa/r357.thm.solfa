@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1899///
+!!!OCL: RSC
+!!!ODT: <1899/12/31/
+!!!PDT: 1899///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1898
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!splace: Royssia, Moskova
+!!!theme: C
+!!!title1: The Tsar's Bride
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: r357 % . % 1898 % St. Petersburg % R357 % . % c % . % orchestra % Overture % The Tsar's Bride % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1899(p) Leipzig (R357) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1899(prf) Moscow (R357) . c . orchestra Overture The Tsar's Bride RIMSKY-KORSAKOV, Nikolay 1844
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+6r
+6fi/
+6so/
+=
+[2fa/
+6fa/]
+6ti\
+6do\
+=
+[2re\
+6re\]
+6di\
+6re\
+=
+[2do\
+6do\]
+6ti\
+6la\
+=
+2so/
+*-

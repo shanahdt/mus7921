@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Cadman, Charles Wakefield
+!!!CDT: 1881/12/24/-1946/12/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Before the Sunrise
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Pennsylvania, Pittsburgh
+!!!title1: Thunderbird Suite
+!!!title2: 2nd Movement, Before the Sunrise
+!!!statkey: c#
+!!DEBUGGING: c7 % . % 1914 % Pittsburgh % C7 % . % x % 2: Before the Sunrise % orchestra % . % Thunderbird Suite % CADMAN, Charles Wakefield % 1881
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M4/4
+=
+!! 8va below
+8ccc#\L
+8ggg#\
+8ggg#\
+8ggg#\J
+16ggg#\LL
+16fff#\J
+[8ddd#\J
+8ddd#\L]
+8eee\J
+=
+16ddd#\LL
+16ccc#\J
+8gg#\J
+8r
+8aaq/
+8gg#/
+8aaq/
+8gg#/L
+8aaq/
+8gg#/J
+8aaq/
+16gg#/LL
+16ff#/
+16ee/
+16ff#/JJ
+=
+16gg#/LL
+16cc#/J
+8cc#/J
+!! end 8va
+*-

@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1858/12/31/
+!!!PDT: 1858///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837///-1849
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Sposalizio
+!!!statkey: c#
+!!DEBUGGING: l234 % . % 1837-1849 % Weimar % L234 % . % a % . % piano % . % Sposalizio % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1858(p) Mainz (L234) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#g#d#]
+*E:
+*M6/4
+=
+4r
+4B\
+4c#\
+4F#\
+4G#\
+[4C#/
+=
+4C#/]
+4.D#\
+8G#\
+4F#\
+2BB/
+=
+*-

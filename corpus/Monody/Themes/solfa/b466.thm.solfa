@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bartók, Béla
+!!!CDT: 1881/03/25/-1945/09/26/
+!!!CNT: Hungarian
+!!!ODT: 1938///
+!!!OCY: Hungary
+!!!OPC: Budapest
+!!!OTL: Contrasts for Violin, Clarinet, and Piano
+!!!OMV: Mov. 1 (Recruiting Dance)
+!!!thm: A
+!!!AIN: clars forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+2r
+8.r
+16do\LK
+8.mi\
+16so\Jk
+=
+[2fi\
+8.fi\L]
+32so\LL
+32la\JJJ
+32so\LLL
+32fi\J
+16mi\JJ
+8r
+=
+[2fi\
+8.fi\L]
+32so\LL
+32fi\JJJ
+32mi\LLL
+32re\J
+16do\JJ
+8r
+=
+4.te/
+32la/LLL
+32te/JJJ
+4.do/
+*-

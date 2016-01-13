@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!place: ?
+!!!title1: Concerto in G Minor, Vn. & Str. Orch.
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: v146 % 505 % ? % ? % V146 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+2r
+4cc\
+4g/
+=
+8bn\L
+8cc\J
+4dd\
+4b\
+8g/L
+8g/J
+=
+4a-/
+4g/
+4ee-\
+4g/
+=
+8bn\L
+16cc\L
+16dd\JJ
+8dd/L
+8g/J
+4g/
+*-

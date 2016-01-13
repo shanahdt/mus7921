@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1841/12/31/
+!!!ONM: No. 5
+!!!OPS: Opus 53
+!!!PDT: 1841///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1841
+!!!instrument: piano
+!!!place: Deutschland, Leipzig(?)
+!!!splace: Deutschland, Bonn
+!!!theme: B
+!!!title1: Songs Without Words
+!!!title2: No. 23: Folk Song
+!!!statkey: C
+!!DEBUGGING: m297 % . % 1841 % Leipzig? % M297 % 53 No. 5 % b % . % piano % No. 23: Folk Song % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1841(p) Bonn (M297) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+4e/
+=
+4.a/
+8b\
+4cc\
+4dd\
+=
+4ee\
+2gg\
+8.ff\L
+16ee\Jk
+=
+4ee\
+8.dd\L
+16cc\Jk
+4cc\
+8.ee\L
+16dd\Jk
+=
+2cc\
+8b\
+8r
+*-

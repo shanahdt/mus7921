@@ -1,0 +1,59 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1797///-1798///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1799///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.1 in D for Violin and Piano                  
+!!!OPS: Op. 12
+!!!ONM: No. 1
+!!!SET: No. 1
+!!!OMV: Mov. 1
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+2.do\
+8r
+16so\LL
+16do\JJ
+=
+4mi\
+8r
+16do\LL
+16mi\JJ
+4so\
+8r
+16so\LL
+16mi\JJ
+=
+4do\
+4r
+4r
+8r
+16mi\LL
+16do\JJ
+=
+4so/
+8r
+16do\LL
+16so\JJ
+4mi/
+8r
+16so/LL
+16mi/JJ
+=
+4do/
+*-

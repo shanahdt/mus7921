@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mahler, Gustav
+!!!CDT: 1860/05/07/-1911/05/18/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1904///
+!!!OCL: RSC
+!!!ODT: <1904/12/31/
+!!!ODT: <1905/12/31/
+!!!OMV: Mov. Adagietto
+!!!PDT: 1905///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1901///-1902
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!splace: Deutschland, Cologne
+!!!splace: Deutschland, Leipzig
+!!!title1: Symphony No. 5
+!!!title2: Adagietto
+!!!statkey: F
+!!DEBUGGING: m90 % . % 1901-1902 % Vienna % M90 % . % x % Adagietto % orchestra % . % Symphony No. 5 % MAHLER, Gustav % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1904(prf) Cologne (M90) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1905(p) Leipzig (M90) . x Adagietto orchestra . Symphony No. 5 MAHLER, Gustav 1860
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8so/L
+8la/
+8ti/J
+=
+4ti/
+4.do/
+8do/L
+8fa/
+8mi/J
+=
+4mi/
+4.re/
+8re/L
+8mi/
+8fa/J
+=
+4.so\
+8so\
+4.la\
+8so\
+=
+4so\
+4.fi\
+8fa\L
+8la\
+8fa\J
+=
+*-

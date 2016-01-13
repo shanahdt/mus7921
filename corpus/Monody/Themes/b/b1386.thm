@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, ONM, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Intermezzo in B Flat Minor for Piano
+!!!OPS: Op. 117
+!!!ONM: No. 2
+!!!thm: A
+!!!ODT: 1892///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1892///
+!!!MRD: 1892///
+!!!MLC: &Ouml;sterreich, Wien                      
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M3/8
+32dd-\
+32cc/LLL
+32g-/
+32c/
+32cc/JJJ
+=
+8b-\
+16.r
+32b-\
+32cc/LLL
+32g-/
+32c/
+32cc/JJJ
+=
+8ff\
+16.r
+32ff\
+32aa-\LLL
+32dd-\
+32a-\
+32aa-\JJJ
+=
+32gg-\LLL
+32dd-\
+32g-\JJJ
+*-

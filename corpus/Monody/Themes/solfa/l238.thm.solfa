@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1883/12/31/
+!!!PDT: 1883///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1867///-1877
+!!!instrument: piano
+!!!place: Tivoli, Weimar
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Fountains at the Villa D'Este
+!!!statkey: F#
+!!DEBUGGING: l238 % . % 1867-1877 % Tivoli, Weimar % L238 % . % a % . % piano % . % Fountains at the Villa D'Este % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1883(p) Mainz (L238) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M2/4
+=
+2so\
+=
+4mi\
+4so\
+=
+2mi\
+=
+4do\
+4mi\
+=
+2so\
+=
+*-

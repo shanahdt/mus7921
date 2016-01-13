@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: Concert Royal No. 2 for Chamber Orchestra
+!!!AIN: chamber orchestra
+!!!SET: No. 2 
+!!!OMV: Mov. 4 (Air Contrefugu&eacute;)
+!!!PDT: 1722///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*D:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8a/
+8a/L
+8et/J
+=
+(8eq/
+8f/L)
+8a/
+8a/
+8c#t/J
+=
+(8c#q/
+8d/L)
+16a/L
+16b/JJ
+16cc#\LL
+16dd\
+16cc#\
+16dd\JJ
+=
+16dd\LL
+16ee\
+16cc#\
+16dd\JJ
+16ee\LL
+16ff\
+16dd\
+16ee\JJ
+=
+8ff\
+*-

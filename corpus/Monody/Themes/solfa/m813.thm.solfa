@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 497
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in F
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m813 % 332 % 1786 % Vienna % M813 % K 497 % x % 2 % piano % . % Sonata in F % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) . (M813) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/2
+=
+2so\
+4fa\
+4mi\
+=
+8la\L
+16ti\L
+16do\JJ
+4.do\
+8ti\L
+8la\
+8so\J
+=
+8fa\L
+16so\L
+16la\JJ
+4.la\
+8so\L
+8fa\
+8mi\J
+=
+8so\L
+8fa\J
+4mi\
+*-

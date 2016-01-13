@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1817///-1818///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1819///
+!!!PPP: &Ouml;sterreich, Wien  
+!!!OTL: Sonata No.29 in B Flat for Piano                  
+!!!OPS: Op. 106
+!!!SET: No. 29
+!!!OTP: Hammerklavier
+!!!OMV: Mov. 1
+!!!thm: A a
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-]
+*B-:
+*M4/4
+8BBB-/
+=
+4.d\
+*clefG2
+8ddd\
+4ddd\
+8eee-\L
+8ddd\J
+=
+4ddd\
+4bb-\
+4r
+8r
+*clefF4
+8BBB-/
+=
+4.f\
+*clefG2
+8fff\
+4fff\
+8ggg\L
+8fff\J
+=
+4fff\
+4ddd\
+*-

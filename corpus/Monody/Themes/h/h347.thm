@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1776/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1776///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1772
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in D
+!!!title2: "The Rose of Venice"
+!!!statkey: D
+!!DEBUGGING: h347 % 230 % 1772 % Eszterh&aacute;za % H347 % . % x % 3 % . % "The Rose of Venice" % Quartet in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1776(p) ? (H347) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+4a/
+=
+4dd\
+2ee\
+=
+4ff#\
+4gg\
+[4ee\
+=
+4ee\]
+2cc#\
+=
+2a/
+8g#/L
+8e/J
+=
+4a/
+2a/
+=
+8g#/L
+8e/J
+4a/
+8g#/L
+8e/J
+=
+4a/
+*-

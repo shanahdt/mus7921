@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 110
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1771
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Symphony No. 12 in G
+!!!title2: 2nd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m866 % . % 1771 % Salzburg % M866 % K 110 % b % 2 % orchestra % . % Symphony No. 12 in G % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*G:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+2g/
+2a/
+=
+4b\
+8.ccT\L
+!!   B&M   Encoding error:   change 16 to 8
+32b\LL
+32cc\JJJ
+4dd\
+4r
+=
+2g/
+2a/
+=
+4b\
+8.ccT\L
+32b\LL
+32cc\JJJ
+4dd\
+4r
+=
+*-

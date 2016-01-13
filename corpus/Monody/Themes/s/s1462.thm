@@ -1,0 +1,55 @@
+**kern
+*clefG2
+*k[b-]
+*M2/4
+!! NB. Key & key signature disagree.
+*F-:
+8r
+8a-
+8b
+16ee
+16aa-
+=
+[2bb
+=
+8]bb
+8ee
+8aa-
+16bb
+16eee
+=
+[2aaa-
+=
+8]aaa-
+8bbb
+8aaa
+8fff#
+=
+8eee
+16gg
+16bb-
+8aa-
+16ff#
+16ee
+=
+2aa
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1902///-1903
+!!!place: Deutschland, Berlin(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1462 % . % 1902-1903 % Berlin? % S1462 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1904///
+!!!ODT: <1904/12/31/
+!!!splace: United States of America, New York and Deutschland, Frankfurt
+!!!CDT: ///-
+!!DEBUGGING: . . 1904(prf) New York and Frankfurt (S1462) . . . . . . .

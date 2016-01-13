@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1820///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1821///
+!!!PPP: Deutschland, Berlin 
+!!!OTL: Sonata No.30 in E for Piano                  
+!!!OPS: Op. 109
+!!!SET: No. 30
+!!!OMV: Mov. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+*^
+16mi\LK	4mi/
+8.so\J	.
+=1	=
+16so\LK	4so/
+8.re\J	.
+16do\LK	4do/
+8.mi\J	.
+=2	=
+16mi\LK	4mi/
+8.ti\J	.
+16la\LK	4la/
+8.do\J	.
+=3	=
+16do\LK	4do/
+8.so\J	.
+4ryy	4re/
+*v	*v
+=
+4mi/
+*-

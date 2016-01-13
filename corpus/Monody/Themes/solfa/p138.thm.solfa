@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Pizzetti, Ildebrando
+!!!CDT: 1880/09/20/-1968/02/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918///-1919
+!!!instrument: violn, piano
+!!!place: Italia, Roma
+!!!theme: AA
+!!!title1: Sonata in A
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: p138 % . % 1918-1919 % Rome % P138 % . % aa % 1 % violn, piano % . % Sonata in A % PIZZETTI, Ildebrando % 1880
+**solfa
+*clefF4
+*k[b-]
+*d:
+*M3/4
+=
+8so\L
+8re\
+8re\
+8re\
+8so\
+8te\J
+=
+4le\
+[2so\
+=
+2so\]
+*clefG2
+8te/L
+8do/J
+=
+8re/L
+8so/
+8so/
+8so/
+8re/
+8fa/J
+=
+2.me/
+=
+4me/
+4me/
+4fa/
+=
+8so/L
+8re/
+8re/
+8re/
+8do/
+8me/J
+=
+4re/
+*-

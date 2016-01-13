@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 5
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: 2 piano
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Fantasy Suite No. 1
+!!!title2: 1st Movement (Barcarolle)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r25 % . % 1893 % Moscow % R25 % 5 % b % . % 2 piano % . % Fantasy Suite No. 1 % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+4.mi/
+8fa/
+=
+2fi/
+[4so/
+=
+4so/]
+4.la/
+8so/
+=
+2.do/
+=
+4so/
+8mi/L
+8fa/
+8fi/
+8so/J
+=
+2si/
+4la/
+=
+12mi/L
+12fa/
+12so/J
+4.fa/
+8mi/
+=
+2.mi/
+=
+*-

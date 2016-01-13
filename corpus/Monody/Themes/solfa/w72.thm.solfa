@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!place: Deutschland, Dresden
+!!!splace: Deutschland, Dresden
+!!!title1: Tannhau3ser, Opera
+!!!title2: Overture
+!!!statkey: E
+!!DEBUGGING: w72 % . % 1845 % Dresden % W72 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(prf) . (W72) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(p) Dresden (W72) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/2
+=
+4do\
+8so/L
+16r
+16mi/Jk
+8.mi\L
+16mi\Jk
+4mi\
+=
+4mi\
+8do\L
+16r
+16so\Jk
+8.so\L
+16so\Jk
+4so\
+=
+8.so\L
+16fi\Jk
+2so\
+[4fi\
+=
+4fi\]
+8.fa\L
+16mi\Jk
+4fa\
+4la\
+=
+*-

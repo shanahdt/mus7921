@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!OMV: Mov. Variations
+!!!OPS: Opus 34
+!!!PDT: 1888///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!title1: Capriccio Espagnol
+!!!title2: Variations
+!!!statkey: F
+!!DEBUGGING: r315 % . % 1887 % St. Petersburg % R315 % 34 % x % Variations % orchestra % . % Capriccio Espagnol % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(p) Leipzig (R315) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=
+8r
+8do/L
+8re/J
+=
+4.mi/
+=
+4mi/
+8mi/
+=
+8mi\L
+8.fa\
+32so\LL
+32fa\JJJ
+=
+4.mi/
+=
+8r
+8do/L
+8re/J
+=
+4.mi/
+=
+4mi/
+8fa\
+=
+8mi/L
+8.re/
+32mi/LL
+32re/JJJ
+=
+4.do/
+=
+*-

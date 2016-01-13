@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!ONM: No. 82
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!theme: B
+!!!title1: Symphony in C
+!!!title2: "L'Ours"
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h558 % . % 1786 % Eszterh&aacute;za % H558 % B. & H. No. 82 % b % 4 % orchestra % "L'Ours" % Symphony in C % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8bb\
+=
+4.bb\
+8aa\
+=
+8bbq/
+8aa\L
+8gg\
+8gg\
+8ccc\J
+=
+4.ccc\
+8bb\
+=
+8cccq/
+8bb\L
+8aa\
+8aa\
+8ddd\J
+=
+4.ddd\
+*-

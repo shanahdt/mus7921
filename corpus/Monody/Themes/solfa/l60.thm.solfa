@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Leclair, Jean-Marie
+!!!CDT: 1697/05/10/-1764/10/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 8
+!!!OPC: France, Paris
+!!!OPS: Opus 2
+!!!PDT: c1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728(p)
+!!!instrument: flt, cemba, viols
+!!!title1: Trio-Sonata in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: l60 % . % c1728(p) % Paris % L60 % 2 No. 8 % x % 1 % flt, cemba, viols % . % Trio-Sonata in D % LECLAIR, Jean-Marie % 1697
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+16r
+16so\LL
+16.la\
+32so\JJk
+=
+16.faT\LL
+32mi\Jk
+8fa\J
+16r
+16re\LL
+16.so\
+32fa\JJk
+16.mit\LL
+32re\Jk
+8mi\J
+16r
+16do\LL
+16.fa\
+32mi\JJk
+=
+8re\L
+16.mi\L
+32fa\JJk
+8.reT\L
+16do\Jk
+8do\L
+8re\
+8mi\
+8fi\J
+=
+8so\L
+8re\J
+2so\
+*-

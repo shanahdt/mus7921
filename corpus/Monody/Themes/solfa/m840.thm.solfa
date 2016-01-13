@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1781/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 378
+!!!PDT: 1781///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779 or 1781
+!!!instrument: violn, piano
+!!!place: Oesterreich, Salzburg or Oesterreich, Vienna
+!!!splace: Oesterreich, Vienna
+!!!title1: Sonata in B Flat
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: m840 % . % 1779 or 1781 % Salzburg or Vienna % M840 % K 378 % x % 1 % violn, piano % . % Sonata in B Flat % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1781(p) Vienna (M840) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/2
+=
+2do\
+2mi\
+=
+16fa\LL
+16so\
+16fa\
+16mi\JJ
+4re\
+2r
+=
+16fa\LL
+16so\
+16fa\
+16mi\JJ
+8re\L
+8re\J
+4.re\
+16mi\LL
+16fa\JJ
+=
+16so\LL
+16la\
+16so\
+16fa\JJ
+4mi\
+2r
+=
+*-

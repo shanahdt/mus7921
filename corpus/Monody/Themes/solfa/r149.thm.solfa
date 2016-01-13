@@ -1,0 +1,39 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Gaspard de la Nuit
+!!!title2: No. 3 Scarbo
+!!!statkey: g#
+!!DEBUGGING: r149 % . % 1908 % Paris % R149 % . % x % . % piano % No. 3 Scarbo % Gaspard de la Nuit % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M3/8
+=
+8mi\L
+8fa\
+[8mi\J
+=
+8.mi\L]
+16re\k
+8do\J
+=
+8ti\L
+8la\
+8mi\J
+=
+8mi\L
+8fa\
+8ti\J
+=
+*-

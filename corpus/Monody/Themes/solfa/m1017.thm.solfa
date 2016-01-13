@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1886///
+!!!OCL: RSC
+!!!ODT: <1886/12/31/
+!!!OMV: Mov. I: Prelude
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1872///-1880
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!theme: B
+!!!title1: Khovantstchina
+!!!title2: Opera
+!!!statkey: c#
+!!DEBUGGING: m1017 % . % 1872-1880 % St. Petersburg % M1017 % .  % b % I: Prelude % orchestra % Opera % Khovantstchina % MUSORGSKY, Modest Petrovich % 1839
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1886(prf) . (M1017) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M4/4
+=
+4so\
+8me\L
+8do\J
+8fa\L
+8le\
+8so\
+16leq/LL
+16soq/JJ
+8fa\J
+=
+4me\
+8do\
+8r
+8fa\L
+16me\L
+16ra\JJ
+8do\L
+8ty\J
+=
+8do/L
+8ty/
+8le/
+8so/J
+*-

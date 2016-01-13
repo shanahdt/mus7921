@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Prelude
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: oboe, piano
+!!!place: United States of America, Massachusetts
+!!!title1: Suite for Oboe and Piano
+!!!title2: 1st Movement (Prelude)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p133 % . % 1931 % Massachusetts % P133 % . % x % 1: Prelude % oboe, piano % . % Suite for Oboe and Piano % PISTON, Walter % 1894
+**solfa
+*clefG2
+*k[]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+[8do/
+16do/LL]
+16re/
+16me/
+16do/JJ
+16fi/LL
+16mi/J
+8fi/J
+8re/L
+[8le/J
+=
+16le\LL]
+16so\J
+[8le\J
+16le\LL]
+16te\J
+[8le\J
+16le/LL]
+16ra/
+16me/
+16fa/JJ
+16so\LL
+16la\
+16ti\
+16do\JJ
+=
+*-

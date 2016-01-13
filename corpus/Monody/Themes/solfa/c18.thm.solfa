@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Minuet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 2 in D Minor
+!!!title2: 3rd Movement, Minuet
+!!!statkey: d
+!!DEBUGGING: c18 % . % 1731 % Paris % C18 % . % x % 3: Minuet % cello, piano % . % Suite No. 2 in D Minor % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**solfa
+*clefF4
+*k[b-]
+*d:
+*M3/4
+=
+4.do\
+8ti\
+4do\
+=
+4so\
+8le\L
+8so\J
+8fa\L
+8me\J
+=
+4fa\
+4re\
+4so\
+=
+4.me\
+8re\
+4do\
+=
+*-

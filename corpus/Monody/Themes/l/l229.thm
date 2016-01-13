@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1855/12/31/
+!!!OMV: Mov. Au Bord d'Une Source
+!!!PDT: 1855///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1848///-1854
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Mainz
+!!!title1: Years of Travel
+!!!title2: First Year
+!!!statkey: A-
+!!DEBUGGING: l229 % . % 1848-1854 % Weimar % L229 % . % x % Au Bord d'Une Source % piano % First Year % Years of Travel % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1855(p) Mainz (L229) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M12/8
+=
+8r
+8r
+8a-/
+4b-\
+8ee-\
+4cc\
+8aa-\
+4b-\
+8ee-\
+=
+4cc\
+8aa-\
+4aa-\
+8ddd-\
+4aa-\
+8eee-\
+4ff\
+8bb-\
+=
+4ff-\
+*-

@@ -1,0 +1,60 @@
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*M3/4
+*B:
+4fff#
+12bb
+12ccc#
+12bb
+12aa#
+12bb
+12aa#
+=
+4gg#
+8ff#
+8dd#
+4ff#
+=
+4fff#
+12b
+12cc#
+12b
+12a#
+12b
+12a#
+=
+4g#
+8f#
+8d#
+4f#
+=
+4r
+8f#
+8g#
+8a
+8ff#
+=
+4.ff
+8dd#
+4cc#
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1889
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s86 % . % 1889 % Paris? % S86 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1890///
+!!!ODT: <1890/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1890(p) Paris (S86) . . . . . . .

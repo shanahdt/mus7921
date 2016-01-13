@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1892///
+!!!OCL: RSC
+!!!ODT: <1892/12/31/
+!!!OPS: Opus 49
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!title1: Malague&ntilde;a
+!!!title2: Opera Boabdil
+!!!statkey: C
+!!DEBUGGING: m412 % . % 1892(prf) % Berlin % M412 % 49 % x % . % orchestra % Opera Boabdil % Malague&ntilde;a % MOSZKOWSKI, Moritz % 1854
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+8mi\L
+16ri\L
+16mi\J
+8do\J
+=
+8r
+8re\L
+8fa\J
+=
+8mi\L
+16ri\L
+16mi\J
+8do\J
+=
+8r
+8re\L
+8fa\J
+=
+8mi\L
+16mi\L
+16fa\J
+[8so\J
+=
+8so\L]
+16la\L
+16ti\J
+8do\J
+=
+*-

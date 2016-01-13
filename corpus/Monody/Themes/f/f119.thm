@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OPR, OTL, thm          
+!!!COM: Flotow, Friedrich von
+!!!CDT: 1812/04/27/-1883/01/24/
+!!!CNT: German
+!!!OPR: Zilda             
+!!!OTL: Overture
+!!!thm: B
+!!!AIN: orchestra
+!!!MPD: 1866///
+!!!MLC: France, Paris       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8cc#\L
+8ee\
+8ee\
+8ff#\J
+=
+8gg#q/
+!!   Encoding error:   changing 16 to q
+8ff#\L
+8ee\J
+[4ee\
+=
+8ee\L]
+8ccc#\
+8ccc#\
+8bb\J
+=
+8ccc#q/
+4bb\
+4aa\
+=
+8bbq/
+8aa\L
+8gg#\
+8eee\
+8ff#\J
+=
+8eee\L
+8ee\
+8eee\
+8ff#\J
+=
+*-

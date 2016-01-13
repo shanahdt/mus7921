@@ -1,0 +1,70 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1921///
+!!!OCL: RSC
+!!!ODT: <1921/12/31/
+!!!OMV: Mov. 2: March of the Philistines
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1921
+!!!instrument: orchestra
+!!!place: Helvetia(?)
+!!!splace: M&eacute;zi&egrave;res
+!!!title1: King David Symphonic Psalm
+!!!title2: March of the Philistines
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h839 % 255 % 1921 % Switzerland? % H839 % . % x % 2: March of the Philistines % orchestra % . % King David Symphonic Psalm % HONEGGER, Arthur % 1892
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1921(prf) M&eacute;zi&egrave;res (H839) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*B:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+16Bq/LL
+16cq/
+16dq/JJ
+8e-/L
+8r
+8d-/
+8r
+8B-/J
+8r
+4r
+16Bnq/LL
+16cq/
+16dnq/JJ
+=
+8e-/L
+8r
+8d-/
+8r
+8B-/J
+8r
+4r
+16Bnq/LL
+16cq/
+16dnq/JJ
+=
+8e-/
+8r
+8g-/L
+8an/J
+8ff\L
+8r
+8een\J
+8r
+=
+8dd#\
+8r
+8een\L
+8gg\J
+8ff\
+*-

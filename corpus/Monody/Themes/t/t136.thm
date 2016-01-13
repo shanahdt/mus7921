@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1875///
+!!!OCL: RSC
+!!!ODT: <1875/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1875(prf)
+!!!place: United States of America, Massachusetts, Boston
+!!!title1: Concerto No. 1 in B Flat Minor, Op. 23, Pft. & Orch.
+!!!title2: 3rd Movement
+!!!statkey: D-
+!!DEBUGGING: t136 % . % 1875(prf) % Boston % T136 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M3/4
+[4aa-\
+=
+4aa-\]
+4bb-\
+4aa-\
+=
+2aa-\
+8ff\L
+8gg-\J
+=
+8ff\L
+8aa-\J
+4ee-\
+8ee-\L
+8ff\J
+=
+4dd-\
+8b-\L
+8dd-\J
+4a-/
+=
+*-

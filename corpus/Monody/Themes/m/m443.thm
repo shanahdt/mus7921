@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 299
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: flt, arpa, orchestra
+!!!place: France, Paris
+!!!title1: Concerto in C
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: m443 % . % 1778 % Paris % M443 % K 299 % x % 2 % flt, arpa, orchestra % . % Concerto in C % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+8a/
+8r
+8a/
+8r
+8a/
+8r
+=
+[4g/
+8.g/L]
+16e/Jk
+8f/
+8r
+=
+16a\LL
+16b-\
+16cc\
+16dd\JJ
+16cc\LL
+16dd\
+16ee\
+16ff\JJ
+16ee\LL
+16ff\
+16ee\
+16ff\JJ
+=
+[4b-\
+8.b-\L]
+32cc\LL
+32dd\JJJ
+8cc\
+8r
+=
+*-

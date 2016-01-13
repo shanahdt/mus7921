@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1886///
+!!!OCL: RSC
+!!!ODT: <1886/12/31/
+!!!OMV: Mov. II: Persian Dance
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1872///-1880
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!theme: B
+!!!title1: Khovantstchina
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: m1019 % . % 1872-1880 % St. Petersburg % M1019 % .  % b % II: Persian Dance % orchestra % Opera % Khovantstchina % MUSORGSKY, Modest Petrovich % 1839
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1886(prf) . (M1019) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8dd\
+8r
+[4dd\
+=
+8dd\]
+8dd\L
+8ff#\
+8dd\J
+=
+8ee\
+8r
+4ee\
+=
+4b\
+8dd\
+8r
+=
+8dd\
+8r
+[4dd\
+=
+8dd\]
+8dd\L
+8ffn\
+8dd\J
+=
+8ee\
+8r
+4ee\
+=
+4b\
+8dd\
+*-

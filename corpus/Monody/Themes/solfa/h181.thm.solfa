@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: 2 oboe or 2 violn, cbass
+!!!place: ?
+!!!title1: Sonata in E Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h181 % . % ? % ? % H181 % .  % x % 3 % 2 oboe or 2 violn, cbass % . % Sonata in E Flat % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-]
+*C:
+*M6/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+8do\L
+8re\
+8me\
+8ti\J
+8do\L
+8so\
+8me\
+8fa\
+8so\
+8re\J
+=
+[2.me\
+8.me\L]
+32re\LL
+32me\JJJ
+8fa\L
+8re\
+8me\
+8do\J
+=
+[2.fa\
+8.fa\L]
+32me\LL
+32fa\JJJ
+8so\L
+8me\
+8fa\
+8re\J
+=
+*-

@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1890/12/31/
+!!!OPS: Opus 36
+!!!PDT: 1890///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!theme: E
+!!!title1: La Grande Paque Russe
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: r331 % 385 % 1888 % St. Petersburg % R331 % 36 % e % . % orchestra % Overture % La Grande Paque Russe % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1890(p) Leipzig (R331) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M2/2
+2me\
+=
+2.fa\
+4me\
+=
+2fa\
+4fa\
+4fa\
+=
+4fa\
+4so\
+2le\
+=
+1so\
+=
+2so\
+4so\
+4so\
+=
+2le\
+2so\
+=
+2fa\
+4me\
+4fa\
+=
+2.so\
+*-

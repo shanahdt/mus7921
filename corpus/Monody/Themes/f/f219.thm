@@ -1,0 +1,62 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Frederick II, King of Prussia
+!!!CDT: 1712/01/24/-1786/08/17/
+!!!CNT: German
+!!!OTL: Concerto No. 2 in G Major for Flute and Strings
+!!!SET: No. 2
+!!!OMV: Mov. 3        
+!!!AIN: Cstr flute
+!!!ODT: N/A            
+!!!OCY: Deutschland
+!!!OPC: Berlin 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+4gg\
+32b/LLL
+32a/JJ
+8.g/J
+=
+4dd\
+32f#/LLL
+32e/JJ
+8.d/J
+=
+8g/L
+16a/L
+16b/JJ
+8cc\L
+8b\J
+=
+16cc\LL
+16ee\JJ
+4dd\
+8r
+=
+32ee\LLL
+32dd\JJ
+8.cc\J
+4aa\
+=
+32dd\LLL
+32cc\JJ
+8.b\J
+4gg\
+=
+8cc\L
+16ee\L
+16dd\JJ
+8cc\L
+8b\J
+=
+8a/
+*-

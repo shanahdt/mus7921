@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Hogyan Tudtal Rozs&aacute;m
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: a
+!!DEBUGGING: k82 % . % 1927 % Budapest % K82 % 15 % x % Hogyan Tudtal Rozs&aacute;m % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K82) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+*>[A,A,B]
+*>A
+=
+8so\
+4.re\
+4re\
+4fa\
+=
+2me\
+2re\
+=
+4do/
+4te/
+2do/
+=
+2te/
+2r
+=5:|!
+*>B
+4.do/
+8me\
+8re\
+4.do/
+=
+2te/
+2le/
+=
+4le/
+4so/
+2fa/
+=
+2do/
+2r
+=
+*-

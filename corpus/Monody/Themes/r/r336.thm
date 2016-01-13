@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1892///
+!!!OCL: RSC
+!!!ODT: <1891/12/31/
+!!!ODT: <1892/12/31/
+!!!PDT: 1891///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1889///-1890
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!splace: Royssia, St. Petersburg
+!!!theme: B
+!!!title1: Mlada
+!!!title2: Ballet
+!!!statkey: A-
+!!DEBUGGING: r336 % . % 1889-1890 % St. Petersburg % R336 % . % b % . % orchestra % Ballet % Mlada % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1891(p) Leipzig (R336) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1892(prf) St. Petersburg (R336) . b . orchestra Ballet Mlada RIMSKY-KORSAKOV, Nikolay 1844
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+16a-\LL
+16b-\J
+[8cc\J
+8cc\L]
+8ee-\J
+8ff\L
+8ee-\J
+=
+16ff\LL
+16ee-\J
+[8cc\J
+8cc/L]
+8a-/J
+8b-/L
+8e-/J
+=
+16cc\LL
+16b-\J
+[8a-\J
+16a-\LL]
+16b-\J
+[8cc\J
+16cc\LL]
+16ddn\
+16ee-\
+16ff\JJ
+!!   Encoding error:  change 32's to 16's
+=
+8gg\
+8r
+*-

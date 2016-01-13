@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 310
+!!!PDT: 1782///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Sonata in A Minor
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: m775 % . % 1778 % Paris % M775 % K 310 % x % 2 % piano % . % Sonata in A Minor % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(p) . (M775) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+16f\LL
+16a\
+16cc\
+16ff\JJ
+=
+8ccq/
+8.aa\L
+16ff\Jk
+8cc\L
+[8cc\J
+16cc\LL]
+16b-\
+16a\
+16b-\JJ
+=
+8.b-\L
+32cc\LL
+32b-\JJJ
+8a/
+*-

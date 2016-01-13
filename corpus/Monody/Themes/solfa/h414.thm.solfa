@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!theme: C
+!!!title1: Quartet in G 
+!!!title2: 1st Movement
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h414 % . % 1790 % Vienna % H414 % . % c % 1 % string % . % Quartet in G  % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) ? (H414) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*D:
+*M4/4
+!! ! NB. Key & key signature disagree.
+8so/
+=
+8mi/L
+8mi/
+8do/
+8do/J
+8.ti/L
+16re/Jk
+8fa/L
+16re/L
+16ti/JJ
+=
+8.do/L
+16mi/Jk
+8so/L
+8so/J
+16so/LL
+16fa/
+16fa/
+16mi/JJ
+16mi/LL
+16re/
+16re/
+16so/JJ
+=
+*-

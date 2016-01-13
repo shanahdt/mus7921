@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Lullaby
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k41 % . % 1942 % Moscow % K41 % . % x % Lullaby % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K41) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*D:
+*M6/8
+*>[A,A,B]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+8r
+8me/L
+8fa/J
+8so/
+4so/
+=
+16soq/LL
+16leq/JJ
+8.so/L
+16fa/k
+8so/J
+4.fa/
+=3:|!
+*>B
+8r
+16me/LL
+16fa/
+16me/
+16fa/JJ
+8so\L
+8do\
+16teq/LL
+16doq/JJ
+8te\J
+=
+16soq/LL
+16leq/JJ
+8.so/L
+16fa/k
+8so/J
+4.fa/
+=
+*-

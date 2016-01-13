@@ -1,0 +1,49 @@
+**kern
+*clefG2
+*k[]
+*met(C|)
+*M2/2
+*C:
+4.c
+8G
+4.c
+8d
+=
+4.c
+8G
+4.c
+8d
+=
+6c
+6E
+6G
+6c
+6e
+6g
+=
+6E
+6G
+6c
+6e
+6g
+6e
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1825///-1828
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s519 % . % 1825-1828 % Vienna % S519 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1840///
+!!!ODT: <1840/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1840(p) Vienna? (S519) . . . . . . .

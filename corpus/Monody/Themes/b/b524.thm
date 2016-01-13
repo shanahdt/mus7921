@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1795///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Concerto No.1 in C for Piano
+!!!SET: No.1
+!!!OPS: Op. 15
+!!!OMV: Mov. 2
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+2cc\
+8dd-\L
+8cc\
+8b-\
+8a-\J
+=
+4..dd-\
+16b-\
+4g/
+8r
+8e-/
+=
+4a-S/
+8.cc\L
+16b-\Jk
+4b-S\
+8.dd-\L
+16cc\Jk
+=
+8cc\L
+16ee-\L
+16ddn\JJ
+16ff\LL
+16ee-\
+16dd-\
+16cc\JJ
+8an/L
+8b-/J
+*-

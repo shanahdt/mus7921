@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*D:
+8r
+8so
+8do
+8so
+8do
+8so
+8do
+8so
+=
+8le
+16so
+16fa
+8so
+8me
+8fa
+16me
+16re
+16me
+16fa
+16so
+16le
+=
+8so
+8me
+8fa
+16me
+16re
+8me
+8do
+=
+*-
+!!!COM: Schreker, Franz
+!!!CNT: Austrian
+!!!date: 1928
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s285 % . % 1928 % Berlin % S285 % . % . % . % . % . % . % SCHREKER, Franz

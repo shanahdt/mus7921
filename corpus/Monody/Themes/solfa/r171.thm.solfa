@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Pr&eacute;lude &agrave; la Nuit
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1907///-1908
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Rapsodie Espagnole
+!!!title2: 1st Movement (Pr\e7lude \a8 la Nuit)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r171 % . % 1907-1908 % Paris % R171 % . % x % 1: Pr&eacute;lude &agrave; la Nuit % orchestra % . % Rapsodie Espagnole % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4so\
+2so\
+=
+4fi\
+2fi\
+=
+12fi\L
+12so\
+12fi\J
+8re\L
+8me\
+8fi\
+8ti\J
+=
+4fi\
+2fi\
+=
+4.ti\
+[4.ti\
+=
+4ti\]
+*-

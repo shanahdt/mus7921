@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!ONM: No. 5
+!!!OPS: Opus 67
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1844
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 35: Song of the Heather
+!!!statkey: b
+!!DEBUGGING: m304 % . % 1844 % Berlin % M304 % 67 No. 5 % x % . % piano % No. 35: Song of the Heather % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(p) Bonn (M304) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+8so\L
+8re\
+8me\J
+=
+4.ti\
+8do\L
+8re\
+8me\J
+=
+8re\L
+16fa\L
+16me\JJ
+8re\L
+8re\
+8me\
+8fa\J
+=
+8so\L
+8do\
+8so\
+8fa\
+8me\
+8fa\J
+=
+4.re\
+*-

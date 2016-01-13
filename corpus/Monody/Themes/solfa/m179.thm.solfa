@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1874/12/31/
+!!!OMV: Mov. 3: Angelus
+!!!PDT: 1874///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874(p)
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Sc&egrave;nes Pittoresques
+!!!title2: Suite No. 4
+!!!statkey: F
+!!DEBUGGING: m179 % 299 % 1874(p) % Paris % M179 % . % a % 3: Angelus % . % Suite No. 4 % Sc&egrave;nes Pittoresques % MASSENET, Jules % 1842
+**solfa
+*clefF4
+*k[b-]
+*F:
+*M4/4
+=
+4so/
+8do\L
+8re\J
+4mi\
+8fa\L
+8re\J
+=
+8so\L
+16mi\L
+16re\JJ
+8do\L
+8re\J
+4re\
+4mi\
+=
+*-

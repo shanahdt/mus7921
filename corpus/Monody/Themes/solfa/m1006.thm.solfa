@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1789/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 564
+!!!PDT: 1789///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: piano, violn, cello
+!!!place: Oesterreich, Vienna
+!!!splace: England, London
+!!!title1: Trio in G
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: m1006 % . % 1788 % Vienna % M1006 % K 564 % x % 2 % piano, violn, cello % . % Trio in G % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789(p) London (M1006) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/8
+8so/
+=
+8so\L
+8do\
+8ti\J
+=
+4do\
+8re\
+=
+4mi\
+8fa\
+=
+8mi\L
+8re\J
+8ti\
+=
+8re\L
+8do\
+8la\J
+=
+4re\
+8mi\
+=
+4so/
+16ti/LL
+16la/JJ
+=
+8so/
+8r
+*-

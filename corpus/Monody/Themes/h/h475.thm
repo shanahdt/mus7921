@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in B Flat
+!!!title2: "Sunrise"
+!!!statkey: c
+!!DEBUGGING: h475 % . % -1797 % Vienna % H475 % . % x % 2 % string % "Sunrise" % Quartet in B Flat % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+4e-/
+4d/
+4e-/
+=
+4f/
+2g;/
+=
+4f/
+4en/
+4f/
+=
+4g/
+2a-;/
+=
+4cc\
+4bn\
+4cc\
+=
+4g/
+[4a-/
+16a-/LL]
+32b-/L
+32cc/JJJ
+32b-/LLL
+32a-/
+32g/
+32f/JJJ
+=
+4e-/
+*-

@@ -1,0 +1,60 @@
+**solfa
+*clefG2
+*k[b-e-]
+*met(C|)
+*M2/2
+*g:
+12so
+12so
+12so
+12so
+12r
+12so
+12se
+12r
+12se
+12so
+12r
+12so
+=
+12le
+12r
+12le
+12fa
+12r
+12fa
+12so
+12r
+12so
+12me
+12r
+12me
+=
+12re
+12r
+12re
+12do
+12r
+12do
+12ti
+12r
+12ti
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1868
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s27 % . % 1868 % Paris? % S27 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1868///
+!!!ODT: <1868/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1868(p) Paris (S27) . . . . . . .

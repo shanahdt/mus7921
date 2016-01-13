@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n/a
+!!!instrument: piano
+!!!place: ?
+!!!title1: Serenata
+!!!statkey: D
+!!DEBUGGING: m413 % . % n/a % n/a % M413 % 15 No. 1 % x % . % piano % . % Serenata % MOSZKOWSKI, Moritz % 1854
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+4ff#\
+4ff#\
+=
+16ff#\LL
+16ee\
+16.gg\
+32ff#\JJk
+4ee\
+=
+4dd\
+4dd\
+=
+8dd\
+16eeq/LL
+16ddq/JJ
+16.cc#\LL
+32ee\JJk
+16b/LK
+16r
+8a/J
+=
+*-

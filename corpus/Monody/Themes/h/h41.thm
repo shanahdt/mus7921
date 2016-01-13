@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1761/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 5
+!!!OPS: Opus 7
+!!!PDT: 1761///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1750
+!!!place: England, London
+!!!theme: A
+!!!title1: Concerto No. 11 in G Minor
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: h41 % . % 1750 % London % H41 % 7 No. 5 % a % 2 % . % . % Concerto No. 11 in G Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1761(p) . (H41) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+8B-/L
+8b-/
+8a/
+8A/J
+8G/L
+8g/
+8f/
+8d/J
+=
+8e-/L
+8ee-/
+8dd/
+8b-/J
+8g/L
+8e-/
+8f/
+8F/J
+=
+4B-/
+*-

@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1749///
+!!!OCL: RSC
+!!!ODT: <1749/12/31/
+!!!OMV: Mov. 6: Minuet No. 2
+!!!PDT: 1749///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1749(p)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Fireworks Music
+!!!title2: 6th Movement (Minuet No. 2)
+!!!statkey: D
+!!DEBUGGING: h126 % . % 1749(p) % London % H126 % . % x % 6: Minuet No. 2 % orchestra % . % Fireworks Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1749(prf) . (H126) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+2dd\
+4a/
+=
+4f#/
+8e/L
+8d/J
+4a/
+=
+4dd\
+8dd\L
+8ee\J
+4ff#\
+=
+16eeq/
+2.ddT\
+=
+4dd\
+8dd\L
+8ee\J
+4dd\
+=
+4ee\
+8ee\L
+8ff#\J
+4ee\
+=
+4ff#\
+4gg\
+4ff#\
+=
+2.ee\
+=
+*-

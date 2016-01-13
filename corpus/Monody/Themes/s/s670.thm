@@ -1,0 +1,51 @@
+**kern
+*clefG2
+*k[]
+*met(C|)
+*M2/2
+*a:
+4aa
+4r
+4aa
+4r
+=
+2.eee
+8ddd
+8bb
+=
+8ccc
+8aa
+8gg#
+8bb
+8aa
+8ee
+8dd
+8ff
+=
+qff
+8ee
+8dd
+8ee
+8ff
+4ee
+4r
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1842
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s670 % 426 % 1842 % Leipzig % S670 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1843///
+!!!ODT: <1843/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1843(p) ? (S670) . . . . . . .

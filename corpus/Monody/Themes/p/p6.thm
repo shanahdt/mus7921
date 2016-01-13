@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Paderewski, Ignace Jan
+!!!CDT: 1860/11/18/-1941/06/29/
+!!!CNT: Polish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!title1: Chant Sans Paroles
+!!!statkey: G
+!!DEBUGGING: p6 % . % ? % ? % P6 % . % x % . % piano % . % Chant Sans Paroles % PADEREWSKI, Ignace Jan % 1860
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4r
+2d/
+=
+4e/
+[2f#/
+=
+4f#/]
+2g/
+=
+4g#/
+4a/
+4a#/
+=
+2b\
+4b\
+=
+4b\
+4cc\
+4b\
+=
+[2.dd\
+=
+2dd\]
+4a/
+=
+*-

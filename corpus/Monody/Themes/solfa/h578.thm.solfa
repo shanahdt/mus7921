@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!ONM: No. 91
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!title1: Symphony in E Flat
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: h578 % . % 1788 % Eszterh&aacute;za % H578 % B. & H. No. 91 % x % 2 % orchestra % . % Symphony in E Flat % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+8so/L
+8so/J
+=
+4do\
+8re\L
+8re\J
+=
+8.so/L
+32la/LL
+32ti/JJJ
+8.do\L
+32re\LL
+32mi\JJJ
+=
+8fa\L
+8mi\
+8re\
+8do\J
+=
+8ti/L
+8re/
+8so/
+8so/J
+=
+*-

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Leclair, Jean-Marie
+!!!CDT: 1697/05/10/-1764/10/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1737/12/31/
+!!!OMV: Mov. 3: Sarabande
+!!!ONM: No. 3
+!!!OPC: France, Paris
+!!!OPS: Opus 9
+!!!PDT: c1737///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1737(p)
+!!!instrument: violn, piano
+!!!title1: Sonata in D
+!!!title2: 3rd Movement (Sarabande)
+!!!statkey: d
+!!DEBUGGING: l56 % 276 % c1737(p) % Paris % L56 % 9 No. 3 % x % 3: Sarabande % violn, piano % . % Sonata in D % LECLAIR, Jean-Marie % 1697
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/2
+=
+2so/
+2.do\
+4me\
+=
+2.le\
+4so/
+4fa/
+4me/
+=
+2re/
+[2so/
+8so/L]
+8fa/
+8me/
+8re/J
+=
+16req/LL
+16meq/
+16faq/JJ
+2.me/
+4re/
+2do/
+=
+*-

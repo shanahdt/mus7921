@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1782///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in E Flat
+!!!title2: "The Joke"
+!!!statkey: E-
+!!DEBUGGING: h355 % . % 1781 % Eszterh&aacute;za % H355 % . % x % 1 % string % "The Joke" % Quartet in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(p) ? (H355) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+16B-/LL
+16e-/JJ
+=
+2e-/
+4.b-\
+16a-/LL
+16f/JJ
+=
+8e-/L
+8g/J
+8b-\L
+16ee-\L
+16b-\JJ
+4.b-\
+8bn\
+=
+2cc\
+4.a-/
+16f/LL
+16d/JJ
+=
+8e-/L
+8g/J
+8b-/L
+16a-/L
+16f/JJ
+4e-/
+8r
+*-

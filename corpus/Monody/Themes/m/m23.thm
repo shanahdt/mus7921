@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1898/12/31/
+!!!OPS: Opus 55
+!!!PDT: 1898///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1898
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!title1: Sea Pieces
+!!!title2: No. 1: To the Sea
+!!!statkey: b-
+!!DEBUGGING: m23 % . % 1898 % New York % M23 % 55 % x % . % piano % No. 1: To the Sea % Sea Pieces % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1898(p) . (M23) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M4/4
+=
+4.ff\
+8ee-\
+4dd-\
+4b-\
+=
+4.a-/
+8f/
+4e-/
+4d-/
+=
+4.B-/
+32B-/LLL
+32c/
+32d-/
+32e-/JJJ
+4f/
+4en/
+=
+8.f/L
+16e-/Jk
+2c/
+*-

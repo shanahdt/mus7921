@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1892///
+!!!OCL: RSC
+!!!ODT: <1891/12/31/
+!!!ODT: <1892/12/31/
+!!!PDT: 1891///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1889///-1890
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!splace: Royssia, St. Petersburg
+!!!theme: A: CORT&Egrave;GE DES NOBLES
+!!!title1: Mlada
+!!!title2: Ballet
+!!!statkey: E-
+!!DEBUGGING: r335 % . % 1889-1890 % St. Petersburg % R335 % . % a: Cort&egrave;ge des Nobles % . % orchestra % Ballet % Mlada % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1891(p) Leipzig (R335) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1892(prf) St. Petersburg (R335) . a: Cort&egrave;ge des Nobles . orchestra Ballet Mlada RIMSKY-KORSAKOV, Nikolay 1844
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+8e-/L
+16e-/L
+16d/JJ
+8e-/L
+8f/J
+8g/L
+8b-/J
+=
+8.f/L
+16g/Jk
+8e-/L
+8f/J
+4f/
+=
+8.f/L
+16e-/Jk
+16f/LL
+16g/
+16a-/
+16g/JJ
+8f/L
+8e-/J
+=
+8d/L
+16e-/L
+16c/JJ
+8B-/L
+8f/J
+4d/
+=
+*-

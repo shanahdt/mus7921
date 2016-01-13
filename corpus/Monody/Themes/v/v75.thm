@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Verdi, Giuseppe
+!!!CDT: 1813/10/9-10/-1901/01/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1862///
+!!!OCL: RSC
+!!!ODT: <1862/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1862(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: La Forza del Destino, Overture
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v75 % . % 1862(prf) % St. Petersburg % V75 % . % . % . % . % . % . % VERDI, Giuseppe % 1813
+**kern
+*clefG2
+*k[f#]
+*A:
+*M2/4
+!! ! NB. Key & key signature disagree.
+16e/LL
+16cc/JJ
+=
+8b/L
+8a/
+8b/
+8cc/J
+=
+4.a/
+16e/LL
+16cc/JJ
+=
+8b/L
+8a/
+8b/
+8cc/J
+=
+4.ffn\
+16a\LL
+16ff\JJ
+=
+8ee\L
+8dd\
+8ee\
+8ffn\J
+=
+4.ee\
+16e/LL
+16dd/JJ
+=
+8cc\L
+8b\J
+8ddq/
+8cc\L
+8b\J
+=
+4.a/
+*-

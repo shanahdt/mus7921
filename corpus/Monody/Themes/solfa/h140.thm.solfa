@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1742///
+!!!MPD: 1743///
+!!!OCL: RSC
+!!!ODT: <1742/12/31/
+!!!ODT: <1743/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1742(prf)
+!!!place: Eire, Dublin
+!!!splace: England, London
+!!!theme: B
+!!!title1: Messiah
+!!!title2: Overture
+!!!statkey: e
+!!DEBUGGING: h140 % . % 1742(prf) % Dublin % H140 % . % b % Overture % . % . % Messiah % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1743(prf) London (H140) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+4r
+4so\
+4me\
+8re\L
+8do\J
+=
+4re\
+4so\
+4re\
+4mit\
+=
+4fa\
+4do\
+[2fa\
+=
+8fa\L]
+8so\
+8me\
+8fa\J
+8re\
+*-

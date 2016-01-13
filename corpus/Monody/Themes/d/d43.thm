@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: L'Isle Joyeuse for Piano 
+!!!thm: C           
+!!!AIN: forte     
+!!!ODT: 1904///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+8bb\L
+8.aa\
+16bb\Jk
+=
+8bb\L
+8.aa\
+16bb\Jk
+=
+8bb\L
+8aa\
+8bb\J
+=
+8ccc#\L
+8eee\
+8aa\J
+=
+8aa\L
+8.bb\
+16eee\Jk
+=
+8eee\L
+8.fff#\
+16aa\Jk
+=
+*-

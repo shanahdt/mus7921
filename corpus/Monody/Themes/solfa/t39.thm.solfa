@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1798/12/31/
+!!!PDT: 1798///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1798(p)
+!!!place: France, Paris
+!!!title1: Variations on a Theme of Corelli, Vn. & Pft. (Arr. by Kreisler)
+!!!statkey: F
+!!DEBUGGING: t39 % . % 1798(p) % Paris % T39 % . % . % . % . % . % . % TARTINI, Giuseppe
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8so\
+=
+8do\L
+8so\J
+4soT\
+16fiq/LL
+16soq/JJ
+8re\L
+8so\J
+4soT\
+16fiq/LL
+16soq/JJ
+=
+8mi\L
+16do\L
+16re\JJ
+16mi\LL
+16re\
+16do\
+16mi\JJ
+4.re\
+8so\
+=
+8mi\L
+16do\L
+16re\JJ
+16mi\LL
+16do\
+16ti\
+16la\JJ
+8re\
+*-

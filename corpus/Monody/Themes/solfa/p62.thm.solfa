@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Paradies, Pietro Domenico
+!!!CDT: 1707///-1791/08/25/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1754/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1754///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1754(p)
+!!!instrument: piano or cemba
+!!!place: England, London
+!!!title1: Sonata in A
+!!!title2: 1st Movement
+!!!statkey: A
+!!DEBUGGING: p62 % . % 1754(p) % London % P62 % . % x % 1 % piano or cemba % . % Sonata in A % PARADIES, Pietro Domenico % 1707
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+8so/L
+8do/J
+=
+8doT/L
+8ti/J
+8ti/L
+8re/
+8do/
+8ti/J
+=
+8ti/
+4do/
+8r
+8so/L
+8mi/J
+=
+8mi\L
+8re\J
+8re\L
+8fa\
+8mi\
+8re\J
+=
+8re\
+4mi\
+8r
+8so/L
+8so/J
+=
+8so\L
+8fa\
+8la\
+8so\J
+*-

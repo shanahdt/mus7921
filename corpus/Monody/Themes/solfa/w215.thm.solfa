@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1821///
+!!!OCL: RSC
+!!!ODT: <1821/12/31/
+!!!ODT: <1842/12/31/
+!!!PDT: 1842///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1817///-1821
+!!!place: Deutschland, Dresden
+!!!splace: Deutschland, Berlin
+!!!title1: Die Freisch\u3tz, Overture
+!!!statkey: c
+!!DEBUGGING: w215 % . % 1817-1821 % Dresden % W215 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1821(prf) Berlin (W215) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1842(p) Berlin (W215) . . . . . . WEBER, Carl Maria Von
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M2/2
+=
+2do\
+4.do\
+8do\
+=
+2.do\
+4re\
+=
+4me\
+4ti\
+4do\
+4te\
+=
+4le/
+4le/
+2r
+=
+4r
+4fa/
+4.re\
+8do\
+=
+2ti\
+2r
+=
+*-

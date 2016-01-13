@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 466
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in D Minor
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m477 % 315 % 1785 % Vienna % M477 % K 466 % x % 2 % piano, orchestra % . % Concerto in D Minor % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+2so\
+8fi\L
+8so\
+8fi\
+8so\J
+=
+8la\L
+8so\
+8fa\
+8mi\J
+4mi\
+8.so\L
+16mi\Jk
+=
+8do\
+8r
+8do\
+8r
+8so/
+8r
+8so/
+8r
+=
+4.do\
+16re\LL
+16mi\JJ
+8re\L
+8mi\
+8fa\
+8fi\J
+=
+*-

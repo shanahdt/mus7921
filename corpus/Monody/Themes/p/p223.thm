@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus 12
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906///-1913
+!!!instrument: piano
+!!!place: Royssia, St. Petersburg
+!!!title1: Gavotte
+!!!statkey: g
+!!DEBUGGING: p223 % . % 1906-1913 % St. Petersburg % P223 % 12 No. 2 % x % . % piano % . % Gavotte % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+8dd\L
+8cc\
+8b-\
+8a\J
+=
+8gg\L
+8ff\
+8ee-\
+8dd\J
+4ee-\
+4dd\
+=
+[2dd\
+8dd\L]
+8cc\
+8b-\
+8a\J
+=
+8cc/L
+8b-/
+8a/
+8g/J
+4b-\
+4g/
+=
+2f#/
+*-

@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Byrd, William
+!!!CDT: c1540///-1623/07/04/
+!!!CNT: English
+!!!OPR: Fitzwilliam Virginal Book No. 69
+!!!OTL: The Bells
+!!!thm: B
+!!!AIN: cemba
+!!!OCY: 
+!!!OPC:      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M9/8
+=
+8r
+8do\L
+8re\J
+4mi\
+8mi\
+4fa\
+8fa\
+=
+4.mi\
+4.do\
+4r
+8r
+=
+8r
+8do\L
+8re\J
+8.mi\L
+16fa\k
+8so\J
+8.fa\L
+16mi\k
+8re\J
+=
+4.mi\
+4.do\
+4r
+8r
+=
+*-

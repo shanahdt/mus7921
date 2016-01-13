@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeffler, Charles Martin
+!!!CDT: 1861/01/30/-1935/05/19/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 6
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1900
+!!!instrument: orchestra
+!!!place: United States of America, Massachusetts, Boston
+!!!theme: C
+!!!title1: La Mort de Tintagiles
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l249 % . % 1900 % Boston % L249 % 6 % c % . % orchestra % . % La Mort de Tintagiles % LOEFFLER, Charles Martin % 1861
+**solfa
+*clefG2
+*k[f#c#]
+*C:
+*M6/4
+=
+!! ! NB. Key & key signature disagree.
+2.mi\
+2.fi\
+=
+[1.so\
+=
+4so\]
+4fi\
+4so\
+4la\
+4so\
+4fi\
+=
+4so\
+4fi\
+4so\
+4la\
+4so\
+4fi\
+=
+4so\
+4fa\
+4mi\
+4re\
+4di\
+4mi\
+=
+4so\
+*-

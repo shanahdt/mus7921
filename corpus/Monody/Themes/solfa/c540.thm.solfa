@@ -1,0 +1,41 @@
+!!!ref: COM CDT, OTL
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: La Cro&ucirc;illi ou La Couperin&eacute;te         
+!!!AIN: cemba                   
+!!!PDT: 1730///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+8do\
+8le\J
+=
+8so\L
+8do\
+8do\J
+=
+8tit\L
+8dom\
+8re\J
+=
+(8req/
+16me\LL)
+16fa\
+16me\
+16re\J
+8do\J
+=
+*-

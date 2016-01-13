@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1870///
+!!!OCL: RSC
+!!!ODT: <1870/12/31/
+!!!ODT: <1878/12/31/
+!!!PDT: 1878///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1870
+!!!place: Helvetia, Lucerne
+!!!splace: Deutschland, Mainz
+!!!title1: Siegfried-Idyll, Orch.
+!!!statkey: C
+!!DEBUGGING: w66 % . % 1870 % Lucerne, Switzerland % W66 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1870(prf) . (W66) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1878(p) Mainz (W66) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4r
+4la/
+4mi/
+4so/
+=
+4re/
+4fa/
+4do/
+4mi/
+=
+4la/
+8re/L
+8mi/J
+4fa/
+4mi/
+=
+4re/
+8mi/L
+8fa/J
+[2so/
+=
+4so/]
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Woodland Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: As You Like It
+!!!title2: Incidental Music
+!!!statkey: g
+!!DEBUGGING: g25 % . % 1896 % London % G25 % . % x % 1: Woodland Dance % orchestra % Incidental Music % As You Like It % GERMAN, Sir Edward % 1862
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=
+4dd\
+8a\L
+8dd\J
+=
+16cc\LL
+16b-\
+16a\
+16b-\JJ
+16g/LL
+16a/J
+8b-/J
+=
+4a/
+8ccq/
+8b-/L
+8a/J
+=
+16g/LL
+16a/
+16b-/
+16g/JJ
+4a/
+=
+4dd\
+8a\L
+8dd\J
+=
+16cc\LL
+16b-\
+16a\
+16b-\JJ
+16g/LL
+16a/J
+8b-/J
+=
+*-

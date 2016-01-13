@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Cr&eacute;ation Du Monde
+!!!title2: Ballet
+!!!statkey: C
+!!DEBUGGING: m390 % . % 1923 % Paris % M390 % . % x % 2 % orchestra % Ballet % Cr&eacute;ation Du Monde % MILHAUD, Darius % 1892
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/2
+=
+4r
+4do\
+4me\
+4do\
+=
+4re\
+4do\
+4me\
+4do\
+=
+4re\
+4do\
+4do\
+4te\
+=
+[1do\
+=
+4do\]
+*-

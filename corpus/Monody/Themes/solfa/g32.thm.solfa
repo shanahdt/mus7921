@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Pavane
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1895
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Romeo and Juliet
+!!!title2: Incidental Music
+!!!statkey: a
+!!DEBUGGING: g32 % . % 1895 % London % G32 % . % x % Pavane % orchestra % Incidental Music % Romeo and Juliet % GERMAN, Sir Edward % 1862
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+2so\
+8fa\L
+8r
+8le\J
+8r
+=
+8so\
+8r
+2do/
+8do\L
+8te\J
+=
+16leq/LL
+16teq/JJ
+4.le\
+8so\
+8fa\L
+8r
+8le\J
+8r
+=
+16soq/LL
+16leq/JJ
+4.so\
+8fa\
+8me\L
+8r
+8so\J
+8r
+=
+4.fa\
+8so\
+8le\L
+8te\
+8do\
+8re\J
+=
+8me\L
+8re\
+8do\
+8ti\J
+*-

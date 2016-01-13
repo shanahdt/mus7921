@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///-1801///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.5 in F for Violin and Piano       
+!!!OPS: Op. 24
+!!!SET: No. 5
+!!!OMV: Mov. 3 (Scherzo)
+!!!OTP: Spring
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+16mi/LL
+16fa/JJ
+=
+4so\
+8.r
+16so\
+4so\
+=
+8la\
+8r
+8so\
+8r
+4r
+=
+8fa\
+8r
+8mi/
+8r
+4r
+=
+8re/
+8r
+8do/
+8r
+8r
+*-

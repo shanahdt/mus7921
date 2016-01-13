@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1901
+!!!instrument: piano
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Jeux D'Eau
+!!!statkey: c#
+!!DEBUGGING: r155 % . % 1901 % Paris % R155 % . % a % . % piano % . % Jeux D'Eau % RAVEL, Maurice % 1875
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M4/4
+=
+16dd#\LL
+16gg#\
+16ddd#\
+16fff#\JJ
+16ddd#\LL
+16gg#\
+32cc#\L
+32gg#\
+32ccc#\
+32eee\JJJ
+=
+16dd#\LL
+16gg#\
+16ddd#\
+16fff#\JJ
+16ddd#\LL
+16gg#\
+32cc#\L
+32gg#\
+32ccc#\
+32eee\JJJ
+=
+*M2/4
+16dd#\LL
+16gg#\
+16ddd#\
+16fff#\JJ
+!! 8va below
+16gg#\LL
+16ddd#\
+16ggg#\
+16bbb\JJ
+!! end 8va
+=
+*-

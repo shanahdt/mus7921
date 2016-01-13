@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!CNT: German
+!!!PDT: 1751///
+!!!OCY: Deutschland
+!!!OTL: Concerto No.3 in A for Cello and String Orchestra
+!!!SET: No. 3
+!!!OMV: Mov. 3
+!!!AIN: cello Cstr
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+4aa\
+12cc#\L
+12b\
+12a\J
+=
+8.ee/L
+16e/Jk
+16eq/LL
+16f#q/JJ
+4e/
+=
+12r
+12f#/L
+12a/J
+12cc#\L
+12ff#\
+12aa\J
+=
+8.gg#/L
+16c#/Jk
+4c#t/
+=
+*-

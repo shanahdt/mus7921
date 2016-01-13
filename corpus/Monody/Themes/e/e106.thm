@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Erkel, Ferenc
+!!!CDT: 1810/11/07/-1893/06/15/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1844
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!theme: C
+!!!title1: Hunyadi L&aacute;szl&oacute;
+!!!title2: Opera
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: e106 % . % 1844 % Budapest % E106 % . % c % Overture % orchestra % Opera % Hunyadi L&aacute;szl&oacute; % ERKEL, Ferenk % 1810
+**kern
+*clefG2
+*k[b-]
+*a:
+*M2/4
+!! ! NB. Key & key signature disagree.
+24gg#\LL
+24aa\
+24bbn\JJ
+=
+8aa\
+24gg#\LL
+24aa\
+24bbn\JJ
+8aa\
+24gg#\LL
+24aa\
+24bb\JJ
+=
+4.aa\
+16gg#\LL
+16gg#\JJ
+=
+16ff\LL
+16ff\
+16ee\
+16ee\
+16dd\
+16dd\
+16ee\
+16ee\JJ
+=
+4.a/
+16b-\LL
+16cc#\JJ
+=
+16dd\LL
+16dd\
+16cc#\
+16cc#\
+16dd\
+16dd\
+16ee\
+16ee\JJ
+=
+8ff\
+*-

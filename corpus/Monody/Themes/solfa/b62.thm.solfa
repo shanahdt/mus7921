@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1735///-1740///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Concerto No. 5 in F minor for Piano and Orchestra
+!!!SET: No. 5
+!!!AIN: forte orchestra
+!!!OMV: Mov. 1
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*M2/4
+*f:
+8do
+[8do
+16do]
+16so
+16me
+16ti
+=
+16do
+16ti
+[8do
+16do]
+16so
+16me
+16ti
+=
+24do
+24ra
+24ti
+[8do
+16do]
+16so
+16me
+16do
+=
+24le
+24fa
+24mi
+8fa
+*-

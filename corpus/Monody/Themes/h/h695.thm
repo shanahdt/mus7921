@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1970/12/31/
+!!!OMV: Mov. 3: "Gypsy" Rondo
+!!!PDT: 1970///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1795
+!!!instrument: violn, piano, cello
+!!!place: England, London & Oesterreich, Vienna(?)
+!!!splace: ?
+!!!theme: D
+!!!title1: Trio No. 1 in G
+!!!title2: 3nd Movement ("Gypsy" Rondo)
+!!!statkey: g
+!!DEBUGGING: h695 % . % -1795 % London, Vienna? % H695 % . % d % 3: "Gypsy" Rondo % violn, piano, cello % . % Trio No. 1 in G % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1970(p) ? (H695) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=
+4gg\
+8ddd\L
+8ddd\J
+=
+16cccq/LL
+16dddq/JJ
+8eee-\L
+8ccc\J
+16bb-q/LL
+16cccq/JJ
+8ddd\L
+8bb-\J
+=
+16ccc\LL
+16eee-\
+16ddd\
+16ccc\JJ
+16bb-\LL
+16aa\
+16gg\
+16ff#\JJ
+=
+16gg\LL
+16dd\
+16een\
+16ff#\JJ
+16gg\
+*-

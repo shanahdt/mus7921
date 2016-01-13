@@ -1,0 +1,73 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. A Cs&aacute;sz&aacute;ri Udvar Bevonul&aacute;sa
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!theme: A
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: E-
+!!DEBUGGING: k86 % 271 % 1927 % Budapest % K86 % 15 % a % A Cs&aacute;sz&aacute;ri Udvar Bevonul&aacute;sa % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K86) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+=
+4do\
+8r
+8so\
+=
+4do\
+8r
+8so\
+=
+16do\LL
+16re\
+16mi\
+16re\JJ
+8do\L
+8so\J
+=
+8soq/
+4la\
+8r
+8so\
+=
+16do\LL
+16re\
+16mi\
+16re\JJ
+8do\L
+8so\J
+=
+8soq/
+8la\L
+8so\J
+8soq/
+4fa/
+=
+8faq/
+8so/L
+8la/
+8so/
+8do/J
+=
+8doq/
+2re/
+=
+*-

@@ -1,0 +1,71 @@
+**solfa
+*clefF4
+*k[]
+*M2/4
+*C:
+4so
+8mi
+=
+8so
+8do
+8mi
+[8fi
+=
+4.]fi
+16re
+16mi
+=
+8fa
+16fa
+16so
+8la
+8re
+=
+4si
+16la
+8.r
+=
+4ti
+16do
+8.r
+=
+8re
+16mi
+16fa
+16mi
+16re
+16do
+16ti
+=
+16la
+16so
+8fa
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1922///-1923
+!!!place: Helvetia, Biarritz
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1545 % 472 % 1922-1923 % Biarritz % S1545 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1924///
+!!!ODT: <1924/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . . 1924(p) R (S1545) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!splace: United States of America, California, Hollywood
+!!!CDT: ///-
+!!DEBUGGING: . 472 1952(rev) Hollywood, CA (S1545) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1952///
+!!!ODT: <1952/12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . 472 1952(p) B (S1545) . . . . . . STRAVINSKY, Igor

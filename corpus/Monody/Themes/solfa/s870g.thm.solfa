@@ -1,0 +1,54 @@
+**solfa
+*clefG2
+*k[b-]
+*M2/4
+!! NB. Key & key signature disagree.
+*B-:
+Q16do
+Q16di
+Q16me
+8mi
+8r
+8mi
+8r
+=
+8so
+8r
+8so
+8r
+=
+[4ti
+16]ti
+16la
+16so
+16fi
+=
+8mi
+8r
+8mi
+8r
+=
+8re
+8r
+8re
+8r
+=
+8do
+8r
+8do
+8r
+=
+4te
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1934
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s870g % . % 1934 % Leningrad % S870g % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri

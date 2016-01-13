@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712/12/31/
+!!!PDT: 1712///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto Grosso in D, Op. 3, No. 9, Orch.
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: v158 % 506 % 1712(p) % Amsterdam % V158 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+16dd\LL
+32ff#\L
+32ee\J
+16ff#\
+16dd\JJ
+16dd\LL
+32ff#\L
+32ee\J
+16ff#\
+16a\JJ
+16a\LL
+16ff#\J
+16ff#\L
+32ee\L
+32dd\JJJ
+=
+16ee\LL
+32gg\L
+32ff#\J
+16gg\
+16ee\JJ
+16ee\LL
+32gg\L
+32ff#\J
+16gg\
+16a\JJ
+16a\LL
+16gg\
+16gg\
+32ff#\L
+32ee\JJJ
+=
+8ff#\
+*-

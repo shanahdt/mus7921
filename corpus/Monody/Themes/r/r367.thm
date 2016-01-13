@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Tarantelle
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!title1: La Boutique Fantasque
+!!!title2: Ballet
+!!!statkey: a
+!!DEBUGGING: r367 % 387 % ? % ? % R367 % . % x % 2: Tarantelle % orchestra % Ballet % La Boutique Fantasque % ROSSINI, Gioachino Antonio % 1792
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+8ddd#\L
+8eee\
+8dddn\J
+=
+8ccc\L
+8bb\
+8aa\J
+8bbq/
+8aa\L
+8gg#\
+8aa\J
+=
+8aa#\L
+8bb\
+8dd\J
+8ff\L
+8ee\
+8dd\J
+=
+8ff\L
+8ee\
+8dd\J
+8ff\L
+8ee\
+8dd\J
+=
+8cc/L
+8b/
+8a/J
+*-

@@ -1,0 +1,35 @@
+**solfa
+*clefG2
+*k[]
+*MX
+*a:
+8do
+8do
+8fi
+8fi
+8la
+[8la
+4]la
+4r
+8so
+8so
+8fi
+8fi
+8me
+8me
+8re
+[8re
+4]re
+*-
+!!!COM: Satie, Erik
+!!!CNT: French
+!!!date: 1890
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s174 % 400 % 1890 % Paris? % S174 % . % . % . % . % . % . % SATIE, Erik

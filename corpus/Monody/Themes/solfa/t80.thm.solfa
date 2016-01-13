@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1930/12/31/
+!!!PDT: 1930///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930(p)
+!!!place: Deutschland, Kassel
+!!!title1: Suite in A Minor, Str. & Pft.
+!!!title2: Rigaudon
+!!!statkey: a
+!!DEBUGGING: t80 % 483 % 1930(p) % Kassel % T80 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+4do\
+=
+4do\
+4ti\
+4ti\
+4do\
+=
+4do\
+4so\
+4so\
+4le\
+=
+2me\
+2re\
+=
+8do\L
+8re\
+8me\
+8re\J
+4do/
+*-

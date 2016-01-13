@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. X: The Great Gate at Kiev
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: X. The Great Gate at Kiev
+!!!statkey: E-
+!!DEBUGGING: m1038 % 343 % 1874 % St. Petersburg % M1038 % .  % x % X: The Great Gate at Kiev % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+1ee-\
+=
+1ff\
+=
+2gg\
+4ee-\
+4gg\
+=
+2ff\
+2b-\
+=
+4gg\
+4bb-\
+4ff\
+4ee-\
+=
+2dd\
+2b-\
+=
+*-

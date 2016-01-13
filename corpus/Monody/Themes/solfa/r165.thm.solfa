@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1902///-1903
+!!!instrument: string
+!!!place: France, Paris
+!!!theme: A: INTRO
+!!!title1: Quartet in F
+!!!title2: 2nd Movement
+!!!statkey: a
+!!DEBUGGING: r165 % . % 1902-1903 % Paris % R165 % . % a: Intro % 2 % string % . % Quartet in F % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+=
+4do/
+8so\
+8r
+8me\L
+8fa\J
+=
+4so\
+4do/
+4te/
+=
+4do/
+8so\
+8r
+8me\L
+8fa\J
+=
+4so\
+4do/
+4te/
+=
+4le/
+8me\
+8r
+8do/L
+8re/J
+=
+4me\
+4le/
+4so/
+=
+4fa/
+8do/
+8r
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 482
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Concerto in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!!DEBUGGING: m488 % . % 1785 % Vienna % M488 % K 482 % a % 3 % piano, orchestra % . % Concerto in E Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M6/8
+8so\
+=
+4do\
+8do\
+4do\
+8do\
+=
+4do\
+32re\LLL
+32do\
+32ti\
+32do\JJJ
+8mi\
+8r
+8so\
+=
+4re\
+8re\
+4re\
+8re\
+=
+4re\
+32mi\LLL
+32re\
+32di\
+32re\JJJ
+8fa\
+8r
+*-

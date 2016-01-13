@@ -1,0 +1,73 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*E:
+4do
+[4re
+=
+4]re
+4so
+=
+8do
+8me
+[4re
+=
+4]re
+4so
+=
+4do
+[4re
+=
+4]re
+4so
+=
+8do
+8me
+8re
+8fa
+=
+8me
+8re
+4do
+=
+*-
+!!!COM: Smetana, Bedrich
+!!!CNT: Czech
+!!!date: 1863///-1866
+!!!place: Czech, Prague
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1111 % 449 % 1863-1866 % Prague % S1111 % . % . % . % . % . % . % SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1866///
+!!!ODT: <1866/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1866(prf) . (S1111) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1869(rev)///
+!!!ODT: <1869/12/31/
+!!!splace: Czech, Prague
+!!!CDT: ///-
+!!DEBUGGING: . 449 1869(rev)(prf) Prague (S1111) . . . . . . SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: . 449 1869-1870(rev) Prague (S1111) . . . . . . SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1870///
+!!!ODT: <1870/12/31/
+!!!splace: Czech, Prague
+!!!CDT: ///-
+!!DEBUGGING: . 449 1870(prf) Prague (S1111) . . . . . . SMETANA, Bedrich

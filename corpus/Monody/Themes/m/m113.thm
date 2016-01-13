@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Malipiero, Gian Francesco
+!!!CDT: 1882/03/18/-1973/08/01/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: string
+!!!place: Italia, Asolo(?)
+!!!theme: A
+!!!title1: Cantari Alla Madrigalesca
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m113 % . % 1931 % Asolo? % M113 % . % a % . % string % . % Cantari Alla Madrigalesca % MALIPIERO, Gian Francesco % 1882
+**kern
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4.G/
+16r
+16a/
+8.B/L
+16c#/Jk
+=
+8.d/L
+16f/Jk
+[4G#/
+16G#/LL]
+16A/
+16B/
+16c#/JJ
+=
+16d/LL
+16f/
+16a/
+16cc#/JJ
+8b\L
+16r
+16ee\Jk
+8.f#/L
+16g#/Jk
+=
+8a/
+8r
+*-

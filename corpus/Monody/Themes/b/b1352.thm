@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Concerto No. 2 in B Flat for Piano and Orhcestra
+!!!OPS: Op. 83
+!!!SET: No. 2
+!!!ODT: 1878///-1881///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Vienna  
+!!!PDT: 1882///
+!!!MRD: 1881///
+!!!MLC: Magyar, Budapest
+!!!OMV: Mov. 4
+!!!thm: A
+!!!AIN: forte orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*E-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8gg\L
+16r
+16gg\Jk
+8ff#\L
+16r
+16ff#\Jk
+=
+8.gg\L
+16ee-\k
+8.cc\
+16b-\Jk
+=
+8a/L
+16r
+16a/Jk
+8b-\L
+16r
+16b-\Jk
+=
+8.dd\L
+16cc\Jk
+16bn\LL
+16cc\
+16ee-\
+16ff\JJ
+=
+*-

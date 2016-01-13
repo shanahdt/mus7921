@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: h370 % . % 1787 % Eszterh&aacute;za % H370 % . % x % 1 % string % . % Quartet in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) ? (H370) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M6/8
+8so/
+=
+8do/L
+8do/J
+32req/
+16do/LL
+32ti/L
+32do/JJJ
+8re/
+8r
+8so/
+=
+8re/L
+8re/J
+32miq/
+16re/LL
+32do/L
+32re/JJJ
+8mi/
+8r
+*-

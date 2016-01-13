@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 593
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quintet in D
+!!!title2: 3rd Movement
+!!!statkey: D
+!!DEBUGGING: m703 % . % 1790 % Vienna % M703 % K 593 % x % 3 % string % . % Quintet in D % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+4so/
+=
+4mi/
+4do/
+4do\
+=
+4la\
+4fa/
+4re\
+=
+8do\L
+8ti\
+8la\
+8so\J
+4so\
+=
+4mi\
+4do\
+*-

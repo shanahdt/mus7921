@@ -1,0 +1,47 @@
+**kern
+*clefG2
+*k[b-]
+*met(C)
+*M4/4
+*F:
+16f
+16a
+16g
+16b-
+16a
+16cc
+16b-
+16dd
+16cc
+16ff
+16ee
+16gg
+16ff
+16aa
+16gg
+16bb-
+=
+16aa
+16ddd
+16ccc
+16bb-
+16aa
+16gg
+16ff
+16ee
+4ff
+4r
+=
+*-
+!!!COM: Scarlatti, Domenico
+!!!CNT: Italian
+!!!date: n.d.
+!!!place: ?
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s235 % . % n.d. % ? % S235 % . % . % . % . % . % . % SCARLATTI, Domenico

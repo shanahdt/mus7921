@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 4
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!title1: Quartet in E Flat
+!!!title2: 4th Movement
+!!!statkey: E-
+!!DEBUGGING: h429 % 234 % 1790 % Vienna % H429 % . % x % 4 % . % . % Quartet in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) ? (H429) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+16mi/LL
+16fa/JJ
+=
+8so\L
+8so\J
+8so/L
+16fa/L
+16so/JJ
+=
+8la\L
+8la\J
+8la\L
+16ti\L
+16do\JJ
+=
+8re\L
+16re\L
+16mi\JJ
+8fa\L
+16mi\L
+16fa\JJ
+=
+16so\LL
+16fa\
+16mi\
+16re\JJ
+8do\
+*-

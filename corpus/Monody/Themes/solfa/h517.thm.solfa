@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!ONM: No. 35
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1780
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!title1: Sonata in C
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: h517 % . % -1780 % Eszterh&aacute;za % H517 % B. & H. No. 35 % x % 2 % piano % . % Sonata in C % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+8.do/L
+16so/Jk
+16faq/
+8mi/L
+16re/L
+16do/JJ
+8ti/L
+8do/
+8re/
+8mi/J
+=
+8.fa/L
+16re/Jk
+16tiq/
+8la\L
+16so\L
+16fa\JJ
+8mi\L
+8fa\
+8so\
+8si\J
+=
+8.la\L
+16ti\Jk
+16req/
+8do\L
+16ti\L
+16la\JJ
+8so\
+*-

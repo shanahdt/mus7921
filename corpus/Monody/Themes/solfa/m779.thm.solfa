@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 311
+!!!PDT: 1782///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: piano
+!!!place: Deutschland, Mannheim
+!!!splace: France, Paris
+!!!title1: Sonata in D
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: m779 % . % 1777 % Mannheim % M779 % K 311 % x % 2 % piano % . % Sonata in D % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(p) Paris (M779) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8mi\L
+8soq/
+16.fa\L
+32mi\JJk
+8re/L
+8mi/J
+=
+8fa\L
+8so\J
+16fa/LL
+16mi/
+16re/
+16do/JJ
+=
+8fa\L
+8mi\
+8la\J
+16r
+16so\
+=
+16fa/LL
+16re/
+16mi/
+16do/JJ
+8mi/L
+8re/J
+=
+*-

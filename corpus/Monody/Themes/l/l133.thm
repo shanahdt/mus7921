@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1857///
+!!!OCL: RSC
+!!!ODT: <1857/12/31/
+!!!OMV: Mov. 2: Gretchen
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1854///-1857
+!!!instrument: orchestra
+!!!place: Deutschland, Weimar
+!!!theme: C
+!!!title1: Faust Symphony
+!!!title2: 2nd Movement (Gretchen)
+!!!statkey: f
+!!DEBUGGING: l133 % 280 % 1854-1857 % Weimar % L133 % . % c % 2: Gretchen % orchestra % . % Faust Symphony % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1857(prf) . (L133) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+8r
+8a-/L
+8a-/
+[8a-/J
+8a-/L]
+8g/J
+=
+[4f/
+8.f/L]
+16e-/Jk
+16dn/LL
+16e-/
+16f/
+[16e-/JJ
+=
+8e-/]
+*-

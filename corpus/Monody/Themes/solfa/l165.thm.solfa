@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Deutschland, Mainz
+!!!title1: Hungarian Rhapsody No. 8 in F Sharp Minor
+!!!statkey: F#
+!!DEBUGGING: l165 % 282 % 1853(p) % Mainz % L165 % . % x % . % piano % . % Hungarian Rhapsody No. 8 in F Sharp Minor % LISZT, Franz % 1811
+**solfa
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M2/4
+=
+8.mi/L
+16fa/Jk
+8la\
+24so\LL
+24la\
+24so\JJ
+=
+8fi\
+24so\LL
+24la\
+24so\JJ
+4mi/
+=
+8.re/L
+16mi/Jk
+8so\
+24fa\LL
+24so\
+24fa\JJ
+=
+8mi/
+24fa\LL
+24so\
+24fa\JJ
+4re/
+=
+*-

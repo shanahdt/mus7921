@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OTA, OPS, ONM, OMV, thm
+!!!COM: Clementi, Muzio
+!!!CDT: 1752/01/23/-1832/03/10/
+!!!CNT: English
+!!!OTL: Sonata in G Minor for Piano
+!!!OTA: Didone Abbandonata
+!!!OPS: Op. 50
+!!!ONM: No. 3
+!!!OMV: Mov. 1
+!!!thm: Introduction
+!!!AIN: forte 
+!!!ODT: 1821///
+!!!PDT: 1821///             
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+8..b-/L
+32a/Jkk
+8..a/L
+32g/Jkk
+8..g/L
+32d/Jkk
+=
+*^
+2.d\	4r
+.	12r
+.	12cc/L
+.	12cc/J
+.	8ddq/
+.	12cc/L
+.	12b-/
+.	12a/J
+*v	*v
+=
+8..b-/L
+32a/Jkk
+8..a/L
+32b-/Jkk
+8ddq/
+12cc\L
+12b-\
+12a\J
+=
+*-

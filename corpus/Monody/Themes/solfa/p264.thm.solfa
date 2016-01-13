@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Romeo and Juliet
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 1
+!!!statkey: C
+!!DEBUGGING: p264 % . % 1936 % Moscow % P264 % 64 % x % 6: Romeo and Juliet % orchestra % Suite No. 1 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**solfa
+*clefF4
+*k[]
+*C:
+*M4/4
+4fi\
+4fa\
+=
+4mi\
+4so\
+*clefG2
+4do/
+4do\
+=
+4di\
+4mi\
+4re\
+4so/
+=
+4do\
+4ra\
+4do\
+4me\
+=
+2me/
+*-

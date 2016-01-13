@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 3: Allemande
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 8 in F Minor
+!!!title2: 3rd Movement (Allemande)
+!!!statkey: f
+!!DEBUGGING: h228 % 224 % 1720(p) % London? % H228 % . % x % 3: Allemande % piano % . % Suite No. 8 in F Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M4/4
+8cc\
+=
+16a-/LL
+16cc/
+16f/
+16a-/JJ
+16g/LL
+16b-/
+16en/
+16g/JJ
+4f/
+8r
+8cc\
+=
+16a-/LL
+16cc/
+16en/
+16g/JJ
+16f\LL
+16ff\
+16b-\
+16gg\JJ
+4een\
+*-

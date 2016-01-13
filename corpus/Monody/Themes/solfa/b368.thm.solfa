@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OPR, OTL
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1738///-1742
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OPR: Well-tempered Clavichord, Book II
+!!!OTL: Prelude No.10
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/8
+=
+16r
+16me/LL
+16fa/
+16so/
+16le/
+16fa/JJ
+=
+!!   B&M  Encoding error:  adding bar line
+16so/LL
+16me/
+16re/
+16do/
+16ti/
+16fa/JJ
+=
+32me/LLL
+32re/J
+16do/J
+8do/J
+8r
+=
+32ti\LLL
+32la\J
+16so\J
+8fa\J
+8r
+=
+*-

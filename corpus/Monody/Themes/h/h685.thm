@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: D
+!!!title1: Symphony in C
+!!!title2: "Toy Symphony"
+!!!statkey: C
+!!DEBUGGING: h685 % 247 % ? % ? % H685 % . % d % 1 % orchestra % "Toy Symphony" % Symphony in C % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4cc\
+8r
+8ee\
+4cc\
+8r
+8g/
+=
+8a/L
+8g/
+8a/
+8b/J
+4cc\
+4r
+=
+4cc\
+8r
+8ee\
+4cc\
+8r
+8g/
+=
+8a/L
+8g/
+8a/
+8b/J
+4cc\
+*-

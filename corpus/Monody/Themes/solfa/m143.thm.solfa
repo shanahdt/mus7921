@@ -1,0 +1,69 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1885///
+!!!OCL: RSC
+!!!ODT: <1885/12/31/
+!!!OMV: Mov. 4: Aubade
+!!!PDT: 1885///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1885(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Le Cid
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: m143 % . % 1885(prf) % Paris % M143 % . % x % 4: Aubade % orchestra % Opera % Le Cid % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1885(p) . (M143) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8so\
+8r
+8so\
+8r
+=
+8so\
+24so\LL
+24la\
+24so\J
+8fa\
+8la\J
+=
+8so\L
+8la\
+8ti\
+8do\J
+=
+8ti\L
+8la\
+8so\
+8fa\J
+=
+8so\
+8r
+8so\
+8r
+=
+8so\
+24so\LL
+24la\
+24so\J
+8fa\
+8la\J
+=
+8so\L
+8fa\
+8mi\
+8re\J
+=
+8do/
+*-

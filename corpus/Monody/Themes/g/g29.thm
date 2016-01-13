@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Morris Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Henry VIII
+!!!title2: Incidental Music
+!!!statkey: C
+!!DEBUGGING: g29 % . % 1892 % London % G29 % . % b % Morris Dance % orchestra % Incidental Music % Henry VIII % GERMAN, Sir Edward % 1862
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4gg\
+8ee\L
+8ee\J
+=
+16dd\LL
+16ee\
+16dd\
+16ee\JJ
+16dd\LL
+16ff\
+16ee\
+16dd\JJ
+=
+4gg\
+8aa\L
+8aa\J
+=
+8cccq/
+16bb\LL
+16aa\J
+8bb\J
+4bb\
+=
+4ccc\
+16bbq/LL
+16cccq/JJ
+16bb\LL
+16aa\
+16bb\
+16ccc\JJ
+=
+8ddd\L
+8ddd\J
+*-

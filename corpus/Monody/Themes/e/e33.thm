@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Elgar, Edward
+!!!CDT: 1857/06/02/-1934/02/23/
+!!!CNT: English
+!!!OTL: Introduction and Allegro for String Quartet and String Orchestra
+!!!OPS: Op. 47
+!!!thm: A            
+!!!AIN: cello Cstr viola 2 violn
+!!!OCY: England, UK
+!!!OPC: London
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8a/L
+16d/L
+16a/JJ
+4b-\
+4dd\
+8ee-\L
+16cc\L
+16ee-\JJ
+=
+8gg\L
+16ee-\L
+16gg\JJ
+4aa\
+4ccc\
+8bb-\L
+16gg\L
+16bb-\JJ
+=
+4aa\
+*-

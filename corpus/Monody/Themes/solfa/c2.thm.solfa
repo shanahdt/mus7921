@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Cabanilles, Juan Bautista Jos&eacute;
+!!!CDT: 1644/09/06/-1712/04/29/
+!!!CNT: Spanish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: N/A
+!!!instrument: organ
+!!!place: ?
+!!!title1: Tiento De Falsas
+!!!title2: Del 4 Tomo
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c2 % . % N/A % N/A % C2 % . % x % . % organ % Del 4 Tomo % Tiento De Falsas % CABANILLES, Juan % 1644
+**solfa
+*clefG2
+*k[]
+*E:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+1so\
+=
+2le\
+2mi/
+=
+2fa/
+2so\
+=
+[1le\
+=
+2le\]
+2so\
+=
+2fa/
+2te\
+=
+2te\
+2le\
+=
+2.so\
+*-

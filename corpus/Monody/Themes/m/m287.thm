@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1830/12/31/
+!!!ONM: No. 3
+!!!OPS: Opus 19
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1829
+!!!instrument: piano
+!!!place: England, London
+!!!title1: Songs Without Words
+!!!title2: No. 3: Hunting Song
+!!!statkey: f#
+!!DEBUGGING: m287 % . % 1829 % London % M287 % 19 No. 3 % x % . % piano % No. 3: Hunting Song % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) . (M287) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+8.r
+16a/LK
+8a/J
+=
+8a\L
+8b\
+8cc#\J
+4cc#\
+8cc#\
+=
+8cc#\L
+8dd\
+8ee\J
+8.ee\L
+16ff#\k
+8ff#\J
+=
+8.aa\L
+16aa\k
+8aa\J
+8aa\L
+8gg#\
+8ff#\J
+=
+4.ff#\
+8ee\
+*-

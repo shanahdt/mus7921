@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Harris, Roy
+!!!CDT: 1898/02/12/-1979/10/01/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1939///
+!!!OCL: RSC
+!!!ODT: <1939/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1937
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, Massachusetts, Boston
+!!!theme: C
+!!!title1: Symphony No. 3
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h288 % . % 1937 % New York % H288 % . % c % . % orchestra % . % Symphony No. 3 % HARRIS, Roy % 1898
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1939(prf) Boston (H288) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*D:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.                                            
+4do\
+4so/
+4me\
+4so\
+=
+4le\
+4so\
+4do\
+4te\
+=||
+*M3/4
+4me\
+4so\
+4se\
+=
+4le\
+4fe\
+[4ra\
+=
+*M2/2
+4ra\]
+*-

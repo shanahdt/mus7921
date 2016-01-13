@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus K 387
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in G
+!!!title2: 4th Movement
+!!!statkey: G
+!!DEBUGGING: m640 % . % 1782 % Vienna % M640 % K 387 % x % 4 % string % . % Quartet in G % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M640) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+1do/
+=
+1mi\
+=
+1la\
+=
+1fi\
+=
+2so\
+4r
+[4so\
+=
+4so\]
+4fa\
+*-

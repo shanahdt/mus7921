@@ -1,0 +1,52 @@
+**solfa
+*clefG2
+*k[]
+*M6/4
+!! NB. Key & key signature disagree.
+*G:
+8.me
+8.re
+8.me
+8.do
+8.r
+8.r
+8.me
+8.do
+=
+8.so
+8.do
+8.fa
+8.do
+8.me
+8.do
+4.te
+=
+[2.te
+4]te
+8do
+[4.te
+=
+4]te
+8do
+4.te
+2.le
+=
+*-
+!!!COM: Schuman, William
+!!!CNT: American
+!!!date: 1943
+!!!place: United States of America, New York
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s571 % . % 1943 % New York % S571 % . % . % . % . % . % . % SCHUMAN, William
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1943///
+!!!ODT: <1943/12/31/
+!!!splace: United States of America, Massachusetts, Boston
+!!!CDT: ///-
+!!DEBUGGING: . . 1943(prf) Boston (S571) . . . . . . .

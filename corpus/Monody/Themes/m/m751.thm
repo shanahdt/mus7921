@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 388
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782 or 1783
+!!!instrument: woodwind
+!!!place: Oesterreich, Vienna
+!!!title1: Serenade in C Minor
+!!!title2: 2nd Movement
+!!!statkey: E-
+!!DEBUGGING: m751 % . % 1782 or 1783 % Vienna % M751 % K 388 % x % 2 % woodwind % . % Serenade in C Minor % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/8
+=
+8.b-\L
+16cc\k
+8b-\J
+=
+8cc\L
+8cc\
+8cc\J
+=
+8b-\L
+8gg\
+[8ff\J
+=
+8ff\L]
+8ee-\
+[8dd\J
+=
+8dd\L]
+8cc\
+[8b-\J
+=
+8b-/L]
+8a-/
+8g/J
+=
+16g/LL
+16f/J
+8f/J
+*-

@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Mazurka No. 9
+!!!OPS: Op. 7
+!!!ONM: No. 5
+!!!AIN: forte           
+!!!ODT: 1831///
+!!!OCY: Polska               
+!!!OPC: Warsaw
+!!!PDT: 1832///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+12dd\L
+12ee\
+12dd\J
+4g/
+8.cc\L
+16ee\Jk
+=
+12dd\L
+12ee\
+12dd\J
+4g/
+8.cc\L
+16ee\Jk
+=
+4aa\
+8.gg\L
+16ee\Jk
+8.ff\L
+16dd\Jk
+=
+8.cc\L
+16ee\Jk
+8.gg\L
+16bb\Jk
+8.ddd\L
+16ccc\Jk
+=
+*-

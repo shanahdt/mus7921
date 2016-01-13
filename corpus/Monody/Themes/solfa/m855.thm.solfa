@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 526
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Sonata in A
+!!!title2: 1st Movement
+!!!statkey: A
+!!DEBUGGING: m855 % . % 1787 % Vienna % M855 % K 526 % a % 1 % violn, piano % . % Sonata in A % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) . (M855) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+8so\
+=
+8fa\L
+8mi\
+8re\J
+8do\L
+8fa\
+8mi\J
+=
+8la\L
+8so\
+8do\J
+8ti\L
+8mi\
+8re\J
+=
+8fa\L
+8mi\
+8re\J
+8do\L
+8ti\
+8la\J
+=
+4so\
+8fa\
+8mi\
+*-

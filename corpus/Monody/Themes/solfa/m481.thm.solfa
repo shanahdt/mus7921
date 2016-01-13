@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 467
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Concerto in C
+!!!title2: 1st Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m481 % . % 1785 % Vienna % M481 % K 467 % b % 1 % piano, orchestra % . % Concerto in C % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+8mi\
+8re\
+8do\J
+8so\L
+8mi\
+8re\
+8do\J
+=
+8la\L
+8fa\
+8mi\
+8re\J
+2re\
+=
+8fa\L
+8re\
+8do\
+8ti\J
+8fa\L
+8re\
+8do\
+8ti\J
+=
+8so\L
+8mi\
+8re\
+8do\J
+2do\
+=
+*-

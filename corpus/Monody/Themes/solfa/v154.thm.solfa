@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1711/12/31/
+!!!PDT: 1711///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1711(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto Grosso in A Minor, Op. 3, No. 8, 2 Vns. & Orch.
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: v154 % 505 % 1711(p) % Amsterdam % V154 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+4do\
+4ti\
+16do\LL
+16te\
+16le\
+16so\JJ
+16fa\LL
+16me\
+16re\
+16do\JJ
+=
+8so/L
+8so/J
+8so/L
+16la/L
+16ti/JJ
+8do/L
+16do/L
+16re/JJ
+8me\L
+16me\L
+16fa\JJ
+=
+8so\L
+8so\J
+8so\L
+16la\L
+16ti\JJ
+8do\L
+16do\L
+16re\JJ
+8me\L
+16me\L
+16fa\JJ
+=
+8so\L
+8so\J
+*-

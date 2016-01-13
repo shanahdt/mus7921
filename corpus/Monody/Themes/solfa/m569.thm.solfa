@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus K 247
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1776
+!!!instrument: 2 viln, 2 viola, 2 cor
+!!!place: Oesterreich, Salzburg
+!!!title1: Divertimento in F
+!!!title2: 4th Movement
+!!!statkey: B-
+!!DEBUGGING: m569 % . % 1776 % Salzburg % M569 % K 247 % x % 4 % 2 viln, 2 viola, 2 cor % . % Divertimento in F % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/2
+=
+4do\
+4ti/
+12r
+12fa\L
+12mi\J
+12fa\L
+12re\
+12ti\J
+=
+4do\
+4ti/
+12r
+12fa\L
+12mi\J
+16soq/
+12fa\L
+12re\
+12ti\J
+=
+12re\L
+12do\
+12do\J
+8do\
+*-

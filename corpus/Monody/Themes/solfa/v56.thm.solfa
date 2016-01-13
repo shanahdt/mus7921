@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!place: England, London
+!!!title1: The Wasps (Aristophanes), Orch.
+!!!title2: 5th Movement (Ballet & Final Tableau)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v56 % 500 % 1909 % London % V56 % . % . % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**solfa
+*clefG2
+*k[]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8do/L
+8mi/J
+4.so/
+8ti/
+=
+8do/L
+8re/
+8mi/
+8fa/J
+8so/L
+8mi/J
+=
+8.fa/L
+16mi/Jk
+16fa/LL
+16so/
+16la/
+16ti/JJ
+8do\L
+8la\J
+=
+8fa/L
+8mi/
+8fa/
+8la/
+8so/
+8mi/J
+=
+*-

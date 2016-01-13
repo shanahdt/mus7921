@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A: BARMAN THEME
+!!!title1: Le Boeuf Sur le Toit
+!!!title2: Ballet based on South American Tunes
+!!!statkey: C
+!!DEBUGGING: m373 % 309 % 1918 % Paris % M373 % . % a: Barman Theme % . % orchestra % Ballet based on South American Tunes % Le Boeuf Sur le Toit % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+8.r
+16gg\
+8bb\L
+8ddd\J
+=
+8ccc\L
+[8gg\J
+16gg\LK]
+8ccc\
+16aa\Jk
+=
+8.bb\L
+[16bb\Jk
+16bb\LK]
+8gg\
+16gg\Jk
+=
+16aa\LK
+8cc\
+16dd\Jk
+16ee\LK
+8ff\
+16ff#\Jk
+=
+8.gg\L
+16gg\Jk
+*-

@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OPR, OTL, ONM, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Images                  
+!!!OTL: Iberia
+!!!ONM: No. 2
+!!!OMV: Mov. 1 (Par Les Rues et Par Les Chemins)
+!!!thm: B           
+!!!AIN: orchestra 
+!!!ODT: 1905///-1908///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#]
+*B:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+8.F#\L
+8.G\J
+=
+8A\L
+8B\
+24B\L
+24A\
+24G\JJ
+=
+8.F#\L
+8.G\J
+=
+8A\L
+8B\
+24B\L
+24A\
+24G\JJ
+=
+8F#\
+8r
+8r
+=
+*-

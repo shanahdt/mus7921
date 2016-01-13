@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!OPS: Opus 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: AA
+!!!title1: Caprice Viennois
+!!!statkey: b
+!!DEBUGGING: k96 % . % n.d.(c) % ? % K96 % 2 % aa % . % violn, piano % . % Caprice Viennois % KREISLER, Fritz % 1875
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+16so\LL
+16so\JJ
+=
+12do\L
+12so\
+12do\J
+[4so\
+12so\]
+12r
+16soq/LL
+16leq/JJ
+12so\
+12fi\L
+12fa\
+12mi\J
+=
+4me\
+4re\
+*-

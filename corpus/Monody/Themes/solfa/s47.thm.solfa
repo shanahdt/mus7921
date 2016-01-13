@@ -1,0 +1,64 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M3/4
+*g:
+4r
+8do
+8me
+8do
+8re
+=
+4me
+8re
+8me
+8do
+8me
+=
+8re
+8do
+8do
+8me
+8do
+8re
+=
+4me
+8re
+8me
+8do
+8me
+=
+8ra
+8r
+8ra
+8fa
+8ra
+8me
+=
+4fa
+8me
+8fa
+8ra
+8fa
+=
+8me
+8ra
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1874
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s47 % . % 1874 % Paris? % S47 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1875///
+!!!ODT: <1875/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1875(p) Paris (S47) . . . . . . .

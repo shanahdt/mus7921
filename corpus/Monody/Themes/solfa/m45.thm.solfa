@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!OPS: Opus 51
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: United States of America, New York
+!!!title1: Woodland Sketches
+!!!title2: No. 8: A Deserted Farm
+!!!statkey: f#
+!!DEBUGGING: m45 % 292 % 1896 % Wiesbaden % M45 % 51 % x % . % piano % No. 8: A Deserted Farm % Woodland Sketches % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1896(p) New York (M45) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*f#:
+*M4/4
+=
+4so/
+2do/
+4me/
+=
+16req/LL
+16meq/JJ
+4re/
+4do/
+2re/
+=
+4me/
+[4do/
+6do/]
+6te/
+6do/
+=
+16te/LK
+[8.so/J
+2so/]
+*-

@@ -1,0 +1,75 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1934///
+!!!OCL: RSC
+!!!ODT: <1934/12/31/
+!!!OMV: Mov. 2: Romance
+!!!OPS: Opus 60
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Lieutenant Kije
+!!!title2: 2nd Movement (Romance)
+!!!statkey: g
+!!DEBUGGING: p229 % 360 % 1934 % Paris % P229 % 60 % b % 2: Romance % orchestra % . % Lieutenant Kije % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1934(prf) . (P229) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8so\L
+8me\J
+8.so\L
+16so\Jk
+8so\L
+8do\J
+8.so\L
+16so\Jk
+=
+16so\LL
+16le\
+16so\
+16ti\JJ
+16so\LL
+16le\
+16so\
+16ti\JJ
+4so\
+8me\
+8r
+=
+8so\L
+8me\J
+8.so\L
+16so\Jk
+8so\L
+8do\J
+8.so\L
+16so\Jk
+=
+16so\LL
+32le\L
+32le\J
+16so\
+16ti\JJ
+32so\LLL
+32so\J
+16le\
+32so\L
+32so\J
+16le\JJ
+4so\
+8so\
+8r
+=
+*-

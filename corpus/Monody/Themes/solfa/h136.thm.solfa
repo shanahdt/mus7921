@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1744///
+!!!OCL: RSC
+!!!ODT: <1744/12/31/
+!!!OMV: Mov. March from Joseph
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1744(prf)
+!!!place: England, London
+!!!title1: Oratorios
+!!!title2: March from Joseph
+!!!statkey: D
+!!DEBUGGING: h136 % . % 1744(prf) % London % H136 % . % x % March from Joseph % . % . % Oratorios % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+8.do\L
+16re\k
+8.mi\
+16fa\Jk
+4so\
+8.r
+16so\
+=
+8.mi\L
+16mi\k
+8.do\
+16do\Jk
+8.so\L
+16fa\k
+8.so\
+16fa\Jk
+=
+8.mi\L
+16mi\k
+8.do\
+16do\Jk
+4..te\
+16te\
+=
+8.la\
+*-

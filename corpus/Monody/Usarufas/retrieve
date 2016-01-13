@@ -1,0 +1,17 @@
+mdir a: > /tmp/123
+awk 'BEGIN {TRUE = 1; end = FALSE = 0
+	}
+	{
+	if ($0 ~ /.*files.*bytes/) end = TRUE
+	if (NR > 3 && end != TRUE)
+		{
+		line = $0
+		gsub("         .*","",line)
+		gsub("^","mcopy a:",line)
+		gsub("$"," .",line)
+		print line
+		}
+	}' /tmp/123 > doit
+chmod +x doit
+doit
+rm doit /tmp/123

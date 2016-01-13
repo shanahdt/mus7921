@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Les Tricotets
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!statkey: G
+!!DEBUGGING: r120 % 374 % 1724(p) % Paris % R120 % . % x % Les Tricotets % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R120) . . . . . . . .
+**kern
+*clefF4
+*k[f#]
+*G:
+*M3/4
+=
+8g\L
+8d\
+8B\
+8B\
+8BB\
+8B\J
+=
+8c\L
+8e\
+8A\
+8A\
+8BB\
+8A\J
+=
+8B\L
+8d\
+8G\
+8G\
+8D\
+8G\J
+=
+8A\L
+8c\
+8G\
+8G\
+8E\
+8G\J
+=
+8e\L
+8d\
+8c\
+8B\
+8AT\
+8G\J
+=
+8B\L
+8A\
+8G\
+8F#\J
+4G\
+=
+*-

@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Paderewski, Ignace Jan
+!!!CDT: 1860/11/18/-1941/06/29/
+!!!CNT: Polish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1887/12/31/
+!!!ONM: No. 6
+!!!OPS: Opus 14
+!!!PDT: 1887///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887(p)
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!theme: A
+!!!title1: Cracovienne Fantastique
+!!!statkey: B
+!!DEBUGGING: p13 % 348 % 1887(p) % Berlin % P13 % 14 No. 6 % a % . % piano % . % Cracovienne Fantastique % PADEREWSKI, Ignace Jan % 1860
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M2/4
+=
+16a#\LL
+16b\J
+8cc#\J
+8cc#\L
+8cc#\J
+=
+8dd#\L
+8ff#\J
+8ff#\L
+16ee\L
+16dd#\JJ
+=
+8cc#\L
+16a#\L
+16b\JJ
+8cc#\L
+8cc#\J
+=
+8dd#\L
+8ff#\J
+8ff#\
+*-

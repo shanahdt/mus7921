@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Waltz
+!!!OPS: Opus 65
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Music for Children
+!!!title2: Waltz
+!!!statkey: A
+!!DEBUGGING: p238 % . % 1935 % Paris % P238 % 65 % x % Waltz % piano % . % Music for Children % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+8e/L
+8f#/
+8g#/J
+=
+4.g#/
+8a\L
+8b\
+8cc#\J
+=
+4.cc#\
+8dd\L
+8ee\
+8ff#\J
+=
+8gg#\L
+8bb\J
+8ggn\
+8r
+8ff#\L
+8aa\J
+=
+4.ee\
+*-

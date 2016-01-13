@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1680
+!!!instrument: string
+!!!place: England, London
+!!!title1: Three-Part Fantasia No. 3
+!!!statkey: g
+!!DEBUGGING: p335 % . % c1680 % London % P335 % . % x % . % string % . % Three-Part Fantasia No. 3 % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+1do/
+=
+2so/
+[2me\
+=
+4me\]
+8re/L
+8do/J
+4ti/
+4do/
+=
+4re/
+4me\
+4fa\
+4re/
+=
+2.me\
+8re/L
+8do/J
+=
+2fa\
+4so\
+4le\
+=
+2.re/
+*-

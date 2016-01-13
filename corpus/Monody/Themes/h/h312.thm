@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1951/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1951///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1796
+!!!instrument: tromp, orchestra
+!!!place: Oesterreich, Vienna
+!!!splace: England, London
+!!!title1: Concerto in E Flat
+!!!title2: 2nd Movement
+!!!statkey: A-
+!!DEBUGGING: h312 % . % 1796 % Vienna % H312 % . % x % 2 % tromp, orchestra % . % Concerto in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1951(p) London (H312) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M6/8
+=
+8.a-/L
+16b-/k
+8cc/J
+8b-\L
+8dd-\
+8g\J
+=
+4a-/
+8cc\
+8ee-\
+8r
+[8ee-\
+=
+8ee-\L]
+8dd-\
+[8cc\J
+8cc\L]
+8b-\
+[8a-\J
+=
+8a-/L]
+16g/L
+16b-/
+16a-/
+16f/JJ
+8.e-/
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!ONM: No. 23
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!title1: Sonata in F
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: h508 % . % 1773 % Eszterh&aacute;za % H508 % B. & H. No. 23 % x % 1 % piano % . % Sonata in F % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+16.cc/LL
+!!   Encoding error:   change 6 to 16                                             
+32a/JJk
+=
+8f/L
+16.a/L
+32f/JJk
+8e/L
+16.g/L
+32e/JJk
+=
+8f/L
+8dd/J
+8cc\L
+32ggq/
+16ff\L
+32ee\L
+32dd\JJJ
+=
+8cc\L
+24aa\L
+24a\
+24dd\JJ
+8ccq/
+4b-T\
+=
+4b-\
+8a/
+*-

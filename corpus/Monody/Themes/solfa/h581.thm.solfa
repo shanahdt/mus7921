@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!ONM: No. 91
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!title1: Symphony in E Flat
+!!!title2: 4th Movement
+!!!statkey: E-
+!!DEBUGGING: h581 % . % 1788 % Eszterh&aacute;za % H581 % B. & H. No. 91 % x % 4 % orchestra % . % Symphony in E Flat % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/2
+=
+2so\
+4mi\
+4do\
+=
+4ti\
+4la\
+4so\
+4r
+=
+8laq/
+4fa\
+4r
+8faq/
+4re\
+4r
+=
+8do\L
+8ti\
+8la\
+8so\J
+8fi\L
+8so\
+8la\
+8so\J
+=
+*-

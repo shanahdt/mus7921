@@ -1,0 +1,62 @@
+**kern
+*clefF4
+*k[b-e-a-]
+*M3/8
+*E-:
+8BB-
+8E-
+8E-
+=
+8E-
+16F
+16E-
+16D
+16E-
+=
+8BB-
+8F
+8F
+=
+4F
+8A-
+=
+16G
+16A-
+8B-
+8G
+=
+16E-
+16F
+8G
+8E-
+=
+16C
+16D
+8E-
+8F
+=
+16F
+16E-
+16D
+16C
+8BB-
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1886
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s10 % . % 1886 % Paris? % S10 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1922///
+!!!ODT: <1922/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1922(p) Paris (S10) . . . . . . .

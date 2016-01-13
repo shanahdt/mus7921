@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1936///
+!!!OCL: RSC
+!!!ODT: <1936/12/31/
+!!!OPS: Opus 67
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936(prf)
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: G: MARCH OF THE HUNTERS
+!!!title1: Peter and the Wolf
+!!!statkey: C
+!!DEBUGGING: p247 % 361 % 1936(prf) % Moscow % P247 % 67 % g: March of the Hunters % . % orchestra % . % Peter and the Wolf % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936 . (P247) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+4c/
+=
+8d-/L
+8r
+8e-/
+8r
+8en/J
+8r
+4c/
+=
+8d-/L
+8r
+8e-/
+8r
+8en/J
+8r
+4c/
+=
+8d-/L
+8e/
+8f/
+8a-/J
+4cc\
+8b\L
+8cc\J
+=
+8dd-\L
+8r
+8ff\J
+8r
+2ee\
+=
+*-

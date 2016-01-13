@@ -1,0 +1,12 @@
+awk -f averint lu01.sem > 1
+awk -f averint lu07.sem >> 1
+awk -f averint lu10.sem >> 1
+awk -f averint lu11.sem >> 1
+awk -f averint lu42.sem >> 1
+awk -f averint lu48.sem >> 1
+awk -f averint lu52.sem >> 1
+awk -f averint lu53.sem >> 1
+awk -f averint lu59.sem >> 1
+awk -f averint lu68.sem >> 1
+awk -f averint lu71.sem >> 1
+awk -f averint lu72.sem >> 1

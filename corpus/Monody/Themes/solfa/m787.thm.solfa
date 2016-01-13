@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1784/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 331
+!!!PDT: 1784///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781///-1783
+!!!instrument: piano
+!!!place: Deutschland, Muenchen or Oesterreich, Vienna
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Sonata in A
+!!!title2: 3rd Movement
+!!!statkey: a
+!!DEBUGGING: m787 % . % 1781-1783 % Munich or Vienna % M787 % K 331 % a % 3 % piano % . % Sonata in A % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1784(p) Vienna (M787) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M2/4
+16re/LL
+16do/
+16ti/
+16do/JJ
+=
+8me\
+8r
+16fa\LL
+16me\
+16re\
+16me\JJ
+=
+8so\
+8r
+16le\LL
+16so\
+16fi\
+16so\JJ
+=
+16re\LL
+16do\
+16ti\
+16do\JJ
+16re\LL
+16do\
+16ti\
+16do\JJ
+=
+4me\
+*-

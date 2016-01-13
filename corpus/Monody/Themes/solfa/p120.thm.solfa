@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Intro
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938
+!!!instrument: orchestra
+!!!place: United States of America, Massachusetts
+!!!theme: F
+!!!title1: The Icredible Flutist
+!!!title2: Suite from the Ballet
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p120 % 354 % 1938 % Massachusetts % P120 % . % f % Intro % orchestra % Suite from the Ballet % The Icredible Flutist % PISTON, Walter % 1894
+**solfa
+*clefG2
+*k[]
+*F:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8so\L
+8so\
+8so\J
+=
+4fa\
+16req/LL
+16riq/
+16miq/JJ
+4fa\
+16req/LL
+16riq/
+16miq/JJ
+=
+8.fa\L
+16mi\k
+8re\
+8fa\J
+=
+4mi\
+16miq/LL
+16faq/
+16fiq/JJ
+4so\
+=
+8mi\L
+16so\L
+16so\JJ
+8so\L
+8so\J
+=
+*-

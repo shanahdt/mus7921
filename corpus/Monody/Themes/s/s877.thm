@@ -1,0 +1,48 @@
+**kern
+*clefG2
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*E:
+4b
+8.b
+16b
+4ee
+8.dd#
+16ee
+=
+4cc#
+8.cc#
+16cc#
+[2gg
+=
+4]gg
+8.gg
+16gg
+4.ff
+8cc
+=
+4ff
+8.ee
+16ee
+2dd#
+=
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1924///-1925
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s877 % 437 % 1924-1925 % Leningrad % S877 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1926///
+!!!ODT: <1926/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1926(prf) . (S877) . . . . . . .

@@ -1,0 +1,73 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1882///
+!!!OCL: RSC
+!!!ODT: <1882/12/31/
+!!!OMV: Mov. F&ecirc;te Foraine
+!!!PDT: 1882///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1882(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Namouna
+!!!title2: Ballet Suite
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l22 % . % 1882(prf) % Paris % L22 % . % a % F&ecirc;te Foraine % orchestra % Ballet Suite % Namouna % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881-1882 . (L22) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1882(p) Paris (L22) . a F&ecirc;te Foraine orchestra Ballet Suite Namouna LALO, Edouard 1823
+**kern
+*clefF4
+*k[b-e-a-]
+*A-:
+*M6/8
+*>[A,A,B]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+8G#\L
+8D#\
+8G#\J
+8D#\L
+8D#\
+8D#\J
+=
+8G#\L
+8D#\
+8G#\J
+8Bn\L
+8B\
+8B\J
+=3:|!
+*>B
+8G#\L
+8D#\
+8G#\J
+8D#\L
+8A#\
+8D#\J
+=
+8Bn\L
+8G#\
+8B\J
+8G#\L
+8c#\
+8G#\J
+=
+8c##\L
+8G#\
+8c##\J
+8G#\L
+8d#\
+8G#\J
+=
+*-

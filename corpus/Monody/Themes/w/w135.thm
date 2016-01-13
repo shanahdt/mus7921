@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Waldteufel, Emile
+!!!CDT: 1837/12/09/-1915/02/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1878/12/31/
+!!!PDT: 1878///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1878(p)
+!!!place: France, Paris & England, London
+!!!title1: Sirenenzauber (Sirens), Waltzes, Op. 154, Orch.
+!!!title2: No. 1
+!!!statkey: d
+!!DEBUGGING: w135 % 514 % 1878(p) % Paris/London % W135 % . % . % . % . % . % . % WALDTEUFEL, Emile
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+8bn\L
+8cc\
+8b\
+8cc\J
+=
+8dd\L
+8a\
+8dd\
+8a\J
+[4dd\
+=
+4dd\]
+8bn\L
+8cc\
+8b\
+8cc\J
+=
+8dd\L
+8b-\
+8dd\
+8b-\J
+[4dd\
+=
+4dd\]
+8bn\L
+8cc\
+8dd\
+8cc\J
+=
+8b-\L
+8cc\
+8ee\
+8gg\J
+4bb-\
+=
+*-

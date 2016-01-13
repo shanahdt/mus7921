@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 3
+!!!OPS: Opus 5
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1852
+!!!instrument: piano
+!!!place: Royssia
+!!!theme: B
+!!!title1: Cracovienne
+!!!statkey: E-
+!!DEBUGGING: r433 % . % 1852 % Russia % R433 % 5 No. 3 % b % . % piano % . % Cracovienne % RUBINSTEIN, Anton % 1829
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+=
+8b-\L
+8bn\
+8cc\
+8dd\J
+=
+8ff\
+4ee-\
+8ee-T\
+=
+8dd\L
+8ee-\J
+8.ccc\L
+16bb-\Jk
+=
+8bb-\
+4gg\
+8ee-\
+=
+8dd\L
+8ee-\
+8g\
+8an\J
+=
+8cc\
+4b-\
+8b-\
+=
+8gg\L
+8aa-\
+8cc\
+8dd\J
+=
+8ff\
+4ee-\
+*-

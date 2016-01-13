@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OPR, OPS, OTL
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OPR: Waltzes for Piano                                
+!!!OPS: Op. 39
+!!!OTL: Waltz No. 3
+!!!AIN: forte
+!!!ODT: 1865///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1867///
+!!!MRD: 1867///
+!!!MLC: &Ouml;sterreich, Wien                       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*g#:
+*M3/4
+=
+4.gg#\
+8dd#\L
+8dd#\
+8ee\J
+=
+4.dd#\
+8g#/L
+8g#/
+8dd#/J
+=
+4.gg#\
+8cc#\L
+8cc#\
+8dd#\J
+=
+4.cc#\
+8g#/L
+8g#/
+8cc#/J
+=
+4.gg#\
+8ff#\L
+8b\
+8ff#\J
+=
+4.ff#\
+*-

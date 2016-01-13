@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus K 590
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in F
+!!!title2: 4th Movement
+!!!statkey: F
+!!DEBUGGING: m681 % . % 1790 % Vienna % M681 % K 590 % x % 4 % string % . % Quartet in F % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/4
+16so\LL
+16fa\JJ
+=
+16mi\LL
+16so\
+16fa\
+16mi\JJ
+16re\LL
+16fa\
+16mi\
+16re\JJ
+=
+16ti\LL
+16do\
+16mi\
+16do\JJ
+8so\L
+8si\J
+=
+16la\LL
+16ti\
+16do\
+16re\JJ
+16mi\LL
+16fa\
+16so\
+16la\JJ
+=
+8so\L
+8fa\J
+8mi\
+*-

@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OPR, OPS, OTL, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OPR: Norwegian Dances for Piano or String Orchestra
+!!!OPS: Op. 35
+!!!OTL: Dance No. 4
+!!!SET: No. 4 
+!!!thm: B
+!!!AIN: Cstr forte
+!!!ODT: <1881///       
+!!!OCY: Norge
+!!!OPC: Bergen    
+!!!PDT: 1881///
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=
+[2dd\
+=
+8dd\L]
+8ee\
+8ff\
+8gg\J
+=
+[2aa\
+=
+8aa\L]
+24gg#\L
+24aan\
+24gg#\JJ
+8ff\L
+8ee\J
+=
+[2dd\
+=
+2dd\_
+=
+2dd\_
+=
+4dd\]
+12dd\L
+12ee\
+12dd\J
+=
+2cc\
+=
+*-

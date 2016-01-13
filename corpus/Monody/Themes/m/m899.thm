@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 201
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1774
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Symphony No. 29 in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m899 % . % 1774 % Salzburg % M899 % K 201 % a % 3 % orchestra % . % Symphony No. 29 in A % c1786(p) % 1756
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+16ee\LK
+8.cc#\
+16ee\Jk
+=
+4a/
+8.r
+16g#/LK
+8.a/
+16b/Jk
+=
+4e/
+8.r
+16a/LK
+8.g#/
+16a/Jk
+=
+8.b\L
+16a\k
+8.b\
+16cc#\k
+8.dd\
+16ee\Jk
+=
+4dd\
+8.cc#\
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1749///
+!!!OCL: RSC
+!!!ODT: <1749/12/31/
+!!!OMV: Mov. 1: Overture
+!!!PDT: 1749///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1749(p)
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Fireworks Music
+!!!title2: 1st Movement (Overture)
+!!!statkey: D
+!!DEBUGGING: h121 % . % 1749(p) % London % H121 % . % b % 1: Overture % orchestra % . % Fireworks Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1749(prf) . (H121) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+8r
+16so/LL
+16so/JJ
+8so/L
+8so/
+8so/
+8so/J
+=
+8do\L
+8so\J
+8.mi\L
+16fa\k
+8.so\
+16la\Jk
+=
+8.fa\L
+16so\k
+8.fa\
+16so\k
+8.mi\
+16fa\Jk
+=
+8.re\L
+16mi\k
+8.re\
+16mi\k
+8.fa\
+16so\Jk
+=
+*-

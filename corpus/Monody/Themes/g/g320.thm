@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Sonata in E Minor for Piano         
+!!!OPS: Op. 7 
+!!!OMV: Mov. 3       
+!!!AIN: forte      
+!!!ODT: 1865///, 1887///
+!!!OCY: Norge 
+!!!OPC: Bergen   
+!!!PDT: 1866///, 1887/// 
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+4ee\
+2b\
+=
+12dd\L
+12cc\
+12b\J
+2b\
+=
+4b\
+2f#/
+=
+12e/L
+12f#/
+12g/J
+2g/
+=
+12g/L
+12f#/
+12d#/J
+2b\
+=
+12cc\L
+12b\
+12g\J
+2ee\
+=
+*-

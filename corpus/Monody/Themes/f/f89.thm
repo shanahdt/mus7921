@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Fauré, Gabriel
+!!!CDT: 1845/05/12/-1924/11/04/
+!!!CNT: French
+!!!OTL: Quartet in C Minor for Piano and Strings
+!!!OPS: Op. 15
+!!!OMV: Mov. 4
+!!!thm: A
+!!!AIN: cello forte viola violn
+!!!ODT: 1876///-1879///
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1884///
+!!!PPP: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-a-]
+*c:
+*M3/4
+=
+8.C/L
+16D/Jk
+8.E-\L
+16F\Jk
+8.G\L
+16An\Jk
+=
+4Bn\
+2c\
+*clefG2
+=
+8.A-/L
+16B-/Jk
+8.c/L
+16d-/Jk
+8.e-/L
+16f/Jk
+=
+4g/
+2a-/
+=
+8.e-/L
+16f/Jk
+8.g/L
+16an/Jk
+8.b-\L
+16cc\Jk
+=
+4dd\
+2ee-\
+=
+*-

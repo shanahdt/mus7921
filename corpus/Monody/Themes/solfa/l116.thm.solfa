@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1849/12/31/
+!!!PDT: 1849///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1848
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!title1: Etude No. 2 in F Minor
+!!!statkey: f
+!!DEBUGGING: l116 % . % 1848 % Weimar % L116 % . % x % . % piano % . % Etude No. 2 in F Minor % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1849(p) Leipzig (L116) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+12so\L
+12ti\
+12do\J
+12te\L
+12mi\
+12fa\J
+[4le\
+=
+12le\L]
+12so\
+12fi\J
+12so/L
+12ra/
+12do/J
+8req/
+12do/L
+12ti/
+12do/J
+=
+12me/L
+12ti/
+12do/J
+12re/L
+12fi/
+12so/J
+*-

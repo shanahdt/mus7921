@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1827///
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. Scherzo
+!!!ONM: No. 1
+!!!OPS: Opus 61
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Stettin
+!!!theme: A
+!!!title1: Midsummer's Night Dream
+!!!title2: Scherzo, Op. 61, No. 1
+!!!statkey: g
+!!DEBUGGING: m225 % . % 1826 % Berlin % M225 % 61 No. 1 % a % Scherzo % orchestra % . % Midsummer's Night Dream % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(prf) Stettin (M225) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M225) 61 No. 1 a Scherzo orchestra . Midsummer's Night Dream MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/8
+=
+8so\L
+16fa\L
+16me\
+16fa\
+16re\JJ
+=
+8me\L
+8do\
+8so\J
+=
+8me\L
+16re\L
+16do\
+16re\
+16ti\JJ
+=
+8do\L
+8so\
+8me\J
+=
+4.so\
+=
+*-

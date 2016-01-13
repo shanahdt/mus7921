@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Violin Sonata No. 2 in A
+!!!OPS: Op. 100
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: forte violn
+!!!ODT: 1886///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1887///
+!!!MRD: 1886///
+!!!MLC: &Ouml;sterreich, Wien      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4a/
+8a\L
+8b-\
+8a\
+8dd\J
+=
+4cc\
+8cc\L
+8b-\
+8cc\
+8a\J
+=
+4f/
+8f/L
+8g/
+8f/
+8b-/J
+=
+4a/
+4.a/
+8b-\
+=
+8a\L
+8b-\
+8a\
+8dd\
+8ff\
+8dd\J
+=
+*-

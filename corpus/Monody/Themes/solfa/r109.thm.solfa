@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Allemande
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!title2: Allemande
+!!!statkey: e
+!!DEBUGGING: r109 % . % 1724(p) % Paris % R109 % . % x % Allemande % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R109) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+8me\
+=
+[4me\
+16me\LL]
+16me\
+16fa\
+16so\JJ
+8.do\L
+16re\Jk
+8meq/
+8.ret\L
+16do\Jk
+=
+*^
+2r	8.tit\L
+.	16la\Jk
+.	16so/LL
+.	16fa/
+.	16meT/
+.	16re/JJ
+8r	16me/LL
+.	16so/J
+16do\LL	8do/J
+16me\JJ	.
+8re\	16re/LL
+.	16so/
+8fa\	16fa/
+.	16ti/JJ
+*v	*v
+=
+4do\
+*-

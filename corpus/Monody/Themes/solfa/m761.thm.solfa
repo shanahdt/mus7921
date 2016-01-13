@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 522
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in E Flat
+!!!title2: 3rd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m761 % . % 1787 % Vienna % M761 % K 522 % x % 3 % piano % . % Sonata in E Flat % c1786(p) % 1756
+**solfa
+*clefG2
+*k[]
+*G:
+*M2/2
+!! ! NB. Key & key signature disagree.
+8.la\L
+16ti\Jk
+=
+8re\L
+8do\J
+[4do\
+16do\LL]
+16ti\
+16re\
+16do\JJ
+16ti\LL
+16la\
+16so\
+16fa\JJ
+=
+16so\LL
+16fa\
+16mi\
+16fa\JJ
+[4mi\
+4mi\]
+*-

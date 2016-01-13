@@ -1,0 +1,70 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1920///
+!!!OCL: RSC
+!!!ODT: <1920/12/31/
+!!!OMV: Mov. Rigaudon
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1917
+!!!instrument: piano or orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Le Tombeau de Couperin
+!!!title2: Rigaudon
+!!!statkey: a
+!!DEBUGGING: r191 % . % 1914-1917 % Paris % R191 % . % a % Rigaudon % piano or orchestra % . % Le Tombeau de Couperin % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1919(rev) . (R191) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1920(prf) Paris (R191) . a Rigaudon piano or orchestra . Le Tombeau de Couperin RAVEL, Maurice 1875
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+8la/L
+16so/L
+16la/JJ
+4so\
+=
+16mi/LL
+16la/
+16fa/
+16re/JJ
+8do/L
+16so/L
+16la/JJ
+=
+16ti 16mi\LL
+16la\
+16so\
+16la\JJ
+8ti 8mi\L
+16so\L
+16la\JJ
+=
+16ti 16mi\LL
+16la\
+16so\
+16la\JJ
+8ti 8mi\L
+16so\L
+16la\JJ
+=
+16ti 16mi\LL
+16la\
+16so\
+16la\JJ
+16ti 16mi/LL
+16la/
+16so/
+16mi/JJ
+=
+*-

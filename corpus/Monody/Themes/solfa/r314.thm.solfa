@@ -1,0 +1,69 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!OMV: Mov. Intro and Alborada
+!!!OPS: Opus 34
+!!!PDT: 1888///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!title1: Capriccio Espagnol
+!!!title2: Intro. and Alborada
+!!!statkey: A
+!!DEBUGGING: r314 % . % 1887 % St. Petersburg % R314 % 34 % x % Intro and Alborada % orchestra % . % Capriccio Espagnol % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(p) Leipzig (R314) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8.do\L
+16re\Jk
+16do\LL
+16re\
+16do\
+16re\JJ
+=
+8.do\L
+16re\Jk
+16do\LL
+16re\
+16do\
+16re\JJ
+=
+16do\LL
+16ti\
+16la\
+16so\JJ
+16la\LL
+16so\
+16fa\
+16re\JJ
+=
+8mi\L
+16do\L
+16mi\JJ
+16do\LL
+16mi\
+16do\
+16mi\JJ
+=
+8re/L
+16ti/L
+16re/JJ
+16ti/LL
+16re/
+16ti/
+16re/JJ
+=
+*-

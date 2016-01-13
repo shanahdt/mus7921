@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 6: Gavotte
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 8 in G
+!!!title2: 2nd Set
+!!!statkey: G
+!!DEBUGGING: h241 % . % 1733(p) % London? % H241 % . % x % 6: Gavotte % piano % 2nd Set % Suite No. 8 in G % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/2
+4g/
+4aS/
+=
+4b\
+4cc\
+4dd\
+4ee\
+=
+4ff#\
+4dd\
+4gg\
+4ff#\
+=
+4ee\
+4dd\
+4cc\
+4b\
+=
+4a/
+4d/
+*-

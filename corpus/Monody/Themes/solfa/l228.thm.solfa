@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!title1: Waldesrauschen
+!!!title2: Etude
+!!!statkey: D-
+!!DEBUGGING: l228 % . % ? % ? % L228 % . % x % . % piano % Etude % Waldesrauschen % LISZT, Franz % 1811
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M4/4
+=
+8r
+4fa/
+8mi/
+8di/L
+8mi/J
+8re/L
+8do/J
+=
+8li/L
+8do/
+8ti/
+8la/J
+8fi/L
+8la/
+8so/
+8fa/J
+=
+8mi/L
+8so/
+8do/
+8re/J
+4ri/
+8mi/
+*-

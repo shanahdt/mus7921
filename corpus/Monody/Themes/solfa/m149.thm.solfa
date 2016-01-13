@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1873///
+!!!OCL: RSC
+!!!ODT: <1873/12/31/
+!!!ODT: <1900/12/31/
+!!!OMV: Mov. Prelude
+!!!PDT: 1900///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1873(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Les Erinnyes
+!!!title2: (Incidental Music)
+!!!statkey: g
+!!DEBUGGING: m149 % . % 1873(prf) % Paris % M149 % . % x % Prelude % orchestra % (Incidental Music) % Les Erinnyes % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(rev. prf) . (M149) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1900(p) Paris (M149) . x Prelude orchestra (Incidental Music) Les Erinnyes MASSENET, Jules 1842
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+4so/
+4do/
+4re/
+4me\
+=
+8re/L
+8me/J
+4do/
+4te/
+4me/
+=
+4fa/
+4so/
+4le/
+[4so/
+=
+8so/L]
+8fa/
+8me/
+8re/J
+4re/
+*-

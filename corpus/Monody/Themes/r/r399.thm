@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1913///
+!!!OCL: RSC
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. Danse du Papillon
+!!!OPS: Opus 17
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Le Festin de L'Araign'7ee
+!!!title2: Ballet
+!!!statkey: e
+!!DEBUGGING: r399 % . % 1912 % Paris % R399 % 17 % x % Danse du Papillon % orchestra % Ballet % Le Festin de L'Araign'7ee % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1913(prf) . (R399) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+[4.ddd\
+=
+16ddd\LL]
+16gg\J
+8ee\
+16r
+16dd\Jk
+=
+8dd\
+4ddd\
+=
+16ddd\LL
+16gg\J
+8ee\
+16r
+16dd\Jk
+=
+8ee\
+[4eee\
+=
+4eee\]
+8ccc#\
+=
+8ddd#\
+[4bb\
+=
+4bb\]
+8cccn\
+=
+8.aa\L
+16bb\k
+8ccc\J
+=
+4dddn\
+8eee\
+=
+4.bb\
+=
+*-

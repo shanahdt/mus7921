@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Ives, Charles
+!!!CDT: 1874/10/20/-1954/05/19/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1937/12/31/
+!!!PDT: 1937///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, California, San Francisco
+!!!theme: B
+!!!title1: New England Holidays
+!!!title2: Washington's Birthday
+!!!statkey: A-
+!!DEBUGGING: i131 % . % 1909 % New York % I131 % . % b % . % orchestra % Washington's Birthday % New England Holidays % IVES, Charles % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1937(p) San Francisco (I131) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M2/4
+8A-/L
+8B-/J
+=
+8c/L
+8c/J
+8c/L
+16B-/L
+16A-/JJ
+=
+8e-/L
+8c/
+8c/
+8a-/J
+=
+8e-/L
+8c/J
+16c/LL
+16B-/J
+8A-/J
+=
+16B-/LL
+16An/
+16B-/
+16c/JJ
+8B-/
+*-

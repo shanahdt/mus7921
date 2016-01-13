@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Mazurka
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!title1: La Boutique Fantasque
+!!!title2: Ballet
+!!!statkey: F
+!!DEBUGGING: r368 % 387 % ? % ? % R368 % . % x % 3: Mazurka % orchestra % Ballet % La Boutique Fantasque % ROSSINI, Gioachino Antonio % 1792
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+8mi\
+8r
+8.re\L
+16do\Jk
+8ti\
+8r
+=
+8la\
+8r
+8.so\L
+16fa\Jk
+8mi/
+8r
+=
+8miq/
+[2reT/
+8.re/L]
+32do/LL
+32re/JJJ
+=
+8mi/
+8r
+16re/LL
+16do/
+16ti/
+16la/JJ
+8so/
+8r
+=
+*-

@@ -1,0 +1,38 @@
+X: 1
+%%abc-version 2.0
+%%abcx-abcm2ps-target-version 5.9.1 (29 Sep 2008)
+%%abc-creator hum2abc beta
+%%abcx-conversion-date 2010/10/15 18:23:19
+%%humdrum-veritas 2479766630
+%%humdrum-veritas-data 1107873665
+%%continueall 1
+%%barnumbers 0
+L: 1/8
+M: 2/4
+Q: 1/4=112
+K: C
+G/ A/ | 
+B d d e [I:setbarnb 2]| 
+d B G3/ A/ | 
+B B A G | 
+A3G/ A/ | 
+B d d3/ e/ | 
+d B .('G3/ A/) | 
+B B A A | 
+G3G/ A/ | 
+B d d e | 
+d B G3/ A/ | 
+B B A G | 
+A3G/ A/ | 
+B d d e | 
+d B !fermata!G3/ A/ | 
+B B A A | 
+G2z2 | 
+c2c2 | 
+ee2e | 
+d d B G | 
+A3G/ A/ | 
+B d d e | 
+d B G3/ A/ | 
+B B A A | 
+G2z2 |]  

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Children's Intermezzo
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Othello Suite
+!!!title2: 2nd Movement (Children's Intermezzo)
+!!!statkey: F
+!!DEBUGGING: c390 % . % 1909 % London % C390 % . % b % 2: Children's Intermezzo % orchestra % . % Othello Suite % COOLERIDGE-TAYLOR, Samuel % 1875
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/4
+8.so\L
+16si\Jk
+=
+4la\
+8re/L
+8mi/J
+=
+8fa\L
+8so\J
+8la\L
+8ti\J
+=
+8so\L
+8mi\J
+[4so\
+=
+8so\]
+8mi\L
+8re\
+8do\J
+=
+4.ti\
+8so\
+=
+4.la\
+8fa\
+=
+[2so\
+=
+4so\]
+*-

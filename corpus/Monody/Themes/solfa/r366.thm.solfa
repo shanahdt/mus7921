@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: C
+!!!title1: La Boutique Fantasque
+!!!title2: Ballet
+!!!statkey: E
+!!DEBUGGING: r366 % 387 % ? % ? % R366 % . % c % 1: Overture % orchestra % Ballet % La Boutique Fantasque % ROSSINI, Gioachino Antonio % 1792
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+8do/L
+8do/
+8ti/J
+=
+8ti/L
+8so/
+8so/J
+8so/L
+8so/
+8mi/J
+=
+8mi/L
+8do/
+8do/J
+8mi\L
+8mi\
+8re\J
+=
+8re\L
+8fi\
+8fi\J
+8la\L
+8la\
+8so\J
+=
+8so\L
+8so\
+8so\J
+*-

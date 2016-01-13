@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus 10
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893///-1894
+!!!instrument: piano
+!!!place: Royssia, Moskova(?)
+!!!title1: Waltz
+!!!statkey: A
+!!DEBUGGING: r76 % . % 1893-1894 % Moscow? % R76 % 10 No. 2 % x % . % piano % . % Waltz % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+4mi/
+4fa/
+=
+8fi/L
+8so/J
+[2mi\
+=
+8mi\L]
+8so\J
+8do/L
+8ti/
+8la/
+8so/J
+=
+4.mi\
+8mi/
+[4do/
+=
+8do/L]
+8so/J
+4ti/
+4mi/
+=
+8si/L
+8la/J
+4.ti/
+8do/
+=
+8di/L
+8re/J
+4.mi\
+*-

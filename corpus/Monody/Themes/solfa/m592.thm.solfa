@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 355
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786///-1787?
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Minuet
+!!!statkey: D
+!!DEBUGGING: m592 % . % 1786-1787? % Vienna % M592 % K 355 % x % . % piano % . % Minuet % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+2so/
+4la\
+=
+8so/L
+8fi/J
+4fa/
+4r
+=
+8mi/L
+8fa/
+8fi/
+8so/
+8la/
+8fa/J
+=
+8.mi/L
+16fa/Jk
+4re/
+4r
+=
+*-

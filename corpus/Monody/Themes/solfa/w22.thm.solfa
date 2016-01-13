@@ -1,0 +1,69 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1850///
+!!!OCL: RSC
+!!!ODT: <1850/12/31/
+!!!ODT: <1852/12/31/
+!!!PDT: 1852///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1848
+!!!place: Deutshland, Graupa & Deutschland, Dresden
+!!!splace: Deutschland, Leipzig
+!!!splace: Deutschland, Weimar
+!!!title1: Lohengrin, Opera
+!!!title2: Act III, Prelude
+!!!statkey: G
+!!DEBUGGING: w22 % . % 1848 % Graupa and Dresden % W22 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1850(prf) Weimar (W22) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852(p) Leipzig (W22) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+4so/
+=
+4..so/
+16mi\
+4mi\
+4so/
+=
+8.so/L
+16do/k
+8.do/
+16mi/Jk
+4so\
+8mi\
+8r
+=
+4..so\
+16la\
+4so\
+4mi\
+=
+4..so\
+16la\
+4so\
+4mi\
+=
+4..mi\
+16so\
+4so\
+4mi\
+=
+8.mi\L
+16la\k
+8.la\
+16do\Jk
+4mi\
+8do\
+8r
+=
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1740///
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!ODT: <1761/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 1
+!!!OPS: Opus 4
+!!!PDT: 1761///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1761(p)
+!!!instrument: organ, orchestra
+!!!place: England, London
+!!!splace: England, London
+!!!theme: A
+!!!title1: Concerto No. 7 in B Flat
+!!!title2: 1st Movement
+!!!statkey: g
+!!DEBUGGING: h30 % . % 1761(p) % London % H30 % 4 No. 1 % a % 1 % organ, orchestra % . % Concerto No. 7 in B Flat % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740 . (H30) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(prf) London (H30) 4 No. 1 a 1 organ, orchestra . Concerto No. 7 in B Flat HANDEL, George Frederick 1685
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4r
+8.ff\L
+16ff\Jk
+8gg\L
+8gg\J
+8.ff\L
+16ff\Jk
+=
+8gg\L
+8gg\J
+8.ff\L
+16ff\Jk
+8gg\L
+8gg\J
+8cc\L
+16dd\L
+16ee-\JJ
+=
+16.dd\LL
+32cc\Jk
+8b-\J
+*-

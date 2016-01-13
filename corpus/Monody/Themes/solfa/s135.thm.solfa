@@ -1,0 +1,64 @@
+**solfa
+*clefG2
+*k[]
+*M6/8
+*a:
+2.me
+Q16re
+Q16me
+=
+4te
+8r
+8le
+8so
+8fa
+=
+4le
+8r
+8so
+8fa
+8me
+=
+4so
+8r
+8fa
+8me
+8re
+=
+2.me
+Q16re
+Q16me
+=
+4te
+8r
+8le
+8so
+8fa
+=
+4le
+8r
+8so
+8fa
+8me
+=
+4so
+8r
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1857
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s135 % . % 1857 % Paris? % S135 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1857///
+!!!ODT: <1857/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1857(p) Paris (S135) . . . . . . .

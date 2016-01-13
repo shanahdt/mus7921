@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, ONM, thm
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Waltz in E Minor (Posthumous)
+!!!thm: A
+!!!AIN: forte 
+!!!ODT: 1830/// 
+!!!OCY: Polska           
+!!!OPC: Warsaw
+!!!PDT: 1868///
+!!!PPP: Deutschland, Mainz 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+4b\
+8b\L
+8b\J
+4b\
+=
+8a#\L
+8bn\
+8ee\
+8gg\J
+4bb\
+=
+!! 8va below
+16cccq/LL
+16dddq/JJ
+8ccc\L
+8bb\
+8aa#\
+8bbn\
+8fff#\
+8bbb\J
+=
+4ggg\
+!! end 8va
+*-

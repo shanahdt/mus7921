@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: Dance Symphony
+!!!OMV: Mov. 2
+!!!thm: B           
+!!!AIN: orchestra
+!!!ODT: 1932///-1933///
+!!!OCY: United States of America
+!!!OPC: New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+4ggg#\
+=
+2eee\
+4ddd\
+=
+2ccc\
+4ggg#\
+=
+2eee\
+8.ddd\L
+32eee\LL
+32ddd\JJJ
+=
+2ccc\
+4ggg#\
+=
+2eee\
+8.ddd\L
+32eee\LL
+32ddd\JJJ
+=
+2ccc\
+8.bb-\L
+32ccc\LL
+32bb-\JJJ
+=
+2ff#\
+*-

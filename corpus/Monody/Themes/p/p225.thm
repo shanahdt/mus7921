@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1934///
+!!!OCL: RSC
+!!!ODT: <1934/12/31/
+!!!OMV: Mov. 1: Birth of Kije
+!!!OPS: Opus 60
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Lieutenant Kije
+!!!title2: 1st Movement (Birth of Kije)
+!!!statkey: D
+!!DEBUGGING: p225 % . % 1934 % Paris % P225 % 60 % a % 1: Birth of Kije % orchestra % . % Lieutenant Kije % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1934(prf) . (P225) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4.a/
+8dd\
+2ff#\
+=
+8ee\L
+8cc#\J
+4a/
+4ff#\
+8.dd\
+16r
+=
+4.a/
+8dd\
+2ff#\
+=
+8ee\L
+8b\J
+4cc#\
+[2dd\
+=
+1dd\]
+=
+*-

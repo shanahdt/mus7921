@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Gigue
+!!!OPS: Opus 103a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: violn, piano
+!!!place: Deutschland, Leipzig
+!!!title1: Suite in A Minor
+!!!title2: 6th Movement (Gigue)
+!!!statkey: a
+!!DEBUGGING: r247 % . % 1908 % Leipzig % R247 % 103a % x % 6: Gigue % violn, piano % . % Suite in A Minor % REGER, Max % 1873
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+=
+4.do\
+4te\
+8le\
+=
+8so\L
+8le\
+8so\J
+8so\L
+8le\
+8so\J
+=
+8fa\L
+8so\
+8fa\J
+8fa\L
+8so\
+8fa\J
+=
+4me\
+8re\
+4re\
+8do/
+=
+4te/
+8la/
+4la/
+8so/
+=
+4fi/
+8r
+*-

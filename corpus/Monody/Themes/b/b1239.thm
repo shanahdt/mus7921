@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OPS, MOV
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!PDT: 1804///
+!!!OCY: France
+!!!OPC: Paris
+!!!OTL: Quintet in D for Strings
+!!!OPS: Op. 37                       
+!!!OMV: Mov. 1
+!!!AIN: 2 cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+4aa\
+4ff#\
+4gg\
+=
+4aa\
+[4bb\
+8bb\L]
+16bb\L
+16aa\JJ
+8gg\L
+8bb\J
+=
+8bbq/
+2aa\
+4ff#\
+4gg\
+=
+4aa\
+4.bb\
+16bb\LL
+16aa\JJ
+8gg\L
+8bb\J
+=
+8bbq/
+2aa\
+*-

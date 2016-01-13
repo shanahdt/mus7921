@@ -1,0 +1,62 @@
+**kern
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*B:
+qbb
+8ccc
+=
+8ee
+8ee
+8ee
+8ee
+=
+16dd
+16ee
+16ff
+16dd
+8ee
+qbb
+8ccc
+=
+8ee
+8ee
+8ee
+8ee
+=
+16dd
+16ee
+16ff
+16dd
+8ee
+8gg
+=
+qgg
+8ccc
+8gg
+qgg
+8ccc
+8gg
+=
+*-
+!!!COM: Supp&eacute;, Franz von
+!!!CNT: Austrian
+!!!MPD: 1879///
+!!!ODT: <1879/12/31/
+!!!date: 1879(prf)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1621 % . % 1879(prf) % Vienna % S1621 % . % . % . % . % . % . % SUPP&Eacute;, Franz von
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: n.d.///
+!!!ODT: <n.d./12/31/
+!!!splace: Deutschland, Hamburg
+!!!CDT: ///-
+!!DEBUGGING: . . n.d.(prf) Hamburg (S1621) . . . . . . .

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1884/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 15
+!!!PDT: 1884///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1882
+!!!instrument: piano, orchestra
+!!!place: Deutschland, Frankfurt(?)
+!!!splace: Deutschland, Leipzig, Belgie, Bruxelles
+!!!title1: Concerto No. 1 in A Minor
+!!!title2: 2nd Movement
+!!!statkey: E
+!!DEBUGGING: m3 % (289) % 1882 % Frankfurt? % M3 % 15 % x % 2 % piano, orchestra % . % Concerto No. 1 in A Minor % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1884(p) Leipzig, Brussels (M3) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+4mi\
+4re\
+12do\L
+12re\
+12mi\J
+=
+8.fa\L
+16mi\Jk
+4ti\
+4do\
+=
+8.ti\L
+16ti\Jk
+8do\L
+8me\J
+8.le\L
+16le\Jk
+=
+2so\
+4fa\
+=
+*-

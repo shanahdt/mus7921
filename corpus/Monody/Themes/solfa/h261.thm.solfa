@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 15: Aria
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Water Music
+!!!title2: 15th Movement (Aria) 
+!!!statkey: G
+!!DEBUGGING: h261 % 225 % 1717(prf) % London % H261 % . % x % 15: Aria % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H261) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/2
+4do\
+=
+4ti\
+4la\
+4so\
+4fa\
+=
+2mi\
+2re/
+=
+2do/
+2so\
+=
+8do\L
+8ti\
+8do\
+8re\J
+4do\
+4so\
+=
+*-

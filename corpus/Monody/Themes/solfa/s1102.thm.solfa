@@ -1,0 +1,59 @@
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*M2/4
+!! NB. Key & key signature disagree.
+*B:
+4.do
+8so
+=
+8mi
+8so
+16so
+16fa
+8mi
+=
+8re
+8fa
+qso
+8fa
+8mi
+=
+4.re
+8so
+=
+8do
+8re
+4mi
+=
+8re
+8mi
+4fa
+=
+8mi
+16mi
+16so
+8se
+16se
+16la
+=
+4.so
+*-
+!!!COM: Smetana, Bedrich
+!!!CNT: Czech
+!!!date: 1876
+!!!place: Czech, Jabkenice
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1102 % . % 1876 % Jabkenice % S1102 % . % . % . % . % . % . % SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1880///
+!!!ODT: <1880/12/31/
+!!!splace: Czech, Prague
+!!!CDT: ///-
+!!DEBUGGING: . . 1880(p) Prague (S1102) . . . . . . .

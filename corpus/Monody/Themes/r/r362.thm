@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1816///
+!!!OCL: RSC
+!!!ODT: <1816/12/31/
+!!!ODT: <1827/12/31/
+!!!OMV: Mov. Intro
+!!!PDT: 1827///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1816(prf)
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: The Barber of Seville
+!!!title2: Overture
+!!!statkey: G
+!!DEBUGGING: r362 % . % 1816(prf) % Rome % R362 % . % b % Intro % orchestra % Overture % The Barber of Seville % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(p) . (R362) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+2gg\
+4aa\
+4bb\
+=
+2bb\
+8.dd\L
+16dd\k
+8.ee\
+16ff#\Jk
+=
+8.gg\L
+16gg\k
+8.gg\
+16gg\Jk
+8.gg\L
+16gg\k
+8.gg\
+16gg\Jk
+=
+16gg#q/
+2aa\
+*-

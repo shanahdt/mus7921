@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreutzer, Conradin
+!!!CDT: 1780/11/22/-1849/12/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1834///
+!!!OCL: RSC
+!!!ODT: <1834/12/31/
+!!!ODT: <n.d./12/31/
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1834(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Das Nachtlager in Granada
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: k119 % . % 1834(prf) % Vienna % K119 % . % a % . % orchestra % Overture % Das Nachtlager in Granada % KREUTZER, Conradin % 1780
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) . (K119) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4so/
+4do/
+4re/
+=
+8.mi/L
+16fa/Jk
+2re/
+=
+8.re/L
+16mi/Jk
+8fa/L
+8mi/
+8re/
+8di/J
+=
+2.re/
+=
+8.re/L
+16mi/Jk
+4do/
+8req/
+16do/LL
+16ti/
+16do/
+16di/JJ
+=
+8.re/L
+16mi/Jk
+4do/
+*-

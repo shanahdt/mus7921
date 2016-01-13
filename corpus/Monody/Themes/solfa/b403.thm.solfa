@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!CNT: German
+!!!PDT: ?
+!!!OCY: Deutschland
+!!!OTL: Sonata No. 1 in A minor for Piano
+!!!OPR: W&uuml;temberg Sonatas
+!!!OMV: Mov. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+8do\L
+[8so\J
+16so\LL]
+32fa\L
+32me\JJJ
+32fa\LLL
+32me\
+32re\
+32do\JJJ
+8le\L
+8so\J
+8r
+32so/LLL
+32do/
+32me/
+32so/JJJ
+=
+8so\L
+8fa\J
+8r
+32so/LLL
+32ti/
+32re/
+32fa/JJJ
+24me\LL
+24re\
+24do\JJ
+24so\LL
+24fa\
+24me\JJ
+8do\
+*-

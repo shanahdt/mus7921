@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1913
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: F
+!!!title1: Daphnis et Chloe
+!!!title2: Ballet Suite No. 2
+!!!statkey: f#
+!!DEBUGGING: r146 % . % 1913 % Paris % R146 % . % f % . % orchestra % Ballet Suite No. 2 % Daphnis et Chloe % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[f#c#g#]
+*f#:
+*M5/4
+*>[A,A,B]
+*>A
+=
+6fa\
+12la/
+[2fa\
+12fa/L]
+12la/
+12ti/J
+12do/L
+12fa/
+12do/J
+=2:|!
+*M2/4
+*>B
+12fa/L
+12la/
+12ti/J
+12do/L
+12fa/
+12do/J
+=
+12fa/L
+12la/
+12ti/J
+12do/L
+12fa/
+12do/J
+=
+*-

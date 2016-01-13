@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: The Dargason Finale
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912///-1913
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: St. Paul's Suite
+!!!title2: 4th Movement (The Dargason Finale)
+!!!statkey: C
+!!DEBUGGING: h820 % 254 % 1912-1913 % London % H820 % . % x % 4: The Dargason Finale % string orchestra % . % St. Paul's Suite % HOLST, Gustav Theodore % 1874
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+8g/
+=
+4e/
+8c/
+4c/
+8c/
+=
+4e/
+8f/
+8g/L
+8f/
+8e/J
+=
+4f/
+8d/
+4d/
+8d/
+=
+4f/
+8g/
+8a/L
+8g/
+8f/J
+=
+4e/
+8c/
+4c/
+*-

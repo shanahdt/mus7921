@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1928///
+!!!OCL: RSC
+!!!ODT: <1928/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919///-1920
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: H
+!!!title1: La Valse
+!!!statkey: B-
+!!DEBUGGING: r209 % . % 1919-1920 % Paris % R209 % . % h % . % orchestra % . % La Valse % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1928(prf) . (R209) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+[4ddd\
+=
+2.ddd\_
+=
+4ddd\]
+4ccc\
+4bb-\
+=
+2dd\
+8ee-\L
+8bb-\J
+=
+4r
+8ee-\L
+8bb-\J
+4r
+=
+4r
+[2bb-\
+=
+4bb-\]
+4aa\
+4gg\
+=
+2cc#\
+8dd\L
+8aa\J
+=
+4r
+8dd\L
+8aa\J
+4r
+=
+*-

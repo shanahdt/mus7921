@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Valencia
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1922
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Escales
+!!!title2: 3rd Movement (Valencia)
+!!!statkey: B-
+!!DEBUGGING: i21 % . % 1922 % Rome % I21 % . % b % 3: Valencia % orchestra % . % Escales % IBERT, Jacques % 1890
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+8so/
+=
+8so\L
+16mi\L
+16fa\
+16so\JJ
+16r
+=
+8faq/
+8mi\L
+16re\L
+16mi\
+16fa\JJ
+16r
+=
+8req/
+8..do/L
+32ti/LL
+32do/
+32ti/
+32la/
+32so/JJJ
+=
+8fa/L
+8r
+8so/J
+=
+4.la/
+=
+*-

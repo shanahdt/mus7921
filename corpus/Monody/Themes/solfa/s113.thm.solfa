@@ -1,0 +1,55 @@
+**solfa
+*clefG2
+*k[f#c#]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*A:
+8do
+8r
+4r
+[2so
+=
+2]so
+2la
+=
+6la
+6de
+6do
+[2fa
+=
+2]fa
+4.fa
+8so
+=
+4mi
+4r
+[2so
+=
+2]so
+2la
+=
+6la
+6de
+6do
+2fa
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1885
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s113 % 397 % 1885 % Paris? % S113 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1885///
+!!!ODT: <1885/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1885(p) Paris (S113) . . . . . . .

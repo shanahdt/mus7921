@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1945///
+!!!OCL: RSC
+!!!ODT: <1945/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus 100
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1944
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: BA
+!!!title1: Symphony No. 5 in B Flat
+!!!title2: 3rd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p315 % 364 % 1944 % Moscow % P315 % 100 % ba % 3 % orchestra % . % Symphony No. 5 in B Flat % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1945(prf) . (P315) . . . . . . . .
+**solfa
+*clefF4
+*k[]
+*E:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4.le/
+8fi/L
+8le/
+8so/J
+=
+8do\L
+8le\
+8so\
+8me\
+8do\
+8do\J
+=
+8te\L
+16le\L
+16so\J
+8do\J
+4fa\
+16so\LL
+16me\JJ
+=
+4so\
+*clefG2
+4.so\
+8r
+=
+*-

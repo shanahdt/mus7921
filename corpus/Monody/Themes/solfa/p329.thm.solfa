@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1689///
+!!!OCL: RSC
+!!!ODT: <1689/12/31/
+!!!OMV: Mov. The Triumphing Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1689(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Dido and Aeneas
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: p329 % . % 1689(prf) % London % P329 % . % x % The Triumphing Dance % orchestra % Opera % Dido and Aeneas % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4do\
+4so/
+4do\
+=
+4la/
+4re\
+4ti\
+=
+8.do\L
+16re\k
+8.do\
+16mi\k
+8.re\
+16fa\Jk
+=
+4.mi\
+8re\
+4do\
+=
+8.mi\L
+16fa\Jk
+4so\
+4mi\
+=
+4la\
+8te\L
+8la\
+8so\
+8fa\J
+=
+8.mi\L
+16re\Jk
+4.do\
+8ti\
+=
+4.do\
+*-

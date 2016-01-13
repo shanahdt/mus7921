@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 1: Prelude
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 5 in E
+!!!title2: 1st Movement (Prelude)
+!!!statkey: E
+!!DEBUGGING: h214 % . % 1720(p) % London? % H214 % . % x % 1: Prelude % piano % . % Suite No. 5 in E % HANDEL, George Frederick % 1685
+**solfa
+*clefF4
+*k[f#c#g#d#]
+*E:
+*M4/4
+16r
+16do\LL
+16.ti\
+32la\JJk
+16so\LL
+16do\
+16mi\
+16so\JJ
+=
+16fa\LL
+16la\
+16re\
+16fa\JJ
+16ti\LL
+16so\
+16re\
+16fa\JJ
+16mi\LL
+16re\
+16do\JJ
+*-

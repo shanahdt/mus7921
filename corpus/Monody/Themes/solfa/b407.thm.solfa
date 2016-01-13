@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!CNT: German
+!!!PDT: ?
+!!!OCY: Deutschland
+!!!OTL: Sonata No. 4 in B flat for Piano
+!!!OPR: W&uuml;temberg Sonatas
+!!!OMV: Mov. 2
+!!!SET: No. 4
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8r
+8so\L
+8do\
+8me\J
+8me\L
+8fa\J
+8r
+8re\
+=
+8re\L
+8me\
+8do\
+[8do\J
+16do\LL]
+32te\L
+32le\J
+16so\
+16fa\JJ
+16me\LL
+16re\
+16le\
+16so\JJ
+=
+*-

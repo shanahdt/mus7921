@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1794///
+!!!OCL: RSC
+!!!ODT: <1794/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 100
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793///-1794
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A: INTRO
+!!!title1: Symphony in G
+!!!title2: "Military"
+!!!statkey: G
+!!DEBUGGING: h641 % . % 1793-1794 % London % H641 % B. & H. No. 100 % a: Intro % 1 % orchestra % "Military" % Symphony in G % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1794(prf) . (H641) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4so\
+8do\
+16.r
+32so\
+8fa\
+8r
+8mi\
+8r
+=
+2re/
+8mi\
+8r
+4do/
+=
+4re/
+8.mi\L
+16la\Jk
+4so\
+8.faT\L
+32mi\LL
+32fa\JJJ
+=
+4mi\
+*-

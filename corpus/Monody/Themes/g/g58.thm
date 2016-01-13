@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Gershwin, George
+!!!CDT: 1898/09/26/-1937/07/11/
+!!!CNT: American
+!!!OTL: Rhapsody in Blue for Piano and Orchestra
+!!!thm: C 
+!!!AIN: forte orchestra
+!!!ODT: 1924/// 
+!!!OCY: United States of America
+!!!OPC: New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8r
+8ccc\L
+8ccc\
+8ccc\J
+8ccc\L
+8bb-\
+8bb-\
+8bb-\J
+=
+8bb-\L
+8ccc\
+8ccc\
+8ccc\J
+8ccc\L
+8ddd#\
+8ddd#\
+8ddd#\J
+=
+8ddd#\L
+8eeen\
+8ccc\
+8aa\J
+8bb-\L
+8aa\
+8gg\
+8dd#\J
+=
+8ee\L
+8gg\
+8ee\
+[8cc\J
+2cc\]
+=
+*-

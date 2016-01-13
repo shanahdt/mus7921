@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bach, Johann Christian
+!!!CDT: 1735/09/05/-1782/01/01/
+!!!CNT: German
+!!!ODT: c1781///	
+!!!MLC: Deutschland, Mannheim 
+!!!thm: A
+!!!AIN: orchestra
+!!!OTL: Sinfonia in B flat
+!!!OTA: Overture to Italian opera Lucio Silla
+!!!OMV: Mov. 1
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*met(C|)
+*M2/2
+*B-:
+2bb-
+4.bb-
+8bb-
+=
+4bb-
+8r
+8ff
+8dd
+8r
+16aa
+16gg
+16ff
+16gg
+=
+4ff
+8r
+8dd
+8cc
+8r
+16ff
+16ee-
+16dd
+16ee-
+=
+4dd
+*-

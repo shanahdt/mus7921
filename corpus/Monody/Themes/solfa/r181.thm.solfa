@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Feria
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1907///-1908
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: C
+!!!title1: Rapsodie Espagnole
+!!!title2: 4th Movement (Feria)
+!!!statkey: f#
+!!DEBUGGING: r181 % 377 % 1907-1908 % Paris % R181 % . % c % 4: Feria % orchestra % . % Rapsodie Espagnole % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[f#c#g#]
+*f#:
+*M3/4
+[8so\
+=
+4.so\]
+4so\
+8so\
+=
+8so\L
+[8so\J
+2so\_
+=
+16so\LL]
+16fa\
+16so\
+16me\JJ
+16fa/LL
+16me/J
+8do/J
+8r
+[8do/
+=
+4.do/]
+8ti/
+12ti/L
+12do/
+12ti/J
+=
+8so/
+8r
+2so/
+=
+*-

@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 34
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!theme: A
+!!!title1: Valse
+!!!statkey: E
+!!DEBUGGING: m426a % . % ? % ? % M426a % 34 No. 1 % a % . % piano % . % Valse % MOSZKOWSKI, Moritz % 1854
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+2.b\
+=
+2.a#/
+=
+2.cc#\
+=
+2.b\
+=
+4f##/
+4g#/
+4b\
+=
+4dd#\
+4ff#\
+4ee\
+=
+[2.a/
+=
+2.a/]
+=
+*-

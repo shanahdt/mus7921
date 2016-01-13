@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1885///
+!!!OCL: RSC
+!!!ODT: <1885/12/31/
+!!!OMV: Mov. 3: Aragonaise
+!!!PDT: 1885///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1885(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Le Cid
+!!!title2: Opera
+!!!statkey: e
+!!DEBUGGING: m142 % . % 1885(prf) % Paris % M142 % . % x % 3: Aragonaise % orchestra % Opera % Le Cid % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1885(p) . (M142) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=
+4r
+8r
+8r
+16ee\LL
+16dd\
+16cc\
+16b\JJ
+=
+8ee\L
+8r
+[8ee\J
+8ee\L]
+16ee\L
+16dd\
+16cc\
+16b\JJ
+=
+8ee\L
+8r
+[8ee\J
+8ee\L]
+16ee\L
+16dd\
+16cc\
+16b\JJ
+=
+16ee\LL
+16dd\
+16cc\
+16b\
+16ee\
+16dd\JJ
+16cc\LL
+16b\
+16ee\
+16dd\
+16cc\
+16b\JJ
+=
+*-

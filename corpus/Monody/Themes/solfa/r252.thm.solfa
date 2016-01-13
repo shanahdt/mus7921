@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Villanella
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1917
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 1
+!!!statkey: b
+!!DEBUGGING: r252 % . % 1917 % Rome % R252 % . % a % 3: Villanella % orchestra % Suite No. 1 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1923(rev) . (R252) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=
+4fa\
+8fa\L
+8fa\J
+=
+4fa\
+4so\
+=
+*M4/4
+2.so\
+4me\
+=
+*M2/4
+4fa\
+4so\
+=
+2le\
+=
+4.so\
+8fa\
+=
+4me\
+4do\
+=
+2re\
+=
+2do\
+=
+*-

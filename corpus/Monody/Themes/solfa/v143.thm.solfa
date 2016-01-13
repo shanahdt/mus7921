@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1716-1717/12/31/
+!!!PDT: 1716-1717///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1716///-1717(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto in G Minor, Op. 6, No. 1, Vn. & Orch.
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: v143 % 505 % 1716-1717(p) % Amsterdam % V143 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M12/8
+8.do\L
+16re\k
+8do\J
+4so\
+8do\
+=
+8.me\L
+16re\k
+8do\J
+4ti\
+8do\
+4re\
+8so/
+4r
+8so\
+=
+8.le\L
+16te\k
+8le\J
+4fa\
+8do\
+8.re\L
+16me\k
+8re\J
+4re\
+8fa\
+=
+*-

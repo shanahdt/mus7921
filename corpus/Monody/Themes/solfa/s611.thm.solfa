@@ -1,0 +1,56 @@
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*met(C)
+*M4/4
+*A-:
+8r
+16r
+16ti
+[4do
+8]do
+16r
+16fi
+8so
+16r
+16ri
+=
+8mi
+16r
+16ti
+8do
+16r
+16fi
+8so
+16r
+16ri
+8mi
+16r
+16so
+=
+4do
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s611 % . % 1841 % Leipzig % S611 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1846///
+!!!ODT: <1846/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1846(p) ? (S611) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1846///
+!!!ODT: <1846/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1846(prf) Leipzig (S611) . . . . . . SCHUMANN, Robert

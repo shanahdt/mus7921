@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1865///
+!!!OCL: RSC
+!!!ODT: <1860/12/31/
+!!!ODT: <1865/12/31/
+!!!PDT: 1860///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1859
+!!!place: Helvetia, Lucerne
+!!!splace: Deutschland, Leipzig
+!!!splace: Deutschland, Muenchen
+!!!title1: Tristan und Isolde, Opera
+!!!title2: Prelude
+!!!statkey: a
+!!DEBUGGING: w85 % . % 1859 % Lucerne, Switzerland % W85 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1865(prf) Munich (W85) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1860(p) Leipzig (W85) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+8do/
+=
+[4.le/
+4le/]
+8so/
+=
+*^
+[4.fi\	[4.ti/
+8fi\]	4ti/]
+8r	.
+8r	8do/
+*v	*v
+=
+8di/
+[4re\
+8re\]
+8r
+8r
+=
+*-

@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Lortzing, Gustav Albert
+!!!CDT: 1801/10/23/-1851/01/21/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1837///
+!!!OCL: RSC
+!!!ODT: <1837/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Leipzig
+!!!theme: DA: CLOG DANCE
+!!!title1: Czar und Zimmerman
+!!!title2: Overture
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l279 % . % 1837(prf) % Leipzig % L279 % . % da: Clog Dance % . % orchestra % Overture % Czar und Zimmerman % LORTZING, Gustav Albert % 1801
+**kern
+*clefG2
+*k[b-e-a-]
+*F:
+*M3/4
+8ffq/
+!! ! NB. Key & key signature disagree.
+8ee-\L
+8dd\J
+=
+8ee-\L
+8gg\
+8ee-\
+8b-\
+8g\
+8a-\J
+=
+2b-\
+8ffq/
+8ee-\L
+8dd\J
+=
+8ee-\L
+8gg\
+8ee-\
+8b-\
+8g\
+8a-\J
+=
+2b-\
+8aa-q/
+8gg\L
+8ff\J
+=
+8gg\L
+8aa-\
+8ff\
+8dd\J
+4b-\
+=
+8aan\L
+8ccc\
+8bb-\
+8gg\J
+4ee-\
+=
+*-

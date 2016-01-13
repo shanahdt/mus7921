@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Kezdodik a Mese
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k71 % . % 1927 % Budapest % K71 % 15 % x % Kezdodik a Mese % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K71) . . . . . . . .
+**kern
+*clefF4
+*k[]
+*B-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+2E-\
+=
+4B-\
+4G-\
+4E-\
+=
+4F\
+2C/
+=
+2BB-/
+4E-\
+=
+8D/L
+8C/J
+4BB-/
+4FF/
+=
+2GG/
+*-

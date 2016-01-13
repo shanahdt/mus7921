@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1844/12/31/
+!!!ONM: No. 5
+!!!OPS: Opus 62
+!!!PDT: 1844///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1842
+!!!instrument: piano
+!!!place: England, London
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 29: Venetian Boat Song No. 3
+!!!statkey: a
+!!DEBUGGING: m301 % . % 1842 % London % M301 % 62 No. 5 % x % . % piano % No. 29: Venetian Boat Song No. 3 % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(p) Bonn (M301) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+4so\
+8me\
+=
+4do/
+8re\
+8me\L
+8fa\
+8so\J
+=
+4te\
+[8le\
+8le\L]
+8so\
+8fa\J
+=
+4so\
+8me\
+32fiq/LLL
+32laq/
+32tiq/
+32req/JJJ
+8do/L
+8ti/
+8do/J
+=
+4.re\
+*-

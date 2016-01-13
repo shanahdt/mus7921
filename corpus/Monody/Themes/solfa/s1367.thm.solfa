@@ -1,0 +1,54 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*B:
+8r
+24r
+24r
+24so
+12do
+24me
+[8so
+=
+16]so
+16re
+24me
+24so
+24do
+[4do
+=
+4.]do
+16ti
+16la
+=
+8mi
+12fa
+24se
+12la
+24so
+[8do
+=
+8]do
+4do
+8re
+=
+4.fa
+8mi
+=
+2so
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1895///-1896
+!!!place: Deutschland, Muenchen
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1367 % . % 1895-1896 % Munich % S1367 % . % . % . % . % . % . % STRAUSS, Richard

@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Concerto in A Minor, Viola d'Amore & Orch.
+!!!title2: 2nd Movement
+!!!statkey: a
+!!DEBUGGING: v133 % . % n.d. % n/a % V133 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+2r
+16.cc\LL
+32ee\k
+16.aa\
+32cc\JJk
+16.a/LL
+32e/k
+16.A/
+32cc/JJk
+=
+16.b\LL
+32gg#\k
+16.bb\
+32dd\JJk
+16.b/LL
+32e/k
+16.E/
+32b/JJk
+16.cc\LL
+32ee\k
+16.aa\
+32cc\JJk
+16.a/LL
+32e/k
+16.A/
+32cc/JJk
+=
+16.b/LL
+32e/k
+16.E/JJ
+*-

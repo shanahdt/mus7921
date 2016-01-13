@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1735///
+!!!OCL: RSC
+!!!ODT: <1735/12/31/
+!!!OMV: Mov. Minuet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1735(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Alcina
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: h130 % 219 % 1735(prf) % London % H130 % . % x % Minuet % orchestra % Opera % Alcina % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+=
+8do\
+4so\
+=
+16fa\LL
+16so\J
+8mi\
+8do\J
+=
+16re\LL
+16mi\J
+8do\
+8la\J
+=
+8ti/L
+16la/L
+16ti/J
+8so/J
+=
+*-

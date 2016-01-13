@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!OMV: Mov. 2: Cabaret
+!!!PDT: 1881///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(p)
+!!!place: France, Paris
+!!!theme: C
+!!!title1: Sc&egrave;nes Alsaciennes
+!!!title2: Suite No. 7
+!!!statkey: C
+!!DEBUGGING: m168 % . % 1881(p) % Paris % M168 % . % c % 2: Cabaret % . % Suite No. 7 % Sc&egrave;nes Alsaciennes % MASSENET, Jules % 1842
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+8mi\L
+16r
+16mi\Jk
+=
+2fa\
+8so\L
+16r
+16so\Jk
+=
+2la\
+8fa\L
+16r
+16fa\Jk
+=
+2mi\
+8fa\L
+16r
+16fa\Jk
+=
+2so\
+8so/L
+16r
+16so/Jk
+=
+8la/L
+16r
+16la/Jk
+8ti\L
+16r
+16ti\Jk
+8do\L
+16r
+16do\Jk
+=
+*-

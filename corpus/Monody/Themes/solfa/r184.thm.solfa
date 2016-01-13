@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1903///-1905
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Sonatine
+!!!title2: 2nd Movement
+!!!statkey: D-
+!!DEBUGGING: r184 % . % 1903-1905 % Paris % R184 % . % x % 2 % piano % . % Sonatine % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M3/8
+=
+8do\
+4so\
+=
+16do\LL
+16fa\J
+8.so\J
+[16do\
+=
+8do\L]
+16ti\L
+16do\
+16la\
+16ti\JJ
+=
+8mi\
+4so\
+=
+8la\L
+8mi\
+[8so\J
+=
+8so\L]
+8mi\
+[8ti\J
+=
+8ti\L]
+16la\L
+16ti\J
+8do\J
+=
+*-

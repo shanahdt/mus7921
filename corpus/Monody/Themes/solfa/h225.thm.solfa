@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 6
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 7 in G Minor
+!!!title2: 6th Movement
+!!!statkey: B-
+!!DEBUGGING: h225 % . % 1720(p) % London? % H225 % . % x % 6 % piano % . % Suite No. 7 in G Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8.so\L
+16le\k
+8.fa\
+16so\Jk
+8.le\L
+16le\k
+8.so\
+16le\Jk
+=
+8.fa\L
+16te\k
+8.le\
+16te\Jk
+8.so\L
+16so\k
+8.fa\
+16so\Jk
+=
+8.me/L
+16me/k
+8.re/
+16me/Jk
+8.fa\L
+16fa\k
+8.me\
+16fa\Jk
+=
+8.re/
+*-

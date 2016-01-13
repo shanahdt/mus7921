@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Porpora, Nicola
+!!!CDT: 1686/08/17/-1766/03/03/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1745/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1745///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1745(p)
+!!!instrument: violn, piano
+!!!place: England, London
+!!!title1: Sonata in G
+!!!title2: 3rd Movement (Aria)
+!!!statkey: e
+!!DEBUGGING: p167 % . % 1745(p) % London % P167 % . % x % 3 % violn, piano % . % Sonata in G % PORPORA, Nicola % 1686
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+8b\
+=
+8.e/L
+16g/Jk
+8gq/
+8.f#/L
+16a/Jk
+16.g\LL
+32a\k
+16.b\
+32ee\JJk
+8.dd#\L
+16ff#\Jk
+=
+8ff#q/
+8.ee\L
+16gg\Jk
+16.ff#\LL
+32gg\k
+16.aa\
+32bb\JJk
+8aaq/
+8.gg\L
+32ff#\LL
+32ee\JJJ
+16.ff#\LL
+32gg#\k
+8aaq/
+16.gg#t\
+16ff#q/LL
+16gg#q/JJ
+32aa\JJk
+=
+16aa\
+*-

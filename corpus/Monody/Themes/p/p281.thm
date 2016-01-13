@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Dances of the Maids from the Antilles
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 2
+!!!statkey: C
+!!DEBUGGING: p281 % . % 1936 % Moscow % P281 % 64 % x % 6: Dances of the Maids from the Antilles % orchestra % Suite No. 2 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8e/L
+16f/L
+16e/JJ
+8f#/L
+16g/L
+16f#/JJ
+=
+8g#/L
+8b/J
+8dd#\L
+8ee\J
+=
+8ff\L
+16gg\L
+16ee\JJ
+8ff\L
+16ee\L
+16cc\JJ
+=
+8dd\L
+16cc\L
+16a\JJ
+4e/
+=
+*-

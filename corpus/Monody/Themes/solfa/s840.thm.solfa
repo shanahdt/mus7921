@@ -1,0 +1,45 @@
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*M3/4
+*A-:
+8.do
+8.re
+8.mi
+8.fa
+=
+[2.la
+=
+2._la
+=
+10.]la
+10.so
+10.fa
+10.la
+10.do
+=
+2.mi
+=
+[2.re
+=
+10.]re
+10.re
+10.do
+10.mi
+10.so
+=
+2.ti
+=
+*-
+!!!COM: Skryabin, Alexander
+!!!CNT: Russian
+!!!date: 1903
+!!!place: Royssia, Moskova
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s840 % . % 1903 % Moscow % S840 % . % . % . % . % . % . % SKRYABIN, Alexander

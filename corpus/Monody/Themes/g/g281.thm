@@ -1,0 +1,60 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Norwegian Melodies
+!!!OPS: Op. 63
+!!!OMV: Mov. 2 
+!!!thm: B (Peasant Dance)     
+!!!AIN: Cstr     
+!!!ODT: 1869///   
+!!!OCY: Italia
+!!!OPC: Roma     
+!!!PDT: 1896///          
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+*>[A,A,B]
+*>A
+=
+16ee\LL
+16cc\
+16r
+16cc\JJ
+16cc\LL
+16b\
+16r
+16b\JJ
+=
+16b/LL
+16a/
+16r
+16a/JJ
+4dd\
+=3:|!
+*>B
+16ee\LL
+16cc\
+16r
+16cc\JJ
+16cc\LL
+16b\
+16r
+16cc\JJ
+=
+16b/LL
+16a/
+16r
+16a/JJ
+4g/
+=
+*-

@@ -1,0 +1,43 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*C:
+2do
+2so
+=
+[2do
+4..]do
+16mi
+=
+[1me
+=
+16]me
+16r
+8r
+4r
+2r
+=
+2do
+2so
+=
+[2do
+4..]do
+16me
+=
+1mi
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1895///-1896
+!!!place: Deutschland, Muenchen
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1365 % . % 1895-1896 % Munich % S1365 % . % . % . % . % . % . % STRAUSS, Richard

@@ -1,0 +1,36 @@
+**kern
+*clefG2
+*k[f#c#g#d#]
+*met(C|)
+*M2/2
+*c#:
+4g#
+8g#
+8g#
+8.g#
+16a
+4g#
+=
+4e
+4f#
+2g#
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1822
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s295 % . % 1822 % Vienna % S295 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1823///
+!!!ODT: <1823/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1823(p) Vienna? (S295) . . . . . . .

@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Marching Song
+!!!OPS: Opus 22
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: C
+!!!title1: Two Songs without Words
+!!!title2: II. Marching Song
+!!!statkey: D
+!!DEBUGGING: h825 % . % 1906 % London % H825 % 22 % c % 2: Marching Song % orchestra % . % Two Songs without Words % HOLST, Gustav Theodore % 1874
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+4do/
+=
+4mi/
+4so/
+4mi/
+4re/
+=
+2do/
+8la/L
+8do/J
+8do/L
+8re/J
+=
+4so/
+4do/
+4.so/
+8mi/
+=
+2mi/
+4re/
+*-

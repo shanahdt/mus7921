@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Humperdinck, Engelbert
+!!!CDT: 1854/09/01/-1921/09/27/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1893///
+!!!OCL: RSC
+!!!ODT: <1893/12/31/
+!!!ODT: <1894/12/31/
+!!!OMV: Mov. Prelude to Act I
+!!!PDT: 1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: orchestra
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Weimar
+!!!theme: B
+!!!title1: Hansel and Gretel
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: h857 % 256 % 1893 % Frankfurt % H857 % . % b % Prelude to Act I % orchestra % Opera % Hansel and Gretel % HUMPERDINCK, Engelbert % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1893(prf) Weimar (H857) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 256 1894(p) Mainz (H857) . b Prelude to Act I orchestra Opera Hansel and Gretel HUMPERDINCK, Engelbert 1854
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+8mi\L
+8fa\J
+=
+4so\
+8so\L
+8fa\J
+4mi\
+8mi\L
+8fa\J
+=
+8so\L
+8la\
+8so\
+8fa\J
+4mi\
+8fa\L
+8so\J
+=
+4la\
+4so\
+4fa\
+4mi\
+=
+2re\
+4mi\
+*-

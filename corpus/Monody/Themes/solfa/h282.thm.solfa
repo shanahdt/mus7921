@@ -1,0 +1,39 @@
+!!!ACO: Classical; RSC
+!!!COM: Harris, Roy
+!!!CDT: 1898/02/12/-1979/10/01/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1932
+!!!instrument: string
+!!!place: United States of America, New York
+!!!title1: Chorale for Strings
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h282 % . % 1932 % New York % H282 % 3 % x % . % string % . % Chorale for Strings % HARRIS, Roy % 1898
+**solfa
+*clefG2
+*k[]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2mi/
+4do/
+4la/
+=
+2.so/
+4mi/
+=
+4so\
+4fa\
+4mi/
+4do/
+=
+1re/
+=
+*-

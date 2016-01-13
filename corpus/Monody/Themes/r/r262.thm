@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: A: CAMPANAE PARISIENSES
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 2
+!!!statkey: C
+!!DEBUGGING: r262 % 381 % ? % ? % R262 % . % a: Campanae Parisienses % 3 % orchestra % Suite No. 2 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4r
+4e/
+2d/
+=
+4c/
+4e/
+4d/
+4g/
+=
+4c/
+4f/
+4e/
+4d/
+=
+4c/
+8f/L
+8e/J
+2d/
+=
+4c/
+4e/
+2d/
+=
+4c/
+4e/
+2d/
+=
+*-

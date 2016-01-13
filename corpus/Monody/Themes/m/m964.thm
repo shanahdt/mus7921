@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 543
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: C
+!!!title1: Symphony No. 39 in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m964 % . % 1788 % Vienna % M964 % K 543 % c % 1 % orchestra % . % Symphony No. 39 in E Flat % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*B-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+2.B-/
+=
+8bb-\L
+8ddd\
+8ccc\
+8aan\
+8gg\
+8bb-\J
+=
+8aan\L
+8ff\
+8ee-\
+8gg\
+8ff\
+8dd\J
+=
+4ff\
+4ff\
+4ff\
+=
+4.ff\
+16gg\LL
+16ff\JJ
+8bb-\
+8r
+=
+*-

@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 6
+!!!OPS: Opus K 600
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Deutsche T&auml;nze
+!!!title2: K 600, No. 6
+!!!statkey: D
+!!DEBUGGING: m545 % 318 % 1791 % Vienna % M545 % K 600 No. 6 % x % . % orchestra % . % Deutsche T&auml;nze % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+4do\
+=
+2do\
+4so\
+=
+4mi\
+4do\
+8mit\L
+16re\L
+16mi\JJ
+=
+4fa\
+4so\
+4la\
+=
+4so\
+4mi\
+*-

@@ -1,0 +1,51 @@
+**solfa
+*clefG2
+*k[f#c#g#]
+*M3/4
+!! NB. Key & key signature disagree.
+*E:
+2.do
+=
+qdo
+4mi
+4re
+4do
+=
+2de
+4la
+=
+2so
+4r
+=
+2la
+4de
+=
+4.do
+8re
+8mi
+8fa
+=
+4so
+4so
+4so
+=
+4mi
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1817
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s459 % 415 % 1817 % Vienna % S459 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1851///
+!!!ODT: <1851/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1851(p) Vienna? (S459) . . . . . . .

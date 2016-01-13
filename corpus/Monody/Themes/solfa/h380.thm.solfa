@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1789,1790/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1789,1790///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1788
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in G
+!!!title2: 1st Movement
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h380 % . % -1788 % Eszterh&aacute;za % H380 % . % x % 1 % string % . % Quartet in G % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789,1790(p) ? (H380) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+16doq/LL
+16laq/JJ
+2.fa\
+16mi\LL
+16fa\
+16la\
+16fa\JJ
+=
+8do\L
+8do\
+8do\
+8do\J
+8do\L
+8do\
+8do\
+8do\J
+=
+8doq/
+[2do\
+16do\LL]
+16ti\
+16do\
+16ti\JJ
+16do\LL
+16la\
+16te\
+16so\JJ
+=
+4fa\
+*-

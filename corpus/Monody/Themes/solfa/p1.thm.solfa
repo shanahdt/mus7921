@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Pachelbel, Johann
+!!!CDT: <1653/09/01/-<1706/03/09/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: organ
+!!!place: ?
+!!!title1: Ciacona in D Minor
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p1 % . % n.d. % ? % P1 % . % x % . % organ % . % Ciacona in D Minor % PACHELBEL, Johann % 1653
+**solfa
+*clefG2
+*k[]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4me/
+4do/
+4me/
+=
+4re/
+4ti/
+4re/
+=
+8do/L
+8ti/
+8do/
+8me/
+8re/
+8do/J
+=
+4.ti/
+8la/
+4ti/
+=
+4me/
+4do/
+4me/
+=
+4fa/
+4re/
+4fa/
+=
+4.so/
+*-

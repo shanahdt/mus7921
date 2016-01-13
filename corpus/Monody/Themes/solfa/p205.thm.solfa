@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1921///
+!!!OCL: RSC
+!!!ODT: <1921/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 26
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1917///-1921
+!!!instrument: piano, orchestra
+!!!place: Royssia, St. Petersburg & France
+!!!splace: United States of America, Illinois, Chicago
+!!!theme: B
+!!!title1: Concerto No. 3
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: p205 % . % 1917-1921 % Petrograd, France % P205 % 26 % b % 1 % piano, orchestra % . % Concerto No. 3 % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1921(prf) Chicago (P205) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+4so\
+4fa\
+=
+2mi\
+4do\
+4si/
+=
+4ti\
+4ri\
+8di\L
+8do\J
+4ti\
+=
+8faq/
+2la\
+8si\L
+8la\
+8li\
+8ti\J
+=
+2.ti\
+12do\L
+12ra\
+12me\J
+=
+4fa\
+*-

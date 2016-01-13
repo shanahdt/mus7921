@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus 123
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912
+!!!instrument: orchestra
+!!!place: Deutschland, Meiningen
+!!!title1: Konzert im Alten Stil
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: r226 % . % 1912 % Meiningen % R226 % 123 % x % 1 % orchestra % . % Konzert im Alten Stil % REGER, Max % 1873
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+4.ff\
+24dd\LL
+24ee\
+24ff\JJ
+4.cc\
+16dd\LL
+16ee-\JJ
+=
+16dd\LL
+16cc\
+16b-\
+16a\JJ
+16b-/LL
+16a/
+16g/
+16f/JJ
+16en/LL
+16c/
+16e/
+16g/JJ
+16cc\LL
+16dd\
+16a\
+16b-\JJ
+=
+16a/LL
+16g/
+16a/
+16f/JJ
+16b-/LL
+16cc/
+16b-/
+16f/JJ
+16bn/LL
+16a/
+16b/
+16g/JJ
+16cc#\LL
+16dd\
+16cc#\
+16a\JJ
+=
+*-

@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!ONM: No. 37
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1780
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!title1: Sonata in D
+!!!title2: 2nd Movement
+!!!statkey: d
+!!DEBUGGING: h526 % . % -1780 % Eszterh&aacute;za % H526 % B. & H. No. 37 % x % 2 % piano % . % Sonata in D % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4do/
+4.me/
+8re/
+=
+[4do/
+16do/LL]
+48do/L
+48re/
+48mi/JJJ
+16.fa/LL
+32so/JJk
+4le\
+=
+4le\
+8.so/L
+48fa/LL
+48me/
+48re/JJJ
+4me/
+=
+16req/LLL
+16meq/
+16faq/JJJ
+4me/
+2re/
+=
+*-

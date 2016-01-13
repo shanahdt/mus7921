@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1827///
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. Overture
+!!!OPS: Opus 21
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Stettin
+!!!theme: DA
+!!!title1: Midsummer's Night Dream
+!!!title2: Overture, Op. 21
+!!!statkey: c#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m223 % . % 1826 % Berlin % M223 % 21 % da % Overture % orchestra % . % Midsummer's Night Dream % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(prf) Stettin (M223) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M223) 21 da Overture orchestra . Midsummer's Night Dream MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*B:
+*M2/2
+!! ! NB. Key & key signature disagree.
+8do\L
+8re\J
+=
+4mi\
+8mi\L
+8re\J
+4do\
+8do\L
+8re\J
+=
+4mi\
+8mi\L
+8re\J
+4do\
+4mi\
+=
+2.re\
+4mi\
+=
+2.re\
+*-

@@ -1,0 +1,51 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M6/8
+*g:
+8ti
+=
+8do
+8r
+8re
+8me
+8r
+8fa
+=
+8so
+8r
+8do
+8so
+8r
+8me
+=
+8re
+8r
+8fa
+8me
+8r
+8re
+=
+8do
+8r
+8le
+8so
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1838
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s637 % . % 1838 % Leipzig % S637 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1838///
+!!!ODT: <1838/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1838(p) ? (S637) . . . . . . .

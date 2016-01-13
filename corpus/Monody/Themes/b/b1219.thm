@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!ODT: 1770///-1771///
+!!!OCY: France
+!!!OPC: Paris   
+!!!OTL: Concerto No. 2 in D for Cello and Orchestra
+!!!SET: No. 2
+!!!OMV: Mov. 3
+!!!thm: A b
+!!!AIN: cello orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=
+4.dd\
+32ddq/LLL
+32cc#q/
+32ddq/JJJ
+=
+8cc#\L
+8b\
+8a\J
+=
+4.a/
+=
+8f#/L
+8g/
+8a/J
+=
+8b\L
+8cc#\
+8dd\J
+=
+8cc#\L
+8b\
+8a\J
+=
+8g/L
+8f#/
+8e/J
+=
+16d/
+*-

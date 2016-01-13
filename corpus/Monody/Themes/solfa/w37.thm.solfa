@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1869///
+!!!OCL: RSC
+!!!ODT: <1869/12/31/
+!!!ODT: <1873/12/31/
+!!!PDT: 1873///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1854
+!!!place: Helvetia, Zurich
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Muenchen
+!!!title1: Das Rheingold, Opera (Der Ring Der Nibelungen, Part I)
+!!!title2: Entrance of the Gods Into Valhalla
+!!!statkey: b-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w37 % 509 % 1854 % Zurich % W37 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1869(prf) Munich (W37) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 509 1873(p) Mainz (W37) . . . . . . WAGNER, Richard
+**solfa
+*clefF4
+*k[b-e-a-d-g-]
+*G-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4do/
+4.mi/
+8so\
+=
+8.do\L
+16mi\Jk
+4so\
+4mi\
+=
+4do\
+4so\
+8mi/L
+8fe/J
+=
+4so\
+4mi/
+8do/L
+8re/J
+=
+4mi/
+4.so\
+8do\
+=
+*-

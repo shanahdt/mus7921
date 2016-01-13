@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 8 in F Minor
+!!!title2: 2nd Movement
+!!!statkey: f
+!!DEBUGGING: h227 % 224 % 1720(p) % London? % H227 % . % x % 2 % piano % . % Suite No. 8 in F Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/4
+=
+2f/
+=
+2g/
+=
+4a-/
+8r
+8a-/
+=
+4b-\
+4cc\
+=
+8f\L
+8ff\
+8cc\
+8ddn\J
+=
+8ee-/L
+8g/
+8cc/
+8e-/J
+=
+8f/L
+8cc/J
+8bn\L
+16cc\L
+16ddn\JJ
+=
+8g\L
+8gg\J
+4cc\
+=
+*-

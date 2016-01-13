@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Thomson, Virgil
+!!!CDT: 1896/11/25/-1989/09/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1932
+!!!place: France, Paris & United States of America, New York(?)
+!!!title1: Quartet No. 2, Str.
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: t118c % 486 % 1932 % Paris and NY? % T118c % . % . % . % . % . % . % THOMSON, Virgil
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+[2do/
+8do/L]
+8so/J
+=
+[2mi/
+8mi/L]
+8do/J
+=
+[2so/
+8so/L]
+8mi/J
+=
+2mi\
+4re\
+=
+4do\
+4ti\
+4la\
+=
+2so/
+4fa/
+=
+2.mi/
+=
+*-

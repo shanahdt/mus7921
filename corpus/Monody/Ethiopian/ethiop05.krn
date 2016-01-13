@@ -1,0 +1,79 @@
+!!!COM: Anon.
+!!!OTL: [Voice using vocables; Example 1]
+!!!AGN: monody
+!!!AMT: no meter
+!! page 220
+**kern	**silbe
+*ICvox	*
+*clefG2	*
+*k[]	*
+*M?	*M?
+!! line 1
+4.c	ne
+8d	ne
+(8d	ne
+4e)	|
+8g	ne
+4.g	ne
+8a	ne
+(8cc	ne
+4.dd;)	|
+(16cc	ne
+16dd)	|
+(16.ee	ne
+32dd)	|
+!! line 2
+Q32cc	ne
+Q32a	|
+8..cc	|
+32cc	ne
+32a	|
+[12cc	ne
+12cc]	|
+([12cc	ne
+8cc]	|
+8dd	|
+2ee)	|
+!! "Z"
+8d	ne
+(16ee	ne
+16gg)	|
+{(16ee	ne
+16dd)	|
+16cc	|
+16dd	|
+16ee	|
+16dd}	|
+4cc	ne
+!! line 3
+qa	ne
+8cc	|
+(16cc	ne
+16dd	|
+16ee	|
+16dd)	|
+(16.cc	ne
+32dd)	|
+(16.ee	ne
+32dd)	|
+4.cc	ne
+8c	ne
+8.cc	ne
+16cc	ne
+([2cc	ne
+2cc]	|
+*-	*-
+!!!CNT: Ethiopia
+!!!OCY: United States
+!!!OCL: Ashenafi Kebede
+!!!YOR: Ashenafi Kebede, "The Music of Ethiopia, Its Development and Cultural Setting"
+!!!YOR: PhD dissertation, Wesleyan University, 1971
+!!!PDT: 1971
+!!!PPP: Middletown, Connecticut, United States of America
+!!!YEC: Electronic Copyright 2000 David Huron
+!!!YER: November 2000
+!!!YEN: United States of America
+!!!ENC: David Huron
+!!!RDT: November 26, 2000
+!!!EEV: Release 1.0
+!!!AIN: vox

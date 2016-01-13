@@ -1,0 +1,41 @@
+**solfa
+*clefG2
+*k[b-e-a-d-g-c-]
+*met(?)
+*M4/2
+*G-:
+1mi
+2mi
+2mi
+=
+1mi
+1do
+=
+1re
+4do
+4ti
+4la
+4so
+=
+2do
+2mi
+2.re
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1827
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s301 % . % 1827 % Vienna % S301 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1857///
+!!!ODT: <1857/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1857(p) Vienna? (S301) . . . . . . .

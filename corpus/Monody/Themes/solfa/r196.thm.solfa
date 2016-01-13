@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1920///
+!!!OCL: RSC
+!!!ODT: <1920/12/31/
+!!!OMV: Mov. Toccata
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1917
+!!!instrument: piano or orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Le Tombeau de Couperin
+!!!title2: Toccata
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r196 % . % 1914-1917 % Paris % R196 % . % b % Toccata % piano or orchestra % . % Le Tombeau de Couperin % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1919(rev) . (R196) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1920(prf) Paris (R196) . b Toccata piano or orchestra . Le Tombeau de Couperin RAVEL, Maurice 1875
+**solfa
+*clefG2
+*k[f#]
+*C-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8.de\L
+16ty\Jk
+8.de\L
+16ty\Jk
+=
+16li\LL
+16si\J
+8fi\J
+8.ty\L
+16li\Jk
+=
+16ty\LL
+16li\J
+8ri\J
+8my\L
+8fi\J
+=
+*-

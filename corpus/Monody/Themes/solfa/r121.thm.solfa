@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Les Triolets
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!statkey: G
+!!DEBUGGING: r121 % 374 % 1724(p) % Paris % R121 % . % x % Les Triolets % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R121) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8mi\L
+8fa\
+8so\J
+=
+4.la\
+8ti\
+4do\
+=
+4soT\
+4fa\
+4mi\
+=
+2re/
+4so\
+=
+8faq/
+4mi\
+4fa\
+8miq/
+4re/
+=
+8mit/L
+8re/
+8do/
+8ti/
+8do/
+8re/J
+=
+8mi\L
+8fa\J
+4so\
+4do\
+=
+8doq/
+4.ti\
+*-

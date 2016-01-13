@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1888///
+!!!ODT: <1888/12/31/
+!!!OMV: Mov. Witch
+!!!ONM: No. 4
+!!!OPC: United States of America, Massachusetts, Boston
+!!!OPS: Opus 38
+!!!PDT: 1888///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: piano
+!!!splace: Deutschland, Breslau, & United States of America, New York
+!!!splace: United States of America, Massachusetts, Boston & United States of America, New York
+!!!title1: Marionettes
+!!!statkey: d
+!!DEBUGGING: m15 % . % 1888(c) % Boston % M15 % 38 No. 4 % x % Witch % piano % . % Marionettes % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(p) Breslau, New York (M15) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(rev) Boston, New York (M15) 38 No. 4 x Witch piano . Marionettes MACDOWELL, Edward 1860
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4dd\
+4r
+4cc\
+=
+4d/
+4r
+4f/
+=
+4B-/
+8r
+16r
+16c/
+4d/
+=
+4A/
+2c/
+=
+*-

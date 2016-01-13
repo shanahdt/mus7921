@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 5
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: 2 piano
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Fantasy Suite No. 1
+!!!title2: 4th Movement (A Russian Easter)
+!!!statkey: B-
+!!DEBUGGING: r29 % . % 1893 % Moscow % R29 % 5 % b % . % 2 piano % . % Fantasy Suite No. 1 % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+8so\
+=
+4.le\
+8so\
+4le\
+4le\
+=
+4le\
+4le\
+2so\
+=
+4so\
+8so\L
+8so\J
+4le\
+4so\
+=
+4.le\
+8so\
+8.so\L
+16so\Jk
+8so\L
+8so\J
+=
+4le\
+4so\
+4fa\
+8so\L
+8so\J
+=
+1le\
+=
+*-

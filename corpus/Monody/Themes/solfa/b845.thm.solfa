@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1821///-1822///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1823///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.31 in A Flat for Piano                  
+!!!OPS: Op. 110
+!!!SET: No. 31
+!!!OMV: Mov. 3
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-a-d-g-c-]
+*A-:
+*M12/16
+=
+!! ! NB. Key & key signature disagree.
+[8.so\
+8so\L]
+[16fa\Jk
+8fa\L]
+16me\Jk
+16re/LL
+16me/
+16do/JJ
+=
+8.do/
+!!   B&M Encoding error?  4. changed to 8.
+[8.ti/
+!!   B&M Encoding error?  4. changed to 8.
+8ti\L]
+[16le\Jk
+8le\L]
+16so\Jk
+=
+8so\L
+[16do\Jk
+8do\]
+*-

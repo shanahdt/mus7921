@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 268
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1780///-1781?
+!!!instrument: violn, orchestra
+!!!place: Oesterreich, Salzburg(?)
+!!!title1: Concerto in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: m529 % . % 1780-1781? % Salzburg? % M529 % K 268 % x % 1 % violn, orchestra % . % Concerto in E Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/2
+=
+2do/
+4so/
+4mi/
+=
+4do/
+4so\
+4mi/
+4do\
+=
+2re\
+8re\L
+8mi\
+8fa\
+8re\J
+=
+2.do\
+8mi\L
+8re\J
+=
+4do\
+*-

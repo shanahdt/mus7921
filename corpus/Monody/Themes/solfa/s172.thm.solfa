@@ -1,0 +1,37 @@
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*MX
+!! NB. Key & key signature disagree.
+*F:
+4r
+8so
+8te
+4la
+4so
+qso
+2fi
+qso
+2fi
+4r
+8so
+8te
+4la
+4so
+qti
+2do
+qti
+2do
+*-
+!!!COM: Satie, Erik
+!!!CNT: French
+!!!date: 1890
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s172 % 400 % 1890 % Paris? % S172 % . % . % . % . % . % . % SATIE, Erik

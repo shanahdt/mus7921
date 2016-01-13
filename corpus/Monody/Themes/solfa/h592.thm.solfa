@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1792///
+!!!OCL: RSC
+!!!ODT: <1792/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 93
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: C
+!!!title1: Symphony in D
+!!!title2: London 2
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h592 % . % 1791 % London % H592 % B. & H. No. 93 % c % 1 % orchestra % London 2 % Symphony in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1792(prf) . (H592) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*A:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+2so\
+8mi\L
+8do\J
+=
+8do/L
+8ti/J
+4ti/
+4so/
+=
+8do\L
+8ti\
+8do\
+8re\
+8mi\
+8fa\J
+=
+4re\
+4so/
+8la\L
+8so\J
+=
+2so\
+8mi\L
+8do\J
+=
+8do/L
+8ti/J
+4ti/
+4so/
+=
+*-

@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Lezghinka
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: a
+!!DEBUGGING: k42 % . % 1942 % Moscow % K42 % . % x % Lezghinka % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K42) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M2/2
+=
+12ee\L
+12r
+12ee\J
+12ee\L
+12dd\
+12cc#\J
+12ee\L
+12r
+12ee\J
+12ee\L
+12dd\
+12cc#\J
+=
+12ee\L
+12dd\
+12cc#\J
+12dd\L
+12cc#\
+12b\J
+12a/L
+12g#/
+12a/J
+12b\L
+12cc#\
+12dd\J
+=
+12ee\L
+12r
+12ee\J
+12ee\L
+12dd\
+12cc#\J
+*-

@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1681///
+!!!OCL: RSC
+!!!ODT: <1681/12/31/
+!!!OMV: Mov. Nocturne
+!!!PDT: 1681///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1681(prf)
+!!!instrument: orchestra
+!!!place: France, Saint-Germain
+!!!splace: France, Paris
+!!!title1: Le Triomphe de L'Amour
+!!!title2: Ballet
+!!!statkey: d
+!!DEBUGGING: l312 % . % 1681(prf) % Saint-Germain % L312 % . % x % Nocturne % orchestra % Ballet % Le Triomphe de L'Amour % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1681(p) Paris (L312) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/2
+=
+2r
+2aa\
+2ccc\
+=
+2gg\
+2gg\
+2bb-\
+=
+2ff\
+2ff\
+2aa\
+=
+2.ee\
+4ee\
+2ee\
+=
+2ff\
+[2eeT\
+4ee\]
+4dd\
+=
+2dd\
+*-

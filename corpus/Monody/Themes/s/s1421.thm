@@ -1,0 +1,50 @@
+**kern
+*clefG2
+*k[f#c#g#d#]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*B:
+4f#
+=
+4.dd#
+8r
+[2dd#
+=
+6]dd#
+6ee
+6dd#
+6cc#
+6g#
+6b-
+=
+[1b
+=
+4]b
+4cc
+4.cc#
+8b-
+=
+4f#
+2ee
+4dd#
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1888///-1889
+!!!place: Deutschland, Muenchen
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1421 % . % 1888-1889 % Munich % S1421 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1889///
+!!!ODT: <1889/12/31/
+!!!splace: Deutschland, Weimar
+!!!CDT: ///-
+!!DEBUGGING: . . 1889(prf) Weimar (S1421) . . . . . . .

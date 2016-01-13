@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!title1: El&eacute;gie
+!!!statkey: e-
+!!DEBUGGING: r20 % 369 % 1892 % Moscow % R20 % 3 No. 1 % x % . % piano % . % El&eacute;gie % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[b-e-a-d-g-c-]
+*e-:
+*M4/4
+[2me\
+=
+2me\]
+[2re\
+=
+8re\]
+4ti\
+16do\LL
+16re\JJ
+[2do\
+=
+8do\]
+4so\
+8le\
+[2te\
+=
+8te\L]
+16do\L
+16te\JJ
+2le\
+[4so\
+=
+4so\]
+2fa/
+4me/
+=
+1do/
+=
+*-

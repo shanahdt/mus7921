@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 313
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: flt, orchestra
+!!!place: Deutschland, Mannheim
+!!!title1: Concerto in G
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: m439 % . % 1778 % Mannheim % M439 % K 313 % x % 2 % flt, orchestra % . % Concerto in G % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4A/
+8d/L
+8f#/J
+8a/L
+8a/
+8a/
+8a/J
+=
+16a/LL
+16dd/
+16b/
+16g#/JJ
+16a/LL
+16b/
+16aq/
+16gn/
+16f#q/
+16e/JJ
+[8d/L
+16.d/L]
+64e/LL
+64f#/JJJJ
+8g/
+*-

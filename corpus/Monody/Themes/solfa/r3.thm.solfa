@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1890///-1891
+!!!instrument: piano, orchestra
+!!!place: Ukraina, Ivanovka
+!!!splace: Royssia, Moskova
+!!!title1: Concerto No. 1 in F Sharp Minor
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: r3 % (367) % 1890-1891 % Ivanovka % R3 % 1 % x % 2 % piano, orchestra % . % Concerto No. 1 in F Sharp Minor % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1917(rev) Moscow (R3) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4r
+2do\
+4so/
+=
+2.ti\
+6so/
+12la/
+=
+2te\
+12re/L
+12mi/
+12fa/J
+6la/
+12so/
+=
+[2mi/
+8mi/L]
+8fi/J
+6so/
+12si/
+=
+4la\
+2re\
+*-

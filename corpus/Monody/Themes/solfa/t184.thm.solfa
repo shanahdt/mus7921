@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Serenade in C, Op. 48, Str.
+!!!title2: 2nd Movement (Waltz)
+!!!statkey: G
+!!DEBUGGING: t184 % . % 1881(prf) % St. Petersburg % T184 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8do\
+=
+4ti\
+4do\
+4re\
+=
+16doq/LL
+16req/JJ
+4do\
+4ti\
+4la\
+=
+8so\
+8r
+[2do\
+=
+4do\]
+4ti\
+4so\
+=
+8fa\
+8r
+[2ti\
+=
+4ti\]
+4la\
+4fa\
+=
+*-

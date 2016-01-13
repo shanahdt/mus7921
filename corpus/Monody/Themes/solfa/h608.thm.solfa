@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1791///
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 95
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony in C Minor
+!!!title2: London 5
+!!!statkey: E-
+!!DEBUGGING: h608 % . % 1791 % London % H608 % B. & H. No. 95 % b % 1 % orchestra % London 5 % Symphony in C Minor % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(prf) . (H608) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+16mi\
+=
+4mi\
+8do\
+16r
+16do\
+4do\
+8so\
+16r
+16so\
+=
+8so/L
+8fa/
+8fa/
+8mi/J
+4mi/
+8.r
+16fa\
+=
+4fa\
+8re\
+16r
+16re\
+4re\
+8ti\
+16r
+16fa/
+=
+8fa/L
+8mi/
+8mi/
+8re/J
+4re/
+*-

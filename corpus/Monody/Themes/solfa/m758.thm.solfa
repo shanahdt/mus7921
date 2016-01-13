@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus K 525
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: string orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Serenade in G
+!!!title2: Eine Kleine Nachtmusik
+!!!statkey: G
+!!DEBUGGING: m758 % . % 1787 % Vienna % M758 % K 525 % x % 4 % string orchestra % Eine Kleine Nachtmusik % Serenade in G % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/2
+8r
+8so\L
+8do\
+8mi\J
+=
+4so\
+4so\
+4so\
+4so\
+=
+4ti\
+4ti\
+4do\
+4doS\
+=
+4fa\
+4fa\
+4mi\
+4mi\
+=
+4re\
+4r
+*-

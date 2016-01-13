@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 570
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: m807 % . % 1789 % Vienna % M807 % K 570 % x % 3 % piano % . % Sonata in B Flat % c1786(p) % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+8do\
+=
+8mi\L
+8r
+8fa\J
+8r
+4fi\
+8so\
+8mi\
+=
+8miq/
+8re\L
+8di\
+8re\
+8mi\J
+4so\
+8fa\L
+8ti\J
+=
+8do\
+4do\
+8di\
+8re\
+4re\
+8ri\
+=
+8mi\
+*-

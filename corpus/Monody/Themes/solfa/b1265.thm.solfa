@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Boëllmann, Léon
+!!!CDT: 1862/09/25/-1897/10/11/
+!!!CNT: French
+!!!ODT: 1895///
+!!!OCY: France
+!!!OPC: Paris
+!!!OTL: Variations Symphoniques for Cello and Orchestra
+!!!OPS: Op. 63                    
+!!!thm: Introduction
+!!!AIN: cello orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M4/4
+16le\
+=
+4..so/
+16me/
+4..do/
+*clefF4
+16le\
+=
+4..so\
+16me\
+4do\
+8r
+8so/
+=
+4.le/
+8do\
+8me\L
+8so\
+8le\
+8do\J
+=
+4.do\
+8ti\
+4so\
+*-

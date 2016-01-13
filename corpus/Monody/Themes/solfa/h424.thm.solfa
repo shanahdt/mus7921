@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 4
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!title1: Quartet in D
+!!!title2: "The Lark"
+!!!statkey: D
+!!DEBUGGING: h424 % . % 1790 % Vienna % H424 % . % x % 4 % string % "The Lark" % Quartet in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) ? (H424) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+16mi/LL
+16fa/JJ
+=
+16so/LL
+16mi/
+16fa/
+16so/JJ
+16la\LL
+16ti\
+16do\
+16la\JJ
+=
+16so\LL
+16do\
+16mi\
+16re\JJ
+16do\LL
+16ti\
+16la\
+16so\JJ
+=
+16fa/LL
+16so/
+16mi/
+16fa/JJ
+16re/LL
+16mi/
+16do/
+16re/JJ
+=
+16ti/
+*-

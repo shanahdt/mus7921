@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!instrument: piano, orchestra
+!!!place: Helvetia(?)
+!!!title1: Concertino
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: h833 % . % 1925 % Switzerland? % H833 % . % x % 2 % piano, orchestra % . % Concertino % HONEGGER, Arthur % 1892
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/8
+=
+4me\
+8me\L
+8me\J
+=
+16re\LL
+16me\
+16fa\
+16me\JJ
+4re/
+=
+8.de/L
+16ra/k
+8me/
+8fa/J
+=
+2me\
+=
+*-

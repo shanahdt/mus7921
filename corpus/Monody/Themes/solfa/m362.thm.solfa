@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus 66
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!instrument: violn, cello, piano
+!!!place: Deutschland, Leipzig(?)
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Trio No. 2 in C Minor
+!!!title2: 4th Movement
+!!!statkey: c
+!!DEBUGGING: m362 % . % 1845 % Leipzig? % M362 % 66 % a % 4 % violn, cello, piano % . % Trio No. 2 in C Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(p) Leipzig (M362) . . . . . . . .
+**solfa
+*clefF4
+*k[b-e-a-]
+*c:
+*M6/8
+8so\
+8le\L
+8so\
+8fa\J
+=
+8me\L
+8re\
+8do\J
+8ti\L
+8do\
+8re\J
+=
+8.so\L
+16le\k
+8so\J
+4do\
+8do\
+=
+8.me\L
+16re\k
+8do\J
+4do\
+8do\
+=
+4.re\
+*-

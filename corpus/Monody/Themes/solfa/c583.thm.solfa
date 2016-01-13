@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OPR: Messe Pour Les Paroisses
+!!!OTL: Offertoire Sur Les Grands Jeux
+!!!thm: B
+!!!AIN: cemba
+!!!PDT: 1690///
+!!!PPP: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-]
+*C:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2so\
+4do\
+4me\
+=
+2.re\
+4re\
+=
+2fa\
+4do\
+4re\
+=
+2.me\
+4me\
+=
+2me\
+4re\
+4fa\
+=
+2ti\
+[2do\
+=
+2do\]
+2ti\
+=
+2do\
+*-

@@ -1,0 +1,57 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*a:
+8.so
+16do
+8.do
+16ti
+8.ti
+16le
+8.le
+16so
+=
+8.so
+16fi
+8.fi
+16so
+qle
+8so
+8fi
+4so
+=
+8r
+8te
+[4so
+12]so
+12fa
+12so
+12le
+12so
+12fa
+=
+8fa
+8me
+Q16me
+Q16fa
+8.me
+16re
+2me
+=
+*-
+!!!COM: Supp&eacute;, Franz von
+!!!CNT: Austrian
+!!!MPD: 1866///
+!!!ODT: <1866/12/31/
+!!!date: 1866(prf)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1629e % . % 1866(prf) % Vienna % S1629e % . % . % . % . % . % . % SUPP&Eacute;, Franz von

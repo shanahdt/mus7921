@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1898/12/31/
+!!!OPS: Opus 55
+!!!PDT: 1898///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1898
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!title1: Sea Pieces
+!!!title2: No. 7: Nautilus
+!!!statkey: A-
+!!DEBUGGING: m26 % 291 % 1898 % New York % M26 % 55 % x % . % piano % No. 7: Nautilus % Sea Pieces % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1898(p) . (M26) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M6/8
+=
+4.so/
+4mi/
+8so/
+=
+8.di/L
+8.re/J
+4ti/
+8la/
+=
+4.re\
+8do/L
+8la/
+8so/J
+=
+4.fi/
+4ti/
+8la/
+=
+4.so/
+*-

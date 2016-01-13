@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Casella, Alfredo
+!!!CDT: 1883/07/25/-1947/03/05/
+!!!CNT: Italian
+!!!OTL: Pupazzetti
+!!!OMV: Mov. 1 (Marcietta)
+!!!thm: A 
+!!!AIN: orchestra
+!!!PDT: 1920///
+!!!OCY: Italia
+!!!OPC: Roma
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*D-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8re\L
+8la\J
+4la\
+=
+8do\L
+8so\J
+4so/
+=
+8.la/L
+16so/k
+8fa/
+8so/J
+=
+16la\LL
+16ti\
+16do\
+16ti\JJ
+8la/L
+8so/J
+=
+*-

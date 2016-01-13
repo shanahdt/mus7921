@@ -1,0 +1,76 @@
+!!!ACO: Classical; RSC
+!!!COM: Mahler, Gustav
+!!!CDT: 1860/05/07/-1911/05/18/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1895///
+!!!OCL: RSC
+!!!ODT: 1888-1894///
+!!!ODT: <1895/12/31/
+!!!ODT: <1903/12/31/
+!!!OMV: Mov. 3
+!!!OPC: Magyar, Budapest & Deutschland, Hamburg
+!!!PDT: 1903///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!splace: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Symphony No. 2 in C Minor
+!!!title2: "Resurrection"
+!!!statkey: c
+!!DEBUGGING: m64 % 293 % 1888-1894(c) % Budapest, Hamburg % M64 % . % a % 3 % orchestra % "Resurrection" % Symphony No. 2 in C Minor % MAHLER, Gustav % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1903(rev) Vienna (M64) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 293 1895(prf) Berlin (M64) . a 3 orchestra "Resurrection" Symphony No. 2 in C Minor MAHLER, Gustav 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 293 1903(p) Leipzig (M64) . a 3 orchestra "Resurrection" Symphony No. 2 in C Minor MAHLER, Gustav 1860
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/8
+16do/LL
+16so/JJ
+=
+16do/LL
+16re/
+16me/
+16fa/
+16so/
+16le/JJ
+=
+16so/LL
+16me/
+16do/
+16re/
+16me/
+16fa/JJ
+=
+8leq/
+16so/LL
+16fi/
+16so/
+16ti/
+16do/
+16re/JJ
+=
+16me\LL
+16so\
+16fa\
+16me\
+16re\
+16do\JJ
+=
+16re\LL
+16fa\
+16me\
+16re\
+16do\
+16te\JJ
+=
+*-

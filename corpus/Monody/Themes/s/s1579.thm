@@ -1,0 +1,60 @@
+**kern
+*clefG2
+*k[b-e-a-]
+*M2/4
+!! NB. Key & key signature disagree.
+*D-:
+4b-
+4b-
+=
+4b-
+4b-
+=
+8cc
+8dd-
+4ee-
+=
+4dd-
+4cc
+=
+4b-
+4b-
+=
+8cc
+8dd-
+4ee-
+=
+4b-
+4b-
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1911///-1913
+!!!place: Ustileg and Clarens
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1579 % . % 1911-1913 % Ustileg and Clarens % S1579 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1913///
+!!!ODT: <1913/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1913(prf) Paris (S1579) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1921///
+!!!ODT: <1921/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . . 1921(p) R (S1579) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1947(rev)///
+!!!ODT: <1947/12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . . 1947(rev)(p) B (S1579) . . . . . . STRAVINSKY, Igor

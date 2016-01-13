@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938///-1939
+!!!place: Europe?
+!!!title1: Concerto, Vn. & Orch.
+!!!title2: 2nd Movement
+!!!statkey: c#
+!!DEBUGGING: w164 % . % 1938-1939 % Europe? % W164 % . % . % . % . % . % . % WALTON, William Turner
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M3/4
+=
+4r
+2cc#\
+=
+8dd#\L
+8ee\J
+4.ff#\
+16r
+16dd#\
+=
+4ee\
+4cc#\
+[4dd#\
+=
+4dd#\]
+4..b\
+16b\
+=
+4cc#\
+4g#/
+[4b\
+=
+4b\]
+2a/
+=
+32bq/LLL
+32aq/JJJ
+[2.g#/
+=
+2.g#/]
+=
+*-

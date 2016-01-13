@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Pergolesi, Giovanni
+!!!CDT: 1710/01/04/-1736/03/16/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: spurious?
+!!!instrument: string orchestra
+!!!place: 1710
+!!!title1: Concertino in F Minor
+!!!title2: 3rd Movement
+!!!statkey: A-
+!!DEBUGGING: p73 % . % spurious? % 1710 % P73 % . % x % 3 % string orchestra % . % Concertino in F Minor % PERGOLESI, Giovanni % 1637
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+8cc\L
+8dd-\
+8ee-\
+8ff\
+8ee-\
+8ff\J
+=
+4ee-\
+2aa-\
+=
+8gg\L
+8aa-\J
+4bb-\
+4dd-\
+=
+4dd-T\
+4cc\
+4aa-\
+=
+8bb-\L
+8aa-\
+8gg\
+8ff\
+8ee-\
+8dd-\J
+=
+4dd-T\
+2cc\
+=
+*-

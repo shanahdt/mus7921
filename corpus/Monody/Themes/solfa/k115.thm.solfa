@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: B
+!!!title1: Sch&ouml;n Rosmarin
+!!!statkey: G
+!!DEBUGGING: k115 % . % n.d.(c) % ? % K115 % . % b % . % violn, piano % . % Sch&ouml;n Rosmarin % KREISLER, Fritz % 1875
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+4do/
+=
+16laq/LL
+16tiq/JJ
+4.la\
+8si\
+4la\
+=
+8r
+8do\
+4.fa\
+8la\
+=
+16soq/LL
+16laq/JJ
+4.so\
+8fi\
+4so\
+=
+8r
+8do\
+4.mi\
+8so\
+=
+4.fa\
+8la\
+[4ti/
+=
+8ti/L]
+8fa/J
+4.so/
+8fa\
+=
+4.mi\
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite in G Minor
+!!!title2: Overture
+!!!statkey: g
+!!DEBUGGING: p363 % . % n.d. % London % P363 % . % x % Overture % cemba % . % Suite in G Minor % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4do/
+4do\
+4re/
+=
+4me\
+4do\
+4fa\
+=
+4so\
+4do\
+4ti\
+=
+4do\
+4do\
+4re\
+=
+4me\
+4re\
+4do\
+=
+4re\
+8me\L
+8re\J
+4do\
+=
+4do\
+4te\
+4la\
+=
+4te\
+*-

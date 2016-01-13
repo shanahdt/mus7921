@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!place: England, Chelsea
+!!!title1: Portsmouth Point, Overture
+!!!statkey: C
+!!DEBUGGING: w193 % . % 1925 % Chelsea, England % W193 % . % . % . % . % . % . % WALTON, William Turner
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4do/
+8.do/L
+16la/Jk
+8so/
+4mi/
+8do/
+=
+16re/LL
+16mi/J
+8re/J
+8do/L
+16re/L
+16do/JJ
+8ti/L
+8la/J
+8so/L
+[8do/J
+=
+8do/L]
+[8do/J
+16do/LL]
+16la/J
+8so/J
+8r
+4mi/
+8do/
+=
+*-

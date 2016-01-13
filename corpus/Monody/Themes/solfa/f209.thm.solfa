@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Adagio
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: violn, piano or cemba
+!!!place: France, Paris
+!!!title1: Sonata in D Minor
+!!!title2: 1st Movement (Adagio)
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: f209 % . % 1773 % Paris % F209 % . % x % 1: Adagio % violn, piano or cemba % . % Sonata in D Minor % FRANCOEUR, Fran&ccedil;ois % 1698
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+8.me/L
+16do/Jk
+16.so\LL
+32fa\L
+64me\L
+64re\
+64do\
+64re\
+64me\
+64fa\
+64so\
+128la\L
+128ti\JJJJJ
+8do\L
+16ti\L
+16do\JJ
+=
+4ti\
+16tiq/LL
+16doq/JJ
+[4re\
+8re\L]
+16so\L
+16fa\JJ
+8.me/L
+16re/Jk
+=
+8req/
+8me\
+*-

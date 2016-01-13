@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!theme: B
+!!!title1: Fantasia in C
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h299 % . % 1789 % Eszterh&aacute;za % H299 % . % b % . % piano % . % Fantasia in C % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[]
+*G:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+8dd\L
+16dd\L
+16ee\J
+8cc\J
+=
+8b\L
+16b\L
+16cc\J
+8a\J
+=
+8g/L
+8g/
+8a/J
+=
+8ccq/
+4b\
+8a/
+=
+*-

@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!title1: The Old Refrain
+!!!title2: Viennese Popular Song
+!!!statkey: e
+!!DEBUGGING: k107 % . % n.d.(c) % ? % K107 % . % x % . % violn, piano % Viennese Popular Song % The Old Refrain % KREISLER, Fritz % 1875
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8mi/L
+8ri/
+8mi/J
+=
+8soq/
+8.fa\L
+16mi\Jk
+8mi/L
+8mi/
+8so/
+8mi/J
+=
+[4re/
+8re/]
+8la\L
+8si\
+8la\J
+=
+8.la\L
+16so\Jk
+8so\L
+8soq/
+8fa\
+8mi\
+8ri\J
+=
+4.mi\
+*-

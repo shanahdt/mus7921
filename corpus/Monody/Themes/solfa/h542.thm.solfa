@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1959/12/31/
+!!!OMV: Mov. 5
+!!!ONM: No. 45
+!!!OPS: Opus B. & H.
+!!!PDT: 1959///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1772
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!splace: Magyar, Budapest
+!!!title1: Symphony in F Sharp Minor
+!!!title2: "Farewell"
+!!!statkey: A
+!!DEBUGGING: h542 % . % 1772 % Eszterh&aacute;za % H542 % B. & H. No. 45 % x % 5 % orchestra % "Farewell" % Symphony in F Sharp Minor % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1959(p) Budapest (H542) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+[4so\
+24so\LL]
+24mi\
+24do\JJ
+=
+24ti/LL
+24so/
+24re/J
+8do/J
+8r
+=
+24ti/LL
+24so/
+24re/JJ
+24do\LL
+24la\
+24so\JJ
+24do\LL
+24ti\
+24la\JJ
+=
+8.soS\L
+16fa\k
+8mi\J
+=
+*-

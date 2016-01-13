@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728/12/31/
+!!!OPC: France, Paris
+!!!PDT: c1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728(p)
+!!!instrument: cemba
+!!!title1: Minuet No. 2
+!!!statkey: g
+!!DEBUGGING: r96 % . % c1728(p) % Paris % R96 % . % x % . % cemba % . % Minuet No. 2 % RAMEAU, Jean Philippe % 1683
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+8b-\L
+8cc\J
+4dd\
+4dd\
+=
+4dd\
+4gg\
+4dd\
+=
+4dd\
+4bb-\
+8dd\L
+8ee-\J
+=
+8ddq/
+4.ccT\
+8bn\
+8cc\
+8r
+=
+8aa\L
+8gg\
+8ff#\
+8een\
+8dd\
+8cc\J
+=
+8b-\L
+8cc\J
+2dd\
+=
+*-

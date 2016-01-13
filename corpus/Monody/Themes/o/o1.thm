@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1864///
+!!!OCL: RSC
+!!!ODT: <1864/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1864(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A
+!!!title1: La Belle H&eacute;l&egrave;ne
+!!!title2: Opera
+!!!statkey: E
+!!DEBUGGING: o1 % 345 % 1864(prf) % Paris % O1 % . % a % Overture % orchestra % Opera % La Belle H&eacute;l&egrave;ne % OFFENBACH, Jacques % 1819
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=
+8bb\L
+8r
+8bb\J
+8r
+=
+8bb\L
+16ee\L
+16bb\JJ
+8ccc#\L
+8ccc#\J
+=
+8bb\L
+16gg#\L
+16bb\JJ
+8ddd#\L
+8ddd#\J
+=
+8bb\L
+16gg#\L
+16bb\JJ
+8eee\L
+8eee\J
+=
+8ddd#\L
+8r
+8ccc#\J
+8r
+=
+8ccc#\L
+8bb\
+8bb\
+8gg#\J
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeffler, Charles Martin
+!!!CDT: 1861/01/30/-1935/05/19/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. L'&Eacute;tang
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1905
+!!!instrument: oboe, viola, piano
+!!!place: United States of America, Massachusetts, Boston(?)
+!!!title1: Two Rhapsodies
+!!!title2: L'\E7tang (The Pool)
+!!!statkey: c
+!!DEBUGGING: l263 % 286 % 1905 % Boston? % L263 % . % x % L'&Eacute;tang % oboe, viola, piano % . % Two Rhapsodies % LOEFFLER, Charles Martin % 1861
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M18/8
+=
+4g/
+8g/
+8d/L
+8e-/
+8f/J
+4e-/
+8e-/
+4d/
+8e-/
+4f/
+8g/
+4c/
+16e-/LL
+16g/JJ
+=
+4cc\
+16dd\LL
+16cc\JJ
+8cc/L
+8a-/
+8f/J
+8cc/L
+8g/
+16e-/L
+16c/JJ
+4.B-/
+*-

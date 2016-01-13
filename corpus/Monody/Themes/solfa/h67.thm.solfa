@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 4
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in A Minor
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: h67 % 216 % 1739 % London % H67 % 6 No. 4 % x % 1 % string orchestra % . % Concerto Grosso in A Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H67) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+8.do\L
+16me\Jk
+16me\LL
+16re\
+16le\
+16so\JJ
+8.do\L
+16fa\Jk
+16fa\LL
+16me\
+16le\
+16so\JJ
+=
+8.do\L
+16le\Jk
+16le\LL
+16so\
+16so\
+16fa\JJ
+16me\LL
+16so\
+16re\
+16me\JJ
+8.do\L
+16ti\Jk
+=
+4ti\
+*-

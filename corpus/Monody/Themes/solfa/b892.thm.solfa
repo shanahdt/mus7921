@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1800///
+!!!PDT: 1801///
+!!!PPP: Deutschland, Leipzig   
+!!!OTL: Symphony No.1 in C    
+!!!OPS: Op. 21
+!!!SET: No. 1
+!!!OMV: Mov. 1
+!!!thm: Introduction A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+2mi\
+8fa\
+8r
+4r
+=
+2ti\
+8do\
+8r
+4r
+=
+2fi\
+4fi\
+4fi\
+=
+4.so\
+8si\
+8la\L
+8fa\
+8re\
+8do\J
+=
+*-

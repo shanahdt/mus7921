@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1732-1733/12/31/
+!!!PDT: 1732-1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1732///-1733(p)
+!!!place: Deutschland, Hamburg
+!!!title1: Fantasias for Harpsi.
+!!!title2: No. 5
+!!!statkey: G
+!!DEBUGGING: t56 % 482 % 1732-1733(p) % Hamburg % T56 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4g/
+4b\
+4a/
+4cc\
+=
+8b\L
+8ee\J
+2dd\
+4cc\
+=
+4b\
+4g/
+4cc\
+4a/
+=
+8dd\L
+8b\J
+2g/
+4cc\
+=
+4b\
+4g/
+4cc\
+4a/
+=
+8dd\L
+8b\J
+2g/
+*-

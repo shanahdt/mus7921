@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!OPS: Opus 51
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: United States of America, New York
+!!!title1: Woodland Sketches
+!!!title2: No. 7: From Uncle Remus
+!!!statkey: F
+!!DEBUGGING: m44 % . % 1896 % Wiesbaden % M44 % 51 % x % . % piano % No. 7: From Uncle Remus % Woodland Sketches % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1896(p) New York (M44) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/4
+8so/
+=
+8.do/L
+16re/Jk
+8mi\L
+8ti\J
+=
+8tiq/
+8.la/L
+16so/k
+8mi/
+24re/L
+24do/
+24re/JJ
+=
+16do/LL
+16la/
+16do/
+16re/JJ
+16mi/LL
+16so/
+16mi/
+16fi/JJ
+=
+8.re/
+*-

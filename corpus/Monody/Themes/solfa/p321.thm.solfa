@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Pugnani, Gaetano
+!!!CDT: 1731/11/27/-1798/07/15/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1775
+!!!instrument: violn, piano
+!!!place: England, London
+!!!title1: Sonata in E No. 1
+!!!title2: 1st Movement
+!!!statkey: E
+!!DEBUGGING: p321 % . % c1775 % London % P321 % . % x % 1 % violn, piano % . % Sonata in E No. 1 % PUGNANI, Gaetano % 1731
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+16.do/LL
+32mi/JJk
+=
+8so\
+4so\
+8so\
+16si\LL
+16la\JJ
+4la\
+8do/
+=
+16.fa/LL
+32doT/k
+16tiq/LL
+16doq/JJ
+16.la/
+32faT/JJk
+16miq/LL
+16faq/JJ
+16.do\LL
+32lat\k
+16siq/LL
+16laq/JJ
+16.fa\
+32la\JJk
+8tiq/
+8lat\L
+8so\J
+*-

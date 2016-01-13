@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus 31
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!title1: Contes de la Vieille Grand'm&egrave;re
+!!!title2: Op. 31, No. 2
+!!!statkey: f#
+!!DEBUGGING: p221 % . % 1918 % New York % P221 % 31 No. 2 % x % . % piano % . % Contes de la Vieille Grand'm&egrave;re % PROKOFIEV, Sergey % 1891
+**solfa
+*clefG2
+*k[f#c#g#]
+*f#:
+*M4/4
+=
+2r
+2so\
+=
+2.so/
+4so\
+=
+4fa\
+4so\
+4fa\
+4te\
+=
+4do\
+2.so\
+=
+4r
+2me\
+4te\
+=
+2.do\
+8te\L
+8so\J
+=
+8do\L
+8re\
+8me\
+8fa\J
+8so\L
+8fa\
+8me\
+8ti\J
+=
+*-

@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 2: Venus, the Bringer of Peace
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: The Planets
+!!!title2: 2nd Movement (Venus, the Bringer of Peace)
+!!!statkey: d#
+!!DEBUGGING: h801 % 253 % 1914-1916 % London % H801 % 32 % b % 2: Venus, the Bringer of Peace % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H801) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M3/4
+=
+8r
+8mi\L
+8la\
+8mi\J
+4re\
+=
+8mi\L
+8la\
+8mi\
+8re\
+8do\
+8re\J
+=
+4mi\
+[2ti\
+=
+8ti\L]
+8ti\J
+8la\L
+8so\J
+8.la\L
+16do\Jk
+=
+2.re\
+=
+*-

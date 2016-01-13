@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OPR, OPS, OTL
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1822///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1822///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OPR: Consecration of the House
+!!!OTL: Overture
+!!!OPS: Op. 24
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8ee\L
+16ff\L
+16gg\JJ
+8aa\L
+8aa\J
+8dd\L
+16ee\L
+16ff\JJ
+8gg\L
+8g\J
+=
+8cc\L
+16dd\L
+16ee\JJ
+8ff\L
+8ff\J
+8b\L
+16cc\L
+16dd\JJ
+8ee/L
+8e/J
+=
+*-

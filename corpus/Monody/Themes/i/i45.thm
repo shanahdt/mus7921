@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1904
+!!!instrument: violn, piano
+!!!place: France, Paris
+!!!theme: AA
+!!!title1: Sonata in C
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: i45 % 259 % 1904 % Paris % I45 % . % aa % 3 % violn, piano % . % Sonata in C % I29 % 1851
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+8e/
+=
+4d/
+4c/
+8r
+8f#/
+=
+4e/
+4d#/
+[4g/
+=
+4g/_
+8g/]
+4fn/
+8e/
+=
+4dd\
+4cc\
+8r
+8dd\
+=
+4cc\
+[4b\
+8b\]
+*-

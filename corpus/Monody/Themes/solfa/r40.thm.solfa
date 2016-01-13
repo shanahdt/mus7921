@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 3
+!!!OPS: Opus 23
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1903
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!title1: Preludes
+!!!title2: Famous C Sharp Minor
+!!!statkey: F
+!!DEBUGGING: r40 % 370 % 1903 % Moscow % R40 % 23 No. 3 % x % . % piano % Famous C Sharp Minor % Preludes % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+[4le\
+8le/L]
+8so/
+8me/
+8fa/J
+=
+8.me/L
+16me/Jk
+4me/
+4r
+=
+[4so/
+8so/L]
+8fa/
+8re/
+8me/J
+=
+8.re/L
+16re/Jk
+4re/
+4r
+=
+8do/L
+16me/L
+16re/JJ
+4.me/
+8ti/
+=
+8do/L
+16me/L
+16re/JJ
+4.me/
+*-

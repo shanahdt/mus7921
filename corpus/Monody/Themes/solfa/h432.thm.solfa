@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!title1: Quartet in B Flat 
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: h432 % . % 1793 % Vienna % H432 % . % x % 3 % string % . % Quartet in B Flat  % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1795, 1796 ? (H432) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+8do/L
+8re/J
+=
+2.mi/
+=
+2fa/
+4la/
+=
+2so/
+4fa/
+=
+4mi/
+4r
+4la\
+=
+2so\
+4fa\
+=
+4mi\
+4r
+*-

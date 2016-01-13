@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: The Policeman
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Illinois, Chicago
+!!!theme: B
+!!!title1: Adventures in a Perambulator
+!!!title2: 2nd Movement, The Policeman
+!!!statkey: A-
+!!DEBUGGING: c29 % . % 1914 % Chicago % C29 % . % b % 2: The Policeman % orchestra % . % Adventures in a Perambulator % CARPENTER, John Alden % 1876
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+1so/
+=
+4mi/
+2.so/
+=
+8mi/L
+16mi/L
+16fa/JJ
+2.so/
+=
+8mi/L
+24fa/L
+24so/
+24la/JJ
+2.so/
+=
+*-

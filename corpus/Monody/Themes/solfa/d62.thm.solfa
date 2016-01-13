@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OPR, OTL, ONM, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Images                  
+!!!OTL: Iberia
+!!!ONM: No. 2
+!!!OMV: Mov. 3 (Le Matin D'Un Jour de F&ecirc;te)
+!!!thm: C           
+!!!AIN: orchestra 
+!!!ODT: 1905///-1908///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+16do\LK
+8.re\J
+12ti\L
+12do\
+12la\J
+16ti\LL
+16so\
+16la\
+16fa\JJ
+8so\L
+8la\J
+=
+16ti\LK
+8.do\J
+12la\L
+12ti\
+[12so\J
+8.so\L]
+16fa\Jk
+16so\LL
+16mi\
+16fa\
+16re\JJ
+=
+*-

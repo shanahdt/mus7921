@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923
+!!!instrument: cello, piano
+!!!place: England, London
+!!!theme: B
+!!!title1: Sonata in G Minor
+!!!title2: 1st Movement
+!!!statkey: B-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i110 % . % 1923 % London % I110 % . % b % 1 % cello, piano % . % Sonata in G Minor % IRELAND, John % 1879
+**solfa
+*clefG2
+*k[b-e-]
+*E-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8so\L
+8so\
+8so\J
+8faT/L
+8mi/
+8re/
+8do/J
+=
+*M2/4
+4re/
+4mi/
+=
+*M3/4
+4.la/
+8ti/
+8do/L
+16mi/L
+16re/JJ
+=
+4.la/
+8ti/
+8do/L
+16mi/L
+16re/JJ
+=
+4.so\
+*-

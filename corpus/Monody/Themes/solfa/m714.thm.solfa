@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 239
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1776
+!!!instrument: string orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Serenade in D
+!!!title2: Serenata Notturna
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m714 % 327 % 1776 % Salzburg % M714 % K 239 % a % 3 % string orchestra % Serenata Notturna % Serenade in D % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#c#]
+*D-:
+*M2/4
+16fiq/
+!! ! NB. Key & key signature disagree.
+8si\L
+16fiq/
+8si\J
+=
+16fiq/
+8my\L
+16ri\L
+16di\JJ
+8fi\L
+8fi\J
+=
+8ri\L
+8my\J
+8.di\L
+16ty\Jk
+=
+8ty\L
+8li\J
+8.fi\L
+16my\Jk
+=
+8my\L
+8ri\J
+*-

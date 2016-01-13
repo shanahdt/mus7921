@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1808///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1808///
+!!!PDT: 1809///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Symphony No.6 in F    
+!!!OPS: Op. 68
+!!!OTP: Pastoral
+!!!SET: No. 6
+!!!OMV: Mov. 4
+!!!thm: A a
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*D-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8a-/L
+8b-/
+8a-/J
+8g-/L
+8f/
+8e-/
+8d-/J
+=
+8c/L
+8d-/
+8e-/
+8f/J
+8g-/L
+8a-/
+8g-/
+8f/J
+=
+8e-/L
+8f/
+8e-/
+8d-/J
+8c/L
+8e-/
+8d-/
+8a-/J
+=
+*-

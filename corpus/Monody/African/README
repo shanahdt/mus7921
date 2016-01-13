@@ -1,0 +1,35 @@
+NOTE ON THE 24 AFRICAN SONGS
+by Paul von Hippel
+Tuesday, September 29, 1998
+
+The songs in this directory were encoded by David Huron at a time when the
+Humdrum format was not as standardized as it is today. On September 29,
+1998, Paul von Hippel revised encodings to conform to modern Humdrum
+conventions. Von Hippel's revisions are described in the editorial
+modification records ("!!!EMD") at the end of each file. The current
+version of the collection is Version 2.0.
+
+The encodings comprise all 24 of the songs in Makeba's (1971) collection.
+The represented ethnic groups are sub-Saharan. 18 of the songs are Xhosa,
+4 are Zulu, 1 is Pondo, and 1 is Venda.  In addition to the standard
+Humdrum reference records, these transcriptions include records beginning
+"!!!PPG" to indicate the page number on which each song began in the
+printed source.
+
+Makeba's volume is a popular, rather than a scholarly work; its editors
+acknowledge that "precise accuracy in transcription has sometimes had
+to give way to playability" (p. 25). The editors also suggest piano and
+guitar accompaniments.
+
+Two comments are especially pertinent to users carrying out
+analyses. First, one of the encoded melodies (xhosa02.krn) is not
+proper monophony. In the printed source, this melody is harmonized by
+two accompanying vocal lines.
+
+Second, all repeated sections in these encodings are written out in
+full. There is no need to expand the encodings using Humdrum's thru
+command.
+
+REFERENCES
+Makeba, M. (1971) (Gwangwa, J., and Miller, E.J., Jr., Eds.) The world
+of African song. Chicago: Quadrangle Books.

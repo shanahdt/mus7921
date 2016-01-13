@@ -1,0 +1,45 @@
+**solfa
+*clefG2
+*k[b-]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*G:
+8fa
+8so
+8me
+=
+4me
+2re
+4re
+=
+4le
+4so
+4me
+4do
+=
+2re
+4.me
+8ti
+=
+4ti
+2do
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1851
+!!!place: D&uuml;sseldorf
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s733 % . % 1851 % D&uuml;sseldorf % S733 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) ? (S733) . . . . . . .

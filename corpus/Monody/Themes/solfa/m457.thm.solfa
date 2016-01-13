@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 414
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Concerto in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m457 % 314 % 1782 % Vienna % M457 % K 414 % a % 3 % piano, orchestra % . % Concerto in A % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M457) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+8so\L
+16soT\L
+32fi\L
+32so\JJJ
+=
+8do\
+8r
+8so\L
+16soT\L
+32fi\L
+32so\JJJ
+=
+8do/
+8r
+16mi\LL
+16re\JJ
+8r
+=
+16fa\LL
+16mi\
+16so\
+16fa\JJ
+16la\LL
+16so\
+16la\
+16fa\JJ
+=
+8mi\L
+8re\J
+*-

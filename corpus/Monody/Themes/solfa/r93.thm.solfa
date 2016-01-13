@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!theme: A
+!!!title1: La Joyeuse
+!!!statkey: D
+!!DEBUGGING: r93 % . % 1724(p) % Paris % R93 % . % a % . % cemba % . % La Joyeuse % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R93) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/0
+8so\L
+8fa\
+8mi\
+8re\J
+=
+8do\L
+8ti\J
+4la\
+8fa\L
+8mi\
+8re\
+8do\J
+=
+8ti\L
+8la\J
+4so/
+8mi\L
+8re\
+8do\
+8ti\J
+=
+8la/L
+8so/
+8fa/
+8mi/J
+8fa/L
+8mi/
+8re/
+8do/J
+=
+2so/
+*-

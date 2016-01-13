@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1807///-1808///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1808///
+!!!PDT: 1809///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Symphony No.5 in C Minor    
+!!!OPS: Op. 67
+!!!OTP: Fate
+!!!SET: No. 5
+!!!OMV: Mov. 4
+!!!thm: E b
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+4gg\
+=
+4bb\
+4gg\
+4ddd\
+8.ccc\L
+16bb\Jk
+=
+4ccc\
+4gg\
+4eee\
+8.ddd\L
+16ccc\Jk
+=
+4bb\
+4gg\
+4ddd\
+8.ccc\L
+16bb\Jk
+=
+4ccc\
+4gg\
+4eee\
+*-

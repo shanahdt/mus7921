@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Eclogue
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1939
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Concertino Pastorale
+!!!title2: 1st Movement (Eclogue)
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i94 % . % 1939 % London % I94 % . % b % 1: Eclogue % orchestra % . % Concertino Pastorale % IRELAND, John % 1879
+**kern
+*clefG2
+*k[f#]
+*B:
+*M4/4
+!! ! NB. Key & key signature disagree.
+8f#/
+=
+4B/
+4c#/
+4d/
+8f#q/
+4eT/
+32dq/LLL
+32eq/JJJ
+=
+4.f#/
+8a/
+8g#/L
+8e/J
+[4f#/
+=
+8f#/L]
+16b/L
+16a/J
+8g#/
+16f#/L
+16e/JJ
+4f#/
+4g#/
+=
+4a/
+4b\
+4.cc\
+8ee\
+=
+8dd\L
+8b\J
+4.cc\
+*-

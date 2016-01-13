@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1786/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 481
+!!!PDT: 1786///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Sonata in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: m851 % . % 1785 % Vienna % M851 % K 481 % a % 1 % violn, piano % . % Sonata in E Flat % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1786(p) . (M851) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+8.mi/L
+16do/Jk
+=
+4so\
+4r
+8.so/L
+16mi/Jk
+=
+4do\
+8r
+8do\L
+8mi\
+8re\J
+=
+8do/L
+8ti/
+8la/
+8so/
+8fa/
+8mi/J
+=
+8re/
+*-

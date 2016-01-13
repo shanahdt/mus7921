@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus 27
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906///-1907
+!!!instrument: orchestra
+!!!place: Deutschland, Dresden
+!!!theme: A
+!!!title1: Symphony No. 2 in E Minor
+!!!title2: 4th Movement
+!!!statkey: E
+!!DEBUGGING: r74 % . % 1906-1907 % Dresden % R74 % 27 % a % 4 % orchestra % . % Symphony No. 2 in E Minor % RAKHMANINOV, Sergey % 1873
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/2
+=
+6ee\
+12ff#\
+12gg#\L
+12aa\
+12aa#\J
+[4bb\
+6bb\]
+12bb\
+=
+12ccc#\L
+12bb\
+12ccc#\J
+[4bb\
+6bb\]
+12bb\
+12ccc#\L
+12bb\
+12ccc#\J
+=
+6aa\
+12aa\
+12bb\L
+12aa\
+12bb\J
+6gg#\
+12ff#\
+12gg#\L
+12ff#\
+12gg#\J
+=
+4ee\
+*-

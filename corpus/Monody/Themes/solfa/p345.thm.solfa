@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: 2 violn, cemba
+!!!place: England, London
+!!!title1: Sonata No. 6 in G Minor
+!!!statkey: g
+!!DEBUGGING: p345 % 365 % n.d. % London % P345 % . % x % . % 2 violn, cemba % . % Sonata No. 6 in G Minor % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4so\
+4.le\
+8le\
+=
+4le\
+4so\
+[4do\
+=
+16do\LL]
+16me\
+16re\
+16do\JJ
+4.ti\
+8do\
+=
+4.ti\
+8ti\
+4do\
+=
+8re\L
+8do\J
+4.do\
+8ti\
+=
+4do\
+4me\
+4do\
+=
+4re\
+4so\
+4r
+=
+*-

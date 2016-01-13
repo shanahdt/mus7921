@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 4: Air (The Harmonious Blacksmith)
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!theme: AA
+!!!title1: Suite No. 5 in E
+!!!title2: 4th Movement (Air) "The Harmonious Blacksmith"
+!!!statkey: E
+!!DEBUGGING: h217 % . % 1720(p) % London? % H217 % . % aa % 4: Air (The Harmonious Blacksmith) % piano % . % Suite No. 5 in E % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4r
+8do/L
+8mi/J
+8re/L
+8so/J
+8mi/L
+16re/L
+16do/JJ
+=
+8re/L
+8so/J
+8.mi/L
+16do/Jk
+8ti/L
+16so/L
+16ti/JJ
+8la/L
+8fi/J
+=
+4so\
+*-

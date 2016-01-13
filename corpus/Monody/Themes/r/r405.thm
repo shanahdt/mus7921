@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1934///
+!!!OCL: RSC
+!!!ODT: <1934/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 52
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: string orchestra
+!!!place: Varengeville
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Sinfonietta
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: r405 % . % 1934 % Varengeville % R405 % 52 % a % 1 % string orchestra % . % Sinfonietta % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1934(prf) Paris (R405) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4r
+8a/
+8r
+8f/
+8r
+=
+4.bn\
+8dd\
+8cc\L
+8ee-\J
+=
+4.b-\
+8a\L
+8dd\
+8bn\J
+=
+8een\L
+8cc#\J
+8gg\L
+8ee\J
+8ff\L
+8dd\J
+=
+[2cccn\
+8ccc\L]
+8ddd-\J
+=
+2ff\
+*-

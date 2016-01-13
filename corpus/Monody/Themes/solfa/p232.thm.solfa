@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1934///
+!!!OCL: RSC
+!!!ODT: <1934/12/31/
+!!!OMV: Mov. 3: Kije's Wedding
+!!!OPS: Opus 60
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Lieutenant Kije
+!!!title2: 3rd Movement (Kije's Wedding)
+!!!statkey: E-
+!!DEBUGGING: p232 % 360 % 1934 % Paris % P232 % 60 % b % 3: Kije's Wedding % orchestra % . % Lieutenant Kije % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1934(prf) . (P232) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/2
+=
+4do/
+4mi/
+4fa/
+4la\
+=
+4fi/
+4so\
+4la\
+4do\
+=
+4so\
+4mi/
+8fa/L
+8mi/J
+4re/
+=
+2mi/
+4.so/
+8r
+=
+4do/
+4mi/
+4fa/
+4la\
+=
+4fi/
+4so\
+4re\
+4te\
+=
+*-

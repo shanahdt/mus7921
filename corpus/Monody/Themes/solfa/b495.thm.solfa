@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bartók, Béla
+!!!CDT: 1881/03/25/-1945/09/26/
+!!!CNT: Hungarian
+!!!PDT: 1928///
+!!!OCY: Hungary
+!!!OPC: Budapest
+!!!OTL: Rhapsody No.1 for Violin and Orchestra
+!!!OTA: Folk Dances
+!!!SET: No.1
+!!!AIN: orchestra violn
+!!!OMV: Mov. 1          
+!!!thm: A
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/8
+=
+16.do/LL
+!!   Encoding error:  change 6 to 16
+32re/k
+16mi/
+16fi/JJ
+16.so\LL
+32la\k
+16ti\
+16do\JJ
+=
+4re\
+4re\
+=
+16.me\LL
+32re\k
+16do\
+16ti\JJ
+16do\LL
+16re\
+16me\
+16so\JJ
+=
+4re\
+16do\
+*-

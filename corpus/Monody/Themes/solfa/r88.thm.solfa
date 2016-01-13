@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1739///
+!!!OCL: RSC
+!!!ODT: <1739/12/31/
+!!!OMV: Mov. Tambourin
+!!!PDT: 1739///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Les F&ecirc;tes de Hebe
+!!!title2: Opera
+!!!statkey: d
+!!DEBUGGING: r88 % . % 1739(p) % Paris % R88 % . % x % Tambourin % orchestra % Opera % Les F&ecirc;tes de Hebe % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1739(prf) . (R88) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/4
+4mi\
+=
+4mi\
+32do\LLL
+32ti\JJ
+8.la\J
+=
+4la\
+32la\LLL
+32ti\JJ
+8.do\J
+=
+8.do\L
+32ti\LL
+32la\JJJ
+8so\L
+8fa\J
+=
+32mi/LLL
+32re/JJ
+8.do/J
+4mi\
+=
+4mi\
+32do\LLL
+32ti\JJ
+8.la\J
+=
+4la\
+32la\LLL
+32ti\JJ
+8.do\J
+=
+8mi/L
+8fit/J
+4so\
+=
+4so\
+*-

@@ -1,0 +1,43 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*D:
+8mi
+8mi
+4mi
+=
+8do
+8do
+4do
+=
+8re
+8re
+16re
+16fa
+16mi
+16re
+=
+8mi
+8do
+4do
+=
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1927///-1930
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s852 % . % 1927-1930 % Leningrad % S852 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1930///
+!!!ODT: <1930/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1930(prf) . (S852) . . . . . . .

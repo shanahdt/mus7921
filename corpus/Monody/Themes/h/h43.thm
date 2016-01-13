@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1761/12/31/
+!!!OMV: Mov. 3: Minuet
+!!!ONM: No. 5
+!!!OPS: Opus 7
+!!!PDT: 1761///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1750
+!!!place: England, London
+!!!title1: Concerto No. 11 in G Minor
+!!!title2: 3rd Movement (Minuet)
+!!!statkey: g
+!!DEBUGGING: h43 % . % 1750 % London % H43 % 7 No. 5 % x % 3: Minuet % . % . % Concerto No. 11 in G Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1761(p) . (H43) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+2.dd\
+=
+4ddq/
+2cc\
+4r
+=
+16ee-\LK
+8.cc\
+16dd\k
+8.a\
+16b-\k
+8.f#\J
+=
+4f#q/
+2.g/
+=
+*-

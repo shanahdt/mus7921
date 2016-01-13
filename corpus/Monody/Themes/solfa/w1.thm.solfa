@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagenseil, Georg Christoph
+!!!CDT: 1715/01/29/-1777/03/01/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!place: ?
+!!!title1: Symphony in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: w1 % (507) % ? % ? % W1 % . % . % . % . % . % . % WAGENSEIL, Georg Christoph
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+32so\LLL
+32fa\
+32mi\
+32re\JJJ
+=
+8do\L
+8do\
+8do\
+8do\J
+4do\
+8la\
+8r
+=
+8so\L
+8r
+8fa\J
+8r
+4.mi\
+32so\LLL
+32fa\
+32mi\
+32re\JJJ
+=
+8do\L
+8do\
+8do\
+8do\J
+4do\
+8fa\
+8r
+=
+8mi\L
+8r
+8ti\J
+8r
+4do\
+*-

@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[b-]
+*M3/4
+*F:
+2.so
+=
+4.do
+8mi
+8do
+8la
+=
+2so
+[4fa
+=
+4.]fa
+8so
+8la
+8fa
+=
+4mi
+8re
+8mi
+8fa
+8re
+=
+2la
+4ti
+=
+2.do
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1842
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s671 % . % 1842 % Leipzig % S671 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1843///
+!!!ODT: <1843/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1843(p) ? (S671) . . . . . . .

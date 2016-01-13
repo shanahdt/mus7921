@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1840/12/31/
+!!!OMV: Mov. (Paganini Caprice No. 6)
+!!!PDT: 1840///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1838
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: (6) Grandes Etudes de Paganini
+!!!title2: Etude No. 1 in G Minor
+!!!statkey: g
+!!DEBUGGING: l118 % . % 1838 % Vienna % L118 % . % x % (Paganini Caprice No. 6) % piano % Etude No. 1 in G Minor % (6) Grandes Etudes de Paganini % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1840(p) . (L118) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4.so/
+8do/L
+8ti/
+8le/J
+=
+4.so/
+8so/L
+8fa/
+8me/J
+=
+4.re/
+8fa/L
+8re/
+8do/J
+=
+4me/
+8re/
+*-

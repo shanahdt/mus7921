@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Nocturne
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: oboe, piano
+!!!place: United States of America, Massachusetts
+!!!title1: Suite for Oboe and Piano
+!!!title2: 4th Movement (Nocturne)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p136 % 355 % 1931 % Massachusetts % P136 % . % x % 4: Nocturne % oboe, piano % . % Suite for Oboe and Piano % PISTON, Walter % 1894
+**solfa
+*clefG2
+*k[]
+*D:
+*M4/8
+=
+!! ! NB. Key & key signature disagree.
+8r
+4do\
+8do\
+=
+8do\L
+8do\J
+4re\
+=
+8do\L
+8te\J
+8so\L
+8le\J
+=
+4do\
+8te\L
+8le\J
+=
+8se/L
+8le/J
+[4le\
+=
+4le\]
+4te\
+=
+[2do\
+=
+8do\]
+*-

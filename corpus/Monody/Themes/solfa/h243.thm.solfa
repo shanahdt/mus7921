@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Chaconne No. 9 in G
+!!!title2: 2nd Set of Piano Suites
+!!!statkey: G
+!!DEBUGGING: h243 % . % 1733(p) % London? % H243 % . % x % . % piano % 2nd Set of Piano Suites % Chaconne No. 9 in G % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4r
+4mi\
+8.reT/L
+16do/Jk
+=
+2.so\
+=
+4.la\
+8ti\
+8do\L
+8re\J
+=
+4.tit\
+8la\
+4so\
+=
+4r
+4so\
+4do\
+=
+4.la\
+8so\L
+8fa\
+8mi\J
+=
+8miq/
+4.re/
+*-

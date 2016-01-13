@@ -1,0 +1,48 @@
+**kern
+*clefG2
+*k[b-e-]
+*M6/8
+*g:
+8c#
+=
+8d
+8cn
+8B-
+8A
+8B-
+8c
+=
+qc
+4.B-
+8e-
+8f
+8g
+=
+8f
+8e-
+8d
+8c
+8d
+8e-
+=
+qe-
+4.d
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1848
+!!!place: Deutschland, Dresden
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s584h % . % 1848 % Dresden % S584h % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1848///
+!!!ODT: <1848/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1848(p) ? (S584h) . . . . . . .

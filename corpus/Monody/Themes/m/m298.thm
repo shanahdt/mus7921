@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1844/12/31/
+!!!ONM: No. 1
+!!!OPS: Opus 62
+!!!PDT: 1844///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1844
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 25: May Breezes
+!!!statkey: G
+!!DEBUGGING: m298 % . % 1844 % Leipzig % M298 % 62 No. 1 % x % . % piano % No. 25: May Breezes % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(p) Bonn (M298) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+4dd\
+4a/
+=
+8r
+8a/L
+8a/
+8b/J
+8dd\L
+8cc\
+8.b\
+16a#\Jk
+=
+4a#\
+8b\
+8r
+4gg\
+4a/
+=
+8r
+8a/L
+8g#/
+8a/J
+8ee/L
+8a/
+8cc#q/
+8.b/
+16a/Jk
+=
+2a/
+*-

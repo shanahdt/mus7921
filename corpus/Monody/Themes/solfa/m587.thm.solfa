@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 608
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: organ
+!!!place: Oesterreich, Vienna
+!!!theme: C
+!!!title1: Fantasia in F Minor
+!!!statkey: A-
+!!DEBUGGING: m587 % . % 1791 % Vienna % M587 % K 608 % c % . % organ % . % Fantasia in F Minor % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+4so\
+4fa\
+4me/
+=
+4re/
+4le\
+4so\
+=
+4se\
+4fa\
+4me/
+=
+8.me/L
+32faq/LLL
+32meq/
+32req/
+32meq/JJJ
+16fa/Jk
+8re/
+8r
+*-

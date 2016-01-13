@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Hanson, Howard
+!!!CDT: 1896/10/28/-1981/02/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938
+!!!place: United States of America, New York
+!!!title1: Merry Mount Suite
+!!!title2: Overture
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h268 % . % 1938 % New York % H268 % . % x % Overture % . % . % Merry Mount Suite % HANSON, Howard % 1896
+**solfa
+*clefF4
+*k[]
+*E:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+8do\J
+8me\L
+8so\J
+8la\L
+8la\J
+=
+4so\
+4.so\
+8so\
+=
+8.te\L
+16so\Jk
+8so\L
+8so\J
+8fa\L
+8fa\J
+=
+4so\
+4.so\
+*-

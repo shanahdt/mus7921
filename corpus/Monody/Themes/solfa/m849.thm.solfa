@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 404
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782? or c1788?
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in C
+!!!title2: 1st Movement
+!!!statkey: C
+!!DEBUGGING: m849 % . % 1782? or c1788? % Vienna % M849 % K 404 % x % 1 % violn, piano % . % Sonata in C % c1786(p) % 1756
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/2
+=
+2do\
+8re\L
+24mi\L
+24re\
+24di\JJ
+8re\L
+8mi\J
+=
+4do\
+8r
+8do\
+8ti\L
+8do\
+8re\
+8mi\J
+=
+2fa\
+8mi\L
+8fa\
+8fi\
+8so\J
+=
+4re\
+*-

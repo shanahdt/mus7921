@@ -1,0 +1,17 @@
+# AVERINT
+#
+# Calculate the average interval size for some input
+{
+if ($0 ~/^[!*=]/) next
+if (previous == "") {previous = $1; next}
+
+intervals++
+if (previous < $1) total_diff += $1 - previous
+else total_diff += previous - $1
+previous = $1
+}
+END {
+	#print "total diff: " total_diff
+	#print "intervals: " intervals
+	print total_diff / intervals
+	}

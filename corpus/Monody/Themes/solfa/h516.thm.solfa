@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!ONM: No. 35
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1780
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!theme: B
+!!!title1: Sonata in C
+!!!title2: 1st Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h516 % . % -1780 % Eszterh&aacute;za % H516 % B. & H. No. 35 % b % 1 % piano % . % Sonata in C % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[]
+*G:
+*M2/2
+!! ! NB. Key & key signature disagree.
+4soS\
+=
+4do\
+4do\
+4r
+4soS\
+=
+4do\
+4do\
+4r
+4soS\
+=
+4do\
+4doS\
+4re\
+4reS\
+=
+4mi\
+4miS\
+4fa\
+4faS\
+=
+2.so\
+*-

@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1909///
+!!!OCL: RSC
+!!!ODT: <1909/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus 30
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: piano, orchestra
+!!!place: Ukraina, Ivanovka
+!!!splace: United States of America
+!!!theme: B
+!!!title1: Concerto No. 3
+!!!title2: 3rd Movement
+!!!statkey: C
+!!DEBUGGING: r18 % . % 1909 % Ivanovka % R18 % 30 % b % 3 % piano, orchestra % . % Concerto No. 3 % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1909(prf) USA (R18) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/2
+8g/
+=
+8g/
+4a/
+8a/
+8a/
+4cc\
+8cc\
+=
+8cc\
+4ee\
+8ee\
+8ee\
+4gg\
+8aa\
+=
+8aa\
+4gg\
+8aa\
+8gg\
+4ee\
+8gg\
+=
+8gg\
+4dd\
+8ee\
+8ee\
+4cc\
+8ee\
+=
+*-

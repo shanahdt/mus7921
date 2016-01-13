@@ -1,0 +1,35 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1797///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien          
+!!!OTL: Rondo in C fo Piano                   
+!!!OPS: Op. 51
+!!!ONM: No. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+4do\
+4do\
+=
+8do\L
+8ti\
+8la\
+8ti\J
+4doS\
+8.do\L
+16mi\Jk
+=
+2so\
+*-

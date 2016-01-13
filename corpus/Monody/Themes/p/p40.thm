@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 6
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1817?
+!!!instrument: violn, orchestra
+!!!place: Italia, Venezia(?)
+!!!splace: France, Paris & Deutschland, Mainz
+!!!theme: B
+!!!title1: Concerto No. 1 in D
+!!!title2: 1st Movement
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p40 % . % 1817? % Venice? % P40 % 6 % b % 1 % violn, orchestra % . % Concerto No. 1 in D % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Paris and Mainz (P40) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4e/
+8f#/L
+8g#/J
+4a/
+4cc#\
+=
+2cc#\
+4b\
+8dd\L
+8cc#\J
+=
+4a/
+4cc#\
+4g#/
+4cc#\
+=
+2.f#/
+*-

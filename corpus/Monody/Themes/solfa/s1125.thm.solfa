@@ -1,0 +1,59 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M3/4
+*g:
+2so
+8se
+16r
+16re
+=
+2fa
+8mi
+16r
+16do
+=
+12me
+12re
+12do
+qme
+4.me
+8me
+=
+4re
+8r
+8re
+8.me
+16re
+=
+4re
+8r
+8re
+12fa
+12me
+12re
+=
+4re
+*-
+!!!COM: Smetana, Bedrich
+!!!CNT: Czech
+!!!date: 1855
+!!!place: Czech, Prague
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1125 % . % 1855 % Prague % S1125 % . % . % . % . % . % . % SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!splace: G&ouml;teborg
+!!!CDT: ///-
+!!DEBUGGING: . . 1857(rev) G&ouml;teborg (S1125) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1879///
+!!!ODT: <1879/12/31/
+!!!splace: Deutschland, Hamburg
+!!!CDT: ///-
+!!DEBUGGING: . . 1879(p) Hamburg (S1125) . . . . . . SMETANA, Bedrich

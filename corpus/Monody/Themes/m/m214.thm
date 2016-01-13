@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 64
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1844
+!!!instrument: violn, orchestra
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Concerto in E Minor
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: m214 % 301 % 1844 % Leipzig % M214 % 64 % a % 2 % violn, orchestra % . % Concerto in E Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(prf) . (M214) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 301 1845(p) Leipzig (M214) 64 a 2 violn, orchestra . Concerto in E Minor MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=
+4.ee\
+8ff\L
+8dd\
+8b\J
+=
+4.aa\
+[4.gg\
+=
+8gg\L]
+8ff\
+8ee\J
+8dd\L
+8a\
+8ff\J
+=
+4.ee\
+4dd\
+8r
+=
+8g\L
+8cc\
+8ee\J
+4dd\
+16b/LL
+16a/JJ
+=
+8g\L
+8cc\
+8ee\J
+4dd\
+*-

@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1788/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 548
+!!!PDT: 1788///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: piano, violn, cello
+!!!place: Oesterreich, Vienna
+!!!title1: Trio in C
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: m1003 % . % 1788 % Vienna % M1003 % K 548 % x % 2 % piano, violn, cello % . % Trio in C % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1788(p) . (M1003) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+8.a/L
+32b-/LL
+32a/JJJ
+8g/L
+8f/
+8e/
+8f/J
+=
+8.b-\L
+32cc\LL
+32b-\JJJ
+8a/L
+8g/
+8f#/
+8g/J
+=
+8.cc\
+*-

@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Quantz, Johann
+!!!CDT: 1697/01/30/-1773/07/12/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: flt, string
+!!!place: ?
+!!!title1: Concerto in G
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: q4 % (367) % n.d. % ? % Q4 % . % x % 3 % flt, string % . % Concerto in G % QUANTZ, Johann % 1697
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+2dd\
+=
+8cc/L
+8b/
+8a/
+8g/J
+=
+8f#/L
+8e/
+8d/
+8c/J
+=
+8B/L
+8g/
+8g/
+8g/J
+=
+16a/LL
+16g/
+16f#/
+16g/JJ
+8a/L
+8cc/J
+=
+16b/LL
+16g/
+16f#/
+16g/JJ
+16e/LL
+16g/
+16f#/
+16g/JJ
+=
+16d/LL
+16g/
+16f#/
+16g/JJ
+16c/LL
+16g/
+16f#/
+16g/JJ
+=
+*-

@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1811///
+!!!OCL: RSC
+!!!ODT: <1811/12/31/
+!!!ODT: <1925/12/31/
+!!!PDT: 1925///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1810///-1811
+!!!place: Deutschland, Darmstadt
+!!!splace: Deutschland, Muenchen
+!!!splace: Deutschland, Offenbach
+!!!title1: Abu Hassan, Overture
+!!!statkey: C
+!!DEBUGGING: w204 % . % 1810-1811 % Darmstadt % W204 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1811(prf) Munich (W204) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1925(p) Offenbach (W204) . . . . . . WEBER, Carl Maria Von
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4.cc\
+16ccc\LL
+16bb\JJ
+=
+8aa\L
+8gg\
+8ff\
+8ee\J
+=
+8cc#\L
+8dd\
+8aa\
+8gg\J
+=
+4gg\
+8ee\
+8r
+=
+4.cc\
+16ccc\LL
+16bb\JJ
+=
+8aa\L
+8gg\
+8ff\
+8ee\J
+=
+8cc#\L
+8dd\
+8aa\
+8gg\J
+=
+4.cc\
+8r
+=
+*-

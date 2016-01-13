@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Nocturne
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: Italia, Roma(?)
+!!!title1: Divertissement
+!!!title2: 3rd Movement (Nocturne)
+!!!statkey: C
+!!DEBUGGING: i9 % . % 1930 % Rome? % I9 % . % x % 3: Nocturne % orchestra % . % Divertissement % IBERT, Jacques % 1890
+**kern
+*clefF4
+*k[]
+*C:
+*M4/4
+=
+4r
+2C/
+[4D-\
+=
+4D-\]
+4C-/
+4E-\
+[4G-\
+=
+4G-\]
+4An\
+4Cn/
+[4B-\
+=
+4B-\]
+4Bn\
+4D\
+4c\
+=
+*-

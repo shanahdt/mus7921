@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!ONM: No. 86
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!theme: B
+!!!title1: Symphony in D
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: h563 % . % 1786 % Eszterh&aacute;za % H563 % B. & H. No. 86 % b % 2 % orchestra % . % Symphony in D % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+[4so\
+8so\L]
+16fa\L
+32r
+32re\JJk
+8fa\L
+16mi\L
+32r
+32do\JJk
+=
+[4so\
+8so\L]
+16fa\L
+32r
+32re\JJk
+8fa\L
+16mi\L
+32r
+32do\JJk
+=
+8la\L
+32so\LL
+32fa\
+32mi\
+32re\JJJ
+8do/L
+16r
+16mi/Jk
+32so/LLL
+32la/
+32fa/
+32so/JJ
+32mi/LL
+32fa/
+32re/
+32mi/JJJ
+=
+4do/
+*-

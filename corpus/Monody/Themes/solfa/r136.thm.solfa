@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1911
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Daphnis et Chloe
+!!!title2: Ballet Suite No. 1
+!!!statkey: b-
+!!DEBUGGING: r136 % . % 1911 % Paris % R136 % . % b % . % orchestra % Ballet Suite No. 1 % Daphnis et Chloe % RAVEL, Maurice % 1875
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M6/8
+=
+[4fa\
+16fa\LL]
+16re\JJ
+[4fa\
+16fa\LL]
+16re\JJ
+=
+[4.fa\
+4fa\]
+32re\LLL
+32fa\
+32re\
+[32ti\JJJ
+=
+8ti\L]
+8re\
+[8fa\J
+4.fa\_
+=
+4.fa\_
+4fa\]
+32re\LLL
+32fa\
+32re\
+[32ti\JJJ
+=
+8.ti/L]
+8.do/J
+8so/
+8r
+8r
+=
+*-

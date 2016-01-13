@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: La Tarantelle Fr&eacute;tillante
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1910
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Petite Suite de Concert
+!!!title2: 4th Movement
+!!!statkey: C
+!!DEBUGGING: c402 % 139 % 1910 % London % C402 % . % x % 4: La Tarantelle Fr&eacute;tillante % orchestra % . % Petite Suite de Concert % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4ccc\
+12bb\L
+12ccc\
+12bb\J
+=
+12aa\L
+12bb\
+12aa\J
+12gg\L
+12aa\
+12gg\J
+=
+12ff\L
+12gg\
+12ff\J
+12ee\L
+12ff\
+12ee\J
+=
+12dd\L
+12ee\
+12dd\J
+12cc\L
+12dd\
+12cc\J
+=
+4g/
+8a\L
+8dd\J
+=
+4gg\
+8a\L
+8dd\J
+=
+4g/
+*-

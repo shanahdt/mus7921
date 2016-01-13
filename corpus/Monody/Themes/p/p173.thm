@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Poulenc, Francis
+!!!CDT: 1899/01/07/1963-/01/30/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: piano
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Novelette No. 1
+!!!statkey: C
+!!DEBUGGING: p173 % . % 1927 % Paris % P173 % . % a % . % piano % . % Novelette No. 1 % POULENC, Francis % 1899
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+4ee\
+8dd\
+=
+4ff\
+8ee\
+=
+16ddq/LL
+16eeq/JJ
+4dd\
+8b\
+=
+4cc\
+8g/
+=
+4ee\
+8dd\
+=
+16ccq/LL
+16ddq/JJ
+8cc\L
+8b\
+8cc\J
+=
+4.ff\
+=
+4ee\
+*-

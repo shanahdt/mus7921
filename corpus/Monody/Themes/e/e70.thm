@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Elgar, Edward
+!!!CDT: 1857/06/02/-1934/02/23/
+!!!CNT: English
+!!!OTL: Symphony No. 1 in A Flat Major
+!!!OPS: Ops. 55
+!!!OMV: Mov. 3
+!!!thm: C         
+!!!AIN: orchestra  
+!!!OCY: England, UK
+!!!OPC: Hereford
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/8
+[8f#/
+=
+8f#/L]
+8e/J
+8.dd\L
+16ee\Jk
+=
+4.a/
+[8a/
+=
+8a/L]
+8g/J
+8.ff#\L
+16gg\Jk
+=
+8gg\
+4cc#\
+[8dd\
+=
+8dd\L]
+16ccc#\L
+16bb\JJ
+8bb\L
+16aa\L
+16ff#\JJ
+=
+8ff#\
+4b\
+*-

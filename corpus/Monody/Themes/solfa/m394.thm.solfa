@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: oboe, clars, fagot
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Pastorale
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m394 % . % 1935 % Paris % M394 % . % a % . % oboe, clars, fagot % . % Pastorale % MILHAUD, Darius % 1892
+**solfa
+*clefG2
+*k[]
+*F:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+2so\
+8mi\L
+8fa\J
+4so\
+=
+4la\
+4so\
+2do\
+=
+4do\
+8re\L
+8mi\J
+4re\
+4do\
+=
+4ti\
+4do\
+2re\
+=
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1935?/12/31/
+!!!ODT: <1938/12/31/
+!!!OMV: Mov. 1: Concert of Angels
+!!!PDT: 1935?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934///-1935
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!splace: Helvetia, Zurich
+!!!theme: BB
+!!!title1: Mathis der Mahler
+!!!title2: Symphony
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h737 % . % 1934-1935 % Berlin % H737 % . % bb % 1: Concert of Angels % orchestra % Symphony % Mathis der Mahler % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1938(prf) Zurich (H737) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935?(p) Mainz (H737) . bb 1: Concert of Angels orchestra Symphony Mathis der Mahler HINDEMITH, Paul 1895
+**solfa
+*clefF4
+*k[]
+*D-:
+*M9/4
+!! ! NB. Key & key signature disagree.
+2.mi\
+=
+[2.so\
+2so\]
+4la\
+2.so\
+=
+2.mi\
+2.do\
+2.mi\
+=
+[2.so\
+2so\]
+4la\
+2.so\
+=
+2mi\
+*-

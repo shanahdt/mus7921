@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 247
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1776
+!!!instrument: 2 viln, 2 viola, 2 cor
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Divertimento in F
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: m566 % . % 1776 % Salzburg % M566 % K 247 % b % 1 % 2 viln, 2 viola, 2 cor % . % Divertimento in F % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8c/
+8f/L
+8f/
+8f/
+8f/J
+=
+16e/LL
+16f/
+16g/
+16e/JJ
+8c/L
+8c/J
+2cc\
+=
+4a/
+8r
+8c/
+2cc\
+=
+4a/
+*-

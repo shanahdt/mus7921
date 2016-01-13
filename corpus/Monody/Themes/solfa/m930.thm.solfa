@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 385
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Symphony No. 35 in D
+!!!title2: "Haffner"
+!!!statkey: G
+!!DEBUGGING: m930 % . % 1782 % Vienna % M930 % K 385 % a % 2 % orchestra % "Haffner" % Symphony No. 35 in D % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M930) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+4do/
+8.mi\L
+16so\Jk
+=
+4.so\
+24fa\LL
+24mi\
+24re\JJ
+=
+8do/L
+8do/J
+8do/L
+8re/J
+=
+8.re/L
+16ri/Jk
+8mi\
+8r
+=
+*-

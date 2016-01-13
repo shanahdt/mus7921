@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 444
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1783 or later
+!!!instrument: orchestra
+!!!place: Oesterreich, Linz
+!!!theme: A
+!!!title1: Symphony No. 37 in G
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: m950 % . % 1783 or later % Linz % M950 % K 444 % a % 2 % orchestra % . % Symphony No. 37 in G % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4g/
+16a/LL
+16g/
+16.cc/
+32b/JJk
+=
+16bq/
+8a/L
+8g/J
+8r
+16.cc\LL
+32b\JJk
+=
+16bq/
+8a/L
+16.f/L
+32e/JJk
+16eq/
+8d/L
+8dd/J
+=
+16ccq/
+8.b/L
+16a/Jk
+16g/LL
+16f/
+16e/
+16f/JJ
+=
+4g/
+*-

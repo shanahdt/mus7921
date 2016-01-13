@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 595
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788?///-1791
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Concerto in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: m510 % . % 1788?-1791 % Vienna % M510 % K 595 % a % 3 % piano, orchestra % . % Concerto in B Flat % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) . (M510) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+=
+8b-\L
+8r
+8dd\J
+8ff\L
+8r
+8bb-\J
+=
+[4.ff\
+8ff\L]
+8dd\
+8b-\J
+=
+8a\L
+8r
+8ff\J
+8b-\L
+8r
+8ff\J
+=
+4.dd\
+8cc\
+8r
+8r
+=
+*-

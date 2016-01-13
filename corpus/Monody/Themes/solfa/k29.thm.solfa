@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: piano, orchestra
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Concerto
+!!!title2: 3rd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k29 % 268 % 1936 % Moscow % K29 % . % b % 3 % piano, orchestra % . % Concerto % KHACHATURIAN, Aram % 1903
+**solfa
+*clefG2
+*k[]
+*F:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4.le\
+8so\
+=
+4.le\
+8so\
+=
+8le\L
+8so\J
+8le\L
+8fi\J
+=
+4.le\
+8so\
+=
+4.le\
+8so\
+=
+8do\
+4ti\
+8te\
+=
+8te\L
+8le\
+8so\
+8se\J
+=
+*-

@@ -1,0 +1,49 @@
+**solfa
+*clefG2
+*k[b-]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*A:
+qso
+4so
+8fa
+8me
+qfa
+4fa
+8me
+8re
+=
+8do
+16r
+16de
+8de
+8do
+8re
+16r
+16do
+8do
+8re
+=
+8me
+8re
+8do
+8de
+8re
+8do
+8te
+8la
+=
+*-
+!!!COM: Sibelius, Jean
+!!!CNT: Finnish
+!!!date: 1909
+!!!place: J&auml;rvenp&auml;&auml;
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s979 % . % 1909 % J&auml;rvenp&auml;&auml; % S979 % . % . % . % . % . % . % SIBELIUS, Jean

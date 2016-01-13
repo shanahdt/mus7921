@@ -1,0 +1,58 @@
+**kern
+*clefG2
+*k[f#c#]
+*M3/4
+*D:
+8.ee
+16ff#
+4dd
+8.cc#
+16dd
+=
+4b
+8.a
+16b
+4g
+=
+8.f#
+16g
+8e
+8g
+8b
+8ee
+=
+4dd
+8cc#
+8gg
+8ee
+8cc#
+=
+4b
+8a
+8ee
+8cc#
+8g
+=
+8f#
+8a
+8dd
+8ff#
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1915
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s49 % . % 1915 % Paris? % S49 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1915?///
+!!!ODT: <1915?/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1915?(p) Paris (S49) . . . . . . .

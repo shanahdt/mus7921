@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: E: DANCE OF THE BOOKMAKERS
+!!!title1: Le Boeuf Sur le Toit
+!!!title2: Ballet based on South American Tunes
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m378 % 309 % 1918 % Paris % M378 % . % e: Dance of the Bookmakers % . % orchestra % Ballet based on South American Tunes % Le Boeuf Sur le Toit % MILHAUD, Darius % 1892
+**solfa
+*clefG2
+*k[]
+*B-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4so/
+8.mi\L
+16re\Jk
+=
+16re\LK
+8do\
+16do\Jk
+16do\LK
+8ti\
+16do\Jk
+=
+4re\
+4la/
+=
+2re\
+=
+*-

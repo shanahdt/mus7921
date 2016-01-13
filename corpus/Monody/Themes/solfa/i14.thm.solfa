@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Finale
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: Italia, Roma(?)
+!!!title1: Divertissement
+!!!title2: 6th Movement (Finale)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i14 % . % 1930 % Rome? % I14 % . % x % 6: Finale % orchestra % . % Divertissement % IBERT, Jacques % 1890
+**solfa
+*clefG2
+*k[]
+*E-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8do\L
+8so\
+8so\
+8so\J
+=
+4.so\
+16fi/LL
+16so/JJ
+=
+8la\L
+8so\
+8fi\
+8so\J
+=
+8mi/L
+8do/
+8so/
+8mi/J
+=
+8do\L
+8so\
+8so\
+8so\J
+=
+4.so\
+16fi/LL
+16so/JJ
+=
+8la/L
+8so/
+8fa/
+8re/J
+=
+4do/
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Paderewski, Ignace Jan
+!!!CDT: 1860/11/18/-1941/06/29/
+!!!CNT: Polish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1888-1894/12/31/
+!!!ONM: No. 4
+!!!OPS: Opus 16
+!!!PDT: c1888-1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1888
+!!!instrument: piano
+!!!place: Oesterreich, Vienna(?)
+!!!title1: Nocturne
+!!!statkey: B-
+!!DEBUGGING: p20 % . % c1888 % Vienna? % P20 % 16 No. 4 % x % . % piano % . % Nocturne % PADEREWSKI, Ignace Jan % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1888-1894(p) Berlin (P20) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+4r
+8..so\L
+32so\Jkk
+=
+8do\L
+8do\J
+4fa\
+=
+4r
+8..fa\L
+32fa\Jkk
+=
+8ti\L
+8ti\J
+4mi\
+=
+8r
+8mi\L
+8fa\
+[8so\J
+=
+8so\]
+4si\
+8la\
+=
+8r
+8fa\
+4la/
+=
+*-

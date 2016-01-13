@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bernstein, Leonard
+!!!CDT: 1918/08/25/-1990/10/14/
+!!!CNT: American
+!!!ODT: 1944///
+!!!OCY: United States of America
+!!!OPC: New York
+!!!OTL: Fancy Free (ballet)
+!!!OMV: Opening Dance
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4mi\
+4r
+4mi\
+8r
+8do\
+=
+8re\L
+8do\J
+8r
+[8la/
+4la/]
+8r
+8so/
+=
+4do\
+8.do/L
+16so/Jk
+8.do\L
+16re\k
+8.mi\
+16do\Jk
+=
+*M3/4
+8re\
+4do\
+[8mi/
+4mi/]
+=
+*-

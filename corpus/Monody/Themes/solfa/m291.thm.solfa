@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1835/12/31/
+!!!ONM: No. 6
+!!!OPS: Opus 30
+!!!PDT: 1835///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1833
+!!!instrument: piano
+!!!place: D&uuml;sseldorf
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 12: Venetian Boat Song No. 2
+!!!statkey: f#
+!!DEBUGGING: m291 % . % 1833 % D&uuml;sseldorf % M291 % 30 No. 6 % x % . % piano % No. 12: Venetian Boat Song No. 2 % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1835(p) Bonn (M291) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*f#:
+*M6/8
+8me/L
+8fa/J
+=
+4.so\
+4.so\
+=
+[4.so\
+4so\]
+8so\
+=
+8so\L
+8me\
+8re\J
+8do\L
+8te\
+8le\J
+=
+4so\
+8r
+4.do/
+=
+*-

@@ -1,0 +1,83 @@
+!!!COM: Anon.
+!!!OCL: Francis James Child
+!!!OPR: The English and Scottish Popular Ballads
+!!!OVM: Vol. 1
+!!!ONB: Ballad No. 46, Tune No. 1
+!!!ONM: No. 46
+!!!PDT: 1882
+!!!YEM: Public domain.
+**kern
+*M4/4
+*C:
+{4g
+=1
+4.cc
+8ee
+4dd
+8ee
+8dd
+=2
+4cc
+8cc
+8g
+4g}
+!! Second phrase:
+{8a
+8cc
+=3
+8cc
+4.cc
+8a
+8.g
+16e
+=4
+2f}
+4r
+!! Third phrase:
+{4g
+=5
+4.cc
+8ee
+4.dd
+8ee
+=6
+4cc
+8cc
+8g
+4g}
+!! Fourth phrase:
+{4a
+=7
+8g
+4.g
+8e
+8d
+8c
+=8
+4e
+2g}
+!! Fifth phrase:
+{4a
+=9
+8cc
+8cc
+4ee
+4.dd
+8cc
+=10
+2cc}
+4r
+====
+*-
+!!!OCY: Britain; England
+!!!PPP: Boston
+!!!ODT: <1882
+!!!AFR: folk song
+!!!AST: monophony
+!!!AMT: simple quadruple
+!!!SCA: Child Collection
+!!!AIN: vox
+!!!EEV: 1.0
+!!!RDT: 1987 June
+!!!YER: 1994 August 10
+!!!VTS: 652652838

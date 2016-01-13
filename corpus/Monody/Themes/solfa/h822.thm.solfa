@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Country Song
+!!!OPS: Opus 22
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Two Songs without Words
+!!!title2: I. Country Song
+!!!statkey: C
+!!DEBUGGING: h822 % . % 1906 % London % H822 % 22 % b % 1: Country Song % orchestra % . % Two Songs without Words % HOLST, Gustav Theodore % 1874
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8r
+8mi\
+4.so\
+8mi\
+=
+4.so\
+8mi\
+8re\L
+8mi\J
+=
+8fa\L
+8mi\J
+4do\
+4do\
+=
+4.do\
+8so/
+8la/L
+8fa/J
+=
+8do\L
+8re\J
+4mi\
+4so\
+=
+4la\
+4do\
+4la\
+=
+*-

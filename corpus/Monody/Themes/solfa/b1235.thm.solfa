@@ -1,0 +1,61 @@
+!!!ref: COM CDT, OTL, MOV
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!PDT: 1822///
+!!!PPP: France, Paris   
+!!!OTL: Quintet in E for Strings                       
+!!!OMV: Mov. 2
+!!!AIN: 2 cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+16.so\LL
+!!   Encoding error:   change 6 to 16
+32so\JJk
+=
+8do\
+4do\
+16.re\LL
+32ti\JJk
+8req/
+8do\L
+[8do\J
+16do\LL]
+32ti\L
+32do\JJJ
+8miq/
+16re\LL
+32do\L
+32ti\JJJ
+=
+8req/
+16do\LL
+32ti\L
+32do\JJJ
+8miq/
+16re\LL
+32do\L
+32ti\JJJ
+8req/
+16do\LL
+32ti\L
+32do\JJJ
+8miq/
+16re\LL
+32do\L
+32ti\JJJ
+8req/
+16do\LL
+32ti\L
+32do\JJJ
+8so\
+*-

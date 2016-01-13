@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1741/12/31/
+!!!OMV: Mov. La Marais
+!!!PDT: 1741///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1741(p)
+!!!instrument: flt, violn, cemba
+!!!place: France, Paris
+!!!title1: Pi&egrave;ces de Clavecin en Concert
+!!!title2: No. 5
+!!!statkey: b
+!!DEBUGGING: r104 % 373 % 1741(p) % Paris % R104 % . % x % La Marais % flt, violn, cemba % No. 5 % Pi&egrave;ces de Clavecin en Concert % RAMEAU, Jean Philippe % 1683
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/0
+8do\L
+8mi\
+8so\
+8do\J
+=
+4do\
+8ti\
+8r
+8la\L
+8do\
+8mi\
+8la\J
+=
+4la\
+8so\
+8r
+8fa\L
+8la\
+8do\
+8fa\J
+=
+8fa\L
+8mi\
+8re\
+8do\J
+8doq/
+4.tit\
+8do\
+=
+8doq/
+2re\
+2r
+=
+*-

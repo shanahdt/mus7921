@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 6: Dreams
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Illinois, Chicago
+!!!title1: Adventures in a Perambulator
+!!!title2: 6th Movement, Dreams
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c38 % 121 % 1914 % Chicago % C38 % . % x % 6: Dreams % orchestra % . % Adventures in a Perambulator % CARPENTER, John Alden % 1876
+**solfa
+*clefG2
+*k[]
+*D-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4mi\
+4do\
+2re\
+=
+4mi\
+8fa\L
+8mi\J
+2re\
+=
+4so\
+4la\
+4so\
+4fa\
+=
+4mi\
+4re\
+4do\
+8la\L
+8ti\J
+=
+2.do\
+*-

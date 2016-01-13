@@ -1,0 +1,70 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1889/12/31/
+!!!OMV: Mov. 3: The Young Prince and the Young Princess
+!!!OPS: Opus 35
+!!!PDT: 1889///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Scheherezade
+!!!title2: 3rd Movement (The Young Prince & the Young Princess)
+!!!statkey: e
+!!DEBUGGING: r345 % . % 1888 % St. Petersburg % R345 % 35 % a % 3: The Young Prince and the Young Princess % orchestra % . % Scheherezade % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1889(p) Leipzig (R345) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M6/8
+8mi\L
+8fa\J
+=
+8.so\L
+16la\k
+8so\J
+8.mi/L
+16re/k
+8do/J
+=
+[4.mi\
+8mi\]
+8mi\L
+8fa\J
+=
+8so\L
+16la\L
+16so\
+16la\
+16so\JJ
+16fa/LL
+16mi/
+16fa/
+16mi/
+16re/
+16do/JJ
+=
+4.mi\
+8la/
+8la/L
+8do/J
+=
+8.re/L
+16mi/k
+8re/J
+8do/L
+8ti/
+8do/J
+=
+4.la/
+*-

@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1857///
+!!!OCL: RSC
+!!!ODT: 1839///
+!!!ODT: <1857/12/31/
+!!!OPC: Oesterreich, Vienna
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: piano, orchestra
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Weimar
+!!!theme: E
+!!!title1: Concerto No. 2 in A
+!!!statkey: E
+!!DEBUGGING: l113 % . % 1839(c) % Vienna % L113 % . % e % . % piano, orchestra % . % Concerto No. 2 in A % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1861(rev) Mainz (L113) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1857(prf) Weimar (L113) . e . piano, orchestra . Concerto No. 2 in A LISZT, Franz 1811
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+[4do/
+=
+4.do/]
+8re/
+8fa/L
+8mi/
+8la/
+8so/J
+=
+8mi/L
+8fa/
+8mi/
+8do/J
+8miq/
+4re/
+4do/
+=
+*-

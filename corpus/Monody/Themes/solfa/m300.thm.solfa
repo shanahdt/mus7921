@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1844/12/31/
+!!!ONM: No. 4
+!!!OPS: Opus 62
+!!!PDT: 1844///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1842
+!!!instrument: piano
+!!!place: England, London
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 28: Morning Song
+!!!statkey: G
+!!DEBUGGING: m300 % . % 1842 % London % M300 % 62 No. 4 % x % . % piano % No. 28: Morning Song % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(p) Bonn (M300) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M9/8
+8so/
+4do/
+8ti/
+=
+[4.re/
+4re/]
+8do/
+4fa\
+8mi\
+=
+[4.la\
+4la\]
+8so\
+4so\
+8so\
+=
+4do\
+8so\
+4mi\
+8do/
+8req/
+8do/L
+8ti/
+8do/J
+=
+4.mi\
+4re/
+*-

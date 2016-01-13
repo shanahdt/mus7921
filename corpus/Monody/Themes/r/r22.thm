@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 33
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1911
+!!!instrument: piano
+!!!place: Ukraina, Ivanovka
+!!!title1: Etude Tableau
+!!!statkey: f
+!!DEBUGGING: r22 % . % 1911 % Ivanovka % R22 % 33 No. 1 % x % . % piano % . % Etude Tableau % RAKHMANINOV, Sergey % 1873
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M4/4
+=
+2r
+[2f/
+=
+4f/]
+[4g/
+8g/]
+8f/
+[4e-/
+=
+4e-/]
+[2.f/
+=
+2f/]
+2e-/
+=
+[1d-/
+=
+*M5/4
+2.d-/]
+[2c/
+=
+2.c/]
+2B-/
+=
+2.c/
+*-

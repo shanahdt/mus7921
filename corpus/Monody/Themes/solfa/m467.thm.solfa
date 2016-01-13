@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 453
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!splace: Deutschland, Speyer
+!!!theme: B
+!!!title1: Concerto in G
+!!!title2: 1st Movement
+!!!statkey: e
+!!DEBUGGING: m467 % . % 1784 % Vienna % M467 % K 453 % b % 1 % piano, orchestra % . % Concerto in G % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789 Speyer (M467) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+4so\
+2so\
+4so\
+=
+8le\L
+8so\J
+4so\
+4r
+4so\
+=
+4do\
+2do\
+4do\
+=
+8ra\L
+8do\J
+4do\
+2r
+=
+*-

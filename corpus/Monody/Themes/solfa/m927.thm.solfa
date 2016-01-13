@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 338
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1780
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Symphony No. 34 in C
+!!!title2: 3rd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m927 % . % 1780 % Salzburg % M927 % K 338 % b % 3 % orchestra % . % Symphony No. 34 in C % c1786(p) % 1756
+**solfa
+*clefG2
+*k[]
+*G:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+[4.so\
+8so\L]
+8la\
+8so\J
+=
+[4.so\
+8so\L]
+8la\
+8ti\J
+=
+8do\L
+8do\
+8re\J
+8mi\L
+8mi\
+8fi\J
+=
+4.so\
+4.so\
+=
+*-

@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1922?/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 2
+!!!OPS: Opus 24
+!!!PDT: 1922?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1922
+!!!instrument: oboe, flt, clars, cor
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Mainz
+!!!theme: B
+!!!title1: Kleine Kammermusik
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: h724 % 249 % 1922 % Frankfurt % H724 % 24 No. 2 % b % 1 % oboe, flt, clars, cor % . % Kleine Kammermusik % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1922?(p) Mainz (H724) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+=
+12do\L
+12me\
+12so\J
+[4ti\
+4ti\]
+4la\
+8ti\
+=
+12re\L
+12la\
+12fi\J
+8.me\L
+16fi\Jk
+4so\
+=
+12te\L
+12le\
+12so\J
+8faq/LL
+8soq/JJ
+8fa\L
+8me\
+8fa\J
+8so\
+4di\
+8ti\
+=
+*-

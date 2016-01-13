@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1683/12/31/
+!!!OMV: Mov. 5
+!!!PDT: 1683///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1680
+!!!instrument: 2 violn, cemba
+!!!place: England, London
+!!!title1: Sonata No. 3 in A Minor
+!!!title2: 5th Movement
+!!!statkey: C
+!!DEBUGGING: p344 % . % c1680 % London % P344 % . % x % 5 % 2 violn, cemba % . % Sonata No. 3 in A Minor % PURCELL, Henry % 1659
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1683(p) . (P344) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M9/8
+=
+4so\
+8do\
+8te\L
+8so\
+8me\J
+8fa\L
+8re\
+8so\J
+=
+8.me\L
+16re\k
+8do\J
+4so\
+8so\
+8.la\L
+16so\k
+8la\J
+=
+4te\
+8le\
+8le\L
+8so\
+8so\J
+*-

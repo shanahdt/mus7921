@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1852/12/31/
+!!!PDT: 1852///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1851
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Polonaise No. 2 in E
+!!!statkey: c#
+!!DEBUGGING: l197 % . % 1851 % Weimar % L197 % . % a % . % piano % . % Polonaise No. 2 in E % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852(p) Leipzig (L197) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+16gg#\LL
+16b\
+16ee\
+32r
+32ccc#\JJk
+4.ccc#\
+8bb\
+=
+16gg#\LL
+16b\
+16ee\
+32r
+32ccc#\JJk
+4.ccc#\
+8bb\
+=
+16gg#\LL
+16b\
+16ee\
+32r
+32ccc#\JJk
+16bb\LL
+16ee\
+16gg#\
+32r
+32fff#\JJk
+16eee\LL
+16gg#\
+16bb\JJ
+32r
+*-

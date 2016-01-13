@@ -1,0 +1,62 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1796///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1797///
+!!!PPP: &Ouml;sterreich, Wien      
+!!!OTL: Sonata No.2 in G minor for Cello and Piano                  
+!!!OPS: Op. 5
+!!!ONM: No. 2
+!!!SET: NO. 2
+!!!OMV: Mov. 2 
+!!!AIN: cello forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+8cc\L
+8dd\J
+=
+8ccq/
+8ee\L
+32ee\LL
+32dd\
+32cc\
+32b\JJJ
+16a/LL
+16a/
+16a/
+16dd/JJ
+=
+8b/L
+8g/J
+16bq/
+16.a/LL
+32d/k
+16g/
+16b/JJ
+=
+16.a/LL
+32d/k
+16g/
+16b/JJ
+16a/LL
+32a/L
+32b/JJJ
+16g/LL
+32g/L
+32a/JJJ
+=
+8f#/L
+8d/J
+*-

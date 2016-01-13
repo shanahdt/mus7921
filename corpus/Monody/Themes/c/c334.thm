@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Sonata in B Minor for Piano
+!!!OPS: Op. 58
+!!!OMV: Mov. 1 
+!!!thm: B
+!!!AIN: forte 
+!!!ODT: 1844///         
+!!!OCY: France             
+!!!OPC: Paris
+!!!PDT: 1845///
+!!!PPP: Deutschland, Leipzig 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4r
+2ff#\
+8gg\L
+8ff#\J
+=
+4ee\
+4dd\
+4r
+8f#/L
+8cc#/J
+=
+8b\L
+8a\
+8cc#\
+8dd\J
+8ee#\L
+8ff#\J
+8.bb\L
+16aa\Jk
+=
+2aa\
+4gg\
+*-

@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Torch Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Henry VIII
+!!!title2: Incidental Music
+!!!statkey: d
+!!DEBUGGING: g31 % . % 1892 % London % G31 % . % x % Torch Dance % orchestra % Incidental Music % Henry VIII % GERMAN, Sir Edward % 1862
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=
+16do/LL
+16so/J
+[8do/J
+16do/LL]
+16re/
+16me/
+16re/JJ
+=
+16do/LL
+16so/J
+[8do/J
+16do/LL]
+16re/
+16me/
+16re/JJ
+=
+16do/LL
+16re/
+16do/
+16re/JJ
+16me/LL
+16fa/
+16me/
+16fa/JJ
+=
+4so/
+8.te\L
+16so\Jk
+=
+16fa/LL
+16do/J
+[8fa/J
+16fa/LL]
+16so/
+16le/
+16so/JJ
+=
+*-

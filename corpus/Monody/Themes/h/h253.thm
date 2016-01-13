@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 8
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Water Music
+!!!title2: 8th Movement
+!!!statkey: F
+!!DEBUGGING: h253 % 225 % 1717(prf) % London % H253 % . % x % 8 % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H253) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4f/
+8c/L
+8c/
+8c/
+8c/J
+=
+4c/
+4A/
+4F/
+=
+8f/L
+8g/J
+4a/
+4a/
+=
+2.a/
+=
+8a/L
+8b-/J
+4cc\
+4cc\
+=
+2cc\
+4f/
+=
+*-

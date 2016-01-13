@@ -1,0 +1,44 @@
+**kern
+*clefG2
+*k[]
+*M3/4
+*C:
+[2.eee
+=
+8]eee
+8bb
+4.ddd
+8ccc
+=
+[2.eee
+=
+4]eee
+4.aa
+8bb
+=
+[2.ddd
+=
+4]ddd
+4.gg
+8aa
+=
+2ccc
+8bb
+8r
+=
+4bb
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!PDT: 1889///
+!!!ODT: <1889/12/31/
+!!!date: 1889(p)
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1266 % . % 1889(p) % Berlin % S1266 % . % . % . % . % . % . % STRAUSS, Johann Jr.

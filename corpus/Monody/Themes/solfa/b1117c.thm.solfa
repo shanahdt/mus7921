@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bernstein, Leonard
+!!!CDT: 1918/08/25/-1990/10/14/
+!!!CNT: American
+!!!ODT: 1944///
+!!!OCY: United States of America
+!!!OPC: New York
+!!!OTL: Fancy Free (ballet)
+!!!OMV: At the Bar
+!!!thm: Theme
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*E:
+*M2/2
+!! ! NB. Key & key signature disagree.
+4so\
+=
+2do\
+2mi\
+=
+2so\
+4fa\
+[4so\
+=
+4so\]
+4fa\
+2so\
+=
+4fa\
+2so\
+4fa\
+=
+3so\
+3fa\
+3la\
+=
+[1so\
+=
+1so\_
+=
+2so\]
+*-

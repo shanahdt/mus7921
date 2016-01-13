@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Othello Suite
+!!!title2: 1st Movement (Dance)
+!!!statkey: F
+!!DEBUGGING: c388 % . % 1909 % London % C388 % . % b % 1: Dance % orchestra % . % Othello Suite % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+2c/
+4cc\
+=
+2cc\
+4cc\
+=
+12cc\L
+12b-\
+12cc\J
+8dd\L
+8b-\J
+[4cc\
+=
+2.cc\]
+=
+*-

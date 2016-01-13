@@ -1,0 +1,51 @@
+**solfa
+*clefG2
+*k[f#c#g#]
+*M3/4
+*A:
+4.do
+8do
+=
+4do
+4r
+[4do
+=
+4]do
+4.do
+8do
+=
+4do
+4r
+[4ti
+=
+4]ti
+4.ti
+8ti
+=
+4ti
+4r
+[4la
+=
+4]la
+4.la
+8la
+=
+4la
+4r
+4so
+=
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!PDT: 1871///
+!!!ODT: <1871/12/31/
+!!!date: 1871(p)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1310 % . % 1871(p) % Vienna % S1310 % . % . % . % . % . % . % STRAUSS, Johann Jr.

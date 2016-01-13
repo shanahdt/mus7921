@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Vieuxtemps, Henry
+!!!CDT: 1820/02/17/-1881/06/06/
+!!!CNT: Belgian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1851///
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1851(prf)
+!!!place: France, Paris
+!!!title1: Concerto No. 4 in D Minor, Vn. & Orch.
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: v100 % . % 1851(prf) % Paris % V100 % . % . % . % . % . % . % VIEUXTEMPS, Henri % 1820
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+[1so\
+=
+2so\_
+12so\L]
+12la\
+12ti\J
+12do\L
+12re\
+12mi\J
+=
+[2so\
+12so\L]
+12fa\
+12mi\J
+12mi\L
+12re\
+12di\J
+=
+12mi\L
+12re\
+[12do\J
+12do\L]
+12ti\
+[12la\J
+12la\L]
+12so\
+12fi\J
+32soq/LLL
+32laq/
+32soq/
+32fiq/
+32soq/JJJ
+8la\L
+8fa\J
+=
+2.mi/
+*-

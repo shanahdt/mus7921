@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Hej K&eacute;t Tikom
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: G
+!!DEBUGGING: k83 % . % 1927 % Budapest % K83 % 15 % x % Hej K&eacute;t Tikom % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K83) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8ee\L
+8ee\
+8ee\
+8ff#\J
+=
+8dd\L
+8dd\
+8b\J
+8r
+=
+8a/L
+8a/
+8a/
+8a/J
+=
+4dd\
+8dd\
+8r
+=
+8ee\L
+8ee\
+8ee\
+8ff#\J
+=
+8dd\L
+8dd\
+8dd\
+8b\J
+=
+8a/L
+8a/
+8a/
+8a/J
+=
+4b\
+8b\
+8r
+=
+*-

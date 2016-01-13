@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Deutschland, Mainz
+!!!theme: A
+!!!title1: Hungarian Rhapsody No. 10 in E
+!!!statkey: E
+!!DEBUGGING: l170 % . % 1853(p) % Mainz % L170 % . % a % . % piano % . % Hungarian Rhapsody No. 10 in E % LISZT, Franz % 1811
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+=
+8bq/
+16b\LL
+32cc#\L
+32dd#\J
+32ee\L
+32ff#\
+32gg#\
+32aan\JJJ
+16bbn\
+32r
+32aa\LLK
+16gg#\
+16ff#\JJ
+=
+16ff#\LL
+16ee\JJ
+8ff#q/
+16ee\LL
+16dd#\JJ
+8ee\
+8r
+=
+*-

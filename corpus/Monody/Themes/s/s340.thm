@@ -1,0 +1,44 @@
+**kern
+*clefG2
+*k[f#]
+*M3/4
+*G:
+8.d
+16e
+8d
+8d
+8b
+8g
+=
+4g
+4f#
+4r
+=
+8.d
+16e
+8d
+8d
+8cc
+8a
+=
+4a
+4g
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1812
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s340 % . % 1812 % Vienna % S340 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1954///
+!!!ODT: <1954/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1954(p) Vienna? (S340) . . . . . . .

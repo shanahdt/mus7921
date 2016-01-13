@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 361
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781 or 1781///-1784
+!!!instrument: woodwind, cbass
+!!!place: Oesterreich, Vienna
+!!!title1: Serenade in B Flat
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m737 % . % 1781 or 1781-1784 % Vienna % M737 % K 361 % x % 2 % woodwind, cbass % . % Serenade in B Flat % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+2bb-\
+16aa\LL
+16gg\
+16ff\
+16ee-\JJ
+=
+4dd\
+4r
+4ee-\
+=
+4ff\
+4r
+12gg\L
+12ee-\
+12cc\J
+=
+2b-\
+4a/
+=
+*-

@@ -1,0 +1,56 @@
+**kern
+*clefG2
+*k[]
+*M4/4
+*C:
+[4g
+32]g
+32a
+32b
+32cc
+32dd
+32ee
+32ff
+32gg
+[2aa-
+=
+4]aa-
+4gg
+4fff
+4ddd-
+=
+2.aaa-
+4aaa-
+=
+4ggg
+4fff
+4eee
+4fff
+=
+4fff
+2eee
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1942///-1945
+!!!place: United States of America, California, Hollywood
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1599 % . % 1942-1945 % Hollywood, CA % S1599 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1946///
+!!!ODT: <1946/12/31/
+!!!splace: A
+!!!CDT: ///-
+!!DEBUGGING: . . 1946(p) A (S1599) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1946///
+!!!ODT: <1946/12/31/
+!!!splace: United States of America, New York
+!!!CDT: ///-
+!!DEBUGGING: . . 1946(prf) New York (S1599) . . . . . . STRAVINSKY, Igor

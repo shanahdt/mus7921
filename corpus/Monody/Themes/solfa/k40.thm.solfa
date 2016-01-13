@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Dance of the Kurds
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: C
+!!DEBUGGING: k40 % . % 1942 % Moscow % K40 % . % x % Dance of the Kurds % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K40) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+32so\LLK
+16.la\
+32la\K
+16.te\JJ
+32te\LLK
+16.ti\
+32ti\K
+16.do\JJ
+32do\LLK
+16.ti\
+32ti\K
+16.te\JJ
+32te\LLK
+16.la\
+32la\K
+16.le\JJ
+=
+8so\L
+8r
+8so\
+8fa\J
+8so\L
+8r
+8so\
+8fa\J
+=
+*-

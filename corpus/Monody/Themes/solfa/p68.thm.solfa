@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Pasquini, Bernardo
+!!!CDT: 1637/12/07/-1710/11/22/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: ?
+!!!title1: Aria
+!!!statkey: C
+!!DEBUGGING: p68 % . % n.d. % ? % P68 % . % x % . % cemba % . % Aria % PASQUINI, Bernardo % 1637
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8mit\L
+8do\J
+8faT\L
+8re\J
+8soT\L
+8so\J
+16r
+16do\LL
+16ti\
+16do\JJ
+=
+8re\L
+8mi\J
+8la/L
+8ti/J
+8doT/L
+8so/J
+16r
+16la\LL
+16ti\
+16do\JJ
+=
+8reT\L
+16do\L
+16ti\JJ
+8doT\L
+8re\J
+8mi\L
+8mi\J
+*-

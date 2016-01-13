@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Herbert, Victor
+!!!CDT: 1859/02/01/-1924/05/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1903
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!theme: B
+!!!title1: Babes in Toyland
+!!!title2: March
+!!!statkey: d
+!!DEBUGGING: h718 % . % 1903 % New York % H718 % . % b % . % orchestra % . % Babes in Toyland % HERBERT, Victor % 1859
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M12/8
+8so\
+8la\L
+8mi\
+8so\J
+=
+2.la/
+2.ti/
+=
+8mi/L
+8r
+8do/J
+[4.la/
+8la/L]
+8r
+8so/J
+8ti/L
+8r
+8la/J
+=
+2.la/
+*-

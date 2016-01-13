@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Zandonai, Riccardo
+!!!CDT: 1883/05/30/-1944/05/05/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1922///
+!!!OCL: RSC
+!!!ODT: <1922/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1922(prf)
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: C
+!!!title1: Giulietta E Romeo
+!!!title2: Symphonic Episode
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: z3 % (523) % 1922(prf) % Rome % Z3 % . % c % . % orchestra % Symphonic Episode % Giulietta E Romeo % ZANDONAI, Riccardo % 1883
+**solfa
+*clefG2
+*k[]
+*E:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+2.mi\
+[4do\
+=
+3do\]
+3ri\
+3mi\
+=
+[1so\
+=
+3so\]
+3fi\
+3la\
+=
+3so\
+3mi\
+3re\
+=
+2do\
+8miq/
+2re\
+=
+1do\
+=
+*-

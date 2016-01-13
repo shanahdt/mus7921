@@ -1,0 +1,102 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Ich freue mich in dir
+!!!SCT:	BWV 133/6
+!!!PC#:	60
+!!!AGN:	chorale
+**kern	**kern
+*ICvox	*ICvox
+*Ibass	*Isoprn
+*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]
+*>A	*>A
+*clefF4	*clefG2
+*k[f#c#]	*k[f#c#]
+*D:	*D:
+*M4/4	*M4/4
+*met(C)	*met(C)
+*MM100	*MM100
+8DL	8f#L
+8EJ	8gJ
+=1	=1
+4F#	4a
+4G	4b
+4A	4a
+.	.
+.	.
+4AA	8gL
+.	8f#J
+=2	=2
+2D;	2f#;
+4r	4r
+4D	4a
+=3	=3
+4D	4b
+4C#	4cc#
+8BBL	4dd
+8C#	.
+8D	8ddL
+8EJ	8cc#J
+=4	=4
+2F#	2cc#
+.	.
+.	.
+4BB;	4b;
+=:|!	=:|!
+*>B	*>B
+4G#	8eeL
+.	8ddJ
+=5	=5
+8AnXL	4cc#
+8G#	.
+8F#	8ddL
+8EJ	8cc#J
+8DL	4.b
+8BBJ	.
+4E	.
+.	8a
+=6	=6
+2.AA;	2.a;
+4A	4a
+=7	=7
+4G#	4b
+.	.
+4E	4cc#
+4F#	4.dd
+.	.
+4G#	.
+.	8ee
+=8	=8
+2.A;	2.cc#;
+4GnX	4a
+=9	=9
+4F#	4a
+8EL	4b
+8DJ	.
+4C#	4a
+.	.
+4AA	8gL
+.	8f#J
+=10	=10
+2BB;	2f#;
+4r	4r
+4F#	4a
+=11	=11
+4G	8bL
+.	8cc#J
+4G#	4dd
+4A	4dd
+.	.
+4AA	4cc#
+=12	=12
+2.D;	2.dd;
+==	==
+*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

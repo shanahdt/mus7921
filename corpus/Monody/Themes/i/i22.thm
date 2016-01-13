@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. No. 1: La Meneuse de Tortues D'Or
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: piano
+!!!place: Italia, Roma(?)
+!!!title1: Histoires
+!!!title2: No. 1,  La Meneuse de Tortues D'Or (The Keeper of the Golden Tortoises)
+!!!statkey: d
+!!DEBUGGING: i22 % . % 1931 % Rome? % I22 % . % x % No. 1: La Meneuse de Tortues D'Or % piano % . % Histoires % IBERT, Jacques % 1890
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+=
+8dd\L
+8aa\
+[8ee\J
+8ee\L]
+8ff\
+8gg\J
+=
+16ffq/LL
+16ggq/JJ
+8ff\L
+8ee\
+[8dd\J
+4dd\]
+[8ee\
+=
+4ee\]
+8cc\
+16b-\LL
+16cc\J
+8dd\
+[8dd\J
+=
+4.dd\]
+*-

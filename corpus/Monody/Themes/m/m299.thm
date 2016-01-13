@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1844/12/31/
+!!!ONM: No. 3
+!!!OPS: Opus 62
+!!!PDT: 1844///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1843
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 27: Funeral March
+!!!statkey: e
+!!DEBUGGING: m299 % . % 1843 % Leipzig % M299 % 62 No. 3 % x % . % piano % No. 27: Funeral March % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(p) Bonn (M299) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+8B/
+=
+8e/L
+8e/J
+8g/L
+8a/J
+=
+8b\L
+24a\L
+24b\
+24cc\JJ
+8b/L
+16.g/L
+32a/JJk
+=
+8b\L
+8b\J
+8gg\L
+8ff#\J
+=
+4ee\
+4dd#\
+=
+*-

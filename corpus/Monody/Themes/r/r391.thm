@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1812///
+!!!OCL: RSC
+!!!ODT: <1812/12/31/
+!!!ODT: <1816-1819?/12/31/
+!!!PDT: 1816-1819?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1812(prf)
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!theme: B
+!!!title1: Tancredi
+!!!title2: Overture
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r391 % . % 1812(prf) % Venice % R391 % . % b % . % orchestra % Overture % Tancredi % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1816-1819?(p) Mainz (R391) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.ee\
+8ff#\
+4.ee\
+8ff#\
+=
+4.ee\
+16aa\LL
+16ccc#\JJ
+8eee\L
+8eee\
+8eee\
+8eee\J
+=
+12fff#\L
+12eee\
+12ddd\J
+12eee\L
+12ddd\
+12ccc#\J
+12ddd\L
+12ccc#\
+12bb\J
+12ccc#\L
+12bb\
+12aa\J
+=
+12bb\L
+12aa\
+12gg#\J
+12aa\L
+12ggn\
+12ff#\J
+*-

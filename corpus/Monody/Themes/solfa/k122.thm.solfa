@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Kuhnau, Johann
+!!!CDT: 1660/04/06/-1722/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1700/12/31/
+!!!PDT: 1700///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1700(p)
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!theme: A: THE BRAVADO OF GOLIATH
+!!!title1: The Combat Between David and Goliath
+!!!title2: Sonata
+!!!statkey: C
+!!DEBUGGING: k122 % 273 % 1700(p) % Leipzig % K122 % . % a: The Bravado of Goliath % . % piano % Sonata % The Combat Between David and Goliath % KUHNAU, Johann % 1660
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1973(rev) . (K122) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4mi/
+4r
+8.so/L
+16so/Jk
+8.la/L
+16la/Jk
+=
+4ti/
+4r
+8.re/L
+16re/Jk
+8.mi/L
+16mi/Jk
+=
+4fa/
+4r
+8.do/L
+16do/Jk
+8.re/L
+16re/Jk
+=
+8.mi/L
+16mi/Jk
+8.fi/L
+16fi/Jk
+16so/
+*-

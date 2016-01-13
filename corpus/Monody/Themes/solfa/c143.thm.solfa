@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Chávez, Carlos
+!!!CDT: 1899/06/13/-1978/08/02/
+!!!CNT: Mexican
+!!!OTL: Concerto for Piano and Orchestra
+!!!OMV: Mov. 3
+!!!thm: A
+!!!AIN: forte orchestra            
+!!!ODT: 1937///-1940///
+!!!OCY: Mexico
+!!!OPC: Ciudad de Mexico
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*E:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16r
+16do\LL
+16ra\
+16me\JJ
+16r
+16me\LL
+16ra\
+16do\JJ
+=
+*^
+16re\LL	4re/
+16so\	.
+16re\	.
+16so\JJ	.
+!! 8va below
+16do\LL	8do/L
+16so\	.
+16re\	8re/J
+16so\JJ	.
+=3	==
+16do\LL	8do/L
+16so\	.
+16re\	8re/J
+16so\JJ	.
+!! end 8va
+*-	*-

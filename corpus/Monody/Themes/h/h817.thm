@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Ostinato
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912///-1913
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: St. Paul's Suite
+!!!title2: 2nd Movement (Ostinato)
+!!!statkey: C
+!!DEBUGGING: h817 % . % 1912-1913 % London % H817 % . % x % 2: Ostinato % string orchestra % . % St. Paul's Suite % HOLST, Gustav Theodore % 1874
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+2aa\
+4cc\
+=
+2gg\
+4cc\
+=
+4ff\
+4a/
+4b\
+=
+4cc\
+4gg\
+8ccc\L
+8bb\J
+=
+2aa\
+4cc\
+=
+2gg\
+4cc\
+=
+4ff\
+4a/
+4b\
+=
+2cc\
+*-

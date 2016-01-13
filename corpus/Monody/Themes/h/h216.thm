@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 3: Courante
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 5 in E
+!!!title2: 3rd Movement (Courante)
+!!!statkey: E
+!!DEBUGGING: h216 % . % 1720(p) % London? % H216 % . % x % 3: Courante % piano % . % Suite No. 5 in E % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/8
+16r
+16b/LL
+16a/
+16b/JJ
+=
+16g#\LL
+16b\
+16ee\
+16g#\
+16f#\
+16dd#\JJ
+=
+8.ee\
+16g#/LL
+16a/
+16f#/JJ
+=
+16g#/LL
+16e/
+16f#/
+16d#/
+16e/
+[16cc#/JJ
+=
+16cc#\LL]
+16cc#\J
+8b\
+8b\J
+=
+*-

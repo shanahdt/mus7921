@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1876///
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!PDT: 1876///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!place: Deutschland, Bayreuth
+!!!splace: Deutschland, Mainz
+!!!title1: G\o3tterd\a3mmerung, Opera (Der Ring Der Nibelungen, Part IV)
+!!!title2: Siegfried's Funeral Music
+!!!statkey: c
+!!DEBUGGING: w59 % 510 % 1874 % Bayreuth % W59 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(prf) . (W59) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 510 1876(p) Mainz (W59) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+4..do/
+16do/
+4..me/
+32re/LLL
+32do/JJJ
+=
+2le/
+4do/
+8.te/L
+16le/Jk
+=
+4..me/
+16me/
+4..fa/
+32me/LLL
+32fa/JJJ
+=
+4so/
+*-

@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M2/4
+*B-:
+8do
+=
+8.do
+16do
+8do
+8do
+=
+8la
+8ti
+8do
+8do
+=
+8la
+8ti
+8do
+16mi
+16mi
+=
+4so
+8mi
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s749 % . % 1841 % Leipzig % S749 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(p) ? (S749) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(prf) Leipzig (S749) . . . . . . SCHUMANN, Robert

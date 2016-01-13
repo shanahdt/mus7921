@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1781/12/31/
+!!!OPS: Opus K 379
+!!!PDT: 1781///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Sonata in G
+!!!title2: 1st Movement
+!!!statkey: g
+!!DEBUGGING: m844 % . % 1781 % Vienna % M844 % K 379 % b % . % violn, piano % . % Sonata in G % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1781(p) . (M844) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4doS/
+8r
+8do/L
+8do/
+8do/J
+=
+4soS\
+8r
+8so\L
+8so\
+8so\J
+=
+4le\
+4le\
+4le\
+=
+4soS\
+*-

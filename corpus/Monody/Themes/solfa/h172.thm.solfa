@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 6
+!!!OPC: England, London(?)
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: oboe, cbass
+!!!splace: England, London
+!!!title1: Sonata in G Minor
+!!!title2: 2nd Movement
+!!!statkey: g
+!!DEBUGGING: h172 % . % c1730(p) % London? % H172 % 1 No. 6 % x % 2 % oboe, cbass % . % Sonata in G Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H172) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8r
+8do/L
+8me/
+8do/J
+4so\
+4do\
+=
+8te\L
+8re\
+8me\
+[8le\J
+8le\L]
+16so\L
+16fa\J
+8so\
+8ti\J
+=
+8do/L
+16re/L
+16me/JJ
+8fa\L
+8fa\J
+8so/L
+8fa/
+8me/
+8re/J
+=
+4me\
+*-

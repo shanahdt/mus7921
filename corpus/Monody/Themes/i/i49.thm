@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Entr&eacute;e in Sonate
+!!!OPS: Opus 91
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: flt, violn, viola, cello, arpa
+!!!place: France, Paris
+!!!title1: Suite in Parties
+!!!title2: 1st Movement (Entr\e7e en Sonate)
+!!!statkey: A
+!!DEBUGGING: i49 % . % 1927 % Paris % I49 % 91 % x % 1: Entr&eacute;e in Sonate % flt, violn, viola, cello, arpa % . % Suite in Parties % I29 % 1851
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8a/
+4ee\
+16ff#\LL
+16ee\JJ
+=
+8ee\L
+8dd\J
+16r
+16cc#\LL
+16ee\
+16cc#\JJ
+=
+16a#\LL
+16b\
+16dd\
+16ff#\JJ
+16aan\LL
+16ff#\
+16ee\
+16dd\JJ
+=
+8dd\L
+8cc#\J
+*-

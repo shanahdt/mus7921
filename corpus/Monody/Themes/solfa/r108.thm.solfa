@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728/12/31/
+!!!OPC: France, Paris
+!!!PDT: c1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728(p)
+!!!instrument: cemba
+!!!title1: Les Sauvages
+!!!statkey: g
+!!DEBUGGING: r108 % . % c1728(p) % Paris % R108 % . % x % . % cemba % . % Les Sauvages % RAMEAU, Jean Philippe % 1683
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M2/0
+=
+2me\
+8so/L
+8do/
+8me/
+8fa/J
+=
+4re/
+4so/
+4ti/
+4re/
+=
+2fa\
+8so/L
+8re/
+8fa/
+8so/J
+=
+4me\
+4so/
+4do/
+4me\
+=
+2so\
+8do\L
+8me\
+8so\
+8do\J
+=
+8le\L
+8le\
+8so\
+8so\J
+8fa\L
+8fa\
+8me\
+8me\J
+=
+*-

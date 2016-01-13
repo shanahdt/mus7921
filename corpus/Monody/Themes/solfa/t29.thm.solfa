@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1798/12/31/
+!!!PDT: 1798///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1798(p)
+!!!place: France, Paris
+!!!title1: "Devil's Trill" Sonata, Vn. & Pft.
+!!!title2: 3rd Movement
+!!!statkey: g
+!!DEBUGGING: t29 % . % 1798(p) % Paris % T29 % . % . % . % . % . % . % TARTINI, Giuseppe
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8do\L
+16do\L
+16do\JJ
+8.do\L
+32ti\LL
+32do\JJJ
+4re\
+4so\
+=
+8le\L
+16so\L
+16fa\JJ
+8faq/
+8.me/L
+16re/Jk
+16me/LL
+16re/JJ
+4.do/
+=
+32doq/LLL
+32req/JJJ
+8me\L
+16re\L
+16do\JJ
+8.te\L
+16le\Jk
+8.so\L
+16le\Jk
+4te\
+=
+*-

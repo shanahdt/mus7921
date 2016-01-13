@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: La Mer for Orchestra    
+!!!OMV: Mov. 2 (Je de Vagues)          
+!!!thm: B           
+!!!AIN: orchestra  
+!!!ODT: 1903///-1905///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+2dd#t\
+8cc##q/
+4dd#\
+=
+2dd#t\
+8cc##q/
+[4dd#\
+=
+4dd#\_
+12dd#\L]
+12ee\
+12ff#\J
+12ff#\L
+12ee\
+12dd#\J
+=
+8dd#q/
+12cc#\L
+12b\
+12b\J
+12b/L
+12a#/
+12a#/J
+8g#q/
+12a#\L
+12bn\
+12cc#\J
+=
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1924///
+!!!OCL: RSC
+!!!ODT: <1924/12/31/
+!!!OMV: Mov. Pines Near a Catacomb
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923///-1924
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!title1: Pines of Rome
+!!!title2: Pines Near a Catacomb
+!!!statkey: G
+!!DEBUGGING: r280 % . % 1923-1924 % Rome % R280 % . % x % Pines Near a Catacomb % orchestra % . % Pines of Rome % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1924(prf) . (R280) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/4
+=
+[4dd\
+8dd\]
+4b\
+8g/
+12a/L
+12b/
+12a/J
+2g/
+=
+2b\
+16b/LK
+8.a/J
+[2.g/
+=
+2g/]
+8b\L
+8dd\J
+2gg\
+8ff#\L
+8ee\J
+=
+2ff#\
+4ee\
+2.dd\
+=
+*-

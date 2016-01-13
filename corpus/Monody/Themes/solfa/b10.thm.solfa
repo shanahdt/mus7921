@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Bach, Johann Christian
+!!!CDT: 1735/09/05/-1782/01/01/
+!!!CNT: German
+!!!ODT: 1772
+!!!OCY: England	
+!!!OPC: London 
+!!!AIN: flt Cstr
+!!!OTL: Quartet in C for Flute and Strings
+!!!OPS: Op. 8
+!!!ONM: No. 1
+!!!OMV: Mov. 1
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*C:
+2.do
+8.re
+16ti
+=
+2.do
+8.so
+16ti
+=
+2.do
+8.re
+16ti
+=
+qre
+16do
+16ti
+16do
+16re
+qfa
+16mi
+16re
+16mi
+16fa
+4so
+8r
+8so
+=
+16so
+16fa
+16mi
+16fa
+4re
+*-

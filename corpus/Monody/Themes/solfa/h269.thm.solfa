@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Hanson, Howard
+!!!CDT: 1896/10/28/-1981/02/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Children's Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938
+!!!place: United States of America, New York
+!!!theme: A
+!!!title1: Merry Mount Suite
+!!!title2: Children's Dance
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h269 % . % 1938 % New York % H269 % . % a % Children's Dance % . % . % Merry Mount Suite % HANSON, Howard % 1896
+**solfa
+*clefG2
+*k[]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4so\
+8.so\L
+16so\Jk
+4.mi/
+8mi/
+=
+8so\L
+8so\
+8so\
+8so\J
+2mi/
+=
+2so\
+2so\
+=
+4..so\
+16so\
+2so\
+=
+*-

@@ -1,0 +1,67 @@
+**kern
+*clefG2
+*k[b-]
+*M6/8
+*F:
+8cc
+8cc
+8b
+8cc
+=
+8dd
+8r
+8r
+4.dd
+=
+8ee
+8r
+8r
+4.ee
+=
+8gg
+8r
+8r
+[4.ff
+=
+4]ff
+8ff
+8ff
+8ee
+8dd
+=
+8cc
+8r
+8dd-
+8dd
+8r
+8dd-
+=
+4cc
+8cc
+8cc
+8cc
+8cc
+=
+8cc
+8r
+8dd-
+8dd
+8r
+8dd-
+=
+4cc
+*-
+!!!COM: Sousa, John Philip
+!!!CNT: American
+!!!PDT: 1889///
+!!!ODT: <1889/12/31/
+!!!date: 1889(p)
+!!!place: United States of America, Pennsylvania, Philadelphia
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1169 % . % 1889(p) % Philadelphia % S1169 % . % . % . % . % . % . % SOUSA, John Philip

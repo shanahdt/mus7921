@@ -1,0 +1,61 @@
+**kern
+*clefG2
+*k[f#c#]
+*met(C)
+*M4/4
+*D:
+qa
+[2dd
+8.]dd
+16cc#
+8.dd
+16ee
+=
+2ff#
+4dd
+4ff#
+=
+2gg
+4dd
+4ee
+=
+2ff#
+4r
+12ff#
+12aa
+12gg
+=
+2ff#
+4ee
+12ee
+12gg
+12ff#
+=
+2ee
+4dd
+8ff#
+8ff
+=
+8.ee
+16aa
+8ccc#
+*-
+!!!COM: Supp&eacute;, Franz von
+!!!CNT: Austrian
+!!!MPD: 1846///
+!!!ODT: <1846/12/31/
+!!!date: 1846(prf)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1640 % . % 1846(prf) % Vienna % S1640 % . % . % . % . % . % . % SUPP&Eacute;, Franz von
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1900///
+!!!ODT: <1900/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1900(p) . (S1640) . . . . . . .

@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Chausson, Ernest
+!!!CDT: 1855/01/20/-1899/06/10/
+!!!CNT: French
+!!!OTL: Quartet for Strings and Piano
+!!!OPS: Op. 30
+!!!OMV: Mov. 2
+!!!thm: B     
+!!!AIN: cello forte viola violn
+!!!PDT: 1897///
+!!!PPP: France, Paris     
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+2cc\
+4ff\
+=
+4.ee-\
+8cc\
+8a/L
+8b-/J
+=
+2cc\
+4gg\
+=
+4.ff#\
+8ee-\
+8cc\L
+8dd\J
+=
+2ee-\
+4bb-\
+=
+*-

@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 183
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Symphony No. 25 in G Minor
+!!!title2: 3rd Movement
+!!!statkey: g
+!!DEBUGGING: m882 % . % 1773 % Salzburg % M882 % K 183 % a % 3 % orchestra % . % Symphony No. 25 in G Minor % c1786(p) % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4do/
+4so/
+4do/
+=
+2me\
+8fa\L
+8re\J
+=
+4do/
+4ti/
+4do/
+=
+8re/L
+8ti/J
+4so/
+4r
+=
+4fa\
+4fa\
+4fa\
+=
+4.mi\
+16fa\LL
+16so\JJ
+4fa\
+=
+*-

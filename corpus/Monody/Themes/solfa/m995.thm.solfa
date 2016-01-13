@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 364
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779
+!!!instrument: violn, viola, orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Symphonie Concertante in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!!DEBUGGING: m995 % 341 % 1779 % Salzburg % M995 % K 364 % b % 3 % violn, viola, orchestra % . % Symphonie Concertante in E Flat % c1786(p) % 1756
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+=
+4.do\
+8mi\
+=
+16re\LK
+8fa\J
+16r
+16ti\LK
+8re\J
+16r
+=
+16do\LK
+8mi\J
+16r
+[4so\
+=
+4so\]
+8la\L
+8ti\J
+=
+8do\L
+8ti\
+8la\
+8so\J
+=
+8so\L
+8fa\
+8mi\
+8re\J
+=
+*-

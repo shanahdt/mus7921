@@ -1,0 +1,76 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1889/12/31/
+!!!OMV: Mov. 2: The Story of the Kalander Prince
+!!!OPS: Opus 35
+!!!PDT: 1889///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!theme: AA
+!!!title1: Scheherezade
+!!!title2: 2nd Movement (The Story of the Kalander Prince)
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r342 % . % 1888 % St. Petersburg % R342 % 35 % aa % 2: The Story of the Kalander Prince % orchestra % . % Scheherezade % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1889(p) Leipzig (R342) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*C:
+*M3/8
+8soq/
+!! ! NB. Key & key signature disagree.
+16fi\LL
+16mi\J
+8fi\J
+=
+8fiq/
+16mi\LL
+16re\J
+8mi\
+16req/LL
+16miq/JJ
+16re\L
+16di\JJ
+=
+8re\L
+8ti\
+16re\L
+16di\JJ
+=
+8re\L
+16di\L
+16mi\
+16re\
+16di\JJ
+=
+[4.ti\
+=
+16ti\LL]
+16fi\
+8soq/
+16fi\
+16mi\J
+8fi\J
+=
+16mi\LL
+16re\J
+8mi\
+16req/LL
+16miq/JJ
+16re\L
+16di\JJ
+=
+8re\L
+8ti\J
+*-

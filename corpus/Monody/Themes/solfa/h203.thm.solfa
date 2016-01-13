@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 4
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 2 in F
+!!!title2: 4th Movement
+!!!statkey: F
+!!DEBUGGING: h203 % . % 1720(p) % London? % H203 % . % x % 4 % piano % . % Suite No. 2 in F % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+[4so\
+16so/LL]
+16fa/
+16mi/
+16re/JJ
+8do/L
+8do/
+8re/
+8re/J
+=
+8so/L
+16la/L
+16ti/JJ
+8do/L
+16re/L
+16mi/JJ
+8fa\L
+8fa\J
+16fa/LL
+16mi/
+16fa/
+16re/JJ
+=
+16mi/LL
+16fa/
+16mi/
+16fa/JJ
+8so\
+*-

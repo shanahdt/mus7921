@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Shepherd's Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Henry VIII
+!!!title2: Incidental Music
+!!!statkey: G
+!!DEBUGGING: g30 % . % 1892 % London % G30 % . % x % Shepherd's Dance % orchestra % Incidental Music % Henry VIII % GERMAN, Sir Edward % 1862
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=
+8do\
+8r
+8r
+4.so\
+=
+8.mi\L
+16fa\k
+8so\J
+4mi\
+8re/
+=
+8.do/L
+16re/k
+8mi/J
+8.mi\L
+16fa\k
+8so\J
+=
+8.re\L
+16mi\k
+8fa\J
+8.fa\L
+16so\k
+8la\J
+=
+8re\
+8r
+8r
+4.la\
+=
+8.fa\L
+16so\k
+8la\J
+4fa\
+8mi\
+=
+*-

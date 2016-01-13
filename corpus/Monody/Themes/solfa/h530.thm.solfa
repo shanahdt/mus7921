@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!ONM: No. 28
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1765
+!!!instrument: orchestra
+!!!place: Deutschland, Eisenstadt
+!!!title1: Symphony in A
+!!!title2: 1st Movement
+!!!statkey: A
+!!DEBUGGING: h530 % . % 1765 % Eisenstadt % H530 % B. & H. No. 28 % x % 1 % orchestra % . % Symphony in A % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4.so\
+8do/L
+8do/
+8do/J
+=
+4.do/
+8so\L
+8so\
+8so\J
+=
+4.fa\
+8so/L
+8so/
+8so/J
+=
+4.so/
+8fa\L
+8fa\
+8fa\J
+=
+4.mi\
+*-

@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: string
+!!!place: United States of America, Illinois, Chicago
+!!!theme: A
+!!!title1: Quartet in A Minor
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: c39 % . % 1914 % Chicago % C39 % . % a % 1 % string % . % Quartet in A Minor % CARPENTER, John Alden % 1876
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+8fi/
+=
+4so/
+8le/
+4fi/
+8so/
+8le/L
+8fi/J
+=
+4so/
+8le/
+4fi/
+8so/
+8le/L
+8fi/J
+=
+1do/
+=
+*-

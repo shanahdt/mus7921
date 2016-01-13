@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 4: Sarabande
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 4 in E Minor
+!!!title2: 4th Movement (Sarabande) 
+!!!statkey: e
+!!DEBUGGING: h212 % . % 1720(p) % London? % H212 % . % x % 4: Sarabande % piano % . % Suite No. 4 in E Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+8me/L
+8fa/J
+4.fa/
+16me/LL
+16fa/JJ
+=
+4.so\
+8ti\
+4do\
+=
+4re\
+4.me\
+8fa\
+=
+4.ti\
+8la\
+4so\
+=
+*-

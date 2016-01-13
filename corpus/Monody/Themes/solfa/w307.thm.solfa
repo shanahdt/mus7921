@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Wolf-Ferrari, Ermanno
+!!!CDT: 1876/01/12/-1948/01/21/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1909///
+!!!MPD: 1911///
+!!!OCL: RSC
+!!!ODT: <1909/12/31/
+!!!ODT: <1911/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909(prf)
+!!!place: Deutschland, Muenchen
+!!!splace: United States of America, Illinois, Chicago
+!!!title1: The Secret of Suzanne, Overture
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w307 % . % 1909(prf) % Munich % W307 % . % . % . % . % . % . % WOLF-FERRARI, Ermanno
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(prf) Chicago (W307) . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*F#:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4do/
+4r
+=
+4ti/
+8r
+8so/
+=
+8do/L
+8do/J
+8la/L
+8la/J
+=
+4ti/
+8r
+8so/
+=
+8do/L
+8do/J
+8la/L
+8la/J
+=
+8ti/L
+8ti/J
+8so/L
+8so/J
+=
+8mi/L
+8mi/J
+8do/L
+8do/J
+=
+8re/L
+8re/J
+*-

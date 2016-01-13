@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: A
+!!!title1: La Pr&eacute;cieuse
+!!!title2: Style of Couperin
+!!!statkey: D
+!!DEBUGGING: k111 % . % n.d.(c) % ? % K111 % . % a % . % violn, piano % Style of Couperin % La Pr&eacute;cieuse % KREISLER, Fritz % 1875
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+16do\LL
+16re\JJ
+=
+8mi\L
+8so\
+8la\
+8do\J
+=
+16re/LL
+16mi/JJ
+4fa/
+16so/LL
+16la/JJ
+=
+16so/LL
+16do/
+16so/
+16mi/JJ
+8soq/
+16fa/LL
+16mi/
+16fa/
+16re/JJ
+=
+16miq/LL
+16faq/JJ
+16mi/LL
+16re/J
+8do/J
+*-

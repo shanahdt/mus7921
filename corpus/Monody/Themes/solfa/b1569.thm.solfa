@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Violin Sonata No. 3 in D Minor
+!!!OPS: Op. 108
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte violn
+!!!ODT: 1886///-1888///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1889//
+!!!MRD: 1888//
+!!!MLC: Magyar, Budapest          
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+4.mi/
+8fa\
+[2mi/
+=
+4mi/]
+4re/
+4mi/
+4fa\
+=
+4.so\
+8la\
+[2so\
+=
+4so\]
+4fi\
+4so\
+4la\
+=
+4.re\
+8mi\
+[2do\
+=
+4do\]
+4ti\
+4te\
+4la\
+=
+4so\
+*-

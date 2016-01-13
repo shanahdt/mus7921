@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1778/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 301
+!!!PDT: 1778///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: violn, piano
+!!!place: Deutschland, Mannheim
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Sonata in G
+!!!title2: 1st Movement
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m828 % . % 1778 % Mannheim % M828 % K 301 % b % 1 % violn, piano % . % Sonata in G % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1778(p) Paris (M828) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2aa\
+8bbT\L
+8aa\
+8bb\
+8ccc#\J
+=
+8ddd\
+4aa\
+8ff#\
+8bb\
+4gg\
+8ee\
+=
+8aa\
+4ff#\
+8dd\
+8gg\
+4ee\
+8cc#\
+=
+*-

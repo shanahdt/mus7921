@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 4
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Polichinelle
+!!!statkey: A
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r34 % . % 1892 % Moscow % R34 % 3 No. 4 % a % . % piano % . % Polichinelle % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[f#c#g#]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+16so\L
+16la\JJ
+[4so\
+8so\L]
+8mi\
+8so\
+8mi\J
+=
+8so\L
+16so\L
+16la\JJ
+[4so\
+8so\L]
+8mi\
+8so\
+8mi\J
+=
+8so\L
+8la\
+8la\
+8so\J
+8so\L
+8la\
+8la\
+8ti\J
+=
+8ti\L
+8do\
+8do\
+8re\J
+8re\L
+8ri\
+8ri\
+8mi\J
+=
+*-

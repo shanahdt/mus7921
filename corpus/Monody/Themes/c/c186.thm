@@ -1,0 +1,63 @@
+!!!ref: COM CDT, OPR, OPS, OTL 
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OPR: &Eacute;tudes
+!!!OTL: &Eacute;tude No. 1 in C Major
+!!!OPS: Op. 10
+!!!AIN: forte 
+!!!ODT: 1830///          
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1833///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[]
+*C:
+*M4/4
+=
+16r
+16C\LL
+16G\
+16c\JJ
+*clefG2
+16e/LL
+16c/
+16g/
+16cc/JJ
+16ee\LL
+16cc\
+16gg\
+16ccc\JJ
+!! 8va below
+16eee\LL
+16ccc\
+16ggg\
+16cccc\JJ
+=
+16eeee\LL
+16cccc\
+16ggg\
+16ccc\JJ
+!! end 8va
+16eee\LL
+16ccc\
+16gg\
+16cc\JJ
+16ee/LL
+16cc/
+16g/
+16c/JJ
+16e/LL
+16c/
+16G/
+16C/JJ
+=
+*-

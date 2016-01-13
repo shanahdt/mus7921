@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1692///
+!!!OCL: RSC
+!!!ODT: <1692/12/31/
+!!!OMV: Mov. The Monkey's Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1692(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Fairy Queen
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: p334 % . % 1692(prf) % London % P334 % . % x % The Monkey's Dance % orchestra % Opera % Fairy Queen % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M6/8
+8do/
+=
+[4.mi\
+4mi\]
+8do/
+=
+[4.so\
+4so\]
+8so\
+=
+4la\
+8la\
+4ti\
+8so\
+=
+[4.do\
+4do\]
+8do\
+=
+4ti\
+8do\
+4la\
+8ti\
+=
+4so\
+8la\
+4mi\
+*-

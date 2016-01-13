@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Galop
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1944
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Masquerade Suite for Orchestra
+!!!title2: 5th Movement (Galop)
+!!!statkey: B-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k53 % . % 1944 % Moscow % K53 % . % x % 5: Galop % orchestra % . % Masquerade Suite for Orchestra % KHACHATURIAN, Aram % 1903
+**solfa
+*clefG2
+*k[b-e-]
+*A#:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8te\L
+8de\
+8ri\
+8fe\J
+=
+!! 8va below
+8se\L
+8te\
+8de\
+8ri\J
+=
+8fe\
+!! end 8va
+8r
+16le\LL
+16fe\
+16ri\
+16le\JJ
+=
+8fe\
+8r
+4r
+=
+*-

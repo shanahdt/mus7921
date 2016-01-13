@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Auber, Daniel-François-Esprit
+!!!CDT: 1782/01/29/-1871/05/12/
+!!!CNT: French
+!!!ODT: <1830///
+!!!MLC: France, Paris
+!!!thm: A
+!!!AIN: orchestra
+!!!OTL: Overture
+!!!OPR: Fra Diavolo
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#]
+*met(C)
+*M4/4
+*D:
+4.do
+16r
+16so
+4.do
+16r
+16mi
+=
+4.so
+16fi
+16so
+8do
+16r
+16so
+8fa
+16r
+16mi
+=
+4.re
+16r
+16mi
+4fa
+16r
+16so
+=
+8mi
+8r
+8.do
+32so
+32mi
+8.do
+*-

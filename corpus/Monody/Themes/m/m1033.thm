@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. VI: Samuel Goldenberg and Schmuyle
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!theme: A
+!!!title1: Pictures from an Exhibition
+!!!title2: VI. Samuel Goldenberg and Schmuyle
+!!!statkey: D-
+!!DEBUGGING: m1033 % 343 % 1874 % St. Petersburg % M1033 % .  % a % VI: Samuel Goldenberg and Schmuyle % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M4/4
+64B-/
+=
+8f/
+16.r
+64en/LLLL
+64f/JJJJ
+[4e/
+8e/]
+8r
+24An/LL
+24B-/
+24c/JJ
+16..d-/LL
+64B-/JJkk
+=
+8f/
+16.r
+96en/LLLL
+96f/
+96e/JJJJ
+[4d-/
+8d-/]
+*-

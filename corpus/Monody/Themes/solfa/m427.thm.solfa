@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1788/12/31/
+!!!OPS: Opus K 540
+!!!PDT: 1788///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Adagio in B Minor
+!!!statkey: b
+!!DEBUGGING: m427 % . % 1788 % Vienna % M427 % K 540 % x % . % piano % . % Adagio in B Minor % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1788(p) . (M427) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+=
+4do\
+8so/L
+8me/J
+4me\
+8re\L
+8do\J
+=
+4do\
+16.ti\LL
+32fa\k
+16.re\
+32ti\JJk
+16re\LL
+16do\
+16me\
+16re\JJ
+16fa\LL
+16me\JJ
+8r
+=
+*-

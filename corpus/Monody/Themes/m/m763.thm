@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 282
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!instrument: piano
+!!!place: Deutschland, Muenchen
+!!!title1: Sonata in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: m763 % . % 1775 % Munich % M763 % K 282 % x % 1 % piano % . % Sonata in E Flat % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+8.b-\L
+16cc\Jk
+4.b-\
+8b-\
+8ee-\L
+8ee-\J
+=
+16ee-\LL
+16dd\
+16cc\
+16b-\JJ
+4b-\
+16dd\LL
+16cc\JJ
+4cc\
+16ff\LL
+16dd\JJ
+=
+16cc\LL
+16b-\JJ
+4b-\
+*-

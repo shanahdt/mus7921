@@ -1,0 +1,39 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 186
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: woodwind
+!!!place: Italia, Milano
+!!!title1: Divertimento in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: m558 % . % 1773 % Milan % M558 % K 186 % x % 3 % woodwind % . % Divertimento in B Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+16.so\LL
+!!   Encoding error:   change 6 to 16
+32so\JJk
+=
+8.so\L
+16mi\Jk
+16la\LL
+16fa\
+16do\
+16la\JJ
+=
+8la\L
+16.so\L
+32fa\JJk
+8mi\
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1868///
+!!!OCL: RSC
+!!!ODT: <1868/12/31/
+!!!PDT: 1868///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1867
+!!!place: Helvetia, Lucerne
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Muenchen
+!!!title1: Die Meistersinger von N\u3rnberg, Opera
+!!!title2: Overture
+!!!statkey: C
+!!DEBUGGING: w23 % . % 1867 % Lucerne, Switzerland % W23 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1868(prf) Munich (W23) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1868(p) Mainz (W23) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+2do\
+4.so/
+8so/
+=
+[2so/
+8so/L]
+8mi/
+8fa/
+8so/J
+=
+4la/
+4ti\
+4do\
+4re\
+=
+4mi\
+4.fa\
+8mi\L
+8re\
+8do\J
+=
+2re\
+4.la/
+8ti\
+=
+2do\
+*-

@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. The Fountains of Trevi at Mid///-day
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!title1: Fountains of Rome
+!!!title2: The Fountains of Trevi at Mid-day
+!!!statkey: C
+!!DEBUGGING: r273 % . % 1914-1916 % Rome % R273 % . % x % The Fountains of Trevi at Mid-day % orchestra % . % Fountains of Rome % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+4so/
+=
+2do/
+4re/
+=
+8.me/L
+16le/Jk
+4te/
+4do/
+=
+2.me/
+=
+2.re/
+=
+2di/
+4r
+=
+*-

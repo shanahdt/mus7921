@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1728/12/31/
+!!!PDT: 1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1728(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Sonata in E Minor, Op. 1, Vn. & Pft.
+!!!title2: 3rd Movement
+!!!statkey: e
+!!DEBUGGING: t25 % . % 1728(p) % Amsterdam % T25 % . % . % . % . % . % . % TARTINI, Giuseppe
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+8e/L
+8.e/J
+16b/LL
+16g/
+16e/JJ
+16c/LL
+16B/JJ
+4.A/
+=
+8f#/L
+8.f#/J
+16cc/LL
+16a/
+16f#/JJ
+16d#/LL
+16c#/JJ
+4.B/
+=
+16b/LL
+16a/J
+8.b/J
+16ee\LL
+16dd#t\
+16ee\JJ
+16cc\LL
+16b\J
+8.cc\J
+16ee\LL
+16dd#t\
+16ee\JJ
+=
+*-

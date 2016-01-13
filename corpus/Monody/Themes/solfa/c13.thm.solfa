@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Minuet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 1 in A
+!!!title2: 3rd Movement, Minuet
+!!!statkey: A
+!!DEBUGGING: c13 % . % 1731 % Paris % C13 % . % x % 3: Minuet % cello, piano % . % Suite No. 1 in A % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4do/
+4mi/
+4so/
+=
+8do/L
+8ti/
+8do/
+8re/J
+4do/
+=
+8so/L
+8fa/
+8so/
+8la/
+8so/
+8fa/J
+=
+8mi/L
+8re/
+8mi/
+8fa/
+8mi/
+8re/J
+=
+*-

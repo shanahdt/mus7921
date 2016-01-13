@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 20
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1825
+!!!instrument: string
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Octet in E Flat
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: m238 % . % 1825 % Berlin % M238 % 20 % a % 2 % string % . % Octet in E Flat % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M238) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M6/8
+=
+4.G/
+8G/L
+8G/
+8G/J
+=
+4e-/
+8d/
+8.c/L
+16Bn/k
+8c/J
+=
+4a-/
+8g/
+8.f/L
+16en/k
+8f/J
+=
+*-

@@ -1,0 +1,74 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Dance of the Young Kurds
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1942
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Gayane
+!!!title2: Ballet
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k43 % . % 1942 % Moscow % K43 % . % a % Dance of the Young Kurds % orchestra % Ballet % Gayane % KHACHATURIAN, Aram % 1903
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1957(rev) . (K43) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+*M2/4
+*>[A,A,B]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+8do\L
+16do\L
+16te\JJ
+8do\L
+16do\L
+16te\JJ
+=
+8do\L
+16do\L
+16te\JJ
+8do\L
+16do\L
+16te\JJ
+=3:|!
+*>B
+16do\LL
+16do\
+16do\
+16te\JJ
+8do\L
+16do\L
+16te\JJ
+=
+16do\LL
+16re\
+16do\
+16te\JJ
+8do\L
+16do\L
+16te\JJ
+=
+16te\LL
+16la\
+16so\
+16te\JJ
+16la\LL
+16so\
+16te\
+16la\JJ
+=
+16so\LL
+16fa\
+16so\JJ
+*-

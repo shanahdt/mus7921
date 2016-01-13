@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Intro
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1924
+!!!instrument: violn, orchestra
+!!!place: Montfort-l'Amaury
+!!!title1: Tzigane
+!!!title2: Intro.
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r197 % 378 % 1924 % Montfort-l’Amaury % R197 % . % x % Intro % violn, orchestra % . % Tzigane % RAVEL, Maurice % 1875
+**kern
+*clefG2
+*k[f#c#]
+*E:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+32B/LKK
+[8..B/J
+2B/]
+8r
+32A#/LLL
+32B/
+32d/
+32c#/JJJ
+=
+16cn/LL
+32r
+32B/Jk
+[8c/J
+4c/]
+4r
+32B/LKK
+8B/J
+16.r
+=
+32A#/LKK
+[8..A#/J
+2A#/_
+16.A#/LL]
+32G/k
+32G/L
+32A#/
+32B/
+32cn/JJJ
+=
+16B/
+16r
+16r
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1837/12/31/
+!!!ONM: No. 6
+!!!OPS: Opus 38
+!!!PDT: 1837///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1836
+!!!instrument: piano
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 18: Duet
+!!!statkey: A-
+!!DEBUGGING: m293 % . % 1836 % Frankfurt % M293 % 38 No. 6 % x % . % piano % No. 18: Duet % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1837(p) Bonn (M293) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M6/8
+8so/
+=
+4do/
+8ti/
+8do\L
+8re\
+8mi\J
+=
+8fa\L
+8re\
+8so\J
+8fa\L
+8mi\
+8re\J
+=
+4do/
+8do/
+8mi\L
+8re\
+8do\J
+=
+4.do/
+4ti/
+8r
+=
+*-

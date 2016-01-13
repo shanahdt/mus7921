@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B: ENTRY OF THE NEGROES
+!!!title1: Le Boeuf Sur le Toit
+!!!title2: Ballet based on South American Tunes
+!!!statkey: C
+!!DEBUGGING: m374 % 309 % 1918 % Paris % M374 % . % b: Entry of the Negroes % . % orchestra % Ballet based on South American Tunes % Le Boeuf Sur le Toit % MILHAUD, Darius % 1892
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4do\
+4ti\
+=
+[4so/
+16so/LK]
+8fa/
+16me/Jk
+=
+4fa/
+4le/
+=
+2so/
+=
+[4fa/
+16fa/LK]
+8.re/J
+=
+[4me/
+16me/LK]
+8.do/J
+=
+[4re/
+16re/LK]
+8.me/J
+=
+2re/
+=
+*-

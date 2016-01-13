@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1738-1742/12/31/
+!!!PDT: 1738-1742///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1738///-1742(p)
+!!!place: France, Paris
+!!!title1: Trio Sonata in E Minor, 2 Vlns. & Vcl.
+!!!title2: 2nd Movement
+!!!statkey: E
+!!DEBUGGING: t87 % . % 1738-1742(p) % Paris % T87 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+8mi\
+=
+8re\L
+8do\
+8mi\
+8re\J
+=
+16do\LL
+16ti\
+16do\
+16re\JJ
+8do\L
+8mi\J
+=
+8re\L
+8do\
+8mi\
+8re\J
+=
+8re\L
+8do\J
+*-

@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OTA, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1797///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1798///
+!!!PPP: &Ouml;sterreich, Wien  
+!!!OTL: Trio for Violin, Cello, and Piano    
+!!!OTA: Little Trio in B Flat
+!!!thm: B
+!!!AIN: cello forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-]
+*F:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+8.mi\L
+16fa\k
+8so\J
+4re/
+8r
+=
+8.fa\L
+16so\k
+8la\J
+4mi/
+8r
+=
+8.so\L
+16la\k
+8ti\J
+8.do\L
+16re\k
+8mi\J
+=
+8mi\L
+8re\
+8fi\J
+8so\
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 12
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n/a
+!!!instrument: piano
+!!!place: ?
+!!!theme: A
+!!!title1: Spanish Dances
+!!!title2: Op. 12, No. 1
+!!!statkey: C
+!!DEBUGGING: m414 % . % n/a % n/a % M414 % 12 No. 1 % a % . % piano % . % Spanish Dances % MOSZKOWSKI, Moritz % 1854
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+8do\L
+16mi\L
+16fa\J
+8so\J
+=
+8r
+8soq/
+16so\LL
+16fi\
+16so\
+16la\JJ
+=
+16so\LL
+16mi\
+16fa\
+16re\
+16la\
+16ti\JJ
+=
+16do\LL
+16mi\JJ
+8so/
+8r
+=
+*-

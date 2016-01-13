@@ -1,0 +1,53 @@
+**kern
+*clefG2
+*k[b-]
+*M2/4
+!! NB. Key & key signature disagree.
+*G:
+24dd
+24dd-
+24dd
+4b-
+16r
+48dd
+48dd-
+48dd
+=
+8b-
+24dd
+24dd-
+24dd
+8b-
+24dd
+24dd-
+24dd
+=
+8b-
+8gg
+8dd
+24gg
+24ff#
+24gg
+=
+[2aa
+=
+8]aa
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1894///-1895
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1473 % . % 1894-1895 % Berlin % S1473 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1895///
+!!!ODT: <1895/12/31/
+!!!splace: Deutschland, Cologne
+!!!CDT: ///-
+!!DEBUGGING: . . 1895(prf) Cologne (S1473) . . . . . . .

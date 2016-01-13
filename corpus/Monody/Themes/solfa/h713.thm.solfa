@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1959/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1959///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1794
+!!!instrument: 2 flt, cello
+!!!place: England, London
+!!!splace: Deutschland, Leipzig
+!!!title1: Trio No. 1 in C
+!!!title2: "London"
+!!!statkey: C
+!!DEBUGGING: h713 % . % 1794 % London % H713 % . % x % 3 % 2 flt, cello % "London" % Trio No. 1 in C % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1959(p) Leipzig (H713) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/4
+16mi\LL
+16fa\JJ
+=
+8so\L
+8so\
+8so\
+8so\J
+=
+8do\L
+8fa\J
+8r
+8mi\
+=
+8la\L
+8re\J
+8r
+8do\
+=
+16ti\LL
+16do\
+16re\
+16mi\JJ
+8fa\L
+8mi\J
+=
+4re\
+*-

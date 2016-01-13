@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Platti, Giovanni
+!!!CDT: <1692///-1763/01/11/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1743?/12/31/
+!!!OMV: Mov. 3: Minuet
+!!!PDT: 1743?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1743?(p)
+!!!instrument: flt or violn, piano
+!!!place: Deutschland, Nuremberg
+!!!theme: B
+!!!title1: Sonata No. 1 in E Minor
+!!!title2: 3rd Movement (Minuet)
+!!!statkey: E
+!!DEBUGGING: p150 % . % 1743?(p) % Nuremberg % P150 % . % b % 3: Minuet % flt or violn, piano % . % Sonata No. 1 in E Minor % PLATTI, Giovanni % c1700
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+2.ee\
+=
+8gg#\L
+8ff#\
+8ee\
+8dd#\
+8cc#\
+8b\J
+=
+4a/
+2aa\
+=
+12gg#\L
+12aa\
+12bb\J
+12dd#\L
+12ee\
+12ff#\J
+4ee\
+=
+8gg#\L
+8ff#\
+8ee\
+8dd#\
+8cc#\
+8b\J
+=
+4a/
+2aa\
+=
+8gg#\L
+8aa\
+8bb\
+8dd#\J
+4ee\
+=
+*-

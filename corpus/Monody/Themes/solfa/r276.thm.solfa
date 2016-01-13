@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1905///
+!!!OCL: RSC
+!!!ODT: <1905/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1905
+!!!instrument: piano
+!!!place: Italia, Bologna
+!!!splace: United States of America, New York
+!!!title1: Notturno
+!!!statkey: G-
+!!DEBUGGING: r276 % . % 1905 % Bologna % R276 % . % x % . % piano % . % Notturno % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1905(prf) New York (R276) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-g-c-]
+*G-:
+*M12/8
+8so\
+=
+2.mi\
+4r
+8r
+8r
+8r
+8la\
+=
+2.do\
+4r
+8r
+8r
+8r
+8so\
+=
+[2.so\
+4.so\_
+16so\LL]
+16mi\
+16re\
+16do\
+16re\
+16la\JJ
+=
+16do\LL
+[16so\JJ
+4so\_
+2.so\]
+*-

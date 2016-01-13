@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1874/12/31/
+!!!OMV: Mov. 2: Air De Ballet
+!!!PDT: 1874///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874(p)
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Sc&egrave;nes Pittoresques
+!!!title2: Suite No. 4
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m177 % 299 % 1874(p) % Paris % M177 % . % a % 2: Air De Ballet % . % Suite No. 4 % Sc&egrave;nes Pittoresques % MASSENET, Jules % 1842
+**solfa
+*clefG2
+*k[f#c#]
+*C#:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+8r
+8doq/
+16ty/LL
+16la/
+16ty/
+16ra/JJ
+=
+4.do/
+=
+8r
+8doq/
+16ty/LL
+16la/
+16ty/
+16ra/JJ
+=
+4.do/
+=
+8r
+16ty/LL
+16do/
+16ra/
+16me/JJ
+=
+16fa/LL
+16fa/
+16fa/
+16fa/
+16fa/
+!!   Encoding error:  adding extra pitch 16f#
+32fa/L
+32se/JJJ
+=
+8le/
+*-

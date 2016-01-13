@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1798/12/31/
+!!!PDT: 1798///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1798(p)
+!!!place: France, Paris
+!!!title1: "Devil's Trill" Sonata, Vn. & Pft.
+!!!title2: 4th Movement
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t31 % . % 1798(p) % Paris % T31 % . % . % . % . % . % . % TARTINI, Giuseppe
+**solfa
+*clefG2
+*k[b-e-]
+*D:
+*M4/4
+*>[A,A,B]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+8so\L
+16fa\L
+16me\JJ
+16re\LL
+16me\
+16.fa\
+32do\JJk
+8.ti\L
+32do\LL
+32re\JJJ
+4do\
+=2:|!
+*>B
+8do\L
+16do\L
+16do\JJ
+8.dot\L
+32te\LL
+32le\JJJ
+8soq/
+8.leT\L
+32so\LL
+32le\JJJ
+8.so\L
+16fa\Jk
+=
+16me\LL
+32re\L
+32me\J
+16fa\
+16do\JJ
+8..ret\L
+32do\Jkk
+4do\
+!!   B&M  Encoding error:  removing bar line
+*-

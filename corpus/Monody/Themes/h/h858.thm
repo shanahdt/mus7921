@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Humperdinck, Engelbert
+!!!CDT: 1854/09/01/-1921/09/27/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1893///
+!!!OCL: RSC
+!!!ODT: <1893/12/31/
+!!!ODT: <1894/12/31/
+!!!OMV: Mov. Prelude to Act II
+!!!PDT: 1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: orchestra
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Weimar
+!!!theme: A: "WITCH'S RIDE"
+!!!title1: Hansel and Gretel
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: h858 % 256 % 1893 % Frankfurt % H858 % . % a: "Witch's Ride" % Prelude to Act II % orchestra % Opera % Hansel and Gretel % HUMPERDINCK, Engelbert % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1893(prf) Weimar (H858) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 256 1894(p) Mainz (H858) . a: "Witch's Ride" Prelude to Act II orchestra Opera Hansel and Gretel HUMPERDINCK, Engelbert 1854
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+8G/
+=
+4c/
+8c/L
+8G/J
+16Aq/LL
+16Bq/JJ
+4c/
+8c/L
+8d/J
+=
+4e-/
+8e-/L
+8d/J
+16cq/LL
+16dq/JJ
+4e-/
+8e-/L
+8g/J
+=
+8.g/L
+16a-/Jk
+2g/
+*-

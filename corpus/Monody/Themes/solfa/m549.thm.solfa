@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus K 605
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Deutsche T&auml;nze
+!!!title2: K 605, No. 2
+!!!statkey: G
+!!DEBUGGING: m549 % 318 % 1791 % Vienna % M549 % K 605 No. 2 % x % . % orchestra % . % Deutsche T&auml;nze % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+2do\
+8.doT\L
+32ti\LL
+32do\JJJ
+=
+8re\L
+8do\
+8ti\
+8la\
+8so\
+8la\J
+=
+8ti\L
+8do\J
+4re\
+4re\
+=
+4re\
+4mi\
+4do\
+=
+*-

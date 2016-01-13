@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1881///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879
+!!!instrument: orchestra
+!!!place: France, Paris(?)
+!!!splace: Deutschland, Berlin
+!!!theme: C
+!!!title1: Rapsodie Norv&eacute;gienne
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: l30 % . % 1879 % Paris? % L30 % . % c % 2 % orchestra % . % Rapsodie Norv&eacute;gienne % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881(p) Berlin (L30) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8mi\L
+16r
+16mi\Jk
+4mi\
+4do\
+=
+8re\
+8r
+8re\L
+8mi\J
+4fa\
+=
+8mi\L
+16r
+16mi\Jk
+4mi\
+4do\
+=
+2.re\
+=
+*-

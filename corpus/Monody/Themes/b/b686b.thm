@@ -1,0 +1,61 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1807///-1808///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1809///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Sonata No.4 in C for Cello and Piano                  
+!!!OPS: Op. 102
+!!!ONM: No. 1
+!!!SET: NO. 4
+!!!OMV: Mov. 3
+!!!AIN: cello forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+[8cc\
+=
+4.cc\]
+[8f/
+=
+4f/_
+16f/LL]
+16G/
+16A/
+16B/JJ
+=
+16c/LL
+16B/
+16c/
+16d/JJ
+16e/LL
+16f/
+16g/
+16g/JJ
+=
+12g/L
+12cc/
+12b/J
+12cc\L
+12ee\
+12dd\J
+=
+12ee\L
+12dd\
+12cc\J
+12b/L
+12cc/
+12g/J
+=
+*-

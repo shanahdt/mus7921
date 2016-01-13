@@ -1,0 +1,47 @@
+**kern
+*clefG2
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*G:
+4r
+4d
+4f#
+4g
+=
+2.b
+4b
+=
+4b
+[4cc
+8.]cc
+16e-
+8.b-
+16a-
+=
+2g
+4.f#
+8f#
+=
+4dd
+[4f#
+8]f#
+4f
+8e
+=
+4cc
+2e-
+*-
+!!!COM: Skryabin, Alexander
+!!!CNT: Russian
+!!!date: 1902///-1904
+!!!place: Royssia, Moskova
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s839 % . % 1902-1904 % Moscow % S839 % . % . % . % . % . % . % SKRYABIN, Alexander

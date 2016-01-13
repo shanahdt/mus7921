@@ -1,0 +1,44 @@
+**kern
+*clefG2
+*k[]
+*M4/4
+!! NB. Key & key signature disagree.
+*B-:
+4b-
+4B-
+4g-
+4B
+=
+8e-
+8c
+4G
+4g
+4d
+=
+4.d-
+8a-
+8b-
+8r
+4f
+=
+1g
+=
+*-
+!!!COM: Schuman, William
+!!!CNT: American
+!!!date: 1941
+!!!place: United States of America, New York
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s579 % . % 1941 % New York % S579 % . % . % . % . % . % . % SCHUMAN, William
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1941///
+!!!ODT: <1941/12/31/
+!!!splace: United States of America, Massachusetts, Boston
+!!!CDT: ///-
+!!DEBUGGING: . . 1941(prf) Boston (S579) . . . . . . .

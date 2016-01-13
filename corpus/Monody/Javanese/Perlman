@@ -1,0 +1,236 @@
+From Marc_Perlman@Brown.edu  Mon Mar  6 00:10:34 2000
+Return-Path: <Marc_Perlman@Brown.edu>
+Received: from vega.brown.edu (vega.cis-176.brown.edu [128.148.176.47])
+	by tactus.som.ohio-state.edu (8.9.3/8.9.3) with ESMTP id AAA05993
+	for <dhuron@tactus.som.ohio-state.edu>; Mon, 6 Mar 2000 00:10:34 -0500
+Received: from [128.148.91.30] (bootp-30.orwig.brown.edu [128.148.91.30])
+	by vega.brown.edu (8.9.3/8.9.3) with SMTP id AAA10557
+	for <dhuron@tactus.som.ohio-state.edu>; Mon, 6 Mar 2000 00:16:29 -0500 (EST)
+X-Sender: Marc_Perlman@postoffice.brown.edu
+Message-Id: <v02130503b4e8e475a857@[128.148.91.30]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 6 Mar 2000 00:13:11 -0500
+To: David Huron <dhuron@tactus.som.ohio-state.edu>
+From: Marc_Perlman@Brown.edu (Marc Perlman)
+Subject: Javanese music analysis
+Status: R
+
+
+Dear David,
+  Great to talk to you today, as always.  Here's a sample Javanese
+composition, with a key to the notation, and some of the questions I'd like
+answered.  Let me know if I've failed to make this clear enough.
+
+Thanks and all the best,
+Marc
+
+= = = = = = = = = = = = = = = = = = = = = = =
+
+Tones of the scale, from low to high:
+Pelog:
+1_ 2_ 3_ 4_ 5_ 6_ 7_  1 2 3 4 5 6 7  1^ 2^ 3^ 4^
+
+Slendro:
+2_ 3_ 5_ 6_  1 2 3 5 6  1^ 2^ 3^
+
+(Tones given the same numeral belong to the same pitch-class.  I use the
+underscore to indicate lower octave, caret for upper octave; a bare numeral
+is middle octave.)
+
+A period indicates that the preceeding tone is sustained.
+
+One numeral or period occupies one beat (fractions of beats, which are
+fairly rare, will have to be indicated somehow or other).
+
+The smallest metric units are 4-beat groups called _gatra_.  They are
+indicated by the spacing.  The rightmost numeral or period in a group
+receives metric stress.
+
+The following symbols represent strokes on the structure-defining instruments:
+
+Right parenthesis = kenong
+Left parenthesis  = gong (always accompanied by kenong)
+
+In this piece, each _kenongan_ (phrase ending with a kenong-stroke)
+consists of four _gatra_ (4-beat units).  There are four _kenongan_ in a
+_gongan_ (space between successive gong-strokes).
+
+"Gendhing" is a general term for formal structure.
+
+"Titipati" is the composition's proper name.
+
+"Kethuk 2 kerep minggah 4" describes the form of the piece ("kethuk 2
+kerep" describes the first movement; "minggah 4" describes the second
+movement).
+
+The designation "slendro" (for tuning system) affects the interpretation of
+the numerals.  For instance, in this tuning system there are no 4's or 7's;
+the interval between 3 and 5 is a step, not a skip.
+
+"Nem" is the mode (pathet) of the piece.
+
+"Buka": This is the introduction.  It is played once and never repeated.
+
+"Merong": The first movement.  It has four gongan.  It can be repeated
+(theoretically without limit, but usually only once).  The repeated section
+is indicated by the "|" brackets.  To move to the next movement, leave the
+merong at the $ and go to the umpak.
+
+"Umpak": A transitional phrase, never repeated.
+
+"Inggah": The second movement, repeatable.  Here it consists of two gongan.
+The repetition takes place between "|" signs.
+
+Notice that the first and third positions of each _gatra_ in the inggah
+section are always periods.  This is a melodic idiom called "balungan
+nibani," and there are really only two positions within each _gatra_ (the
+second and fourth positions are always filled with numerals, never with
+periods, in this idiom).
+
+= = = = = = = = = = = = = = = = = = = = = = = = =
+
+Here are some of the questions I'd like to ask:
+
+Which tones appear at kenong-strokes?  At gong-strokes?  At the ends of
+_gatra_s?  Tabulate them.
+
+How many different _gatra_s are used in the repertory?
+
+How many different _gatra_ contours are used in the repertory?  (A _gatra_
+contour is a class of _gatra_s which are identical under transposition.)
+
+NB. A footnote:
+Defining identity under transposition is tricky, since it depends on the
+tuning system.  In slendro these are all equivalent contours:
+
+2321
+3532
+5653
+61^65
+1^2^1^6
+
+In pelog, the tones 4 and 7 function as exchange tones in certain modes.
+For example, in pelog lima, 4 replaces 3 in certain phrases.  So these
+_gatra_ would all have the same contour:
+
+2321
+2421
+3532
+4542
+5653
+5654
+etc.
+
+In pelog barang (which uses 7 instead of 1), 4 replaces 5.  So these
+_gatra_ would all have the same contour:
+
+2327
+3532
+3432
+5653
+6765
+72^76
+
+End of footnote.
+
+Are there more rare gatras or gatra contours in pelog than slendro?
+
+Which compositions have gatras or gatra contours that appear in no other
+composition?
+
+Tabulate the use of intervals between successive notes.  Are skips more
+likely to occur between the first and second notes of a _gatra_, or the
+second and third, the third and fourth, or the fourth and the first (of the
+next _gatra_)?  Present statistics for each interval and each position
+within the _gatra_.
+
+(Note that in balungan nibani, there are only two positions within a
+_gatra_, not four.)
+
+Are there any _gatra_ that occur much more frequently at one pitch level
+than at the pitch an octave higher or lower?
+
+For each two-_gatra_ phrase in this composition, list all of the
+compositions that also use that phrase.  (Similarly for each four-_gatra_
+phrase.)
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Sample Notation
+
+Gendhing Titipati ketuk 2 kerep minggah 4 slendro nem
+
+
+Buka                                      2_    .  3_ 5_ 6_
+
+    .  6_ .  1    .  2  .  1     .  2  .  6_    .  3_ . (5_)
+
+Merong
+    .  6_ 5_ .    5_ 6_ 1  2     .  3  2  1     6_ 5_ 3_ 5_)
+
+    .  6_ 5_ .    5_ 6_ 1  2     .  3  2  1     6_ 5_ 3_ 5_)
+
+    2_ 3_ 5_ 6_   3_ 5_ 3_ 2_    .  .  2_ 5_    2_ 3_ 5_ 6_)
+
+    1  1  .  .    3  2  1  6_    3  3  .  .     6  5  3 (2)
+
+    5  6  5  3    2  1  2  1     .  .  1  2     3  5  3  2)
+
+    5  6  5  3    2  1  2  1     .  .  1  2     3  5  3  2)
+
+    .  1  2  6    .  .  .  .     6  6  1^ 6     5  3  2  3)
+
+    .  3  3  3    5  6  5  3     2  3  5  3     2  1  6_(5_)
+
+
+ |  3  3  .  .    6  5  3  2     5  6  5  3     2  1  6_ 5_)
+
+    3  3  .  .    6  5  3  2     5  6  5  3     2  1  6_ 5_)  $
+
+    2_ 3_ 5_ 6_   3_ 5_ 3_ 2_    6  6  .  .     3  3  5  6)
+
+    3  5  6  1^   6  5  3  5     2  3  5  6     3  5  3 (2)
+
+    1^ 1^ .  .    3^ 2^ 1^ 6     3  5  6  5     3  2  1  2)
+
+    1^ 1^ .  .    3^ 2^ 1^ 6     3  5  6  5     3  2  1  2)
+
+    .  1  2  6    .  .  .  .     6  6  1^ 6     5  3  2  3)
+
+    .  3  3  3    5  6  5  3     2  3  5  3     2  1  6_(5_)   |
+
+
+Umpak
+
+ $  .  1  .  6_   .  3_ .  2_    .  5_ .  3_    .  5_ .  6_)
+
+    .  2  .  1    .  2  .  6_    .  3  .  6     .  3  . (2)
+
+Inggah
+ |  .  3  .  2    .  3  .  1     .  2  .  1     .  3  .  2)
+
+    .  3  .  2    .  3  .  1     .  2  .  1     .  3  .  2)
+
+    .  3  .  2    .  1  .  6     .  2^ .  1^    .  5  .  3)
+
+    .  5  .  6    .  5  .  3     .  2  .  3     .  6_ . (5_)
+
+    .  6_ .  5_   .  3  .  2     .  3  .  2     .  6_ .  5_)
+
+    .  6_ .  5_   .  3  .  2     .  3  .  2     .  6_ .  5_)
+
+    .  1  .  6_   .  3_ .  2_    .  5_ .  3_    .  5_ .  6_)
+
+    .  2  .  1    .  2  .  6_    .  3  .  6     .  3  . (2)    |
+
+
+
+
+
+
+-----------------------------------------------------------------
+--------------Marc Perlman           Assistant Professor---------
+---Department of Music      Box 1924          Brown University---
+Providence, RI 02912 USA   Tel (401) 863-3234  Fax (401) 863-1256
+
+

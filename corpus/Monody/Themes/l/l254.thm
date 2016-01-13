@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeffler, Charles Martin
+!!!CDT: 1861/01/30/-1935/05/19/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Intro
+!!!OPS: Opus 14
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906
+!!!instrument: piano, orchestra
+!!!place: United States of America, Massachusetts, Boston(?)
+!!!theme: B
+!!!title1: A Pagan Poem (after Virgil)
+!!!statkey: B-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l254 % . % 1906 % Boston? % L254 % 14 % b % Intro % piano, orchestra % . % A Pagan Poem (after Virgil) % LOEFFLER, Charles Martin % 1861
+**kern
+*clefG2
+*k[b-e-]
+*G-:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+4bb-\
+8aa-\L
+8gg-\J
+12ff\L
+12ee-\
+12ff\J
+8dd\L
+8ee-\J
+=
+8ff\L
+8ee-\J
+12cc-\L
+12dd-\
+12ee-\J
+8ff\L
+8ee-\
+8gg-\
+8ff\J
+=
+8.ff\L
+16een\k
+8ee-\
+8dd-\J
+8cc-\L
+8b-\
+8an\
+8a-\J
+=
+8a-/L
+8g-/J
+*-

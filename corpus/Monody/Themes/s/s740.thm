@@ -1,0 +1,42 @@
+**kern
+*clefG2
+*k[b-]
+*met(C)
+*M4/4
+*d:
+8A
+=
+4a
+8a-
+8b
+8a
+8ff
+8ee
+8a
+=
+8.dd
+32cc
+32b
+8.b
+32a
+32a-
+4a
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1851
+!!!place: D&uuml;sseldorf
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s740 % . % 1851 % D&uuml;sseldorf % S740 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) ? (S740) . . . . . . .

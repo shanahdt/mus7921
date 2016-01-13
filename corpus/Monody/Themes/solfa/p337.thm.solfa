@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1680
+!!!instrument: string
+!!!place: England, London
+!!!title1: Four-Part Fantasia No. 4
+!!!statkey: g
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p337 % . % 1680 % London % P337 % . % x % . % string % . % Four-Part Fantasia No. 4 % PURCELL, Henry % 1659
+**solfa
+*clefF4
+*k[b-e-]
+*A:
+*M4/2
+=
+!! ! NB. Key & key signature disagree.
+! 
+2.me/
+4fa\
+2.se\
+8fa/L
+8me/J
+=
+2re/
+2me/
+1te/
+=||
+*clefG2
+*k[b-e-]
+*A:
+*M4/2
+! 
+2.se/
+8fa/L
+8me/J
+2te/
+[2le/
+=
+4le/]
+8te/L
+8le/J
+4.se/
+8fa/
+1fa/
+=
+*-

@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Cello Sonata No. 1                
+!!!OPS: Op. 38
+!!!OMV: Mov. 3
+!!!thm: A
+!!!AIN: cello forte
+!!!ODT: 1862///-1865///
+!!!OCY: &Ouml;sterreich    
+!!!OPC: Wien
+!!!PDT: 1866///      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#]
+*e:
+*M4/4
+=
+4e\
+[4E\
+12E\L]
+12F#\
+12G\J
+12F#\L
+12G\
+12A\J
+=
+12G\L
+12A\
+12B\J
+[4E\
+12E\L]
+12F#\
+12G\J
+12F#\L
+12G\
+12A\J
+=
+12G\L
+12A\
+12B\J
+[4c\
+12c\L]
+12D#\
+12F#\J
+4B\
+=
+*-

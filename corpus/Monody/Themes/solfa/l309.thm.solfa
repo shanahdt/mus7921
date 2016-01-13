@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1675///
+!!!OCL: RSC
+!!!ODT: <1675/12/31/
+!!!ODT: <1688/12/31/
+!!!OMV: Mov. Overture
+!!!PDT: 1688///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1675(prf)
+!!!instrument: orchestra
+!!!place: France, Saint-Germain
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Th&eacute;s&eacute;e
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: l309 % . % 1675(prf) % Saint-Germain % L309 % . % a % Overture % orchestra % Opera % Th&eacute;s&eacute;e % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1688(p) Paris (L309) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/2
+=
+4.do\
+8so\
+4.mi\
+16re\LL
+16do\JJ
+=
+4.fa\
+8fa\
+4.fa\
+8so\
+=
+4.mi\
+8mi\
+4.re\
+16do\LL
+16ti\JJ
+=
+4.do\
+8do\
+4..do\
+*-

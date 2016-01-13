@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: Concert Royal No. 4 in E Minor for Chamber Orchestra
+!!!AIN: chamber orchestra
+!!!SET: No. 4 
+!!!OMV: Mov. 1 (Prelude)              
+!!!PDT: 1722///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+8r
+16r
+16ee\
+8.ggM\L
+16ff#\Jk
+(8ff#q/
+8ee\L)
+8dd#t\J
+(8dd#q/
+8.eenm\L)
+16ff#\Jk
+=
+8dd#t\
+16r
+16b\
+8.eenm\L
+16ff#\Jk
+(8ff#q/
+8.ggM\L)
+16ff#q/LL
+16ggq/JJ
+16aa\Jk
+8aa\L
+16.ggT\L
+32ff#\JJk
+=
+8ff#t\
+*-

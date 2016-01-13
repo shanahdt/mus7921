@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1922?/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 3
+!!!OPS: Opus 22
+!!!PDT: 1922?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1922
+!!!instrument: string
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Quartet
+!!!title2: 2nd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h751 % . % 1922 % Frankfurt % H751 % 22 No. 3 % a % 2 % string % . % Quartet % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1922?(p) Mainz (H751) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+=
+!! ! NB. Key & key signature disagree.
+8fi/L
+8fi/
+8fi/
+8fi/
+8fi/J
+=
+16so/LL
+16le/
+16le/
+16do/JJ
+16te/LL
+16de/
+16de/
+16do/JJ
+16di/LL
+16re/
+16re/
+16do/JJ
+=
+16la/LL
+16te/
+16si/
+16la/
+16so/
+16le/JJ
+*-

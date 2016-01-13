@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in D
+!!!title2: "The Frog"
+!!!statkey: d
+!!DEBUGGING: h375 % . % 1787 % Eszterh&aacute;za % H375 % . % x % 2 % string % "The Frog" % Quartet in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) ? (H375) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+16.d/LL
+!!   Encoding error:   change 6 to 16                                             
+32f/JJk
+=
+8a/L
+8a/
+8a/J
+8.a/L
+16b-/k
+8a/J
+=
+8a\L
+8a\J
+16.bn\LL
+32cc#\JJk
+8a/
+8r
+*-

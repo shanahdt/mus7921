@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Kabalevsky, Dmitry
+!!!CDT: 1904/12/30/-1987/02/14/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus 19
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Symphony No. 2 in C Minor
+!!!title2: 1st Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k4 % . % 1934 % Moscow % K4 % 19 % b % 1 % orchestra % . % Symphony No. 2 in C Minor % KABALEVSKY, Dmitri % 1904
+**solfa
+*clefG2
+*k[]
+*D:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+[1do\
+=
+4do\]
+4ti\
+4do\
+4ti\
+=
+2la\
+2fi/
+=
+2fi/
+2so/
+=
+[1la\
+=
+4la\]
+4ti\
+4do\
+4ti\
+=
+2re\
+2do\
+=
+2ti\
+2la\
+=
+1re\
+=
+*-

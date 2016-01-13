@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Courant
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G
+!!!title2: Courant
+!!!statkey: G
+!!DEBUGGING: p354 % . % n.d. % London % P354 % . % x % Courant % cemba % . % Suite No. 1 in G % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8mi\
+=
+4.mi\
+8so\L
+8mi\
+8fa\J
+=
+4so\
+4.faT\
+8mi\
+=
+2.re/
+=
+4r
+8r
+8re/L
+8la/
+8ti/J
+=
+4do/
+4.doT/
+8re/
+=
+4mi\
+4.mit\
+8fa\
+=
+4so\
+4.laT\
+8ti\
+=
+4do\
+*-

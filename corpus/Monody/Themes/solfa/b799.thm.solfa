@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1795///-1796///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1805///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.20 in G Minor for Piano                  
+!!!OPS: Op. 49
+!!!ONM: NO. 2
+!!!SET: No. 20
+!!!OMV: Mov. 2
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8.do/L
+16ti/Jk
+=
+2ti/
+8.ti/L
+16do/Jk
+=
+2do/
+8.do/L
+16mi/Jk
+=
+[4so\
+8so\L]
+8la\
+8so\
+8fa\J
+=
+4mi\
+8do/
+8r
+*-

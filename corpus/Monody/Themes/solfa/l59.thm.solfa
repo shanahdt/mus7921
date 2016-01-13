@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Leclair, Jean-Marie
+!!!CDT: 1697/05/10/-1764/10/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1737/12/31/
+!!!OMV: Mov. 4: Tambourin
+!!!ONM: No. 3
+!!!OPC: France, Paris
+!!!OPS: Opus 9
+!!!PDT: c1737///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1737(p)
+!!!instrument: violn, piano
+!!!theme: B
+!!!title1: Sonata in D
+!!!title2: 4th Movement  (Tambourin)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l59 % 276 % c1737(p) % Paris % L59 % 9 No. 3 % b % 4: Tambourin % violn, piano % . % Sonata in D % LECLAIR, Jean-Marie % 1697
+**solfa
+*clefG2
+*k[]
+*D:
+*M2/4
+!! ! NB. Key & key signature disagree.
+16do\LL
+16re\J
+8so\J
+=
+8so\L
+8le\
+8so\
+8fa\J
+=
+8so\L
+8la\
+8ti\
+8do\J
+=
+8so\L
+16fa\L
+16me\JJ
+16fa\LL
+16me\
+16re\
+16me\JJ
+=
+8do\L
+8so\J
+*-

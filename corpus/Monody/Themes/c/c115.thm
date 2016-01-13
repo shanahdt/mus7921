@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Chausson, Ernest
+!!!CDT: 1855/01/20/-1899/06/10/
+!!!CNT: French
+!!!OTL: Concerto in D for Piano, Violin, and String Quartet
+!!!OPS: Op. 21
+!!!OMV: Mov. 3 
+!!!thm: B
+!!!AIN: cello forte viola violn
+!!!PDT: 1892///
+!!!OCY: France                    
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+8dd\L
+[8aa\J
+4.aa\]
+8bb-\
+=
+2gg\
+4ff\
+=
+2dd\
+8b-\L
+8cc\J
+=
+2dd\
+4ee\
+=
+2.ff#\
+=
+*-

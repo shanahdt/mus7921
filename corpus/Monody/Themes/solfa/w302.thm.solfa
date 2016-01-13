@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Wolf-Ferrari, Ermanno
+!!!CDT: 1876/01/12/-1948/01/21/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1911///
+!!!MPD: 1912///
+!!!OCL: RSC
+!!!ODT: <1911/12/31/
+!!!ODT: <1912/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1911(prf)
+!!!place: Deutschland, Berlin
+!!!splace: United States of America, Illinois, Chicago
+!!!title1: The Jewels of the Madonna,
+!!!title2: Act III, Intermezzo
+!!!statkey: G
+!!DEBUGGING: w302 % . % 1911(prf) % Berlin % W302 % . % . % . % . % . % . % WOLF-FERRARI, Ermanno
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1912(prf) Chicago (W302) . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+8soq/
+8te\
+8r
+8se\L
+8te\
+8se\
+8te\J
+=
+8fa\L
+8la\J
+8la\
+8r
+12fa\L
+12re\
+12la\J
+=
+2le\
+8so\
+8r
+=
+8se\
+8r
+12me\L
+12de\
+12se\J
+8fa\
+8r
+=
+8fe\L
+8de\J
+8fe\
+8r
+8me\
+8r
+=
+8re\
+8r
+*-

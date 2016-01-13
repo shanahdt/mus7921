@@ -1,0 +1,41 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*A-:
+16so
+16mi
+16do
+16mi
+8so
+8do
+=
+8ti
+8fi
+16la
+16fi
+16ri
+16la
+=
+8so
+16fi
+16mi
+4re
+=
+4do
+4ti
+=
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1922
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s925 % . % 1922 % Leningrad % S925 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri

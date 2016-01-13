@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 447
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784///-1787?
+!!!instrument: cor, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!!DEBUGGING: m448 % . % 1784-1787? % Vienna % M448 % K 447 % x % 3 % cor, orchestra % . % Concerto in E Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M6/8
+8so/
+=
+8do/L
+8do/
+8do/J
+8do/L
+8do/
+8do/J
+=
+4do/
+8di/
+8re/
+8r
+8so/
+=
+8re/L
+8re/
+8re/J
+8re/L
+8re/
+8re/J
+=
+4re/
+8ri/
+8mi/
+8r
+*-

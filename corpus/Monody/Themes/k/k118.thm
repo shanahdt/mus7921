@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: violn, piano
+!!!place: ?
+!!!title1: Tempo di Minuetto
+!!!title2: Style of Pugnani
+!!!statkey: D
+!!DEBUGGING: k118 % . % ? % ? % K118 % . % x % . % violn, piano % Style of Pugnani % Tempo di Minuetto % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4dd\
+4d/
+4ff#\
+=
+2dd\
+4dd\
+=
+8cc#\L
+8dd\J
+4..ddT\
+32cc#\LLL
+32dd\JJJ
+=
+2.ee\
+=
+4dd\
+4d/
+4ff#\
+=
+2g#t/
+16f#q/LL
+16g#q/JJ
+4a/
+=
+8b\L
+16cc#\L
+16dd\JJ
+4cc#\
+4b\
+=
+8ee\
+*-

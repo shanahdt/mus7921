@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!ONM: No. 73
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1782, 1781?
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!theme: C
+!!!title1: Symphony in D
+!!!title2: "La Chasse"
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h545 % 240 % -1782, 1781? % Eszterh&aacute;za % H545 % B. & H. No. 73 % c % 1 % orchestra % "La Chasse" % Symphony in D % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8aa#\L
+8aa#\
+8aa#\J
+8.bb\L
+16ccc#\k
+8ddd\
+8ddd\J
+=
+8r
+8gg#\L
+8gg#\
+8gg#\J
+8.aa\L
+16bb\k
+8ccc#\
+8ccc#\J
+=
+8r
+8ff#\L
+8ff#\
+8ff#\J
+4ddd\
+4ffn\
+=
+8ee\L
+8ddd\J
+8r
+8ccc#\
+*-

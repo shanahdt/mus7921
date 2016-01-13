@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Juliet- The Little Girl
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: CA
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 2
+!!!statkey: C
+!!DEBUGGING: p273 % . % 1936 % Moscow % P273 % 64 % ca % 2: Juliet- The Little Girl % orchestra % Suite No. 2 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+2.ccc\
+4ccc\
+=
+4ccc\
+4gg\
+4eee\
+4ccc\
+=
+4bb\
+4ee\
+4aa\
+16eee\LL
+16ccc\
+16bb\
+16aa\JJ
+=
+4bb\
+4ee\
+4aa\
+8aa\L
+8ccc\J
+=
+4gg\
+4cc\
+4ff\
+8ff\L
+8ccc\J
+=
+4ee\
+*-

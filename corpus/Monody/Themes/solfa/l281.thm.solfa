@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Lortzing, Gustav Albert
+!!!CDT: 1801/10/23/-1851/01/21/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Magdeburg
+!!!theme: A
+!!!title1: Undine
+!!!title2: Overture
+!!!statkey: d
+!!DEBUGGING: l281 % 287 % 1845(prf) % Magdeburg % L281 % . % a % . % orchestra % Overture % Undine % LORTZING, Gustav Albert % 1801
+**solfa
+*clefF4
+*k[b-]
+*d:
+*M4/4
+=
+2do\
+4..so\
+16le\
+=
+8.so\L
+16fa\k
+8.me\
+16re\Jk
+4do\
+*clefG2
+4so/
+=
+*^
+2.le\	4r
+.	8ti/L
+.	8do/J
+.	4re/
+4ryy	8me\L
+.	8fa\J
+*v	*v
+=
+2fa\
+4mi\
+*-

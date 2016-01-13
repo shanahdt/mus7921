@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1821///-1822///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1823///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.32 in C Minor for Piano                  
+!!!OPS: Op. 111
+!!!SET: No. 32
+!!!OMV: Mov. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-a-]
+*c:
+*M4/4
+24GG/LL
+24AAn/
+24BBn/JJ
+=
+4C/
+4E-\
+4.BBn/
+8A-\
+=
+8G\L
+8F\J
+8E-\L
+8D\J
+16E-\LL
+16F\
+16E-\
+16D\JJ
+8C/
+*-

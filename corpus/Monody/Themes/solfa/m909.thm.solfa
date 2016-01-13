@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 318
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Symphony No. 32 in G
+!!!statkey: G
+!!DEBUGGING: m909 % . % 1779 % Salzburg % M909 % K 318 % a % . % orchestra % . % Symphony No. 32 in G % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4.do\
+8do\
+4do\
+8.r
+48do\LLL
+48re\
+48mi\JJJ
+=
+4fa\
+4fa\
+4r
+8.r
+48re\LLL
+48mi\
+48fi\JJJ
+=
+4so\
+4so\
+4r
+8.r
+48mi\LLL
+48fa\
+48so\JJJ
+=
+4la\
+4so\
+4fa\
+4mi\
+=
+4.re/
+16mi\LL
+16fa\JJ
+4mi\
+4re/
+=
+*-

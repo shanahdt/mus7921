@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Kabalevsky, Dmitry
+!!!CDT: 1904/12/30/-1987/02/14/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 24
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936///-1938
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Colas Breugnon
+!!!title2: Overture
+!!!statkey: F
+!!DEBUGGING: k2 % 266 % 1936-1938 % Moscow % K2 % 24 % b % . % orchestra % Overture % Colas Breugnon % KABALEVSKY, Dmitri % 1904
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1969(rev) . (K2) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/2
+=
+1a/
+=
+2f/
+2d/
+=
+1b-\
+=
+2g/
+2e/
+=
+1a/
+=
+2f/
+2d/
+=
+1b-\
+=
+2g/
+2e/
+=
+1cc\
+=
+1e/
+=
+1e/
+=
+2g/
+2g/
+=
+2f/
+*-

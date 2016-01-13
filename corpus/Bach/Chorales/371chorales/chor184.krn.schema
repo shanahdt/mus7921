@@ -1,0 +1,115 @@
+!!!COM:	Bach, Johann Sebastian
+!!!CDT:	1685/02/21/-1750/07/28/
+!!!OTL@@DE:	Christ lag in Todesbanden
+!!!SCT:	BWV 4/8
+!!!PC#:	184
+!!!AGN:	chorale
+**kern	**kern
+*ICvox	*ICvox
+*Ibass	*Isoprn
+*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]
+*>A	*>A
+*clefF4	*clefG2
+*k[]	*k[]
+*d:dor	*d:dor
+*M4/4	*M4/4
+*met(C)	*met(C)
+*MM100	*MM100
+4D	4a
+.	.
+=1	=1
+8EL	4g#
+8D	.
+8C	8aL
+8BBJ	8bJ
+4AA	4cc
+4GG#	4dd
+=2	=2
+4AA	4cc
+4EE	4b
+.	.
+4AA;	4a;
+4C#	4a
+=3	=3
+4D	4f
+.	.
+4E	4g
+.	.
+8FL	4a
+8EJ	.
+4D	8gL
+.	8fJ
+=4	=4
+8GGL	8eL
+16AAL	8dJ
+16BB-XJJ	.
+4AA	4e
+.	.
+2DD;	2d;
+=5:|!	=5:|!
+*>B	*>B
+4.D	8dL
+.	8eJ
+.	4f
+8C	.
+8BB-L	4g
+8AAJ	.
+4GG	8dL
+.	8eJ
+=6	=6
+4D	4f
+4E	4g
+4F;	4a;
+8FL	4a
+8EJ	.
+=7	=7
+4D	4dd
+4E	4cc#
+4F#	4dd
+.	.
+4G#	8eeL
+.	8ddJ
+=8	=8
+4A	4ccnX
+4E	4b
+.	.
+4AA;	4a;
+4D	4b
+=9	=9
+4C	4cc
+4F	8aL
+.	8b-J
+8AAL	4cc
+8BB-J	.
+4C	4g
+.	.
+=10	=10
+4D	4f
+.	.
+4AA	4e
+.	.
+2BB-;	2d;
+=11	=11
+4F	4a
+.	.
+4C#	4g
+.	.
+4D	2f
+.	.
+4BB-	.
+=12	=12
+4GG	2e
+4AA	.
+.	.
+2DD;	2d;
+==	==
+*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach, 
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel, 
+!!!YOR2: c. 1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part 
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22

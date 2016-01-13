@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Intermezzo
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Rossiniana
+!!!title2: Suite for Orchestra
+!!!statkey: E-
+!!DEBUGGING: r290 % . % 1925 % Rome % R290 % . % b % 3: Intermezzo % orchestra % Suite for Orchestra % Rossiniana % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+8.r
+16do/
+8.do/L
+16ti/Jk
+8so/
+8r
+=
+8.r
+16do/
+8.do/L
+16ti/Jk
+8so/
+8r
+=
+8.r
+16so/
+8.so/L
+16do/Jk
+8.la\L
+16fa\Jk
+=
+8faq/
+[4mi/
+8.mi/L]
+16fa/Jk
+8re/
+8r
+=
+*-

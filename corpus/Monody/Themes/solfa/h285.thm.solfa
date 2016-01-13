@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Harris, Roy
+!!!CDT: 1898/02/12/-1979/10/01/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1929///
+!!!OCL: RSC
+!!!ODT: <1929/12/31/
+!!!OMV: Mov. 3: Scherzo
+!!!OPS: Opus 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928
+!!!instrument: piano
+!!!place: France, Paris
+!!!splace: United States of America, New York
+!!!title1: Sonata
+!!!title2: 3rd Movement (Scherzo)
+!!!statkey: C
+!!DEBUGGING: h285 % 227 % 1928 % Paris % H285 % 1 % x % 3: Scherzo % piano % . % Sonata % HARRIS, Roy % 1898
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1929(prf) New York (H285) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8r
+16la\LL
+16so\JJ
+8do\L
+8so\J
+16la\LL
+16so\J
+8me\J
+=
+8mi\L
+8ti\J
+16la/LL
+16mi/J
+8so/J
+8fi/L
+8li/J
+=
+8li/L
+8la/J
+4do\
+4ti\
+=
+*-

@@ -1,0 +1,38 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: Concerto for Piano and Orchestra
+!!!OMV: Mov. 2
+!!!thm: A  
+!!!AIN: forte orchestra
+!!!ODT: 1927///
+!!!OCY: United States of America
+!!!OPC: Boston  
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+[8ggg\
+=
+8.ggg\L]
+16eee\Jk
+8.ddd\L
+16ccc\Jk
+8.aa\L
+16gg\Jk
+8.ff\L
+16ff\Jk
+=
+8eee\
+4eee\
+[8ccc\
+4ccc\]
+*-

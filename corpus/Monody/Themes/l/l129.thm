@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1857///
+!!!OCL: RSC
+!!!ODT: <1857/12/31/
+!!!OMV: Mov. 1: Faust
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1854///-1857
+!!!instrument: orchestra
+!!!place: Deutschland, Weimar
+!!!theme: D
+!!!title1: Faust Symphony
+!!!title2: 1st Movement (Faust)
+!!!statkey: E-
+!!DEBUGGING: l129 % 280 % 1854-1857 % Weimar % L129 % . % d % 1: Faust % orchestra % . % Faust Symphony % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1857(prf) . (L129) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+[2.gg\
+=
+4gg\]
+4ff\
+4.ee-\
+8dd\
+=
+4dd\
+2dd-\
+8.dd-\L
+16ff-\Jk
+=
+[2ff-\
+8ff-\L]
+8b-\
+8ee-\
+8dd-\J
+=
+4dd-\
+2cc-\
+*-

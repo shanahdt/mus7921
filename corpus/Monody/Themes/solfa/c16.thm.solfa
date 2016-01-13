@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Prelude
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 2 in D Minor
+!!!title2: 1st Movement, Prelude
+!!!statkey: d
+!!DEBUGGING: c16 % . % 1731 % Paris % C16 % . % x % 1: Prelude % cello, piano % . % Suite No. 2 in D Minor % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M4/4
+8.do/L
+32re/LL
+32me/JJJ
+=
+4re/
+16req/LL
+16meq/JJ
+8fa/L
+16me/L
+16re/JJ
+8req/
+8.me/L
+16re/Jk
+8do/L
+8le/J
+=
+4.le\
+8so/
+4do/
+[8fa/L
+32fa/LL]
+32me/
+32re/
+32do/JJJ
+=
+4.ti/
+8me/
+4.me/
+8re/
+=
+*-

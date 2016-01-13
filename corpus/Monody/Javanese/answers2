@@ -1,0 +1,63 @@
+SENT:  Wed Mar  8 21:55:19 EST 2000
+
+Marc,
+
+>First, collapsing pitch into pitch class makes the results mostly
+>impossible to interpret.  Will it be tricky to get Humdrum to deal with
+>pitch rather than pitch class?
+
+This isn't a problem.  I was just a little lazy in drafting the scripts.
+
+>Second, the distinction between balungan nibani and regular balungan is
+>crucial.  In balungan nibani, there are only two melodic events per gatra.
+>Perhaps this is really a question of the interpretation of notated periods
+>(sustains; i.e., "tied" notes).
+
+Again, this isn't a problem.  In the Humdrum scripts I sent you, the "ditto"
+command causes the dots to be filled in.  To get the right inventories
+for balungan nibani, we will simply omit the ditto command.
+
+
+
+
+BTW, we're approaching the point where I start to get a little anxious.
+Humdrum has been around for some 15 years, and over that time many many
+people have asked me to do analyses for them.  From time-to-time I
+rope-in one of my students, but after a while, they too tend to feel
+put-upon.  In general, I'm happy to spend an hour helping out, but once
+we get serious, I'm usually reluctant to spend three or four hours doing
+the basic leg work.  I imagine it's a bit like doing Gamelan transcriptions
+for someone -- you might be 20 times faster than someone else, but
+that's little incentive to spend several hours of your time in order
+to save someone a few weeks work.
+
+Generally, what pushes my buttons is to be involved in the process of
+discovery.  This is a collaborative activity.  If you want to have
+some fun, we should arrange for you to return for a weekend in Columbus.
+You could stay at my place and we could work together on your repertory.
+You will probably be surprised by how exhilarating this can be.
+Questions like the ones you have posed can be answered (for a large
+repertory) typically in a couple of minutes each.  This often leads to
+a fast-paced research dialogue with the repertory:  let's try this
+idea ... nope ...  how about this?  ... looks promising ...
+let's refine it ... yep ...  wow ... is that also true in this other
+circumstance?  ... etc.
+
+The challenge is not doing the analyses; it's generating good
+hypotheses, theories, and conceptual questions.  For inspiration,
+consider looking at the questions listed at:
+http://dactyl.som.ohio-state.edu/Humdrum/problems.html
+Imagine parallel questions that might be posed using the information
+you have encoded.
+
+If you think you'd like to visit for a weekend, then you should
+(1) determine whether my Humdrum translation of the piece you sent
+is an accurate isomorph to your original representation;  (2) write
+down as many questions as you can;  (3) book another flight to Ohio.
+
+Alternatively, you might consider learning Humdrum yourself!
+There is plenty of documentation on the web.
+
+Warmest wishes,
+David
+

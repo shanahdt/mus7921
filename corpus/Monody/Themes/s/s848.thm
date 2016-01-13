@@ -1,0 +1,53 @@
+**kern
+*clefG2
+*k[b-e-a-]
+*M2/4
+*c:
+16cc
+16dd
+16ee-
+16ff
+=
+8gg
+8gg
+8gg
+8gg
+=
+8gg
+8gg
+8gg
+8gg
+=
+8gg
+8gg
+16gg
+16aa-
+16bb-
+16aa-
+=
+8gg
+8cc
+8gg
+8eee
+=
+4ddd
+8dd
+8eee
+=
+4ccc
+8gg
+8ee
+=
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1933
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s848 % . % 1933 % Leningrad % S848 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri

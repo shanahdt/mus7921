@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1735///
+!!!OCL: RSC
+!!!ODT: 1735///
+!!!ODT: <1735/12/31/
+!!!ODT: <1738/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 4
+!!!OPC: England, London
+!!!OPS: Opus 4
+!!!PDT: 1738///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: organ, orchestra
+!!!splace: England, London
+!!!title1: Concerto No. 4 in F
+!!!title2: 3rd Movement
+!!!statkey: d
+!!DEBUGGING: h24 % . % 1735(c) % London % H24 % 4 No. 4 % x % 3 % organ, orchestra % . % Concerto No. 4 in F % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1735(prf) . (H24) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1738(p) London (H24) 4 No. 4 x 3 organ, orchestra . Concerto No. 4 in F HANDEL, George Frederick 1685
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+[4so/
+16.so\LL]
+32do\k
+16.ti\
+32do\JJk
+[4fa/
+16.fa\LL]
+32re\k
+16.do\
+32re\JJk
+=
+[4me/
+16.me\LL]
+32me\k
+16.re\
+32me\JJk
+16.do\LL
+32te\k
+16.te\
+32do\JJk
+8.leT/L
+16so/Jk
+=
+4so/
+*-

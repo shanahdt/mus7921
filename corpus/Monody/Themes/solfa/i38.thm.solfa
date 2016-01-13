@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 42
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: E
+!!!title1: Ishtar
+!!!title2: Symphonic Variations
+!!!statkey: d
+!!DEBUGGING: i38 % . % 1896 % Paris % I38 % 42 % e % . % orchestra % Symphonic Variations % Ishtar % I29 % 1851
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M6/4
+2.la/
+=
+2.so/
+2.ri/
+=
+2.mi/
+2.so/
+=
+2ti/
+4la/
+[2.la/
+=
+2.la/]
+[4fa/
+8fa/]
+4.so/
+=
+2.le/
+[2.mi/
+=
+2.mi/]
+2.re/
+=
+2.re/
+2.do/
+=
+*-

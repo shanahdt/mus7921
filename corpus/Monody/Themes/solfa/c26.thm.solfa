@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: En Voiture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Illinois, Chicago
+!!!theme: A
+!!!title1: Adventures in a Perambulator
+!!!title2: 1st Movement, En Voiture
+!!!statkey: E-
+!!DEBUGGING: c26 % . % 1914 % Chicago % C26 % . % a % 1: En Voiture % orchestra % . % Adventures in a Perambulator % CARPENTER, John Alden % 1876
+**solfa
+*clefF4
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+2so\
+16laq/LL
+16soq/JJ
+8mi\
+16r
+16mi\
+=
+[2.re\
+=
+8re\L_
+24re\L]
+24mi\
+24re\JJ
+24do\LL
+24re\
+24do\J
+24ti\L
+24do\
+24ti\JJ
+8la\
+16r
+16la\
+=
+2.ti\
+=
+*-

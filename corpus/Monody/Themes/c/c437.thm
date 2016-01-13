@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: Music for the Theatre
+!!!OMV: Mov. 1 (Prologue)
+!!!thm: B           
+!!!AIN: small orchestra
+!!!ODT: 1925///        
+!!!OCY: United States of America
+!!!OPC: Boston  
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*F#:
+*M6/4
+=
+!! !! NB. Key & key signature disagree.
+2r
+4r
+4aa#\
+4gg#\
+=
+*M3/4
+4ff#\
+4b\
+4b\
+=
+*M5/4
+8aa#\
+[4gg#\
+16gg#\LL]
+[16ff#\JJ
+2ff#\]
+=
+*M6/4
+4ff\
+4dd#\
+4cc#\
+4dd#\
+2b\
+=
+8ff\L
+[8dd#\J
+4dd#\_
+8dd#\L]
+8cc#\J
+*-

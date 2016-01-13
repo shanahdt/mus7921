@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1892///
+!!!OCL: RSC
+!!!ODT: <1892/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: The Nutcracker Suite, Op. 71a, Orch.
+!!!title2: Dance of the Sugar Plum Fairy
+!!!statkey: e
+!!DEBUGGING: t193 % 491 % 1892(prf) % St. Petersburg % T193 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=
+8r
+16me\LL
+16do\JJ
+8me\L
+8re\J
+=
+8ti\L
+8do\J
+16te\LL
+16te\J
+8te\J
+=
+16la\LL
+16la\J
+8la\J
+16le\LL
+16le\J
+8le\J
+=
+16so\LL
+16do\
+16le\
+16do\JJ
+8so\
+8r
+=
+*-

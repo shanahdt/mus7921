@@ -1,0 +1,55 @@
+NOTE ON THE 35 LIEDER BY SCHUBERT
+by Paul von Hippel
+Thursday, October 22, 1998
+
+Of the 35 Lieder in this directory, 30 were encoded by David Huron at
+a time when the Humdrum format was not as standardized as it is today. On
+October 21-22, 1998, Paul von Hippel revised the encodings to conform
+to modern Humdrum conventions. Von Hippel's revisions are described in
+the editorial modification records ("!!!EMD") at the end of each file.
+The current version of the collection is 2.0.
+
+Huron's original encodings comprise the first 30 monophonic tunes
+(schub01.krn-schub30.krn) from a printed anthology that contains only
+35 Lieder in all (Friedlaender, n.d.).  On October 21-22, 1998, for the
+sake of completeness, Paul von Hippel encoded the 5 Lieder that Huron had
+left out (schub31.krn-schub35.krn). The encoded collection now includes
+every vocal melody in the printed anthology.
+
+In the edition from which Huron worked, the Lieder were notated in their
+original keys. Von Hippel encoded from an edition for medium voice, in
+which some of the Lieder had been transposed downward. After encoding,
+the Lieder were transposed back up to their original keys.
+
+There are two further discrepancies between Huron's encodings and von
+Hippel's:
+
+(1) The vocal part of a Schubet Lied often begins and ends with
+several bars of rest, during which the piano plays an introduction or
+codetta. Huron omitted these leading and trailing rests; von Hippel
+included them.
+
+(2) Von Hippel used 'Q' tokens to indicate small notes (grupetti and
+accacciaturas), while Huron offered rhythmic performance interpretations.
+For example, von Hippel would encode a pair of sixteenth note grupetti
+followed by a quarter-note as follows --
+
+	**kern
+	16Qe
+	16Qd
+	4d
+	*-
+
+-- while Huron might interpret the grupetti as proper sixteenth notes
+that rob time from the quarter note, thus reducing the quarter's notated
+value to an eighth, as follows:
+
+	**kern
+	16e
+	16d
+	8d
+	*-
+
+REFERENCE
+Friedlaender, M. (Ed.) (n.d.) Franz Schubert: Selected songs. Frankfurt,
+London, New York: C.F. Peters

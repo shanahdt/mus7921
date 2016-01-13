@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1933///
+!!!OCL: RSC
+!!!ODT: <1933/12/31/
+!!!OMV: Mov. 4
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!theme: B
+!!!title1: Galanta Dances
+!!!title2: 4th Movement
+!!!statkey: B-
+!!DEBUGGING: k68 % 270 % 1933 % Budapest % K68 % . % b % 4 % orchestra % . % Galanta Dances % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1933(prf) . (K68) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+8.b-\L
+16a\k
+8.gg\
+16een\Jk
+=
+8.ff\L
+16gg\Jk
+16ff\LL
+16ee-\
+16dd\
+16cc\JJ
+=
+16b-/LL
+16a/J
+8b-/J
+8.gg\L
+16een\Jk
+=
+8ff\L
+24gg\L
+24ff\
+24een\JJ
+8ff\L
+8f\J
+=
+*-

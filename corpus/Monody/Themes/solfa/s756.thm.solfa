@@ -1,0 +1,56 @@
+**solfa
+*clefG2
+*k[b-]
+*M3/4
+!! NB. Key & key signature disagree.
+*G:
+4so
+=
+[2.do
+=
+4]do
+4ti
+4te
+=
+[2.me
+=
+4]me
+4re
+4re
+=
+2te
+[4se
+=
+4]se
+4se
+4so
+=
+2fa
+4me
+=
+4re
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s756 % . % 1841 % Leipzig % S756 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(p) ? (S756) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(prf) Leipzig (S756) . . . . . . SCHUMANN, Robert

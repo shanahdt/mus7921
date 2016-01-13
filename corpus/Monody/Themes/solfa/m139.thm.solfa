@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mascagni, Pietro
+!!!CDT: 1863/12/07/-1945/08/02/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1890/12/31/
+!!!OMV: Mov. Intermezzo
+!!!PDT: 1890///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1890(p)
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Cavalleria Rusticana
+!!!title2: Opera
+!!!statkey: F
+!!DEBUGGING: m139 % 297 % 1890(p) % Rome % M139 % . % b % Intermezzo % orchestra % Opera % Cavalleria Rusticana % MASCAGANI, Pietro % 1863
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+2mi/
+4so\
+=
+2do/
+4mi/
+=
+4la/
+8la\L
+8so\J
+8fa/L
+8do/J
+=
+2mi/
+4re/
+=
+2fa\
+4la/
+=
+4mi/
+4so\
+4do/
+=
+2mi/
+4re/
+=
+2.do/
+=
+*-

@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Poulenc, Francis
+!!!CDT: 1899/01/07/1963-/01/30/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928
+!!!instrument: piano
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Novelette No. 2
+!!!statkey: B-
+!!DEBUGGING: p176 % . % 1928 % Paris % P176 % . % b % . % piano % . % Novelette No. 2 % POULENC, Francis % 1899
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/2
+=
+4mi\
+4re\
+4do\
+12so/L
+12do/
+12re/J
+=
+4.mi\
+8re\
+4do\
+12so\L
+12do\
+12mi\J
+=
+2so\
+4mi\
+8re\L
+8do\J
+=
+2mi\
+2re\
+=
+*-

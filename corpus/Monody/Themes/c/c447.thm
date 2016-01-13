@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: Piano Variations            
+!!!AIN: forte 
+!!!ODT: 1930///        
+!!!OCY: United States of America
+!!!OPC: New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[]
+*E:
+*M4/4
+=
+!! !! NB. Key & key signature disagree.
+2r
+4r
+4E\
+=
+2.C/
+4D#\
+=
+[4c#\
+8c#\]
+8r
+2r;
+=
+*M3/4
+4E\
+4C/
+4e\
+=
+*M4/4
+2D#\
+2c#\
+=
+*M3/4
+8d\
+8r
+4r;
+4E\
+=
+*M5/4
+2.F#\
+8D\
+*-

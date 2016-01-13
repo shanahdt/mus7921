@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!CNT: German
+!!!PDT: 1779///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Sonata No. 1 in G for Piano
+!!!OPR: F&uuml;r Kenner und Lebhaber Collection No.2
+!!!OMV: Mov. 2
+!!!SET: No. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M3/8
+=
+16r
+16gg#\
+16gg#\LK
+16bbq/
+8aa\
+16gg#\Jk
+=
+16r
+16gg#\
+16gg#S\LK
+8ccc#\
+16bb\Jk
+=
+32.bb\LLL
+64ccc#\JJJk
+8ddd\L
+8ccc#\
+16bb\Jk
+=
+16bbq/
+8aaTR\L
+16gg#\Jk
+*-

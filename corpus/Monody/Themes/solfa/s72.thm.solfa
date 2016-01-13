@@ -1,0 +1,56 @@
+**solfa
+*clefG2
+*k[b-e-a-]
+*met(C|)
+*M2/2
+*E-:
+8mi
+8so
+8do
+=
+2mi
+2so
+=
+2re
+8te
+8re
+8fa
+8te
+=
+2re
+2fa
+=
+2do
+8si
+8do
+8ri
+8si
+=
+4te
+4do
+8si
+8do
+8ri
+8si
+=
+4te
+4do
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1871
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s72 % 395 % 1871 % Paris? % S72 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1871///
+!!!ODT: <1871/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1871(p) Paris (S72) . . . . . . .

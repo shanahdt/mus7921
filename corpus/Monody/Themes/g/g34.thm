@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1895
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Welsh Rhapsody
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: g34 % . % 1895 % London % G34 % . % b % . % orchestra % . % Welsh Rhapsody % GERMAN, Sir Edward % 1862
+**kern
+*clefG2
+*k[]
+*E-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8dd\L
+32ee-\LL
+32dd\
+32cc#\
+32ddn\JJJ
+8ff\L
+8ee-\J
+=
+8b-\L
+32cc\LL
+32b-\
+32an\
+32b-\JJJ
+8dd\L
+8cc\J
+=
+16.f/LL
+32g/Jk
+[8a-/J
+16.a-/LL]
+32b-/Jk
+[8cc/J
+=
+16.cc\LL]
+32dd\k
+16.ee-\
+32ff\JJk
+8aa-q/
+16.gg\LL
+32ff\k
+16.gg\
+32aa-\JJk
+=
+*-

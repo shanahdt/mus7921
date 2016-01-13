@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1933?/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1933?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933
+!!!instrument: violn, viola, cello
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Trio No. 2
+!!!title2: 2nd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h787 % . % 1933 % Berlin % H787 % . % a % 2 % violn, viola, cello % . % Trio No. 2 % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1933?(p) Mainz (H787) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*B-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8do\
+8r
+[4so/
+=
+4so/]
+8la/L
+8ti/
+8do/
+8re/J
+=
+4me\
+8me\L
+8re\J
+4do\
+=
+4fa\
+8fa\L
+8me\J
+4ra\
+=
+4do\
+4te/
+4le/
+=
+8te/L
+8so/J
+4re/
+4la/
+=
+*-

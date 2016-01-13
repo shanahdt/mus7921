@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1745///
+!!!OCL: RSC
+!!!ODT: <1745/12/31/
+!!!ODT: <1749/12/31/
+!!!OMV: Mov. Minuet No. 2
+!!!PDT: 1749///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1749(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Versailles
+!!!title1: Plat&eacute;e
+!!!title2: Opera
+!!!statkey: d
+!!DEBUGGING: r106 % . % 1749(p) % Paris % R106 % . % x % Minuet No. 2 % orchestra % Opera % Plat&eacute;e % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1745(prf) Versailles (R106) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4ff\
+2aa\
+=
+4ee\
+4.gg\
+8bb-\
+=
+8aa\L
+8gg\
+8ff\
+8ee\
+8dd\
+8cc#\J
+=
+8dd\L
+8a\J
+2a/
+=
+8b-/L
+8a/
+8b-/
+8a/
+8b-/
+8a/J
+=
+8dd\L
+8cc#\J
+2ff;\
+=
+8ee\L
+8ff\J
+4gg\
+4ff\
+=
+*-

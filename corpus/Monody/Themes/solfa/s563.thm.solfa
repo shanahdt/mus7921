@@ -1,0 +1,47 @@
+**solfa
+*clefG2
+*k[b-]
+*M3/4
+*F:
+4so
+=
+4so
+8la
+8so
+8so
+8do
+=
+4ti
+4so
+4so
+=
+8fa
+8mi
+8fa
+8la
+8so
+8fa
+=
+4la
+4mi
+4mi
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1826
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s563 % . % 1826 % Vienna % S563 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1827///
+!!!ODT: <1827/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1827(p) Vienna? (S563) . . . . . . .

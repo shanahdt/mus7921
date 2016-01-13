@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 5: Gigue
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 8 in F Minor
+!!!title2: 5th Movement (Gigue)
+!!!statkey: f
+!!DEBUGGING: h230 % 224 % 1720(p) % London? % H230 % . % x % 5: Gigue % piano % . % Suite No. 8 in F Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M6/8
+8so\
+=
+8me\L
+8do\
+8do\J
+8ti\L
+8so\
+8re\J
+=
+8me\L
+8ti\
+8doT\J
+8re\L
+8so\
+8ti\J
+=
+4do\
+8me/
+4re/
+8ti\
+=
+8do\
+*-

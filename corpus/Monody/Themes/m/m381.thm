@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: H: DANCE OF THE NEGRO
+!!!title1: Le Boeuf Sur le Toit
+!!!title2: Ballet based on South American Tunes
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m381 % 309 % 1918 % Paris % M381 % . % h: Dance of the Negro % . % orchestra % Ballet based on South American Tunes % Le Boeuf Sur le Toit % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*F:
+*M2/4
+!! ! NB. Key & key signature disagree.
+16r
+16ccc\LL
+16ccc\
+16ccc\JJ
+=
+16ccc\LL
+16aa\
+16aa\
+16aa\JJ
+16aa\LL
+16ff\
+16ff\
+16ff\JJ
+=
+16ff\LL
+16dd\
+16dd\
+16dd\JJ
+16dd\LL
+16bb-\
+16bb-\
+16bb-\JJ
+=
+16bb-\LL
+16gg\
+16gg\
+16gg\JJ
+16gg\LL
+16ee\
+16ee\
+16dd\JJ
+=
+4cc\
+*-

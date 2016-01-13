@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. II: The Old Castle
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: II. The Old Castle
+!!!statkey: g#
+!!DEBUGGING: m1029 % . % 1874 % St. Petersburg % M1029 % .  % x % II: The Old Castle % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*g#:
+*M6/8
+8d#/
+=
+[2.g#/
+=
+8g#/L]
+8b/
+8a#/J
+16g#q/LL
+16a#q/JJ
+8g#/L
+8e/
+8g#/J
+=
+4g#/
+8d#/
+[4.f#/
+=
+8f#/L]
+8e/
+8d#/J
+8d#q/
+8e/L
+8d#/
+8c#/J
+=
+8d#/
+[4G#/
+4.G#/]
+=
+*-

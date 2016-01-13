@@ -1,0 +1,51 @@
+**kern
+*clefG2
+*k[]
+*M4/4
+*C:
+[4cc
+=
+4]cc
+4a-
+4g
+4d
+=
+4e
+4c
+4A
+4A
+=
+4a
+4d-
+4ff
+4b
+=
+2.ee
+4ee
+=
+4ff#
+4ff#
+4dd
+4cc
+=
+4b
+2;gg
+*-
+!!!COM: Schuman, William
+!!!CNT: American
+!!!date: 1941
+!!!place: United States of America, New York
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s580 % . % 1941 % New York % S580 % . % . % . % . % . % . % SCHUMAN, William
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1941///
+!!!ODT: <1941/12/31/
+!!!splace: United States of America, Massachusetts, Boston
+!!!CDT: ///-
+!!DEBUGGING: . . 1941(prf) Boston (S580) . . . . . . .

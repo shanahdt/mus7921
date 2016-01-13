@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 1: Mars, the Bringer of War
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: The Planets
+!!!title2: 1st Movement (Mars, the Bringer of War)
+!!!statkey: C
+!!DEBUGGING: h797 % . % 1914-1916 % London % H797 % 32 % a % 1: Mars, the Bringer of War % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H797) . . . . . . . .
+**solfa
+*clefF4
+*k[]
+*C:
+*M5/4
+=
+[2.so/
+2so/_
+=
+2.so/]
+2re\
+=
+2.ra\
+2le\
+=
+2.so\
+*-

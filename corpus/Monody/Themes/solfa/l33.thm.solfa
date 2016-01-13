@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1888///
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!ODT: <n.d./12/31/
+!!!OMV: Mov. Intro
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1875///-1888
+!!!instrument: orchestra
+!!!place: France, Paris(?)
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Le Rio D'Ys
+!!!title2: Overture
+!!!statkey: F
+!!DEBUGGING: l33 % 275 % 1875-1888 % Paris? % L33 % . % b % Intro % orchestra % Overture % Le Rio D'Ys % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1888(prf) Paris (L33) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 275 n.d.(p) Paris (L33) . b Intro orchestra Overture Le Rio D'Ys LALO, Edouard 1823
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+4.fa\
+8fa\
+8mi\L
+8fa\
+8.la\
+16do\Jk
+=
+2.mi\
+8.re\L
+16do\Jk
+=
+2do\
+4.ti\
+8la\
+=
+2.so\
+4so\
+=
+4fi\
+4fa\
+4mi/
+8.so\L
+16do\Jk
+=
+2.mi\
+*-

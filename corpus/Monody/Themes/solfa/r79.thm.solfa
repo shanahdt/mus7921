@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1737///
+!!!OCL: RSC
+!!!ODT: <1737, 1754/12/31/
+!!!ODT: <1737/12/31/
+!!!OMV: Mov. Gavotte 1
+!!!PDT: 1737, 1754///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1737, 1754(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Castor et Pollux
+!!!title2: Opera
+!!!statkey: A
+!!DEBUGGING: r79 % 372 % 1737, 1754(p) % Paris % R79 % . % x % Gavotte 1 % orchestra % Opera % Castor et Pollux % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1737(prf) . (R79) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/0
+4.mi\
+8re\
+=
+4.re\
+8r
+4.fa\
+8mi\
+=
+8miq/
+4reT\
+8.do/
+16r
+4.re\
+8mi\
+=
+4tit/
+8.do/
+16r
+4.re\
+8mi\
+=
+4mit\
+8.re\
+16r
+*-

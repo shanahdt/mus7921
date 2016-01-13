@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1813///
+!!!OCL: RSC
+!!!ODT: <1813/12/31/
+!!!ODT: <1816-1819?/12/31/
+!!!PDT: 1816-1819?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1813(prf)
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!theme: A
+!!!title1: Tancredi
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: r390 % . % 1813(prf) % Venice % R390 % . % a % . % orchestra % Overture % Tancredi % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1816-1819?(p) Mainz (R390) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+12r
+12so\L
+12la\
+12ti\
+12do\
+12re\J
+=
+8.mi\L
+16mi\Jk
+8.mi\L
+16mi\Jk
+8.mi\L
+16mi\Jk
+12so\L
+12fa\
+12mi\J
+=
+8.re\L
+16re\Jk
+8.re\L
+16re\Jk
+8.re\L
+16re\Jk
+12fa\L
+12mi\
+12re\J
+=
+8.do\L
+16do\Jk
+8.do\L
+16do\Jk
+8.do\L
+16do\Jk
+12do\L
+12la\
+12re\J
+=
+2so/
+*-

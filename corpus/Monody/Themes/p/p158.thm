@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Ponchielli, Amilcare
+!!!CDT: 1834/08/31/-1886/01/17/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1856///
+!!!MPD: 1872(rev)///
+!!!OCL: RSC
+!!!ODT: <1856/12/31/
+!!!ODT: <1872/12/31/
+!!!ODT: <n.d./12/31/
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1856(prf)
+!!!instrument: orchestra
+!!!place: Italia, Cremona
+!!!splace: Italia, Milano
+!!!theme: A
+!!!title1: I Promessi Sposi
+!!!title2: Overture
+!!!statkey: f#
+!!DEBUGGING: p158 % . % 1856(prf) % Cremona % P158 % . % a % . % orchestra % Overture % I Promessi Sposi % PONCHIELLI, Amilcare % 1834
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) Milan (P158) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1872(rev)(prf) Milan (P158) . a . orchestra Overture I Promessi Sposi PONCHIELLI, Amilcare 1834
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+4ccc#\
+4ccc#\
+=
+12aa#\L
+12bb\
+12ccc#\J
+8.ddd\L
+16ccc#\Jk
+=
+4eee\
+8.ddd\L
+16ff#\Jk
+=
+4ff#\
+4ee\
+=
+8.aa\L
+16gg#\Jk
+8.bb\L
+16aa\Jk
+=
+8.gg#\L
+16ff#\Jk
+[4fff#\
+=
+6fff#\]
+12eee\
+*-

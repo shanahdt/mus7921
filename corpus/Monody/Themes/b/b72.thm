@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1735///-1740///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Concerto No.2 in C for Two Pianos and Orchestra
+!!!SET: No. 2
+!!!AIN: 2 forte orchestra
+!!!OMV: Mov. 2
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=
+8.a\L
+16ee\k
+8ff\J
+16ee\LL
+16dd\
+16cc\
+16b\
+16cc\
+16a\JJ
+=
+4g#/
+8a/
+8b/L
+8e/
+8a/J
+=
+16dd\LL
+16ee\
+16ff\
+16ee\J
+[8ff\J
+16ff\LL]
+16ee\
+16dd\
+16bb\
+16ee\
+16dd\JJ
+=
+4cc\
+*-

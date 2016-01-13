@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1871///
+!!!OCL: RSC
+!!!ODT: <1871/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1871(prf)
+!!!place: Royssia, Moskova(?)
+!!!title1: Quartet in D, Op. 11, Str.
+!!!title2: 1st Movement
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t168 % . % 1871(prf) % Moscow? % T168 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[f#c#]
+*A:
+*M9/8
+=
+!! ! NB. Key & key signature disagree.
+4mi/
+8so/
+4so/
+8mi/
+8mi/
+4re/
+=
+4mi/
+8so/
+4so/
+8mi/
+8mi/
+4re/
+=
+*M12/8
+8mi/L
+8so/
+8do/J
+4mi\
+8re\
+8so/L
+8mi/
+8re/J
+8so/L
+8mi/
+8re/J
+=
+*-

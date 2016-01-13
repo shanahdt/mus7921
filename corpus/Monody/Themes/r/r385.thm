@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1813///
+!!!OCL: RSC
+!!!ODT: <1813/12/31/
+!!!ODT: <1818-1820/12/31/
+!!!PDT: 1818-1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1813(prf)
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!theme: A
+!!!title1: L'Italiana In Algeri
+!!!title2: Overture
+!!!statkey: C
+!!DEBUGGING: r385 % 388 % 1813(prf) % Venice % R385 % . % a % . % orchestra % Overture % L'Italiana In Algeri % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1818-1820(p) Mainz (R385) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+8gg\L
+8ff#\
+8aa\J
+=
+4gg\
+4ccc\
+8r
+8gg\L
+8ff#\
+8aa\J
+=
+4gg\
+4eee\
+8r
+!! 8va below
+16eee\LL
+16fff\JJ
+8eee\L
+16ddd\L
+16eee\JJ
+=
+8ddd\L
+16ccc\L
+16ddd\JJ
+8ccc\L
+16bb\L
+16ccc\JJ
+8bb/L
+16aa/L
+16bb/JJ
+8aa/L
+16gg/L
+16aa/JJ
+=
+4ff/
+!! end 8va
+*-

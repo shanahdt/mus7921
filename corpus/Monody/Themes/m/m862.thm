@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 16
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1764///-1765
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony No. 1 in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m862 % . % 1764-1765 % London % M862 % K 16 % b % 3 % orchestra % . % Symphony No. 1 in E Flat % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*B-:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+4.gg\
+=
+4.ff\
+=
+4.ee-\
+=
+4dd\
+8ff\
+=
+8een\L
+8ff\
+8ee-\J
+=
+8cc#\L
+8dd\
+8an\J
+=
+8b-/L
+8g-/
+8en/J
+=
+16f/
+*-

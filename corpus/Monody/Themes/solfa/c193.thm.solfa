@@ -1,0 +1,70 @@
+!!!ref: COM CDT, OPR, OPS, OTL, thm
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OPR: &Eacute;tudes
+!!!OTL: &Eacute;tude No. 8 in F Major
+!!!OPS: Op. 10
+!!!thm: A
+!!!AIN: forte 
+!!!ODT: 1830///          
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1833///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+!! 8va below
+4so\
+16fiq/LL
+16soq/JJ
+=
+16mi\LL
+16re\
+16do\
+16so\JJ
+!! end 8va
+16mi\LL
+16re\
+16do\
+16so\JJ
+16mi/LL
+16re/
+16do/
+16so/JJ
+*clefF4
+16mi\LL
+16re\
+16do\
+16so\JJ
+=
+16do\LL
+16re\
+16mi\
+16so\JJ
+*clefG2
+16do/LL
+16re/
+16mi/
+16so/JJ
+16do\LL
+16re\
+16mi\
+16so\JJ
+!! 8va below
+16do\LL
+16re\
+16mi\
+16re\JJ
+!! end 8va
+=
+*-

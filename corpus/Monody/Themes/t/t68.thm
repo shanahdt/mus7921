@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Quartet in B Minor, Fl., Vn., Vcl. & Harpsi.
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: t68 % . % n.d. % ? % T68 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+8d/
+=
+8d/L
+32c#q/LLL
+32Bq/JJJ
+8A/J
+8B/
+=
+8B/L
+8A/J
+[8dd\
+=
+8dd\]
+4cc#t\
+=
+4dd\
+16ee\LL
+32ff#\L
+32gg\JJJ
+=
+8ff#\L
+8bb\J
+32ff#\LLL
+32ee\J
+16dd\JJ
+=
+8ee\L
+8aa\J
+32ee\LLL
+32dd\J
+16cc#\JJ
+=
+8dd\L
+32dd\LK
+16.cc#\
+32cc#\K
+16.b\JJ
+=
+8a/
+*-

@@ -1,0 +1,51 @@
+**solfa
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*C:
+4.do
+8mi
+8.so
+16la
+8do
+8so
+=
+4la
+8.re
+16mi
+4re
+8do
+8la
+=
+4do
+4so
+8.mi
+16fa
+8so
+8do
+=
+4mi
+8.so
+16la
+4.so
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!MPD: 1883///
+!!!ODT: <1883/12/31/
+!!!date: 1883(prf)
+!!!place: France, Paris
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s55 % . % 1883(prf) % Paris % S55 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1883///
+!!!ODT: <1883/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1883(p) . (S55) . . . . . . .

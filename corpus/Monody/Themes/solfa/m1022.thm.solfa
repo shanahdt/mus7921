@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1867
+!!!instrument: orchestra
+!!!place: Minkino
+!!!theme: C
+!!!title1: A Night on Bald Mountain
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m1022 % . % 1867 % Minkino % M1022 % .  % c % . % orchestra % . % A Night on Bald Mountain % MUSORGSKY, Modest Petrovich % 1839
+**solfa
+*clefG2
+*k[b-]
+*A:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+8so\
+4so\
+8le\
+8so\L
+8fa\
+8so\
+8le\J
+=
+4te\
+4do\
+[4so\
+8so\]
+8r
+=
+8r
+4do\
+8ra\
+8do\L
+8te\
+8do\
+8ra\J
+=
+4me\
+4fa\
+[4do\
+8do\]
+8r
+=
+*-

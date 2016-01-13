@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1846
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Hungarian Rhapsody No. 1 in E
+!!!statkey: D-
+!!DEBUGGING: l147 % 281 % 1846 % Weimar % L147 % . % b % . % piano % . % Hungarian Rhapsody No. 1 in E % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Leipzig (L147) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M2/4
+=
+4..mi/
+16fa/
+=
+8so/
+4.so/
+=
+4.so/
+8si/
+=
+4.la\
+16fa/LL
+16mi/JJ
+=
+4re/
+8miq/
+8re/L
+8di/J
+=
+4re/
+*-

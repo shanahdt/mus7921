@@ -1,0 +1,72 @@
+**solfa
+*clefG2
+*k[f#]
+*M2/4
+*G:
+8.r
+16ri
+16mi
+8r
+16ti
+=
+16do
+8r
+16do
+16fa
+16mi
+16ti
+16do
+=
+8.si
+[16so
+16]so
+16la
+16do
+16mi
+=
+8.la
+[16re
+16]re
+16mi
+16fa
+16so
+16la
+16ti
+16do
+16re
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1928///-1929
+!!!place: Nice
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1517 % 470 % 1928-1929 % Nice % S1517 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1929///
+!!!ODT: <1929/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1929(prf) Paris (S1517) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1930///
+!!!ODT: <1930/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . 470 1930(p) R (S1517) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!splace: United States of America, California, Hollywood
+!!!CDT: ///-
+!!DEBUGGING: . 470 1949(rev) Hollywood, CA (S1517) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1952///
+!!!ODT: <1952/12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . 470 1952(p) B (S1517) . . . . . . STRAVINSKY, Igor

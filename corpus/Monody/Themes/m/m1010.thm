@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 500
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Variations on an Allegretto in B Flat
+!!!statkey: B-
+!!DEBUGGING: m1010 % . % 1786 % Vienna % M1010 % K 500 % x % . % piano % . % Variations on an Allegretto in B Flat % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+8b-\
+8r
+8.b-T\L
+32a\LL
+32b-\JJJ
+=
+8dd\
+8r
+8.ddt\L
+32cc#\LL
+32dd\JJJ
+8ff\
+8r
+8.ffT\L
+32een\LL
+32ff\JJJ
+=
+8bb-\
+8r
+8.bb-T\L
+32aa\LL
+32bb-\JJJ
+8ddd\
+8r
+8ddd\
+8r
+=
+16ddd\LL
+16ccc\JJ
+8r
+16ccc\LL
+16bb-\JJ
+8r
+*-

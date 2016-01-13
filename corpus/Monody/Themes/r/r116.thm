@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Tambourin
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!title2: Tambourin
+!!!statkey: e
+!!DEBUGGING: r116 % . % 1724(p) % Paris % R116 % . % x % Tambourin % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R116) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/0
+8e/L
+8f#/
+8g/
+8f#/J
+=
+4e/
+4b\
+4b\
+4a/
+=
+4gT/
+4f#/
+8e/L
+8f#/
+8g/
+8a/J
+=
+4b\
+4ee\
+4dd#t\
+4ee\
+=
+2ff#t\
+*-

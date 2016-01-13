@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Meyerbeer, Giacomo
+!!!CDT: 1791/09/05/-1864/05/02/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1849///
+!!!OCL: RSC
+!!!ODT: <1849/12/31/
+!!!OMV: Mov. Coronation March
+!!!PDT: 1849///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1836///-1840
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Le Proph&egrave;te
+!!!title2: Opera
+!!!statkey: E-
+!!DEBUGGING: m365 % . % 1836-1840 % Paris % M365 % . % a % Coronation March % orchestra % Opera % Le Proph&egrave;te % MEYERBEER, Giacomo % 1791
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1849(prf) . (M365) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1849(p) Paris (M365) . a Coronation March orchestra Opera Le Proph&egrave;te MEYERBEER, Giacomo 1791
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+12ee-\L
+12dd\
+12ee-\J
+4ff\
+4gg\
+4ee-\
+=
+4aa-\
+8.gg\L
+16ff\Jk
+4gg\
+4ee-\
+=
+4aa-\
+8.gg\L
+16ff\Jk
+4bb-\
+8.aa-\L
+16gg\Jk
+=
+12ccc\L
+12bb-\
+12ccc\J
+4bb-\
+4aa-\
+4gg\
+=
+*-

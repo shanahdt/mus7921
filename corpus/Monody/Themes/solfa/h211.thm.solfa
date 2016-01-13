@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 3: Courante
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 4 in E Minor
+!!!title2: 3rd Movement (Courante)
+!!!statkey: e
+!!DEBUGGING: h211 % . % 1720(p) % London? % H211 % . % x % 3: Courante % piano % . % Suite No. 4 in E Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/4
+8do\
+=
+4.do\
+8te\L
+8le\
+8so\J
+=
+4.fa/
+8le\L
+8so\
+8fa\J
+=
+8me/L
+8do/J
+[2le\
+=
+8le\L]
+8te\J
+2so\
+=
+*-

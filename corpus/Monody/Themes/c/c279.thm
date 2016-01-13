@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Polonaise in C Sharp Minor    
+!!!OPS: Op. 26
+!!!ONM: No. 1
+!!!AIN: forte           
+!!!ODT: 1834///-1835///
+!!!OCY: France               
+!!!OPC: Paris
+!!!PDT: 1836///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M3/4
+8g#/
+=
+4.dd#\
+16cc#\LL
+16dd#\JJ
+8ee#\L
+16dd#\L
+16ee#\JJ
+=
+8ff#\L
+16ee#\L
+16ff#\JJ
+8gg#\L
+16ff#\L
+16gg#\JJ
+8aa\L
+8a\J
+=
+[4g#/
+!!   Encoding error:  removing dot
+12g#\L]
+12a#\
+12b#\J
+12cc#\L
+12dd#\
+12ee\J
+=
+2.dd#\
+=
+*-

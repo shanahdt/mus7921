@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!title1: Polichinelle
+!!!title2: Serenade
+!!!statkey: C
+!!DEBUGGING: k108 % . % n.d.(c) % ? % K108 % . % x % . % violn, piano % Serenade % Polichinelle % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+8g/
+=
+8cc\L
+8dd\
+8ee\
+16ddq/LL
+16eeq/JJ
+8dd\J
+=
+16cc\LL
+16dd\
+16cc\
+16a\JJ
+8g/L
+16c/L
+16d/JJ
+=
+8e/
+4g/
+16c/LL
+16d/JJ
+=
+16e/LL
+16g/
+16cc/
+16a/JJ
+4g/
+=
+*-

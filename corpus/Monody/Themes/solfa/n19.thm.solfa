@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Nevin, Ethelbert
+!!!CDT: 1862/11/25/-1901/02/17/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1891/12/31/
+!!!ONM: No. 4
+!!!OPS: Opus 13
+!!!PDT: 1891///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1891(p)
+!!!instrument: piano
+!!!place: United States of America, Massachusetts, Boston
+!!!theme: B
+!!!title1: Narcissus
+!!!statkey: f
+!! NB. Key & key signature disagree.
+!!DEBUGGING: n19 % . % 1891(p) % Boston % N19 % 13 No. 4 % b % . % piano % . % Narcissus % NEVIN, Ethelbert % 1862
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+[4ti/
+12ti/L]
+12la/
+12ti/J
+4la/
+4so/
+=
+12fa/L
+12so/
+12la/J
+12ti/L
+12la/
+12ti/J
+4la/
+4so/
+=
+[4do/
+12do/L]
+12te/
+12do/J
+4te/
+4le/
+=
+*-

@@ -1,0 +1,60 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Bruch, Max
+!!!CDT: 1838/01/06/-1920/10/02/
+!!!CNT: German
+!!!OTL: Violin Concerto No. 2 in D Minor
+!!!OMV: Mov. 3
+!!!thm: B
+!!!AIN: orchestra violn
+!!!ODT: 1878///
+!!!OCY: Deutschland
+!!!OPC: Berlin                  
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=
+!! 8va below
+8ddd\L
+16r
+16ccc#\k
+[8ddd\J
+=
+8ddd\L]
+8fff#\
+8eee\J
+=
+16dddq/LL
+16eeeq/JJ
+8ddd\L
+16r
+16ccc#\k
+[8ddd\J
+=
+8ddd\L]
+8fff#\
+8eee\J
+=
+16aaq/LL
+16bbq/JJ
+8aa/L
+16r
+16gg#/k
+[8aan/J
+=
+8aa\L]
+16gg#\L
+16aan\
+16ddd\
+16fffn\JJ
+=
+8.aaa\
+!! end 8va
+*-

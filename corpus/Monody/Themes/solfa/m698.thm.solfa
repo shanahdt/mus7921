@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1790/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus K 516
+!!!PDT: 1790///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quintet in G Minor
+!!!title2: 4th Movement
+!!!statkey: g
+!!DEBUGGING: m698 % . % 1787 % Vienna % M698 % K 516 % x % 4 % string % . % Quintet in G Minor % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1790(p) . (M698) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4so\
+8fa/L
+8me/
+8re/
+8do/J
+=
+4ti/
+4r
+8r
+8so\
+=
+4.fa\
+8re\L
+8fa\
+8re\J
+=
+8do\L
+8ti\J
+*-

@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeffler, Charles Martin
+!!!CDT: 1861/01/30/-1935/05/19/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. La Cornemeuse
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1905
+!!!instrument: oboe, viola, piano
+!!!place: United States of America, Massachusetts, Boston(?)
+!!!theme: B
+!!!title1: Two Rhapsodies
+!!!title2: La Cornemuse (The Bagpipe)
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l265 % 286 % 1905 % Boston? % L265 % . % b % La Cornemeuse % oboe, viola, piano % . % Two Rhapsodies % LOEFFLER, Charles Martin % 1861
+**solfa
+*clefG2
+*k[b-e-a-]
+*D-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8.r
+16so\
+8.la\L
+16ti\Jk
+8.mi/L
+16re/Jk
+8.la\L
+32fa\LL
+32la\JJJ
+=
+8.do\L
+16so\Jk
+8.la\L
+16ti\Jk
+8.mi/L
+16re/Jk
+8.la\L
+32fa\LL
+32la\JJJ
+=
+4.fa\
+*-

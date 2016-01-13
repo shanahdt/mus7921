@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1938?/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1938?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938
+!!!instrument: piano
+!!!place: United States of America
+!!!splace: Deutschland, Mainz
+!!!theme: B
+!!!title1: Sonata
+!!!title2: 2nd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h779 % . % 1938 % USA % H779 % . % b % 2 % piano % . % Sonata % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1938?(p) Mainz (H779) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*D-:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+2r
+8ddd-q/L
+8eee-q/
+8ggg-q/J
+[2fff\
+=
+4fff\]
+4eee-\
+4eee-\
+4fff\
+=
+4fff\
+4aaa-\
+4ddd-\
+4ddd-\
+=
+8ddd-\L
+8eee-\J
+4fff-\
+4eee-\
+4bb-\
+=
+4bb-\
+4ccc\
+*-

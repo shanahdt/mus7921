@@ -1,0 +1,61 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Sonata in G Major for Violin and Piano
+!!!OPS: Op. 13
+!!!ONM: No. 2
+!!!OMV: Mov. 1    
+!!!thm: C
+!!!AIN: forte violn
+!!!ODT: 1867///
+!!!OCY: Norge 
+!!!OPC: Bergen   
+!!!PDT: 1871///
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8dd\L
+16r
+16ee\k
+8dd\
+16r
+16cc#\Jk
+4a/
+=
+8dd\L
+16r
+16ee\k
+8dd\
+16r
+16cc#\Jk
+4a/
+=
+8.d/L
+16e/k
+8.d/
+16c#/k
+8.B/
+16d/Jk
+=
+8c#/L
+16r
+16e/k
+8B/
+16r
+16c#/Jk
+8A/
+8r
+=
+*-

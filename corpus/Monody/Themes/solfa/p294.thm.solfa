@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus 83
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1939///-1942
+!!!instrument: piano
+!!!place: Georgia, Tbilisi
+!!!title1: Sonata No. 7
+!!!title2: 2nd Movement
+!!!statkey: c#
+!!DEBUGGING: p294 % . % 1939-1942 % Tbilisi % P294 % 83 % x % 2 % piano % . % Sonata No. 7 % PROKOFIEV, Sergey % 1891
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+8re/L
+8ri/J
+=
+4mi/
+4mi/
+8fa/L
+8mi/J
+=
+8la/L
+8la/
+8so/
+8se/J
+4fa/
+=
+4mi/
+4mi/
+8fa/L
+8mi/J
+=
+8ti/L
+8ti/
+8la/
+8so/J
+4fa/
+=
+4mi/
+*-

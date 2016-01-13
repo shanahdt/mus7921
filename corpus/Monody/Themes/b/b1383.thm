@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Intermezzo in C Sharp Minor for Piano
+!!!OPS: Op. 116
+!!!ONM: No. 3
+!!!ODT: 1892///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1892///
+!!!MRD: 1893///
+!!!MLC: &Ouml;sterreich, Wien                       
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M2/4
+16c#/LL
+16d#/JJ
+=
+8e/L
+16d#/L
+16e/JJ
+8d#/L
+16c#/L
+16d#/JJ
+=
+16f#/LL
+16e/
+16d#/
+16e/JJ
+8d#/L
+16e/L
+16f#/JJ
+=
+8g#/L
+16f#/L
+16g#/JJ
+8a/L
+16g#/L
+16a/JJ
+=
+8b\
+*-

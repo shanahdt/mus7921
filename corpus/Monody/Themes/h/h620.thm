@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1792///
+!!!OCL: RSC
+!!!ODT: <1792/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 97
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1792
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony in C
+!!!title2: London 1
+!!!statkey: C
+!!DEBUGGING: h620 % . % 1792 % London % H620 % B. & H. No. 97 % b % 4 % orchestra % London 1 % Symphony in C % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1792(prf) . (H620) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4.c/
+16B/LL
+16c/JJ
+=
+4.d/
+16e/LL
+16f/JJ
+=
+8g/L
+8e/
+8c/
+8c/J
+=
+8eq/
+8d/L
+8c/
+8d/
+8e/J
+=
+4.c/
+*-

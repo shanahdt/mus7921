@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mahler, Gustav
+!!!CDT: 1860/05/07/-1911/05/18/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1889///
+!!!OCL: RSC
+!!!ODT: 1884?-1888///
+!!!ODT: <1889/12/31/
+!!!ODT: <1899/12/31/
+!!!OMV: Mov. 1
+!!!OPC: Czech, Prague & Deutschland, Leipzig
+!!!PDT: 1899///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!splace: Magyar, Budapest
+!!!splace: Oesterreich, Vienna
+!!!theme: C
+!!!title1: Symphony No. 1 in D
+!!!title2: 1st Movement
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m48 % . % 1884?-1888(c) % Prague, Leipzig % M48 % . % c % 1 % orchestra % . % Symphony No. 1 in D % MAHLER, Gustav % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1893-1896(rev) Hamburg (M48) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1889(prf) Budapest (M48) . c 1 orchestra . Symphony No. 1 in D MAHLER, Gustav 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1899(p) Vienna (M48) . c 1 orchestra . Symphony No. 1 in D MAHLER, Gustav 1860
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+2e/
+2e/
+=
+[2e/
+8e/L]
+8f#/
+8g#/
+8a/J
+=
+2b\
+2b\
+=
+4.b\
+8cc#\
+8a/L
+8e/
+8c#/
+8d/J
+=
+1e/
+=
+*-

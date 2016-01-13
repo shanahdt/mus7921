@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919(rev)
+!!!place: England, London
+!!!theme: B
+!!!title1: Fantasia on a Theme by Tallis
+!!!statkey: g
+!!DEBUGGING: v10 % . % 1919(rev) % London % V10 % . % b % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M6/8
+=
+8.so/L
+16le/k
+8te/J
+4do/
+8te/
+=
+*M3/4
+8le/L
+8le/J
+4.so/
+8me/
+=
+4.fa/
+8do/
+8ra/L
+8ra/J
+=
+2do/
+4fa/
+=
+*M6/8
+8.le/L
+16so/k
+8fa/J
+4me/
+8do/
+=
+8.fa/L
+16me/k
+8ra/J
+4do/
+*-

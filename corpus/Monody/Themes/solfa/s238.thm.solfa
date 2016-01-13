@@ -1,0 +1,54 @@
+**solfa
+*clefG2
+*k[]
+*met(C|)
+*M2/2
+!! NB. Key & key signature disagree.
+*D:
+1so
+=
+1le
+=
+2so
+[2do
+=
+2]do
+2de
+=
+4do
+4re
+[2me
+=
+4]me
+4me
+4re
+4do
+=
+4te
+4do
+2re
+=
+4re
+8do
+8te
+2do
+=
+2re
+*-
+!!!COM: Schein, Johann
+!!!CNT: German
+!!!date: 1617
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s238 % . % 1617 % Leipzig % S238 % . % . % . % . % . % . % SCHEIN, Johann
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1617///
+!!!ODT: <1617/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1617(p) . (S238) . . . . . . .

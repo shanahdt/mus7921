@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 83
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793?
+!!!instrument: piano
+!!!place: England, London(?)
+!!!theme: B
+!!!title1: Andante and Variations in F Minor
+!!!statkey: F
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h295 % . % 1793? % London? % H295 % 83 % b % . % piano % . % Andante and Variations in F Minor % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-]
+*F#:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4me/
+8fe\L
+8fa\J
+=
+[8se\
+(56se\LLL]
+56de\
+56me\
+56se\
+56me\
+56de\
+56se\JJJ)
+!!   Encoding error:   changing 28's to 56's                                      
+8me/
+32se\LLL
+32fe\
+32me\
+32fe\JJJ
+=
+8ra/
+32fe/LLL
+32me/
+32ra/
+32me/JJJ
+16de/
+*-

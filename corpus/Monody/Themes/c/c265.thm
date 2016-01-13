@@ -1,0 +1,40 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Nocturne in B Major 
+!!!OPS: Op. 32
+!!!ONM: No. 1 
+!!!AIN: forte           
+!!!ODT: 1836///-1837///
+!!!OCY: France               
+!!!OPC: Paris
+!!!PDT: 1837///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M4/4
+=
+4dd#\
+8.ee\L
+16dd#\Jk
+4cc#\
+4dd#\
+=
+[4b\
+16b\LL]
+16dd#\
+16bb\
+16gg#\JJ
+4.ff#\
+8ee\
+=
+*-

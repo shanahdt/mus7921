@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 11
+!!!OPC: England, London(?)
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: flt, cbass
+!!!splace: England, London
+!!!title1: Sonata in F
+!!!title2: 3rd Movement
+!!!statkey: d
+!!DEBUGGING: h161 % . % c1730(p) % London? % H161 % 1 No. 11 % x % 3 % flt, cbass % . % Sonata in F % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H161) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M12/8
+=
+8.do\L
+16re\k
+8do\J
+4so\
+8do\
+4do\
+8ti\
+4r
+8r
+=
+8.me\L
+16fa\k
+8me\J
+4te\
+8me\
+4me\
+8re\
+8r
+8r
+8so\
+=
+4do\
+8ti\
+8.do\L
+16me\k
+8re\J
+4.ti\
+*-

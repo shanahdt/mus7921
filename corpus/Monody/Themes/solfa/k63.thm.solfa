@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1933///
+!!!OCL: RSC
+!!!ODT: <1933/12/31/
+!!!OMV: Mov. Intro
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!title1: Galanta Dances
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k63 % . % 1933 % Budapest % K63 % . % x % Intro % orchestra % . % Galanta Dances % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1933(prf) . (K63) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*E:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4..re/
+32do/LLL
+32re/JJJ
+=
+4..me/
+32re/LLL
+32do/JJJ
+=
+4..re/
+32do/LLL
+32re/JJJ
+=
+[4.me/
+32me/LLL]
+32re/
+32do/
+32te/JJJ
+=
+4do/
+[4fa/
+=
+2fa/]
+=
+*-

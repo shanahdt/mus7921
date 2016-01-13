@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1936?/12/31/
+!!!OMV: Mov. 4: Choral F&uuml;r deinen Thron Thret'Ich Hiermit
+!!!PDT: 1936?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!title1: Trauermusik
+!!!title2: For George V of England
+!!!statkey: a
+!!DEBUGGING: h784 % 252 % 1936 % Berlin % H784 % . % x % 4: Choral F&uuml;r deinen Thron Thret'Ich Hiermit % orchestra % For George V of England % Trauermusik % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936?(p) Mainz (H784) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M3/4
+4do/
+=
+2do/
+4ti/
+=
+2la/
+4so/
+=
+4do/
+2re\
+=
+2mi;\
+*-

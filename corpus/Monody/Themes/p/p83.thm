@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Pfitzner, Hans Eric
+!!!CDT: 1869/05/05/-1949/05/22/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1917///
+!!!OCL: RSC
+!!!ODT: <1917/12/31/
+!!!OMV: Mov. Prelude to Act III
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912///-1915
+!!!instrument: orchestra
+!!!place: France, Strasbourg
+!!!splace: Deutschland, Muenchen
+!!!theme: A
+!!!title1: Palestrina
+!!!title2: Musical Legend
+!!!statkey: b-
+!!DEBUGGING: p83 % 352 % 1912-1915 % Strasbourg % P83 % . % a % Prelude to Act III % orchestra % Musical Legend % Palestrina % PFITZNER, Hans Eric % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1917(prf) Munich (P83) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M4/4
+=
+4f/
+4.An/
+8B-/L
+8c/
+8Gn/J
+=
+4An/
+4B-/
+4B-/
+4B-/
+=
+4.B--/
+8a-/
+4a-/
+8g-/L
+8a-/J
+=
+4a-/
+2g-/
+4f/
+=
+1f/
+=
+*-

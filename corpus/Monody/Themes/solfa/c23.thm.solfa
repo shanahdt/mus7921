@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Cannabich, Christian
+!!!CDT: 1731/12/12/-1798/01/20/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1766/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1766///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1766(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Sinfonia in B Flat
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: c23 % . % 1766(p) % Paris % C23 % . % x % 2 % orchestra % . % Sinfonia in B Flat % CANNABICH, Christian % 1731
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+8r
+8so\
+8so/L
+8mi/
+8fa/
+8la/J
+=
+8.so/L
+16mi/k
+8do/J
+8r
+4r
+=
+4.la\
+16si\LL
+16la\JJ
+16si\LL
+16la\
+16do\
+16la\JJ
+=
+4so\
+8mi/
+8r
+4r
+=
+*-

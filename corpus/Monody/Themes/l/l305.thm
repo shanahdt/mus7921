@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1685///
+!!!OCL: RSC
+!!!ODT: <1685/12/31/
+!!!OMV: Mov. Intro
+!!!PDT: 1685///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1685(prf)
+!!!instrument: orchestra
+!!!place: France, Fontainbleau
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Le Temple de la Paix
+!!!title2: Intro.
+!!!statkey: C
+!!DEBUGGING: l305 % . % 1685(prf) % Fontainebleau % L305 % . % a % Intro % orchestra % . % Le Temple de la Paix % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1685(p) Paris (L305) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M2/2
+=
+4r
+4ee\
+4ee\
+4cc\
+=
+2dd\
+4dd\
+4ee\
+=
+2cc\
+4cc\
+4dd\
+=
+2b\
+4b\
+4ee\
+=
+2cc\
+4cc\
+4ff\
+=
+2dd\
+4dd\
+4gg\
+=
+2.ee\
+*-

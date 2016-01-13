@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 110
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1771
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Symphony No. 12 in G
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: m868 % . % 1771 % Salzburg % M868 % K 110 % b % 3 % orchestra % . % Symphony No. 12 in G % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+4so\
+4le\
+4fi/
+=
+4so\
+4ti/
+4do/
+=
+4fa/
+4so\
+4mi/
+=
+4fa/
+4le/
+4so/
+=
+4me/
+4te/
+4le/
+=
+4le\
+4do/
+4te/
+=
+8so\L
+8te\J
+4me/
+4re/
+=
+2me/
+*-

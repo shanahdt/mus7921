@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Buxtehude, Dietrich
+!!!CDT: c1637///-1707/05/09/
+!!!CNT: German; Danish
+!!!OTL: Prelude and Fugue No. 8 in E Major for Organ
+!!!thm: A (Prelude)
+!!!AIN: organ
+!!!OCY: 
+!!!OPC:      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+16r
+16so\LL
+16la\
+16ti\JJ
+!!   B&M Encoding error: remove bar line (source checked)
+16do\LL
+16so\
+16la\
+32so\L
+32fa\JJJ
+16so\LL
+32fa\L
+32mi\J
+[16do\
+64do\LL]
+64te\
+64la\
+64so\JJJJ
+!!   B&M Encoding error: change 32's to 64's (source checked)
+16mi\LL
+32re\L
+32do\J
+16so\
+16re\JJ
+=
+8mi\
+*-

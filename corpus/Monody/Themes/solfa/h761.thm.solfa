@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1935?/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1935?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: viola, orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Der Schwanendreher
+!!!title2: Concerto on Old Folk Tunes
+!!!statkey: a
+!!DEBUGGING: h761 % 251 % 1935 % Berlin % H761 % . % a % 2 % viola, orchestra % Concerto on Old Folk Tunes % Der Schwanendreher % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935?(p) Mainz (H761) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+=
+8.mi/L
+16fi/k
+8so/J
+8la/L
+8mi/
+8so/J
+=
+8.re/L
+16do/k
+[8re/J
+8re/L]
+8do/
+8re/J
+=
+8mi/L
+8do/
+8ti/J
+4la/
+8re\
+=
+8.mi/L
+16re/k
+8mi/J
+*-

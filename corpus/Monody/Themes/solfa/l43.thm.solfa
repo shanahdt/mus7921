@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1875/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus 21
+!!!PDT: 1875///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: violn, orchestra
+!!!place: France, Paris(?)
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Symphonie Espagnole
+!!!title2: 4th Movement
+!!!statkey: d
+!!DEBUGGING: l43 % . % 1874 % Paris? % L43 % 21 % b % 4 % violn, orchestra % . % Symphonie Espagnole % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1875(p) Paris (L43) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/4
+4so/
+=
+2do\
+4do\
+=
+4do\
+2ti\
+=
+4re\
+[2do\
+=
+4do\]
+4le\
+4so/
+=
+8fi\L
+8so\
+8la\
+8ti\
+8do\
+8re\J
+=
+4me\
+4re\
+4do\
+=
+16ti\LK
+[8.so\J
+4so/]
+*-

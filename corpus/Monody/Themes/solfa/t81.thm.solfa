@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1930/12/31/
+!!!PDT: 1930///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930(p)
+!!!place: Deutschland, Kassel
+!!!title1: Suite in A Minor, Str. & Pft.
+!!!title2: Forlane
+!!!statkey: C
+!!DEBUGGING: t81 % 483 % 1930(p) % Kassel % T81 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+8so\
+=
+4do/
+8le\
+4sot\
+8fa\
+=
+4te\
+8me\
+4me\
+8so\
+=
+4do/
+8le\
+4so\
+8fa\
+=
+4te\
+8me\
+4me\
+8so\
+=
+8.fa\L
+16so\k
+8me\J
+8.re\L
+16me\k
+8do\J
+=
+4re\
+8so/
+4so/
+*-

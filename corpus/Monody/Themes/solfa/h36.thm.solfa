@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1761/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 1
+!!!OPS: Opus 7
+!!!PDT: 1761///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1761(p)
+!!!instrument: organ, orchestra
+!!!place: England, London
+!!!title1: Concerto No. 10 in D Minor
+!!!title2: 1st Movement
+!!!statkey: d
+!!DEBUGGING: h36 % . % 1761(p) % London % H36 % 7 No. 1 % x % 1 % organ, orchestra % . % Concerto No. 10 in D Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefF4
+*k[b-]
+*d:
+*M4/4
+=
+8.do\L
+16re\Jk
+8me\L
+16re\L
+16do\JJ
+[2so\
+=
+8so\L]
+16fa\L
+16mi\JJ
+[4fa\
+8fa\L]
+8me\J
+8do\L
+8re\J
+=
+4.me\
+16fa\LL
+16me\JJ
+4.re\
+*-

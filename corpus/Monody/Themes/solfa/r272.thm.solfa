@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. The Triton Fountain at Morning
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!title1: Fountains of Rome
+!!!title2: The Triton Fountain at Morning
+!!!statkey: A-
+!!DEBUGGING: r272 % . % 1914-1916 % Rome % R272 % . % x % The Triton Fountain at Morning % orchestra % . % Fountains of Rome % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+8so\L
+16r
+16mi\Jk
+8so\L
+16r
+16do\Jk
+12re\L
+12fa\
+12re\J
+=
+8mi\L
+16r
+16do\Jk
+2mi\
+=
+12te\L
+12do\
+12re\J
+8mi\L
+8fa\J
+8re\L
+16r
+16la\Jk
+=
+8ti\L
+16r
+16si\Jk
+4ti\
+8.r
+16do\
+=
+8mi\L
+16r
+16so\Jk
+4do\
+8.r
+*-

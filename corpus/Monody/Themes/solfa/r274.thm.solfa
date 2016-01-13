@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. The Villa Medici Fountain at Sunset
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Fountains of Rome
+!!!title2: The Villa Medici Fountain at Sunset
+!!!statkey: E
+!!DEBUGGING: r274 % 382 % 1914-1916 % Rome % R274 % . % a % The Villa Medici Fountain at Sunset % orchestra % . % Fountains of Rome % RESPIGHI, Ottorino % 1879
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+[2do/
+12do/L]
+12re/
+12me/J
+12se/L
+12le/
+12te/J
+=
+2mi/
+4.me/
+8se\
+=
+4.mi/
+8so\
+4.me/
+8se\
+=
+[4mi/
+8mi/]
+8r
+[4ri/
+8ri/]
+8r
+=
+*-

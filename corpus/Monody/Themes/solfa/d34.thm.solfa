@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OPR, OTL
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Estampes for Piano
+!!!OTL: Pagodes                               
+!!!AIN: forte     
+!!!ODT: 1903///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M4/4
+=
+8r
+16la/LL
+16re/JJ
+[4mi\
+8mi\L]
+16so\L
+16la\JJ
+16mi\LL
+16so\
+16re\
+16mi\JJ
+=
+8r
+16la\LL
+16re\J
+8mi\J
+16la\LL
+16re\J
+8mi\J
+!! 8va below
+16la\LL
+16re\J
+(12mi\J
+!! end 8va
+12la\L
+12re\J)
+=
+*-

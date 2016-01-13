@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1876///
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!PDT: 1876///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1871
+!!!place: Helvetia, Lucerne
+!!!splace: Deutschland, Bayreuth
+!!!splace: Deutschland, Mainz
+!!!title1: Siegfried, Opera (Der Ring Der Nibelungen, Part III)
+!!!title2: Waldweben (Forest Murmurs)
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w45 % . % 1871 % Lucerne, Switzerland % W45 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(prf) Bayreuth (W45) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(p) Mainz (W45) . . . . . . WAGNER, Richard
+**solfa
+*clefF4
+*k[f#]
+*C:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+[4.so\
+4so\]
+8si\
+=
+[4.la\
+4la\]
+8ti\
+=
+4do\
+8di\
+4mi\
+8re\
+=
+4.do\
+4ti\
+8fa\
+=
+4.la\
+4so\
+8do/
+=
+2.fa\
+=
+[4.la\
+4la\]
+8so\
+=
+*-

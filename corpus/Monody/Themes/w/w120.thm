@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Waldteufel, Emile
+!!!CDT: 1837/12/09/-1915/02/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1878/12/31/
+!!!PDT: 1878///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1878(p)
+!!!place: France, Paris & England, London
+!!!title1: Ganz Allerliebst (Tr\e8s Jolie), Waltz, Op. 159, Orch.
+!!!statkey: e
+!!DEBUGGING: w120 % . % 1878(p) % Paris/London % W120 % . % . % . % . % . % . % WALDTEUFEL, Emile
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+8r
+8dd\L
+8ee\
+8ff#\
+8gg\
+8aa\J
+=
+8bb\
+8r
+16ff#\LL
+16aa\JJ
+8r
+8gg\
+8r
+=
+4r
+16ff#\LL
+16aa\JJ
+8r
+8gg\
+8r
+=
+8ff#\
+8r
+16dd#\LL
+16ff#\JJ
+8r
+8ee\
+8r
+=
+4r
+16dd#\LL
+16ff#\JJ
+8r
+8ee\
+8r
+=
+8ee\L
+8dd\
+8cc\
+8a\J
+8f#/
+8r
+=
+*-

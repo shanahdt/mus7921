@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1936?/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1936?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!title1: Sonata No. 3
+!!!title2: 2nd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h773 % . % 1936 % Berlin % H773 % . % x % 2 % piano % . % Sonata No. 3 % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936?(p) Mainz (H773) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*B-:
+*M2/2
+!! ! NB. Key & key signature disagree.
+4so/
+=
+4so/
+8fi/L
+8so/J
+4do\
+4so/
+=
+4fi/
+8my/L
+8fi/J
+4di\
+4fi/
+=
+4so/
+8fi/L
+8so/J
+4do\
+4so/
+=
+4fi/
+8my/L
+8fi/J
+4di\
+4fi/
+=
+*-

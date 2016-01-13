@@ -1,0 +1,64 @@
+**solfa
+*clefG2
+*k[]
+*M2/4
+*C:
+8.fa
+16re
+16fa
+16re
+16fa
+16la
+=
+8mi
+8do
+8mi
+8so
+=
+8.fa
+16re
+16fa
+16re
+16fa
+16la
+=
+8mi
+8do
+8mi
+8so
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1910///-1911
+!!!place: Helvetia, Lausanne
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1568 % 473 % 1910-1911 % Lausanne % S1568 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1911///
+!!!ODT: <1911/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1911(prf) Paris (S1568) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1912///
+!!!ODT: <1912/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . 473 1912(p) R (S1568) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!splace: United States of America, California, Hollywood
+!!!CDT: ///-
+!!DEBUGGING: . 473 1946(rev) Hollywood, CA (S1568) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1947///
+!!!ODT: <1947/12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . 473 1947(p) B (S1568) . . . . . . STRAVINSKY, Igor

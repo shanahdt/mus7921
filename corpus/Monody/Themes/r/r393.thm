@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1829///
+!!!OCL: RSC
+!!!ODT: <1829/12/31/
+!!!OMV: Mov. Overture
+!!!PDT: 1829///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1829(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: William Tell
+!!!title2: Opera
+!!!statkey: E
+!!DEBUGGING: r393 % . % 1829(prf) % Paris % R393 % . % b % Overture % orchestra % Opera % William Tell % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1829(p) . (R393) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+16B/LL
+16B/JJ
+=
+8B/L
+16B/L
+16B/JJ
+8B/L
+16B/L
+16B/JJ
+=
+8e/L
+8f#/
+8g#/J
+16B/LL
+16B/JJ
+=
+8B/L
+16B/L
+16B/JJ
+8e/L
+16g#/L
+16g#/JJ
+=
+8f#/L
+8d#/
+8B/J
+*-

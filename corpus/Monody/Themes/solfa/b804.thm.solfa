@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1804///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1806///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.22 in F for Piano                  
+!!!OPS: Op. 54
+!!!SET: No. 22
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefF4
+*k[b-]
+*F:
+*M3/4
+8.so/L
+16ti/Jk
+=
+2do\
+*clefG2
+8.so/L
+16ti/Jk
+=
+2do/
+8.so\L
+16do\Jk
+=
+[4mi\
+8.mi\L]
+16do\Jk
+8.re\L
+16ti\Jk
+=
+4do\
+4r
+*-

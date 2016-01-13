@@ -1,0 +1,60 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Donizetti, Gaetano
+!!!CDT: 1797/11/29/-1848/04/08/
+!!!CNT: Italian
+!!!OPR: Daughter of the Regiment
+!!!OTL: Overture               
+!!!thm: B
+!!!AIN: orchestra 
+!!!MRD: 1840///
+!!!MLC: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+8ddd\L
+8ff\
+8bb-\
+8dd\J
+=
+8ee-\L
+8gg\J
+8cc\
+8r
+=
+8gg\L
+8cc\
+8ee-\
+8a\J
+=
+8b-\L
+8dd\J
+8f/
+8r
+=
+8dd\L
+8b-\J
+[4ff\
+=
+8ff\L]
+8een\J
+[4cc\
+=
+8cc/L]
+8f/J
+[4ee-\
+=
+8ee-\L]
+8dd\J
+8b-\
+8r
+=
+*-

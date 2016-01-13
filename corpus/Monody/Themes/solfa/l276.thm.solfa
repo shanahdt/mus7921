@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Lortzing, Gustav Albert
+!!!CDT: 1801/10/23/-1851/01/21/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1837///
+!!!OCL: RSC
+!!!ODT: <1837/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Czar und Zimmerman
+!!!title2: Overture
+!!!statkey: G
+!!DEBUGGING: l276 % . % 1837(prf) % Leipzig % L276 % . % a % . % orchestra % Overture % Czar und Zimmerman % LORTZING, Gustav Albert % 1801
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+8do\L
+16ti\L
+16la\JJ
+=
+8so\L
+8so\
+8la\
+8la\J
+=
+4so\
+8la\L
+8la\J
+=
+4so\
+8do\L
+16ti\L
+16la\JJ
+=
+4so\
+8so\L
+8fi\J
+=
+8so\L
+8la\
+8ti\
+8do\J
+=
+8re\L
+8mi\
+8fa\
+8so\J
+=
+8fa\L
+8mi\J
+*-

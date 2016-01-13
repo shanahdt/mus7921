@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, ONM, MOV
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!PDT: 1769///
+!!!PPP: France, Paris   
+!!!OTL: Quartet in D                          
+!!!OPS. Op. 6
+!!!ONM: No. 1
+!!!OMV: Mov. 2
+!!!AIN: cell viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+4r
+8r
+32bb-\LLL
+32aa\
+32gg\
+32ff\JJJ
+8eeq/
+8.dd\L
+16dd\Jk
+16cc#q/LL
+16ddq/
+16eeq/JJ
+8.dd\L
+16ccn\Jk
+=
+8ddq/
+16cc\LL
+16b-\JJ
+4b-\
+16.b-\LL
+32dd\JJk
+8ddq/
+8.cc#\L
+16gg\Jk
+16ff#q/LL
+16ggq/
+16aaq/JJ
+8.gg\L
+16g\Jk
+=
+8f/
+4a/
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1861/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 23
+!!!PDT: 1861///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1849///-1850
+!!!instrument: piano
+!!!place: Royssia
+!!!splace: ?
+!!!theme: A
+!!!title1: Etude
+!!!title2: "Staccato"
+!!!statkey: C
+!!DEBUGGING: r434 % . % 1849-1850 % Russia % R434 % 23 No. 2 % a % . % piano % "Staccato" % Etude % RUBINSTEIN, Anton % 1829
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1861(p) ? (R434) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=
+16ff#\LL
+16gg\
+16aa\
+16gg\
+16ffn\
+16ee\JJ
+16ee\LL
+16dd\
+16cc#\
+16dd\
+16ee\
+16dd\JJ
+=
+16b\LL
+16ccn\
+16dd\
+16cc\
+16b\
+16a\JJ
+16a/LL
+16g/
+16f#/
+16g/
+16a/
+16g/JJ
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1866///
+!!!OCL: RSC
+!!!ODT: <1866/12/31/
+!!!OMV: Mov. Act II Entr'acte
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1866(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: La Vie Parisienne
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: o26 % 347 % 1866(prf) % Paris % O26 % . % b % Act II Entr'acte % orchestra % Opera % La Vie Parisienne % OFFENBACH, Jacques % 1819
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+4so/
+=
+8do/L
+8do/
+8do/
+8do/J
+4re/
+=
+8mi\L
+8mi\
+8mi\
+8mi\J
+4fa\
+=
+8so\L
+8mi\
+8so\
+8mi\J
+8la\L
+8so\J
+=
+8fa/L
+8di/J
+4re/
+*-

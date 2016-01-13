@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Quintet in F Major for Strings
+!!!OMV: Mov. 2
+!!!thm: A
+!!!AIN: cello 2 viola 2 violn
+!!!ODT: 1879///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*E-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8bb-q/
+8aa\L
+8ddd\J
+4.aa\
+8bb-\
+=
+8aa\L
+8gg\
+8ff\
+8ee\J
+4dd\
+=
+8r
+8f#q/
+8g/
+8cc\
+4bb-\
+8gg#\
+=
+8aa\L
+8bb-\
+8ccc\
+8aa\J
+4ff\
+=
+*-

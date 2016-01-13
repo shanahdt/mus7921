@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. Piros Alma
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: g
+!!DEBUGGING: k80 % . % 1927 % Budapest % K80 % 15 % x % Piros Alma % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K80) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8g/L
+8a/
+8en/
+8f/J
+8g/L
+8a/J
+4f/
+=
+2g/
+8a/L
+8f/J
+4r
+=
+8b-\L
+8cc\
+8dd\
+8cc\J
+8g/L
+8g/J
+4f/
+=
+2e-/
+8d/L
+8c/J
+4r
+=
+*-

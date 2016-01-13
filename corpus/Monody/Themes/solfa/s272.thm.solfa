@@ -1,0 +1,41 @@
+**solfa
+*clefF4
+*k[b-]
+*met(C)
+*M4/4
+*d:
+8.r
+16so
+8.fa
+16le
+4do
+4de
+=
+8.r
+16fa
+8.me
+16se
+4do
+4de
+=
+8.r
+16so
+8.fa
+16le
+8.do
+16de
+4me
+=
+*-
+!!!COM: Sch&ouml;nberg, Arnold
+!!!CNT: Austrian
+!!!date: 1899
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s272 % . % 1899 % Vienna % S272 % . % . % . % . % . % . % SCH&Ouml;NBERG, Arnold

@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712/12/31/
+!!!OMV: Mov. 3: Sarabande
+!!!PDT: 1712///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712(p)
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G Minor
+!!!title2: 3rd Movement (Sarabande)
+!!!statkey: g
+!!DEBUGGING: l274 % . % 1712(p) % London % L274 % . % x % 3: Sarabande % cemba % . % Suite No. 1 in G Minor % LOEILLET, Jean Baptiste % 1680
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4.gg\
+8dd\
+4ee-\
+=
+8dd\L
+8ee-\J
+4.cc\
+8dd\
+=
+4.b-T\
+16a/LL
+16b-/JJ
+4a/
+=
+4.b-T\
+16a/LL
+16b-/JJ
+4a/
+=
+8.dd\L
+16f#\Jk
+8.g\L
+16dd\Jk
+8.ee-\L
+16g\Jk
+=
+8.f#\L
+16ee-\Jk
+8.dd\
+*-

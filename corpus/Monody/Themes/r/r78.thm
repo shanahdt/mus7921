@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Raff, Joseph Joachim
+!!!CDT: 1822/05/27/-1882/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1871/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 157
+!!!PDT: 1871///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1870
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: Deutschland, Leipzig
+!!!title1: La Fileuse
+!!!statkey: F#
+!!DEBUGGING: r78 % . % 1870 % Wiesbaden % R78 % 157 No. 2 % x % . % piano % . % La Fileuse % RAFF, Joseph Joachim % 1822
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1871(p) Leipzig (R78) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M4/4
+=
+2f#/
+4f#/
+4g#/
+=
+2.a#/
+4a#/
+=
+2a#/
+4g#/
+4a#/
+=
+2.f#/
+4c#/
+=
+2f#/
+4f#/
+4g#/
+=
+2.a#/
+4a#/
+=
+2a#/
+4g#/
+4a#/
+=
+1f#/
+=
+*-

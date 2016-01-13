@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1938/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938(prf)
+!!!place: ?
+!!!title1: Fa\c2ade, Suite No. 2, Orch.
+!!!title2: Scotch Rhapsody
+!!!statkey: g
+!!DEBUGGING: w185 % . % 1938(prf) % ? % W185 % . % . % . % . % . % . % WALTON, William Turner
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+16.do\LL
+32re\JJk
+=
+16.me\LL
+32do\k
+16.re\
+32te\JJk
+16.do\LL
+32so\k
+16.fa\
+32me\JJk
+=
+16.re\LL
+32fa\k
+16.so\
+32fi\JJk
+8so\L
+8fiq/
+8so\J
+=
+16do/LL
+16do/
+16re/
+16me/JJ
+8re/L
+8do/J
+=
+8te/L
+8le/J
+16so/LL
+16le/J
+8te/J
+=
+*-

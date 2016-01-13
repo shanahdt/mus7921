@@ -1,0 +1,75 @@
+!!!ACO: Classical; RSC
+!!!COM: Ponchielli, Amilcare
+!!!CDT: 1834/08/31/-1886/01/17/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1876(rev)///
+!!!MPD: 1876///
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!ODT: <n.d./12/31/
+!!!OMV: Mov. Dance of the Hours
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1876(prf)
+!!!instrument: orchestra
+!!!place: Italia, Milano
+!!!splace: Italia, Milano & United States of America, New York
+!!!splace: Italia, Venezia
+!!!theme: D
+!!!title1: La Gioconda
+!!!title2: Opera
+!!!statkey: A
+!!DEBUGGING: p157 % 356 % 1876(prf) % Milan % P157 % . % d % Dance of the Hours % orchestra % Opera % La Gioconda % PONCHIELLI, Amilcare % 1834
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(rev)(prf) Venice (P157) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 356 n.d.(p) Milan and New York (P157) . d Dance of the Hours orchestra Opera La Gioconda PONCHIELLI, Amilcare 1834
+**solfa
+*clefG2
+*k[f#c#g#]
+*f#:
+*M2/4
+=
+8soq/
+8te\
+8r
+8te\L
+8do\J
+=
+8do\L
+8re\
+8re\
+8me\J
+=
+8meq/
+8so\
+8r
+8so\L
+8le\J
+=
+8le\L
+8la\
+8la\
+8te\J
+=
+8teq/
+8me\
+8r
+8fa\L
+8le\J
+=
+8leq/
+8me\
+8r
+8fa\L
+8le\J
+=
+8me\L
+8re\
+8re\
+8do\J
+=
+*-

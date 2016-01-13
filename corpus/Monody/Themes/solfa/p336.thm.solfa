@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1680
+!!!instrument: string
+!!!place: England, London
+!!!title1: Four-Part Fantasia No. 1
+!!!statkey: g
+!!DEBUGGING: p336 % . % 1680 % London % P336 % . % x % . % string % . % Four-Part Fantasia No. 1 % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/2
+=
+2.so/
+4fa/
+4me/
+8re/L
+8do/J
+4me/
+4fa/
+=
+2so/
+4do/
+[4le/
+8le/L]
+8so/J
+4.fa/
+16mi/LL
+16re/JJ
+4mi/
+=
+! ERROR: The lange cannot be expressed in recip notation.
+0fa/
+=
+*-

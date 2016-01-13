@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!theme: D
+!!!title1: Hungarian Rhapsody No. 6 in D Flat
+!!!statkey: B-
+!!DEBUGGING: l164 % . % 1853(p) % Vienna % L164 % . % d % . % piano % . % Hungarian Rhapsody No. 6 in D Flat % LISZT, Franz % 1811
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+16f/LL
+16g/
+16a/
+16b-/JJ
+16cc\LL
+16b-\
+16a\
+16b-\JJ
+=
+8cc\
+4cc\
+[8cc\
+=
+16cc\LL]
+16dd\
+16dd\
+16ee-\JJ
+16ee-\LL
+16dd\
+16dd\
+16cc\JJ
+=
+8dd\
+4dd\
+8dd\
+=
+16ee-\LL
+16dd\
+16cc\
+16b-\JJ
+16a/LL
+16g/
+16a/
+16b-/JJ
+=
+*-

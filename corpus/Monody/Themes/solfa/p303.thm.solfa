@@ -1,0 +1,71 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus 94
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1943
+!!!instrument: violn, piano
+!!!place: Kazakh, Alma-Ata
+!!!splace: Perm
+!!!theme: B
+!!!title1: Sonata in D
+!!!title2: 4th Movement
+!!!statkey: D
+!!DEBUGGING: p303 % . % 1943 % Alma-Ata % P303 % 94 % b % 4 % violn, piano % . % Sonata in D % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1944(rev) Perm (P303) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+16do/LL
+16r
+16re/
+16mi/JJ
+16re/LL
+16r
+16do/
+16re/JJ
+16mi/LL
+16r
+16fa/
+16mi/JJ
+8re/L
+8mi/J
+=
+8fa/
+[4.fa/
+8.fa/L]
+16mi/Jk
+16fa/LL
+16so/
+16la/
+16ti/JJ
+=
+16do\LL
+16ti\
+16la\
+16so\JJ
+16mi/LL
+16mi/
+16fa/
+16so/JJ
+16la/LL
+16so/
+16fa/
+16mi/JJ
+16re/LL
+16r
+16do/
+16re/JJ
+=
+16mi/
+*-

@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Petite Suite for Two Pianos
+!!!OMV: Cort&egrave;ge
+!!!thm: A           
+!!!AIN: forte      
+!!!ODT: 1886///-1889///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+16.gg#\LL
+!!   Encoding error:   change 6 to 16
+32aa\Jk
+[8gg#\J
+16gg#\LL]
+16ff#\
+16ee\
+16ff#\JJ
+16.gg#\LL
+32aa\Jk
+8gg#\J
+16gg#\LL
+16aa\
+16bb\
+16ddd#\JJ
+=
+16.ccc#\LL
+32ddd#\Jk
+8ccc#\J
+16ccc#\LL
+16bb\
+16aa\
+16bb\JJ
+16ccc#\LL
+16ddd#\
+16eee\
+16ggg#\JJ
+16fff#\LL
+16ddd#\
+16ccc#\
+16aa\JJ
+=
+*-

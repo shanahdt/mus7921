@@ -1,0 +1,56 @@
+**kern
+!ZZZ!
+*clefG2
+*k[]
+*M3/4
+*a:
+[2.ee
+=
+16]ee
+32ff
+32ee-
+16.aa
+32cc
+[2a
+=
+2]a
+=||
+[2.ddd-
+=
+8.]ddd-
+48aa
+48ee
+48cc
+8.ccc
+48gg
+48ee-
+48a
+8.bb
+48ff#
+48ee-
+48b
+=
+Q32ff
+Q32ee
+Q32ee-
+2.ee
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1903///-1905
+!!!place: Deutschland, Berlin(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1449 % . % 1903-1905 % Berlin? % S1449 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1905///
+!!!ODT: <1905/12/31/
+!!!splace: Deutschland, Dresden
+!!!CDT: ///-
+!!DEBUGGING: . . 1905(prf) Dresden (S1449) . . . . . . .

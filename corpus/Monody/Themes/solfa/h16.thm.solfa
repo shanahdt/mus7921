@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1736///
+!!!OCL: RSC
+!!!ODT: <1736/12/31/
+!!!ODT: <1738/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 1
+!!!OPS: Opus 4
+!!!PDT: 1738///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1738(p)
+!!!instrument: organ, orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Concerto No. 1 in G Minor
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: h16 % . % 1738(p) % London % H16 % 4 No. 1 % b % 2 % organ, orchestra % . % Concerto No. 1 in G Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1736(prf) . (H16) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+8so\
+=
+4.me\
+8fa\
+4.re\
+8me\
+=
+4.do\
+8re\
+8ti\L
+16ti\L
+16do\JJ
+8re\L
+8so\J
+=
+*-

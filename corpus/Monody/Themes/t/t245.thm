@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1875///
+!!!OCL: RSC
+!!!ODT: <1875/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1875(prf)
+!!!place: Royssia, Moskova
+!!!title1: Symphony No. 3 in D, Op. 29, "Polish"
+!!!title2: 3rd Movement
+!!!statkey: d
+!!DEBUGGING: t245 % . % 1875(prf) % Moscow % T245 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefF4
+*k[b-]
+*d:
+*M3/4
+=
+12E\L
+12E\
+12E\J
+12E\L
+12D\
+12E\J
+12F\L
+12E\
+12D\J
+=
+12G\L
+12F\
+12E\J
+6D\
+12E\
+4F\
+=
+12r
+12r
+12D\
+12G\L
+12A\
+12G\J
+6D\
+12E\
+=
+2F\
+4r
+=
+*-

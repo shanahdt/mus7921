@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Concerto in D Minor, Vn. & Orch.
+!!!title2: 2nd Movement
+!!!statkey: a
+!!DEBUGGING: t13 % . % n.d. % ? % T13 % . % . % . % . % . % . % TARTINI, Giuseppe
+**solfa
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+8so\L
+16so\L
+16so\JJ
+16.le\LL
+32te\k
+16do\
+32te\L
+32le\JJJ
+8le\L
+16.so\L
+32so\JJk
+8so\L
+16.fa\L
+32so\JJk
+=
+16fa\LK
+8.me\J
+16re/LK
+8.do/J
+8do\L
+8do\J
+8te\L
+16do\L
+16so\JJ
+=
+8le\L
+8so\J
+16r
+16me\LL
+16fa\
+16so\JJ
+4so\
+4so/
+=
+*-

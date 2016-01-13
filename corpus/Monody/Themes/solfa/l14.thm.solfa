@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1883/12/31/
+!!!OMV: Mov. 3: Intermezzo
+!!!OPS: Opus 29
+!!!PDT: 1883///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879
+!!!instrument: violn, orchestra
+!!!place: ?
+!!!splace: Deutschland, Mainz
+!!!theme: B
+!!!title1: Concerto Russe
+!!!title2: 3rd Movement (Intermezzo)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l14 % 274 % 1879 % ? % L14 % 29 % b % 3: Intermezzo % violn, orchestra % . % Concerto Russe % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1883(p) Mainz (L14) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*E:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8do/
+8te/L
+8le/J
+=
+4te/
+8do/L
+8ra/J
+=
+8me/
+4so\
+8me\
+=
+4me\
+[4ra\
+=
+8ra\L]
+8do\
+8te\
+8le\J
+=
+8so\
+4fe/
+8te/
+=
+4do/
+8me/L
+8so/J
+=
+4so\
+4fe/
+=
+*-

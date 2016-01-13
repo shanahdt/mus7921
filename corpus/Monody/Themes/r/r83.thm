@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1737///
+!!!OCL: RSC
+!!!ODT: <1737, 1754/12/31/
+!!!ODT: <1737/12/31/
+!!!OMV: Mov. Passepied 1
+!!!PDT: 1737, 1754///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1737, 1754(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Castor et Pollux
+!!!title2: Opera
+!!!statkey: E
+!!DEBUGGING: r83 % 372 % 1737, 1754(p) % Paris % R83 % . % x % Passepied 1 % orchestra % Opera % Castor et Pollux % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1737(prf) . (R83) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/8
+8g#/
+=
+8g#/L
+8g#/
+8g#/J
+=
+8g#/L
+8g#/
+8g#/J
+=
+16g#/LL
+16a/
+16b/
+16a/
+16g#/
+16f#/JJ
+=
+*M3/4
+4e/
+4a/
+4b\
+=
+*M3/8
+16cc#\LL
+16b\
+16a\
+16b\
+16cc#\
+16dd#\JJ
+=
+8ee\L
+8a\
+8g#\J
+=
+4f#/
+*-

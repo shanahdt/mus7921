@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1902/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 61
+!!!PDT: 1902///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1901///-1902
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!splace: United States of America, Massachusetts, Boston & United States of America, New York
+!!!title1: Of Br'er Rabbit
+!!!statkey: b
+!!DEBUGGING: m18 % . % 1901-1902 % New York % M18 % 61 No. 2 % x % . % piano % . % Of Br'er Rabbit % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1902(p) Boston, New York (M18) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#]
+*D:
+*M2/2
+4AA/
+=
+8D\L
+8E\J
+2F#\
+8E\L
+8D\J
+=
+8E\L
+8C#\J
+2BB/
+8AA/L
+8BB/J
+=
+8D\L
+8E\
+8F#\
+8A\J
+8B\L
+8d\
+8e\
+8f#\J
+=
+8e\L
+8c#\J
+4A\
+*-

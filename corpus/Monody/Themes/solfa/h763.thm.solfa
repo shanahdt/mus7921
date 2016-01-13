@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1935?/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1935?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: viola, orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!theme: C: DER GUTZGAUCH AUF DEM ZAUNE SASS
+!!!title1: Der Schwanendreher
+!!!title2: Concerto on Old Folk Tunes
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h763 % 251 % 1935 % Berlin % H763 % . % c: Der Gutzgauch Auf Dem Zaune Sass % 2 % viola, orchestra % Concerto on Old Folk Tunes % Der Schwanendreher % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935?(p) Mainz (H763) . . . . . . . .
+**solfa
+*clefF4
+*k[]
+*F:
+*M2/2
+!! ! NB. Key & key signature disagree.
+8do\
+=
+4re\
+4do\
+4ti\
+4do\
+=
+2re\
+2mi\
+=
+2do\
+4r
+4do\
+=
+4mi\
+4re\
+4mi\
+4fi\
+=
+2so\
+2so\
+=
+4.re\
+16mi\LL
+16fi\JJ
+4so\
+4so\
+=
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Children's Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: As You Like It
+!!!title2: Incidental Music
+!!!statkey: G
+!!DEBUGGING: g26 % . % 1896 % London % G26 % . % x % 2: Children's Dance % orchestra % Incidental Music % As You Like It % GERMAN, Sir Edward % 1862
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=
+8so\L
+8re\
+8mi\J
+8soq/
+8.fa\L
+16mi\k
+8re\J
+=
+8do\L
+8do\
+8la\J
+8so\L
+8mi\
+8do\J
+=
+8la/L
+8re/
+8la/J
+8.ti/L
+16do/k
+8re/J
+=
+8do/L
+8so/
+8do/J
+8mi\L
+8ti\
+8la\J
+=
+*-

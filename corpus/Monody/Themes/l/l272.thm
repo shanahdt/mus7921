@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712/12/31/
+!!!OMV: Mov. 1: Allemande
+!!!PDT: 1712///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712(p)
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G Minor
+!!!title2: 1st Movement (Allemande)
+!!!statkey: g
+!!DEBUGGING: l272 % . % 1712(p) % London % L272 % . % x % 1: Allemande % cemba % . % Suite No. 1 in G Minor % LOEILLET, Jean Baptiste % 1680
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+16dd\
+=
+[4dd\
+16.dd\LL]
+32dd\k
+16.gg\
+32dd\JJk
+[4ee-\
+16.ee-\LL]
+32ee-\k
+16.dd\
+32cc\JJk
+=
+16.b-T/LL
+32a/Jk
+8g/J
+16.b-\LL
+32dd\k
+16.g\
+32b-\JJk
+16.a/LL
+32dd/k
+16.f#/
+32a/JJk
+16.g/LL
+32b-/k
+16.a/
+32g/JJk
+=
+16.f#/LL
+32en/Jk
+8d/J
+*-

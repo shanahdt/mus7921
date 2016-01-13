@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1742///
+!!!MPD: 1743///
+!!!OCL: RSC
+!!!ODT: <1742/12/31/
+!!!ODT: <1743/12/31/
+!!!OMV: Mov. Pt. 1 (Pastoral Symphony)
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1742(prf)
+!!!place: Eire, Dublin
+!!!splace: England, London
+!!!title1: Messiah
+!!!title2: Pastoral Symphony
+!!!statkey: C
+!!DEBUGGING: h141 % . % 1742(prf) % Dublin % H141 % . % x % Pt. 1 (Pastoral Symphony) % . % . % Messiah % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1743(prf) London (H141) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M12/8
+=
+4do\
+8re\
+4mi\
+8fa\
+4.so\
+4.la\
+=
+8.so\L
+16fa\k
+8mi\J
+4.faT\
+4.mi\
+*-

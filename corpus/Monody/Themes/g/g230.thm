@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OPR, OTL, OMV
+!!!COM: Gretry, André-Ernest-Modeste
+!!!CDT: 1741/02/08/-1813/09/24/
+!!!CNT: Liegeois; French
+!!!OPR: La Rosi&egrave;re R&eacute;publicaine
+!!!OTL: Ballet Suite
+!!!OMV: Danse Generale     
+!!!AIN: orchestra
+!!!ODT: <1794/09/02
+!!!MPD: 1794/09/02
+!!!MLC: France, Paris       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+8aa\
+=
+8.dd\L
+16ee\k
+8.ff\
+16gg\Jk
+=
+8.aa\L
+16aa\k
+8.aa\
+16aa\Jk
+=
+8.ddd\L
+16fff\k
+8.eee\
+16ddd\Jk
+=
+8.ccc\L
+16ccc\k
+8.ccc\
+16ccc\Jk
+=
+8.bb-\L
+16ddd\k
+8.ccc\
+16bb-\Jk
+=
+8.aa\L
+16aa\k
+8.aa\
+16ddd\Jk
+=
+*-

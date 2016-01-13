@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1844///
+!!!MPD: 1855///
+!!!OCL: RSC
+!!!ODT: <1844/12/31/
+!!!ODT: <1855/12/31/
+!!!PDT: 1855///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1840
+!!!place: France, Paris
+!!!splace: Deutschland, Dresden
+!!!splace: Deutschland, Leipzig
+!!!splace: England, London
+!!!splace: Helvetia, Zurich
+!!!title1: A Faust Overture
+!!!statkey: d
+!!DEBUGGING: w9 % . % 1840 % Paris % W9 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1843-1844(rev) Dresden (W9) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(prf) Dresden (W9) . . . . . . WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1855(rev) London (W9) . . . . . . WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1855(prf) Zurich (W9) . . . . . . WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1855(p) Leipzig (W9) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M2/2
+=
+1do/
+=
+2.do\
+4te\
+=
+1le\
+=
+2.fa/
+4re/
+=
+[1so/
+=
+2.so/]
+4fa/
+=
+2me/
+[2do\
+=
+2.do\]
+4te\
+=
+1le\
+=
+2.so/
+4fa/
+=
+1te\
+=
+*-

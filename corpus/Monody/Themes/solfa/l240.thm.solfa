@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1861/12/31/
+!!!PDT: 1861///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1859
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Mainz
+!!!title1: Venice and Naples
+!!!title2: "Gondoliera"
+!!!statkey: d#
+!!DEBUGGING: l240 % . % 1859 % Weimar % L240 % . % x % . % piano % "Gondoliera" % Venice and Naples % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1861(p) Mainz (L240) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M6/8
+8so\L
+8fa\J
+=
+4mi/
+8mi/
+4mi/
+8fa\
+=
+4la\
+8so\
+8r
+8fa/L
+8mi/J
+=
+8re\L
+8la\
+8so\J
+8so\L
+8la\
+8fa\J
+=
+4ri/
+8mi/
+8r
+*-

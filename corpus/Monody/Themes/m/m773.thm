@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 309
+!!!PDT: 1782///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: piano
+!!!place: Deutschland, Mannheim
+!!!splace: France, Paris
+!!!title1: Sonata in C
+!!!title2: 3rd Movement
+!!!statkey: C
+!!DEBUGGING: m773 % 330 % 1777 % Mannheim % M773 % K 309 % x % 3 % piano % . % Sonata in C % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(p) Paris (M773) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+8gg\
+=
+16ff\LL
+16ee\
+16dd\
+16cc\JJ
+8cc\L
+8cc\J
+=
+4.cc\
+8ccc\
+=
+16bb\LL
+16aa\
+16gg\
+16ff\JJ
+8ff\L
+8ff\J
+=
+4.ff\
+*-

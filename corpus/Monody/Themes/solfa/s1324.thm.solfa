@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[]
+*M3/4
+*C:
+4so
+=
+4.so
+8so
+[4so
+=
+4]so
+4fa
+4mi
+=
+4.re
+8re
+[4re
+=
+4]re
+4do
+4ti
+=
+4.do
+8do
+[4do
+=
+4]do
+4ti
+4la
+=
+4.mi
+8mi
+4mi
+=
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!PDT: 1873///
+!!!ODT: <1873/12/31/
+!!!date: 1873(p)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1324 % . % 1873(p) % Vienna % S1324 % . % . % . % . % . % . % STRAUSS, Johann Jr.

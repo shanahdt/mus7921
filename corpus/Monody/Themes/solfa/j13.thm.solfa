@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Janácek, Leos
+!!!CDT: 1854/07/03/-1928/08/12/
+!!!CNT: Czech
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1927///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926
+!!!instrument: orchestra
+!!!place: Czech, Brno(?)
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Sinfonietta
+!!!title2: 2nd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: j13 % . % 1926 % Brno? % J13 % . % a % 2 % orchestra % . % Sinfonietta % JAN&Aacute;CEK, Leos % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(p) Vienna (J13) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*A-:
+*M4/8
+*>[A,A,B]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+8do\L
+8ti\
+8so\
+8so\J
+=
+8fa\L
+8so\
+8le\
+8so\J
+=
+8do\L
+8ti\
+8so\
+8so\J
+=
+*>1st ending
+8fa\
+4.so\
+=5:|!
+*>2nd ending
+*>B
+8fa\
+4.do/
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1786///
+!!!OCL: RSC
+!!!ODT: 1786///
+!!!ODT: <1786/12/31/
+!!!OPS: Opus K 486 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Der Schauspieldrektor
+!!!title2: Overture
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m611 % . % 1786(prf) % Vienna % M611 % K 486  % b % . % orchestra % Overture % Der Schauspieldrektor % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1786(c) . (M611) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2.so\
+8mi\L
+8do\J
+=
+2.so\
+4do\
+=
+8do\L
+8ti\J
+4ti\
+4r
+4ti\
+=
+4r
+4ti\
+4re\
+4so\
+=
+*-

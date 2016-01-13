@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1799/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1799///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!title1: Quartet in D
+!!!title2: "Quinten"
+!!!statkey: d
+!!DEBUGGING: h461 % . % -1797 % Vienna % H461 % . % x % 1 % string % "Quinten" % Quartet in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1799(p) ? (H461) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+2so/
+2do/
+=
+2re/
+2so/
+=
+8do/L
+8ti/
+8do/
+8re/J
+8fa/L
+8me/
+8re/
+8so/J
+=
+4do\
+16te/LL
+16le/
+16so/
+16fi/JJ
+4so/
+4r
+=
+*-

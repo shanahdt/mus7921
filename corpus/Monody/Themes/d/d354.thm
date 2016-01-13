@@ -1,0 +1,67 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Dvorák, Antonin
+!!!CDT: 1841/09/08/-1904/05/01/
+!!!CNT: Czech
+!!!OTL: Sextet for Strings             
+!!!OPS: Op. 48 
+!!!OMV: Mov. 2 (Dumka)
+!!!thm: B  
+!!!AIN: cello viola violn
+!!!ODT: 1878///
+!!!OCY: Czechoslovakia
+!!!OPC: Prague
+!!!PDT: 1879///
+!!!PPP: Deutschland, Berlin
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*F#:
+*M4/8
+=
+!! ! NB. Key & key signature disagree.
+8r
+[8ff#\
+16ff#\LL]
+16gg#\JJ
+32aa\LLL
+32gg#\
+32aa\
+32ff#\JJJ
+=
+16ee#\LL
+16ee#\J
+[8cc#\J
+16cc#\LL]
+16dd#\JJ
+32ee\LLL
+32dd#\
+32ee\
+32cc#\JJJ
+=
+16cc#\LL
+16cc#\JJ
+[8a/
+16a/LL]
+32g#/L
+32a/JJJ
+32b/LLL
+32a/
+32b/
+32a/JJJ
+=
+32g#/LLL
+32f#/
+32g#/
+32f#/JJJ
+32e/LLL
+32d#/
+32e/
+32d#/JJJ
+16c#/
+*-

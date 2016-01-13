@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!title1: Liebestraum No. 2
+!!!statkey: E
+!!DEBUGGING: l188 % . % ? % ? % L188 % . % x % . % piano % . % Liebestraum No. 2 % LISZT, Franz % 1811
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+8le\
+=
+2le\
+8so/L
+16r
+16do/Jk
+=
+4so\
+4fa/
+8.r
+16mi/
+=
+2mi/
+8re/L
+16r
+16so/Jk
+=
+4re/
+4do/
+*-

@@ -1,0 +1,39 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Bach, Johann Christian
+!!!CDT: 1735/09/05/-1782/01/01/
+!!!CNT: German
+!!!ODT: 1770
+!!!OCY: England	
+!!!OPC: London
+!!!AIN: forte Cstr
+!!!OTL: Concerto in G for Piano and Strings
+!!!OPS: Op. 7
+!!!ONM: No. 6
+!!!OMV: Mov. 1
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*met(C)
+*M4/4
+*G:
+4.dd
+8gg
+4b
+16dd
+16cc
+16b
+16cc
+=
+8dd
+8b
+8ee
+8dd
+2dd
+=
+*-

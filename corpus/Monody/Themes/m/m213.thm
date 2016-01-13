@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 64
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1844
+!!!instrument: violn, orchestra
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Leipzig
+!!!theme: C
+!!!title1: Concerto in E Minor
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: m213 % 301 % 1844 % Leipzig % M213 % 64 % c % 1 % violn, orchestra % . % Concerto in E Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(prf) . (M213) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 301 1845(p) Leipzig (M213) 64 c 1 violn, orchestra . Concerto in E Minor MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/2
+=
+4r
+4dd\
+4dd\
+4dd\
+=
+2ff#\
+4.ee\
+8dd\
+=
+4dd\
+4b\
+4b\
+4b\
+=
+2dd\
+4.cc\
+8b\
+=
+4b\
+4g/
+4g/
+4g/
+=
+*-

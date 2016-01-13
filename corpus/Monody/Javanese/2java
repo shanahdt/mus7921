@@ -1,0 +1,42 @@
+# 2JAVA
+#
+# This program translates from Marc Perlman's computer notation
+# for Javanese music to a Humdrum **Java representation.
+#
+# Written by David Huron,  Mon Mar  6 20:12:18 EST 2000
+{
+if ($0 ~/^$/) next   # Eliminate empty lines.
+#                      Identify slendro tuning.
+if ($0 ~/slendro/) { print "**Java"; print "*slendro" }
+#                      Or pelog tuning.
+if ($0 ~/pelog/) { print "**Java"; print "*pelog" }
+if ($0 ~/[a-zA-Z][a-zA-Z][a-zA-Z][a-zA-Z]*/)   # Identify sections.
+	{
+	if (NF == 1) {current_section = $1; n=1; print "*>" $1 n}
+	print "!! " $0
+	next
+	}
+gsub("^ *","", $0)      # Eliminate leading spaces.
+gsub("    *"," = ", $0) # Transform long spaces to gatra signifier.
+for (i=1; i<=NF; i++)
+	{
+	if ($i == "$") print "*>" current_section "X"
+	else if ($i == "|") print "*>" current_section n++
+	else print $i
+	}
+print "="               # Add a gatra signifier to the end of each input line.
+}
+END	{
+	print "*-"      # Add a Humdrum terminator to the end of the output.
+	}
+#    1-7    pitch names
+#    _      lower octave indicator
+#    ^      higher octave indicator
+#    .      indicates that the preceeding tone is sustained
+#    =      indicates the division between 4-beat (gatra) groups
+#    )      kenong stroke
+#    (      gong
+#           kenong (phrase ending with a kenong-stroke)
+#           gongan (four-kenong length segment ending with a gong-stroke)
+# *slendro  tuning system without 4's or 7's (i.e. 3-5 is a step)
+# *pelog    pelog tuning

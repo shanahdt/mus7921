@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Burleske
+!!!OPS: Opus 103a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: violn, piano
+!!!place: Deutschland, Leipzig
+!!!title1: Suite in A Minor
+!!!title2: 4th Movement (Burleske)
+!!!statkey: g
+!!DEBUGGING: r244 % . % 1908 % Leipzig % R244 % 103a % x % 4: Burleske % violn, piano % . % Suite in A Minor % REGER, Max % 1873
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+8.bb-\L
+16ff\Jk
+4.ff\
+8ff#\
+=
+8.gg\L
+16dd\Jk
+4.dd\
+8r
+=
+2.r
+=
+4r
+4dd\
+4aa\
+=
+4ddd\
+4aa\
+4gg\
+=
+4.ff#\
+8dd#\
+4ff#\
+=
+8gg\
+8r
+*-

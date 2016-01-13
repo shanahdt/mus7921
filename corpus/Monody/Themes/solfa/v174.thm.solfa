@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712-1713/12/31/
+!!!PDT: 1712-1713///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712///-1713(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Sonata in D Minor, Op 2, No. 3, Vn. & Pft.
+!!!title2: 4th Movement
+!!!statkey: d
+!!DEBUGGING: v174 % 506 % 1712-1713(p) % Amsterdam % V174 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M12/8
+=
+8do\L
+8re\
+8me\J
+8re\L
+8me\
+8fa\J
+8me\L
+8fa\
+8so\J
+4.faT\
+16meq/LL
+16faq/JJ
+=
+8so\L
+8fa\
+8me\J
+8re\L
+8me\
+8do\J
+8ti\L
+8la\
+8so\J
+*-

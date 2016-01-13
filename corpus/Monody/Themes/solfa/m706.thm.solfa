@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 485
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Rondo in D
+!!!statkey: D
+!!DEBUGGING: m706 % . % 1786 % Vienna % M706 % K 485 % x % . % piano % . % Rondo in D % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . Vienna . (M706) . . . . . . c1786(p) .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+2so\
+16fa\LK
+8.mi\J
+16re\LK
+8.do\J
+=
+4.fa\
+8re\
+4ti\
+4r
+=
+2fa\
+16mi\LK
+8.re\J
+16do\LK
+8.ti\J
+=
+4.so\
+8mi\
+4do\
+4r
+=
+*-

@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: Le Gazouillement     
+!!!AIN: cemba                   
+!!!PDT: 1716///-1717///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+16dd\LL
+16ff\
+16ee-\
+16gg\JJ
+=
+16dd\LL
+16ff\
+16cc\
+16ee-\
+16b-\
+16dd\JJ
+=
+8.ccT\L
+16dd\k
+[8b-T\J
+=
+16b-\LL]
+16cc\J
+8.ccT\
+32b-\LL
+32cc\JJJ
+=
+16dd\LL
+16b-\JJ
+*-

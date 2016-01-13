@@ -1,0 +1,41 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Children's Corner Suite for Piano
+!!!OTL: The Little Shepherd  
+!!!thm: A
+!!!AIN: forte
+!!!ODT: 1906///-1908///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+[4gg#\
+8gg#\L]
+16ff#\L
+16ee\JJ
+8dd\L
+24ee\L
+24dd\
+24cc#\JJ
+8b\L
+8bb\J
+=
+[2gg#\
+8gg#\L]
+16ff#\L
+16ee\JJ
+4dd\
+=
+*-

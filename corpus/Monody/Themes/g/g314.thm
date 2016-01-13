@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Sonata in A Minor for Cello and Piano
+!!!OPS: Op. 36
+!!!OMV: Mov. 3
+!!!thm: B             
+!!!AIN: cello forte      
+!!!ODT: 1883///
+!!!OCY: Norge 
+!!!OPC: Bergen   
+!!!PDT: 1883///          
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8cc\
+12b/L
+12a/
+12b/J
+=
+4cc\
+4a/
+=
+8cc\L
+8ee\J
+[4ee\
+=
+8ee\L]
+8g#\
+8a\
+8b\J
+=
+8cc\L
+8bb\J
+[4bb\
+=
+8bb\L]
+8aa\
+8ff#\
+8dd\J
+=
+8b/L
+8a/
+8f#/
+8d/J
+=
+*-

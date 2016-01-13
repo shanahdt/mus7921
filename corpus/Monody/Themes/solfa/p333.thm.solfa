@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1692///
+!!!OCL: RSC
+!!!ODT: <1692/12/31/
+!!!OMV: Mov. Jig
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1692(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Fairy Queen
+!!!title2: Opera
+!!!statkey: g
+!!DEBUGGING: p333 % . % 1692(prf) % London % P333 % . % x % Jig % orchestra % Opera % Fairy Queen % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M6/4
+4so\
+=
+4.do\
+8re\
+4do\
+4.te\
+8le\
+4so\
+=
+2.le\
+4.so\
+8le\
+4te\
+=
+4.me\
+8fa\
+4so\
+4.le\
+8so\
+4fa\
+=
+[2.re/
+2re/]
+*-

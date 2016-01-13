@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1924///-1925
+!!!instrument: violn, string orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Concerto Accademico in D Minor
+!!!title2: 3rd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v7 % 498 % 1924-1925 % London % V7 % . % a % 3 % violn, string orchestra % . % Concerto Accademico in D Minor % VAUGHAN WILLIAMS, Ralph % 1872
+**solfa
+*clefG2
+*k[]
+*D:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8so\L
+8so\
+8fi\J
+=
+8do\L
+8do\
+8ti\J
+8so\L
+8so\
+8fi\J
+=
+8mi\L
+8do\
+8do\J
+8me\L
+8do\
+8do\J
+=
+8mi\L
+8do\
+8do\J
+8fi\L
+8re\
+8re\J
+=
+8mi\L
+8do\
+8do\J
+8me\L
+8do\
+8do\J
+=
+*-

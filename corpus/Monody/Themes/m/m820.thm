@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 329
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779?
+!!!instrument: organ, orchestra
+!!!place: Oesterreich, Salzburg
+!!!title1: Sonata in C
+!!!statkey: C
+!!DEBUGGING: m820 % . % 1779? % Salzburg % M820 % K 329 % x % . % organ, orchestra % . % Sonata in C % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4cc\
+8r
+16g/LL
+32a/L
+32b/JJJ
+4cc\
+4ee\
+=
+4cc\
+8r
+16g/LL
+32a/L
+32b/JJJ
+4cc\
+4ee\
+=
+4cc\
+4ee\
+4gg\
+4ee\
+=
+4cc\
+4ee\
+4gg\
+4r
+=
+*-

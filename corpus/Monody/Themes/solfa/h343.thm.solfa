@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1776/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1776///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1772
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in C
+!!!title2: 3rd Movement
+!!!statkey: C
+!!DEBUGGING: h343 % . % 1772 % Eszterh&aacute;za % H343 % . % x % 3 % string % . % Quartet in C % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1776(p) ? (H343) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+[2.mi\
+=
+4mi\]
+4fa\
+[4re\
+=
+4re\]
+4mi\
+[4so\
+=
+4so\]
+4fa\
+[4mi\
+=
+4mi\]
+4re\
+4mi\
+=
+[2.fa\
+=
+2fa\]
+8soq/
+16fa\LL
+16mi\
+16fa\
+16so\JJ
+=
+*-

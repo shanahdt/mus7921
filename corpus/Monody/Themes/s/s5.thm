@@ -1,0 +1,47 @@
+**kern
+*clefG2
+*k[f#c#]
+*M2/4
+*D:
+[4e
+16]e
+16f#
+16e-
+16e
+=
+8c#
+8e-
+8e
+8f#
+=
+[4e
+16]e
+16f#
+16e-
+16e
+=
+8c#
+16e-
+16c#
+8.B
+16A
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1884
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s5 % . % 1884 % Paris? % S5 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1884///
+!!!ODT: <1884/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1884(p) Paris (S5) . . . . . . .

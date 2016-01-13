@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1795///
+!!!OCL: RSC
+!!!ODT: <1795/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 102
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1794
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Symphony in B Flat
+!!!title2: London 9
+!!!statkey: F
+!!DEBUGGING: h661 % . % 1794 % London % H661 % B. & H. No. 102 % x % 2 % orchestra % London 9 % Symphony in B Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1795(prf) . (H661) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+8do/L
+32req/LLL
+32doq/
+32tiq/JJJ
+16.do/L
+32mi/JJk
+8..so\L
+32mi\Jkk
+8..la\L
+32fi\Jkk
+=
+24so\LL
+32laq/LLL
+32soq/
+32fiq/JJJ
+24so\
+24ti\
+24re\
+24ti\
+24so\JJ
+4fa\
+4mi/
+=
+24re\LL
+32miq/LLL
+32req/
+32diq/JJJ
+24re\
+24te\
+24la\
+24fa\
+24re\JJ
+16do/
+*-

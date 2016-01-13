@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Jig
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite in G Minor
+!!!title2: Jig
+!!!statkey: g
+!!DEBUGGING: p365 % 367 % n.d. % London % P365 % . % x % Jig % cemba % . % Suite in G Minor % PURCELL, Henry % 1659
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8do\L
+8so\J
+4do\
+8re\L
+8so\J
+4re\
+=
+2.me\
+4re\
+=
+8do\L
+8re\J
+4me\
+4re\
+4do\
+=
+4.ti\
+8do\
+4re\
+4so\
+=
+*-

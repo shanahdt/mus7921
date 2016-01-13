@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Madrigal
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 1
+!!!statkey: D
+!!DEBUGGING: p260 % . % 1936 % Moscow % P260 % 64 % b % 3: Madrigal % orchestra % Suite No. 1 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+16so/LL
+16la/JJ
+=
+16do\LL
+16r
+16re\
+16mi\JJ
+16so\LL
+16r
+16fi\
+16so\JJ
+=
+8la\L
+8re\J
+16fa\LL
+16r
+16so\
+16la\JJ
+=
+8te\L
+16la\L
+16so\JJ
+8fa\L
+16mi\L
+16re\JJ
+=
+8do\L
+8mi\J
+16so/
+16r
+*-

@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Piano Trio No. 3 in C Minor
+!!!OPS: Op. 101
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: cello forte violn
+!!!ODT: 1886///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien  
+!!!PDT: 1887///
+!!!MRD: 1886///
+!!!MLC: Magyar, Budapest                  
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=
+2ccc\
+12bbn\L
+12ccc\
+12gg\J
+=
+2ee-\
+12dd\L
+12ee-\
+12ff\J
+=
+2gg\
+12ff#\L
+12gg\
+12dd\J
+=
+2g/
+*-

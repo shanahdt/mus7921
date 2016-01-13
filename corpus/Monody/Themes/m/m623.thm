@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785-1786/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 478
+!!!PDT: 1785-1786///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: piano, string
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Quartet in G Minor
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: m623 % . % 1785 % Vienna % M623 % K 478 % b % 1 % piano, string % . % Quartet in G Minor % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785-1786(p) . (M623) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4bb-\
+16ccc\LL
+16bb-\
+16aa\
+16gg\JJ
+4ff\
+4ff\
+=
+4bb-\
+16ccc\LL
+16bb-\
+16aa\
+16bb-\JJ
+4fff\
+4r
+=
+8bb-\L
+16aa\L
+16bb-\JJ
+16ccc\LL
+16bb-\
+16aa\
+16gg\JJ
+4ff\
+4ff\
+=
+*-

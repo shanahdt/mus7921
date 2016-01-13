@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1817///
+!!!OCL: RSC
+!!!ODT: <1817/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1817(prf)
+!!!instrument: orchestra
+!!!place: Italia, Milano
+!!!theme: C
+!!!title1: La Gazza Ladra
+!!!title2: Overture
+!!!statkey: F
+!!DEBUGGING: r383 % . % 1817(prf) % Milan % R383 % . % c % . % orchestra % Overture % La Gazza Ladra % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1819-1820 Bonn and Cologne (R383) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+12cc\L
+12dd\
+12cc\J
+=
+2bn\
+4cc\
+=
+4ff\
+4r
+12cc\L
+12dd\
+12cc\J
+=
+2bn\
+4cc\
+=
+4aa\
+4r
+8ccc\L
+8ccc\J
+=
+8bbn\L
+8bb\J
+8bb-\L
+8bb-\J
+8aa\L
+8aa\J
+=
+8aa-\L
+8aa-\J
+8gg\L
+8gg\J
+8ff\L
+8ff\J
+=
+*-

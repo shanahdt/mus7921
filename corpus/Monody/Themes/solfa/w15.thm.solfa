@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1843///
+!!!OCL: RSC
+!!!ODT: <1843/12/31/
+!!!ODT: <1844/12/31/
+!!!PDT: 1844///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1841
+!!!place: France, Paris
+!!!splace: Deutschland, Dresden
+!!!splace: Helvetia, Zurich
+!!!title1: The Flying Dutchman, Opera
+!!!title2: Overture
+!!!statkey: d
+!!DEBUGGING: w15 % . % 1841 % Paris % W15 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1843(prf) Dresden (W15) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(p) Dresden (W15) . . . . . . WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1846(rev) Dresden (W15) . . . . . . WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852(rev) Zurich (W15) . . . . . . WAGNER, Richard
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M6/4
+4so/
+=
+2.do/
+2do/
+4so/
+=
+2do/
+4do/
+[2.so/
+=
+2so/]
+4do/
+2do/
+4do/
+=
+2.so/
+8leq/
+2.so/
+=
+*-

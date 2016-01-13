@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 16
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Water Music
+!!!title2: 16th Movement
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h262 % 225 % 1717(prf) % London % H262 % . % x % 16 % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H262) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*E:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.  
+4r
+8r
+8do\
+4do\
+=
+4.re\
+8me\
+4re\
+=
+4.re\
+8te\
+4do\
+=
+4.re\
+8me\
+4re\
+=
+2re\
+4fa\
+=
+2re\
+4fa\
+=
+4.re\
+*-

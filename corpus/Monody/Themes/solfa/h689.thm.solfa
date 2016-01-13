@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1970/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1970///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1795
+!!!instrument: violn, piano, cello
+!!!place: England, London & Oesterreich, Vienna(?)
+!!!splace: ?
+!!!title1: Trio No. 1 in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: h689 % . % -1795 % London, Vienna? % H689 % . % x % 1 % violn, piano, cello % . % Trio No. 1 in G % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1970(p) ? (H689) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+32req/
+16do\LL
+32ti\L
+32do\JJJ
+=
+8so\L
+8mi\
+8fa\
+8la\J
+=
+8so\L
+8mi\
+8do\J
+8re/
+=
+8mi\L
+8fa\J
+32laq/
+8so\L
+16fa\L
+16mi\JJ
+=
+4.re/
+*-

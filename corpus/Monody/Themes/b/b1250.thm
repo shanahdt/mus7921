@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Boccherini, Luigi
+!!!CDT: 1743/02/19/-1805/05/28/
+!!!CNT: Italian
+!!!ODT: N/A 
+!!!OCY: N/A   
+!!!OTL: Sonata No.6 in A for Cello and Piano                       
+!!!OMV: Mov. 2
+!!!thm: A
+!!!AIN: cello forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#c#g#]
+*A:
+*M4/4
+8E\
+=
+32A\LLL
+32B\
+32A\
+32G#\JJJ
+16A\LL
+16B\JJ
+16c#\LL
+16B\
+16c#\
+16d\JJ
+4c#\
+8B\L
+8E\J
+=
+32B\LLL
+32c#\
+32B\
+32A\JJJ
+16B\LL
+16c#\JJ
+16d\LL
+16B\
+16d\
+16e\JJ
+4d\
+8c#\
+*-

@@ -1,0 +1,51 @@
+**kern
+*clefG2
+*k[f#c#]
+*M3/4
+!! NB. Key & key signature disagree.
+*F:
+qa
+8ff#
+8r
+8ff#
+8r
+8ff#
+8r
+=
+qb
+8ff#
+8r
+8ff#
+8r
+8ff#
+8r
+=
+qcc#
+8aa
+8r
+8aa
+8r
+8aa
+8r
+=
+4bb
+8aa
+8ff#
+8dd
+8ee
+=
+*-
+!!!COM: Strauss, Joseph
+!!!CNT: Austrian
+!!!PDT: 1868///
+!!!ODT: <1868/12/31/
+!!!date: 1868(p)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1343 % . % 1868(p) % Vienna % S1343 % . % . % . % . % . % . % STRAUSS, Joseph

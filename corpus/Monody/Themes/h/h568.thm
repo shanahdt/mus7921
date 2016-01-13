@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!ONM: No. 88
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787?
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!theme: A: INTRO
+!!!title1: Symphony in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: h568 % . % 1787? % Eszterh&aacute;za % H568 % B. & H. No. 88 % a: Intro % 1 % orchestra % . % Symphony in G % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+16g/
+=
+8g/
+8r
+8b\
+8r
+8.r
+16b\
+=
+8cc\
+8r
+8aa\
+8r
+8.r
+16cc\
+=
+8b\
+8r
+8a/
+8r
+8a/
+8r
+=
+[8a\L
+32a\LL]
+32dd\
+32cc#\
+32dd\JJJ
+8a/
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1838/12/31/
+!!!PDT: 1838///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1838
+!!!instrument: piano
+!!!place: Oesterreich, Vienna(?)
+!!!splace: Deutschland, Breslau
+!!!theme: A
+!!!title1: a
+!!!statkey: c
+!!DEBUGGING: l141 % . % 1838 % Vienna? % L141 % . % a % . % piano % . % a % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1838(p) Breslau (L141) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+16so\
+=
+8si\L
+8la\
+8li\
+8ti\J
+=
+16do\LL
+16di\
+16re\
+16ri\JJ
+8mi\L
+8fa\J
+=
+8fi\L
+8so\
+8si\
+8la\J
+=
+16la\LL
+16le\
+16so\
+16fi\JJ
+8so\L
+8do\J
+=
+*-

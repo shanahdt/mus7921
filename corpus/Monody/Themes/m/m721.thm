@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 250
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1776
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Serenade in D
+!!!title2: "Haffner"
+!!!statkey: G
+!!DEBUGGING: m721 % . % 1776 % Salzburg % M721 % K 250 % b % 3 % orchestra % "Haffner" % Serenade in D % c1786(p) % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+4dd\
+=
+4ddd\
+8.ddd\L
+16bb\k
+8.ccc\
+16aa\Jk
+=
+4bb\
+8.bb\L
+16gg\k
+8.aa\
+16ff#\Jk
+=
+2gg\
+8.aaT\L
+32gg\LL
+32aa\JJJ
+=
+2bb\
+*-

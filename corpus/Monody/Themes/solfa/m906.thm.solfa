@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1788/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 297
+!!!PDT: 1788///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Symphony No. 31 in D
+!!!title2: 2nd Movement
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m906 % . % 1778 % Paris % M906 % K 297 % b % 2 % orchestra % . % Symphony No. 31 in D % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1788(p) . (M906) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*D:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+4.la\
+32laq/
+8so\L
+32faq/
+8mi\
+32req/
+8do\J
+=
+[4re\
+16re\LL]
+32mi\L
+32fa\JJJ
+8mi\
+8r
+8r
+=
+4.la\
+8so\L
+8ti\
+8do\J
+=
+8di\L
+8re\
+8fa\J
+8mi\
+8r
+8r
+=
+*-

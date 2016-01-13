@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1934///
+!!!OCL: RSC
+!!!ODT: <1934/12/31/
+!!!OMV: Mov. 4: Troika
+!!!OPS: Opus 60
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Lieutenant Kije
+!!!title2: 4th Movement (Troika)
+!!!statkey: D
+!!DEBUGGING: p233 % 360 % 1934 % Paris % P233 % 60 % x % 4: Troika % orchestra % . % Lieutenant Kije % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1934(prf) . (P233) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#]
+*D:
+*M4/4
+4A\
+=
+8d\L
+8c#\J
+8B\L
+8c#\J
+4d\
+4B\
+=
+4A\
+4B\
+8F#\
+8r
+4A\
+=
+8B\L
+8A\J
+4G\
+4d\
+8c#\L
+8d\J
+=
+[2A\
+8A\]
+8r
+*-

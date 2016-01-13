@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 6
+!!!OPS: Opus 3
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn, guitr
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Sonata No. 12
+!!!title2: 2nd Movement
+!!!statkey: E
+!!DEBUGGING: p58 % . % c1805 % Lucca % P58 % 3 No. 6 % x % 2 % violn, guitr % . % Sonata No. 12 % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P58) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M6/8
+8mi\L
+8fa\J
+=
+4so\
+8so\
+8so\L
+8la\
+8ti\J
+=
+4do\
+8do\
+8do\L
+8ti\
+8la\J
+=
+4so\
+8so\
+8so\L
+8fa\
+8mi\J
+=
+4re\
+8re\
+4re\
+*-

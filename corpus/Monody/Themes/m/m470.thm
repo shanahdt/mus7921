@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 459
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in F
+!!!title2: 1st Movement
+!!!statkey: F
+!!DEBUGGING: m470 % . % 1784 % Vienna % M470 % K 459 % x % 1 % piano, orchestra % . % Concerto in F % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+4ff\
+8.ff\L
+16ff\Jk
+4ff\
+4ff\
+=
+4ccc\
+4ccc\
+4.ccc\
+24bb-\LL
+24aa\
+24gg\JJ
+=
+4ff\
+8.ff\L
+16ff\Jk
+4ff\
+4ff\
+=
+4ee\
+4gg\
+2r
+=
+*-

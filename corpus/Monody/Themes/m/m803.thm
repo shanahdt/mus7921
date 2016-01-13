@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 545
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in C
+!!!title2: 3rd Movement
+!!!statkey: C
+!!DEBUGGING: m803 % . % 1788 % Vienna % M803 % K 545 % x % 3 % piano % . % Sonata in C % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+8gg\L
+8gg\J
+=
+4ee\
+8ff\L
+8ff\J
+=
+8dd\
+8r
+16cc\LL
+16dd\
+16ee\
+16cc\JJ
+=
+16a\LL
+16b\
+16cc\
+16cc#\JJ
+16dd\LL
+16ee\
+16ff\
+16dd\JJ
+=
+16ccn/LL
+16b/
+16a/
+16g/JJ
+*-

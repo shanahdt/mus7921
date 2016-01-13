@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1938/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938(prf)
+!!!place: ?
+!!!title1: Fa\c2ade, Suite No. 2, Orch.
+!!!title2: Noche Espa\n1ola
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w188 % . % 1938(prf) % ? % W188 % . % . % . % . % . % . % WALTON, William Turner
+**solfa
+*clefF4
+*k[]
+*G#:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8req/
+4my\
+24re\LL
+24my\
+24re\J
+16.do\L
+32re\JJk
+=
+[4my\
+24my\LL]
+24fe\
+24se\
+24le\
+24se\
+24fe\JJ
+=
+4my\
+24de\LL
+24my\
+24de\J
+16.te\L
+32la\JJk
+=
+[4my\
+24my\LL]
+24fe\
+24se\
+24le\
+24se\
+24fe\JJ
+=
+4my\
+*-

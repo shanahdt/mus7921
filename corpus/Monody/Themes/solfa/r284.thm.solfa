@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1924///
+!!!OCL: RSC
+!!!ODT: <1924/12/31/
+!!!OMV: Mov. Pines of the Appian Way
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923///-1924
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Pines of Rome
+!!!title2: Pines of the Appian Way
+!!!statkey: B-
+!!DEBUGGING: r284 % . % 1923-1924 % Rome % R284 % . % b % Pines of the Appian Way % orchestra % . % Pines of Rome % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1924(prf) . (R284) . . . . . . . .
+**solfa
+*clefF4
+*k[b-e-]
+*B-:
+*M4/4
+=
+8.r
+16so/
+4..do/
+16so/
+8.do\L
+16so\Jk
+=
+2do/
+12so/L
+12do/
+12so/J
+8.la\L
+16ti\Jk
+=
+2la\
+*-

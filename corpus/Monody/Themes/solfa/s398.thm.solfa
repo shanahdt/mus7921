@@ -1,0 +1,48 @@
+**solfa
+*clefG2
+*k[f#c#g#]
+*met(C)
+*M4/4
+*A:
+8.do
+32mi
+32so
+8do
+8le
+8.la
+32do
+32mi
+8la
+8do
+=
+8.so
+32ti
+32re
+8so
+8fa
+8mi
+24re
+24fa
+24la
+8do
+8ti
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1816
+!!!place: Deutschland, Erdberggasse
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s398 % . % 1816 % Erdberggasse % S398 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1897///
+!!!ODT: <1897/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1897(p) Vienna? (S398) . . . . . . .

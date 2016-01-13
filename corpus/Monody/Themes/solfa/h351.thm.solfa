@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1776/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1776///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1772
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!theme: A
+!!!title1: Quartet in F Minor
+!!!title2: 3rd Movement
+!!!statkey: F
+!!DEBUGGING: h351 % . % 1772 % Eszterh&aacute;za % H351 % . % a % 3 % string % . % Quartet in F Minor % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1776(p) ? (H351) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=
+8.so\L
+16la\k
+8so\J
+8so\L
+8la\
+8mi\J
+=
+8.fa\L
+16so\k
+8fa\J
+4fa\
+8r
+=
+8.fa\L
+16so\k
+8fa\J
+8fa\L
+8la\
+8re\J
+=
+8.mi/L
+16fa/k
+8mi/J
+4mi/
+8r
+=
+*-

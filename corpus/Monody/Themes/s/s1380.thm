@@ -1,0 +1,56 @@
+**kern
+*clefG2
+*k[]
+*M6/4
+!! NB. Key & key signature disagree.
+*E:
+4b
+4gg
+4aa
+4gg
+=
+qgg
+4ff#
+4ee
+4dd#
+2ff#
+4cc
+=
+2ff#
+4b
+4gg
+4aa
+4gg
+=
+qgg
+4ff#
+4ee
+4dd#
+2ff#
+4cc
+=
+2ff#
+4g
+4ddd
+4ccc#
+4bb
+=
+2aa
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1886
+!!!place: Deutschland, Muenchen
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1380 % 463 % 1886 % Munich % S1380 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1887///
+!!!ODT: <1887/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1887(prf) . (S1380) . . . . . . .

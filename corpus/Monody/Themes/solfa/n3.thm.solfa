@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Nardini, Pietro
+!!!CDT: 1722/04/12/-1793/05/07/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.?
+!!!instrument: violn, piano
+!!!place: France, Paris(?)
+!!!theme: B
+!!!title1: Sonata No. 2 in D
+!!!title2: 2nd Movement
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: n3 % . % n.d.? % Paris? % N3 % . % b % 2 % violn, piano % . % Sonata No. 2 in D % NARDINI, Pietro % 1722
+**solfa
+*clefG2
+*k[f#c#]
+*A:
+*M2/2
+!!   NB. Key & key signature disagree.
+4so/
+=
+8re\
+8r
+2re\
+4mi\
+=
+8so\L
+8fi\J
+2fa\
+4re\
+=
+4.mi\
+16fa\LL
+16so\JJ
+8.fa\L
+16mi\Jk
+8.re\L
+16do\Jk
+=
+4ti/
+8do/L
+8re/J
+2so/
+*-

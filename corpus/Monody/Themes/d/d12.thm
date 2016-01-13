@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Dargomizhsky, Alexander
+!!!CDT: 1813/02/14/-1869/01/17/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1856///
+!!!OCL: RSC
+!!!ODT: <1856/12/31/
+!!!OMV: Mov. Dance of the Nymphs
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1856(prf)
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!theme: B
+!!!title1: Roussalka
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: d12 % . % 1856(prf) % St. Petersburg % D12 % . % b % Dance of the Nymphs % orchestra % Opera % Roussalka % DARGOMIJSKY, Alexander Sergeivich % 1813
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+=
+8d/L
+16d/L
+16d/J
+8d/J
+8c#/L
+8dn/
+8g/J
+=
+8f/L
+8cc/
+8b-/J
+4ee-\
+8dd\
+=
+8dd\L
+16cc\L
+16cc\J
+8bn\J
+8cc/L
+8g/
+8cc/J
+=
+4.g-/
+4fn/
+8r
+=
+*-

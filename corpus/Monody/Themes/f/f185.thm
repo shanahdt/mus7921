@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Franck, César
+!!!CDT: 1822/12/10/-1890/11/08/
+!!!CNT: French
+!!!OTL: Sonata for Violin and Piano                            
+!!!OMV: Mov. 1
+!!!thm: B             
+!!!AIN: forte violn         
+!!!ODT: 1886///
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1886/// 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*E:
+*M9/8
+!! ! NB. Key & key signature disagree.
+8bb\L
+8aa\
+8gg#\J
+=
+4.gg#\
+4.ff#\
+4ggn\
+8b\
+=
+4.b\
+4.a/
+8dddn\L
+8cccn\
+8bb\J
+=
+!!   B&M  Encoding error: added bar line
+4.bb\
+4.aa\
+4bb-\
+8dd\
+=
+4.dd\
+2.ccn\
+=
+*-

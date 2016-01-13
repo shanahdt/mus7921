@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: Italia, Roma(?)
+!!!theme: A: INTRO
+!!!title1: Divertissement
+!!!title2: 1st Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i6 % . % 1930 % Rome? % I6 % . % a: Intro % 1 % orchestra % . % Divertissement % IBERT, Jacques % 1890
+**solfa
+*clefG2
+*k[]
+*D:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16do\LL
+16ti\J
+[8do\J
+16do\LL]
+16so\
+16do\
+16ti\JJ
+=
+16do\LL
+16ti\J
+[8do\J
+16do\LL]
+16so\
+16do\
+16ti\JJ
+=
+16do\LL
+16ti\
+16do\
+16do\JJ
+16re\LL
+16mi\
+16fa\
+16fa\JJ
+=
+*M5/8
+16re\LL
+16so\
+16fa\
+16mi\JJ
+*-

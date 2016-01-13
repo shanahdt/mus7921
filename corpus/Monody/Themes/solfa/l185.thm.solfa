@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!ODT: <1871/12/31/
+!!!PDT: 1851///
+!!!PDT: 1871///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1851(p)
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Hungarian Rhapsody No. 14 in F Minor
+!!!statkey: f#
+!!DEBUGGING: l185 % 283 % 1851(p) % Leipzig % L185 % . % b % . % piano % . % Hungarian Rhapsody No. 14 in F Minor % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1871(p) . (L185) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+8mi\L
+8so\J
+=
+2do/
+4r
+8mi\L
+8so\J
+=
+2do/
+4r
+8do\L
+8ti\J
+=
+8ti\L
+8la\
+8la\
+8si\J
+8ti\L
+8la\
+8la\
+8si\J
+=
+4la\
+4r
+4r
+*-

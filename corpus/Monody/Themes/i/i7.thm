@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Cortege
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: Italia, Roma(?)
+!!!theme: A
+!!!title1: Divertissement
+!!!title2: 2nd Movement (Cortege)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i7 % . % 1930 % Rome? % I7 % . % a % 2: Cortege % orchestra % . % Divertissement % IBERT, Jacques % 1890
+**kern
+*clefG2
+*k[]
+*D-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16f/LL
+16f/
+16f/
+16a-/JJ
+16e-/LL
+16e-/
+16e-/
+16a-/JJ
+=
+16f/LL
+16f/
+16f/
+16a-/JJ
+16e-/LL
+16e-/
+16e-/
+16a-/JJ
+=
+16f/LL
+16g/
+16a-/
+16b-/JJ
+16cc-\LL
+16b-\
+16dd-\
+16cc-\JJ
+=
+16cc-\LL
+16b-\
+16cc-\
+16b-\JJ
+16a-/LL
+16g/
+16a-/
+16g/JJ
+=
+*-

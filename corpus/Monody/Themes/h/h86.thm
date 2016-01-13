@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 7
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in B Flat
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: h86 % . % 1739 % London % H86 % 6 No. 7 % x % 2 % string orchestra % . % Concerto Grosso in B Flat % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H86) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+2ff\
+2ff\
+=
+4ff\
+4ff\
+4ff\
+4ff\
+=
+8ff\L
+8ff\
+8ff\
+8ff\J
+8ff\L
+8ff\
+8ff\
+8ff\J
+=
+8dd\L
+8ff\
+8gg\
+8ee-\J
+8cc\L
+8ee-\
+8ff\
+8dd\J
+=
+*-

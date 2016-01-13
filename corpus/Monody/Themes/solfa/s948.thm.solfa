@@ -1,0 +1,56 @@
+**solfa
+*clefG2
+*k[b-]
+*M2/4
+!! NB. Key & key signature disagree.
+*B-:
+48so
+48ti
+48re
+48so
+48ti
+48re
+8re
+8.re
+16re
+=
+8mi
+8re
+8ti
+8so
+=
+8mi
+8so
+8.la
+16ti
+=
+2ti
+=
+48so
+48ti
+48re
+48so
+48ti
+48re
+8re
+8.re
+16re
+=
+8so
+8mi
+8re
+8ti
+=
+*-
+!!!COM: Sibelius, Jean
+!!!CNT: Finnish
+!!!date: 1893
+!!!place: Suomi, Helsinki
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s948 % . % 1893 % Helsinki % S948 % . % . % . % . % . % . % SIBELIUS, Jean

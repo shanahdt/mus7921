@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Waltz
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1944
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Masquerade Suite for Orchestra
+!!!title2: 1st Movement (Waltz)
+!!!statkey: C
+!!DEBUGGING: k48 % . % 1944 % Moscow % K48 % . % a % 1: Waltz % orchestra % . % Masquerade Suite for Orchestra % KHACHATURIAN, Aram % 1903
+**solfa
+*clefG2
+*k[]
+*a:
+*M3/4
+=
+2so\
+4so\
+=
+2so\
+4fi\
+=
+4r
+4.te\
+8la\
+=
+2la\
+4so\
+=
+4r
+4.la\
+8so\
+=
+2so\
+4fi\
+=
+4r
+4.te\
+8la\
+=
+2la\
+4so\
+=
+*-

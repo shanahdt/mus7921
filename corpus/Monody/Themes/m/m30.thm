@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!OMV: Mov. II: Love Song
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1891///-1895
+!!!instrument: orchestra
+!!!place: United States of America, Massachusetts, Boston
+!!!splace: Deutschland, Leipzig & United States of America, New York
+!!!theme: A
+!!!title1: Suite No. 2
+!!!title2: (Indian0
+!!!statkey: A
+!!DEBUGGING: m30 % . % 1891-1895 % Boston % M30 % . % a % II: Love Song % orchestra % (Indian0 % Suite No. 2 % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) Leipzig, New York (M30) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+8ee\
+=
+4.ee\
+32aa\LLK
+[16.ff#\JJ
+4ff#\]
+=
+32ff#\LLK
+[16.ee\JJ
+4ee\]
+8ee\L
+8ee\
+8ee\J
+=
+[4.ee\
+8ee\]
+8r
+8cc#\
+=
+4.cc#\
+32ee\LLK
+[16.b\JJ
+4b\]
+=
+32b/LLK
+[16.a/JJ
+4a/]
+*-

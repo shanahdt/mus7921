@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <-1762, c1757-1759?/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 6
+!!!OPC: Deutschland, Eisenstadt
+!!!OPS: Opus 1
+!!!PDT: -1762, c1757-1759?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1762, c1757///-1759?(p)
+!!!instrument: string
+!!!theme: B
+!!!title1: Quartet in C
+!!!title2: 4th Movement
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h324 % . % -1762, c1757-1759?(p) % Eisenstadt % H324 % 1 No. 6 % b % 4 % string % . % Quartet in C % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[b-e-]
+*C:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8fiq/
+4so/
+4r
+4r
+=
+8fiq/
+4so/
+4r
+4r
+=
+8so\L
+8ti\
+8do\
+8me\
+8re\
+8do\J
+=
+8doq/
+2ti\
+4r
+=
+*-

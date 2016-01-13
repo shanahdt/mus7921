@@ -1,0 +1,46 @@
+**solfa
+*clefG2
+*k[b-e-]
+*M3/4
+*B-:
+4r
+8r
+8ti
+8fa
+16r
+16di
+=
+4.re
+8mi
+8fa
+8fi
+=
+4.so
+8la
+8te
+8ti
+=
+4.re
+8do
+8ti
+8la
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1833///-1835
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s593 % . % 1833-1835 % Leipzig % S593 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1837///
+!!!ODT: <1837/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1837(p) ? (S593) . . . . . . .

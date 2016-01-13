@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1931/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1931///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1784
+!!!instrument: piano, orchestra
+!!!place: Eszterh&aacute;za
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Concerto in D
+!!!title2: 2nd Movement
+!!!statkey: A
+!!DEBUGGING: h306 % . % -1784 % Eszterh&aacute;za % H306 % . % a % 2 % piano, orchestra % . % Concerto in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1931(p) Leipzig (H306) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+8.do/L
+32so/LL
+32do/JJJ
+8.mi\L
+32do\LL
+32mi\JJJ
+8so\L
+8so\J
+=
+8.so\L
+16fa\Jk
+8re\L
+16r
+32so\LL
+32fa\JJJ
+8mi/L
+16r
+32do/LL
+32ti/JJJ
+=
+[4la/
+16la\LL]
+16fa\
+16mi\
+16re\JJ
+16re/LL
+16do/
+16do/
+16ti/JJ
+=
+4do/
+*-

@@ -1,0 +1,41 @@
+**kern
+*clefG2
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*D:
+8d
+[8d
+16]d
+16e
+16d
+16e
+=
+8f
+8f
+8g
+8g
+8a
+[8a
+16]a
+16b
+16a
+16b
+=
+8cc
+8r
+4r
+*-
+!!!COM: Sibelius, Jean
+!!!CNT: Finnish
+!!!date: 1923
+!!!place: J&auml;rvenp&auml;&auml;
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1072 % 447 % 1923 % J&auml;rvenp&auml;&auml; % S1072 % . % . % . % . % . % . % SIBELIUS, Jean

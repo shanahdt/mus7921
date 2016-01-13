@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus 64
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1844
+!!!instrument: violn, orchestra
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Leipzig
+!!!theme: D
+!!!title1: Concerto in E Minor
+!!!title2: 3rd Movement
+!!!statkey: E
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m219 % 301 % 1844 % Leipzig % M219 % 64 % d % 3 % violn, orchestra % . % Concerto in E Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(prf) . (M219) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 301 1845(p) Leipzig (M219) 64 d 3 violn, orchestra . Concerto in E Minor MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2so\
+4.so\
+8so\
+=
+4so\
+4mi\
+4do\
+4la\
+=
+2so\
+4.so\
+8so\
+=
+4so\
+4do\
+4ti\
+4te\
+=
+2la\
+*-

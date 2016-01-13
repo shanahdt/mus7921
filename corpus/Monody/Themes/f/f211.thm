@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Allemande
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: violn, piano or cemba
+!!!place: France, Paris
+!!!title1: Sonata in D Minor
+!!!title2: 3rd Movement (Allemande)
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: f211 % . % 1773 % Paris % F211 % . % x % 3: Allemande % violn, piano or cemba % . % Sonata in D Minor % FRANCOEUR, Fran&ccedil;ois % 1698
+**kern
+*clefG2
+*k[b-]
+*G:
+*M4/4
+!! ! NB. Key & key signature disagree.
+16dd\
+=
+8.dd\L
+16ee-\Jk
+16dd\LL
+16cc\
+16b-\
+16a\JJ
+8g/L
+8f#/
+8g/
+8a/J
+=
+4d/
+16r
+16g/LL
+16a/
+16b-/JJ
+8b-/L
+16a/L
+16g/JJ
+8f#/L
+8dd/J
+=
+8b-/L
+8aq/
+8g/J
+*-

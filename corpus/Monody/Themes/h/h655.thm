@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1794///
+!!!OCL: RSC
+!!!ODT: <1794/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 101
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793///-1794
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony in D
+!!!title2: "Clock"
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h655 % . % 1793-1794 % London % H655 % B. & H. No. 101 % b % 4 % orchestra % "Clock" % Symphony in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1794(prf) . (H655) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+2g#/
+2a/
+=
+4a#/
+4b\
+8an/L
+8g#/
+8f#/
+8e/J
+=
+2a/
+2b\
+=
+4b#\
+4cc#\
+8bn/L
+8a/
+8g#/
+8a/J
+=
+2dd\
+2cc#\
+=
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!ONM: No. 9
+!!!OPS: Opus 1
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Caprices
+!!!title2: "La Chasse"
+!!!statkey: E
+!!DEBUGGING: p27 % . % c1805 % Lucca % P27 % 1 No. 9 % x % . % violn % "La Chasse" % Caprices % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P27) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+16so\LL
+16fa\JJ
+=
+8mi\L
+16mi\L
+16re\JJ
+8do\L
+16so\L
+16fa\JJ
+=
+8mi\L
+16mi\L
+16re\JJ
+8do\L
+16do\L
+16re\JJ
+=
+8mi\L
+16re\L
+16mi\JJ
+8fa\L
+16re\L
+16fa\JJ
+=
+8so\L
+16fa\L
+16mi\JJ
+8re\
+*-

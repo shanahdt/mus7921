@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1823/12/31/
+!!!PDT: 1823///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1821
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!title1: Concertst\u3ck, Op. 79, Pft. & Orch.
+!!!statkey: f
+!!DEBUGGING: w205 % . % 1821 % Berlin % W205 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1823(p) Leipzig (W205) . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+4aa-\
+4.een\
+8ff\
+=
+8.ee-\L
+16dd-\Jk
+4cc\
+4r
+=
+2b-\
+8.a-/L
+16f/Jk
+=
+4en/
+4g/
+4r
+=
+4aa-\
+4.een\
+8ff\
+=
+8.ee-\L
+16dd-\Jk
+2cc\
+=
+8.b-/L
+16a-/Jk
+8cc\
+8r
+8en/
+8r
+=
+8.f/
+*-

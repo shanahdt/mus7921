@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 7: Romeo at Juliet's Grave
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 2
+!!!statkey: D-
+!!DEBUGGING: p282 % . % 1936 % Moscow % P282 % 64 % x % 7: Romeo at Juliet's Grave % orchestra % Suite No. 2 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M2/4
+=
+!! 8va below
+4.so/
+8do\
+=
+4.me\
+8so\
+=
+[8ti\
+24ti\LL]
+24te\
+24la\JJ
+[4le\
+=
+8le\L]
+8do\
+8so\
+8re\J
+=
+[2me\
+=
+4me\]
+8fa\L
+8fi\J
+=
+8re\L
+8ti\J
+4so\
+!! end 8va
+=
+*-

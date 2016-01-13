@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1827///
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. Wedding March
+!!!ONM: No. 9
+!!!OPS: Opus 61
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Stettin
+!!!theme: C
+!!!title1: Midsummer's Night Dream
+!!!title2: Wedding March, Op. 61, No. 9
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m234 % 302 % 1826 % Berlin % M234 % 61 No. 9 % c % Wedding March % orchestra % . % Midsummer's Night Dream % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(prf) Stettin (M234) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 302 1830(p) Leipzig (M234) 61 No. 9 c Wedding March orchestra . Midsummer's Night Dream MENDELSSOHN, Felix 1809
+**solfa
+*clefG2
+*k[]
+*F:
+*M4/4
+!! ! NB. Key & key signature disagree.
+4so\
+=
+4re/
+4mi/
+4fa\
+4fi\
+=
+4so\
+4do\
+4mi\
+4do\
+=
+4ti\
+4la\
+4so\
+4fi\
+=
+2fi\
+4so\
+*-

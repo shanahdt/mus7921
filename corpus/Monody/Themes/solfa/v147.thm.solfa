@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!place: ?
+!!!title1: Concerto in G Minor, Vn. & Str. Orch.
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: v147 % 505 % ? % ? % V147 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**solfa
+*clefF4
+*k[b-e-]
+*g:
+*M3/4
+=
+16r
+16do\LL
+16te\
+16le\JJ
+16so\LL
+16le\
+16so\
+16fa\JJ
+16me/LL
+16fa/
+16me/
+16re/JJ
+=
+8do/
+*clefG2
+8me\
+8so\L
+8me\J
+8fa/L
+8re/J
+=
+8me\
+*-

@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1711/12/31/
+!!!PDT: 1711///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1711(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto Grosso in G Minor, Op. 3, No. 2 (L'Estro Armonico), Orch.
+!!!title2: 2nd Movement
+!!!statkey: g
+!!DEBUGGING: v149 % 505 % 1711(p) % Amsterdam % V149 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4gg\
+4r
+8.r
+16gg\
+=
+4gg\
+4ff#\
+8.r
+16ff#\
+=
+4gg\
+4r
+8.r
+16gg\
+=
+4aa\
+4r
+8.r
+16aa\
+=
+4bb-\
+4r
+4r
+=
+4bb-\
+8.aa\L
+16bb-\Jk
+8.aa\L
+16bb-\Jk
+=
+4gg\
+8.gg\L
+16aa\Jk
+8.gg\L
+16aa\Jk
+=
+*-

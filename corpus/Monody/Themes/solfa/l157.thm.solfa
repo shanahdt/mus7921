@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Hungarian Rhapsody No. 4 in E Flat
+!!!statkey: c
+!!DEBUGGING: l157 % . % 1853(p) % Vienna % L157 % . % b % . % piano % . % Hungarian Rhapsody No. 4 in E Flat % LISZT, Franz % 1811
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+16r
+16so\LL
+16la\
+16ti\JJ
+=
+16do\LL
+16re\
+16mi\
+16fa\JJ
+16so\LL
+16la\
+16so\
+16fi\JJ
+=
+16so\LL
+16la\
+16so\
+16fi\JJ
+16so\LL
+16fi\
+16so\
+16te\JJ
+=
+16te\LL
+16la\
+16la\
+16si\JJ
+16la\LL
+16te\
+16la\
+16si\JJ
+=
+16la\
+*-

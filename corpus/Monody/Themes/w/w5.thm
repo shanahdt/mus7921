@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!place: ?
+!!!title1: Albumblatt, Pft.
+!!!statkey: C
+!!DEBUGGING: w5 % . % ? % ? % W5 % . % . % . % . % . % . % WAGNER, Richard
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+8f#/L
+8a/
+8g/J
+=
+4ee\
+4dd\
+4cc\
+=
+4..b\
+16b\
+16cc\LL
+16b\
+16a\
+16b\JJ
+=
+4dd\
+4cc\
+4a/
+=
+2g/
+8f/L
+16g/L
+16f/JJ
+=
+4e/
+4f/
+4f#/
+=
+4g/
+4g#/
+8a/L
+8b/J
+=
+*-

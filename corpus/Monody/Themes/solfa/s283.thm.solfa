@@ -1,0 +1,58 @@
+**solfa
+!ZZZ!
+*clefF4
+*k[]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*G:
+8mi
+=
+4fa
+16mi
+16re
+8do
+4re
+16do
+16ti
+8la
+=
+8ti
+8do
+8re
+8mi
+8fa
+8so
+8la
+=||
+*clefG2
+*k[f#c#g#]
+4do
+4re
+4do
+4so
+=
+4fa
+4mi
+2do
+=
+4do
+4re
+4mi
+4do
+=
+2la
+2do
+*-
+!!!COM: Schreker, Franz
+!!!CNT: Austrian
+!!!date: 1923
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s283 % 406 % 1923 % Berlin % S283 % . % . % . % . % . % . % SCHREKER, Franz

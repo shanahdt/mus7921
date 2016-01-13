@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1689///
+!!!OCL: RSC
+!!!ODT: <1689/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1689(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Dido and Aeneas
+!!!title2: Opera
+!!!statkey: E-
+!!DEBUGGING: p327 % . % 1689(prf) % London % P327 % . % a % Overture % orchestra % Opera % Dido and Aeneas % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+4.gg\
+8gg\
+8.ff\L
+16gg\k
+8.ff\
+16dd\Jk
+=
+4.ee-\
+8ee-\
+4.een\
+8ee\
+=
+4.ff\
+16een\LL
+16ff\JJ
+4.gg\
+8gg\
+=
+4gg\
+[4aa-\
+8aa-\L]
+8aa-\J
+4gg\
+=
+*-

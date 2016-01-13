@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 5
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893
+!!!instrument: 2 piano
+!!!place: Royssia, Moskova
+!!!title1: Fantasy Suite No. 1
+!!!title2: 2nd Movement (A Night for Love)
+!!!statkey: b
+!!DEBUGGING: r26 % . % 1893 % Moscow % R26 % 5 % x % . % 2 piano % . % Fantasy Suite No. 1 % RAKHMANINOV, Sergey % 1873
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+4.do\
+8ti\
+=
+8ti\L
+8te\J
+8te\L
+8la\J
+8la\L
+8le\J
+=
+8le/L
+8so/J
+4.do\
+8ti\
+=
+8ti\L
+8te\J
+8te\L
+8la\J
+8la\L
+8le\J
+=
+8le/L
+8so/J
+4.mi\
+*-

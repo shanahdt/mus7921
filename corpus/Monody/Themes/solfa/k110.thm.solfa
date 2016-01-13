@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Allegro
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: violn, piano
+!!!place: ?
+!!!title1: Praeludium and Allegro
+!!!title2: Style of Pugnani
+!!!statkey: e
+!!DEBUGGING: k110 % . % ? % ? % K110 % . % x % Allegro % violn, piano % Style of Pugnani % Praeludium and Allegro % KREISLER, Fritz % 1875
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/4
+8so\
+=
+8do\L
+16te\L
+16le\JJ
+8so/L
+8fa/
+8me/
+8re/J
+=
+16do/LL
+16re/
+16do/
+16re/JJ
+16me/LL
+16fa/
+16me/
+16fa/JJ
+16so\LL
+16me\
+16re\
+16do\JJ
+=
+16ti\LL
+16re\
+16fa\
+16le\JJ
+16so/LL
+16fa/
+16me/
+16re/JJ
+16fa/LL
+16me/
+16re/
+16do/JJ
+=
+*-

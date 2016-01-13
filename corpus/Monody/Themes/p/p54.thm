@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!OMV: Mov. Theme
+!!!OPS: Opus 8
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1813
+!!!instrument: violn, piano
+!!!place: Italia, Milano
+!!!splace: France, Paris & Deutschland, Mainz
+!!!title1: Le Streghe
+!!!statkey: D
+!!DEBUGGING: p54 % . % 1813 % Milan % P54 % 8 % x % Theme % violn, piano % . % Le Streghe % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Paris and Mainz (P54) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+4a/
+=
+8ff#\L
+16r
+16ee\k
+8dd\
+16r
+16cc#\Jk
+=
+8dd\
+8r
+4a/
+=
+8gg\L
+16r
+16ff#\k
+8ee\
+16r
+16dd#\Jk
+=
+8ee\
+8r
+4a/
+=
+8ff#\L
+16r
+16ee\k
+8dd\
+16r
+16cc#\Jk
+=
+8b\
+8r
+4ee\
+=
+8a/
+*-

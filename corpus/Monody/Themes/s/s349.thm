@@ -1,0 +1,47 @@
+**kern
+*clefG2
+*k[b-e-]
+*M3/4
+!! NB. Key & key signature disagree.
+*F:
+8.aa
+16ff
+8cc
+8cc
+16ee
+16ff
+16gg
+16aa-
+=
+8.aa
+16ff
+8cc
+8cc
+16ee
+16ff
+16gg
+16aa-
+=
+8.aa
+16bb-
+4ccc
+4r
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1814
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s349 % . % 1814 % Vienna % S349 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1863///
+!!!ODT: <1863/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1863(p) . (S349) . . . . . . .

@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Pr&auml;ludium
+!!!OPS: Opus 103a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: violn, piano
+!!!place: Deutschland, Leipzig
+!!!title1: Suite in A Minor
+!!!title2: 1st Movement (Pr\a3ludium) 
+!!!statkey: a
+!!DEBUGGING: r240 % . % 1908 % Leipzig % R240 % 103a % x % 1: Pr&auml;ludium % violn, piano % . % Suite in A Minor % REGER, Max % 1873
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+[4aa\
+16aa\LL]
+16gg\
+16ff\
+16ee\JJ
+8ee\L
+[8dd#\J
+16dd#\LL]
+16cc\
+16a\
+16f#\JJ
+=
+[4fn/
+16f/LL]
+32g/L
+32f/J
+16e/
+16d/JJ
+8d/L
+8c/J
+16Bq/LL
+16cq/JJ
+4A/
+=
+*-

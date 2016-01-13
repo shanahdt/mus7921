@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: B
+!!!title1: Liebesfreud
+!!!title2: Old Viennese Song
+!!!statkey: a
+!!DEBUGGING: k103 % 272 % n.d.(c) % ? % K103 % . % b % . % violn, piano % Old Viennese Song % Liebesfreud % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+8g\L
+8ee\
+8cc\
+8b\
+8b-\J
+=
+8aq/
+[2.ff\
+=
+8ff\L]
+8f\
+8dd\
+8b\
+8a\
+8a-\J
+=
+8gq/
+[2.ee\
+=
+8ee/L]
+8e/
+8cc/
+8a/
+8g/
+8f#/J
+=
+4..fn/
+16dd\
+[4a/
+=
+8.a/L]
+16b/Jk
+4a/
+16b\
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 6
+!!!OPS: Opus K 509
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: orchestra
+!!!place: Czech, Prague
+!!!title1: Deutsche T&auml;nze
+!!!title2: K 509, No. 6
+!!!statkey: C
+!!DEBUGGING: m536 % 318 % 1787 % Prague % M536 % K 509 No. 6 % x % . % orchestra % . % Deutsche T&auml;nze % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+8ccc\L
+8g\
+8g\J
+=
+4g/
+16e\LL
+48gg\L
+48aa\
+48bb\JJJ
+=
+8ccc\L
+8ee\
+8ee\J
+=
+4ee\
+16cc\LL
+48gg\L
+48aa\
+48bb\JJJ
+=
+8ccc\L
+8ccc\
+8ccc\J
+=
+8ccc\
+*-

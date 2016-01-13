@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1674///
+!!!OCL: RSC
+!!!ODT: <1674/12/31/
+!!!ODT: <1708/12/31/
+!!!PDT: 1708///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1674(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A: OVERTURE
+!!!title1: Alceste
+!!!title2: Opera
+!!!statkey: a
+!!DEBUGGING: l289 % 288 % 1674(prf) % Paris % L289 % . % a: Overture % . % orchestra % Opera % Alceste % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1708(p) . (L289) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M2/2
+=
+2.aa\
+16r
+16gg\LL
+16aa\
+16ee\JJ
+=
+4.ff\
+8ff\
+4.ff\
+8gg\
+=
+8ffq/
+2.ee\
+8r
+8ee\
+=
+[4a/
+16a/LL]
+16a/
+16b/
+16cc/JJ
+4.dd\
+8dd\
+=
+4.dd\
+16cc\LL
+16b\JJ
+4.cc\
+*-

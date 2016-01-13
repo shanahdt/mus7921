@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 537
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Concerto in D
+!!!title2: "Coronation"
+!!!statkey: D
+!!DEBUGGING: m503 % . % 1788 % Vienna % M503 % K 537 % a % 1 % piano, orchestra % "Coronation" % Concerto in D % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4.d/
+24e/LL
+24d/
+24c#/JJ
+8d/L
+8d/
+8d/
+8d/J
+=
+[4d/
+16d/LL]
+16f#/
+16e/
+16g/JJ
+4f#/
+4r
+=
+4.f#/
+24g/LL
+24f#/
+24e/JJ
+8f#/L
+8f#/
+8f#/
+8f#/J
+=
+[4f#/
+16f#/LL]
+16a/
+16g/
+16b/JJ
+4a/
+4r
+=
+*-

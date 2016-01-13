@@ -1,0 +1,53 @@
+**solfa
+*clefF4
+*k[]
+*M2/4
+!! NB. Key & key signature disagree.
+*E:
+8r
+4so
+8fa
+=
+8mi
+8fa
+8so
+8mi
+=
+16fa
+16so
+16la
+16so
+16fa
+16so
+16fa
+16mi
+=
+16re
+16mi
+16fa
+16mi
+16re
+16mi
+16re
+16do
+=
+8ti
+*-
+!!!COM: Sibelius, Jean
+!!!CNT: Finnish
+!!!date: 1899
+!!!place: Suomi, Helsinki
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1010 % . % 1899 % Helsinki % S1010 % . % . % . % . % . % . % SIBELIUS, Jean
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1900///
+!!!ODT: <1900/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1900(prf) Paris (S1010) . . . . . . .

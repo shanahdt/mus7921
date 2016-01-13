@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Demande et R&eacute;ponse
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1910
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Petite Suite de Concert
+!!!title2: 2nd Movement (Demande et R\e7ponse)
+!!!statkey: G
+!!DEBUGGING: c398 % 139 % 1910 % London % C398 % . % a % 2: Demande et R&eacute;ponse % orchestra % . % Petite Suite de Concert % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4gg\
+4ff#\
+4gg\
+=
+4ff#\
+4ee\
+4gg\
+=
+8ccc\
+8r
+4.ccc\
+8bb\
+=
+2.aa\
+=
+4ff#\
+4ee\
+4ff#\
+=
+4ee\
+4.dd\
+8b\
+=
+[2dd\
+16dd\LL]
+16dd#\
+16een\
+16ff#\JJ
+=
+4gg\
+*-

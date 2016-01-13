@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1913///
+!!!OCL: RSC
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. Prelude
+!!!OPS: Opus 17
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Le Festin de L'Araign'7ee
+!!!title2: Ballet
+!!!statkey: e
+!!DEBUGGING: r396 % . % 1912 % Paris % R396 % 17 % a % Prelude % orchestra % Ballet % Le Festin de L'Araign'7ee % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1913(prf) . (R396) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M12/8
+=
+2.mi\
+2.mi\
+=
+4mi\
+8ti\
+[4.so\
+8.so\L]
+16la\k
+8do\J
+8fa\
+4la\
+=
+2.mi\
+2.mi\
+=
+4mi\
+8ti\
+[4.la\
+8.la\L]
+16ti\k
+8mi\J
+8so\
+4ti\
+=
+*-

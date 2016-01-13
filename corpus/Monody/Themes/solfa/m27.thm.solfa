@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!OMV: Mov. I: Legend
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1891///-1895
+!!!instrument: orchestra
+!!!place: United States of America, Massachusetts, Boston
+!!!splace: Deutschland, Leipzig & United States of America, New York
+!!!theme: A: INTRO
+!!!title1: Suite No. 2
+!!!title2: (Indian0
+!!!statkey: e
+!!DEBUGGING: m27 % . % 1891-1895 % Boston % M27 % . % a: Intro % I: Legend % orchestra % (Indian0 % Suite No. 2 % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) Leipzig, New York (M27) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M2/2
+=
+1so\
+=
+8me/L
+8do/J
+4r
+4so\
+4me/
+=
+2.do;/
+4r
+=
+2so/
+2te/
+=
+2do/
+4re/
+8te/
+8r
+=
+2.do;/
+*-

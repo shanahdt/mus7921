@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1935?/12/31/
+!!!ODT: <1938/12/31/
+!!!OMV: Mov. 3: Temptation of St. Anthony
+!!!PDT: 1935?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934///-1935
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!splace: Helvetia, Zurich
+!!!theme: D
+!!!title1: Mathis der Mahler
+!!!title2: Symphony
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h746 % 250 % 1934-1935 % Berlin % H746 % . % d % 3: Temptation of St. Anthony % orchestra % Symphony % Mathis der Mahler % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1938(prf) Zurich (H746) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 250 1935?(p) Mainz (H746) . d 3: Temptation of St. Anthony orchestra Symphony Mathis der Mahler HINDEMITH, Paul 1895
+**solfa
+*clefG2
+*k[]
+*D-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+[4mi\
+16mi\LL]
+16fa\
+16do\
+16re\JJ
+8.so\L
+16fi\Jk
+=
+4.la\
+8li\
+8.li\L
+16ty\Jk
+=
+*M4/4
+8.ri\L
+16di\Jk
+4.fi\
+8mi\
+16ti/LL
+16do/
+16so/
+16me/JJ
+=
+*M3/4
+4re/
+4di/
+*-

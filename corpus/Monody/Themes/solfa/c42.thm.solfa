@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: string
+!!!place: United States of America, Illinois, Chicago
+!!!title1: Quartet in A Minor
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: c42 % . % 1927 % Chicago % C42 % . % x % 2 % string % . % Quartet in A Minor % CARPENTER, John Alden % 1876
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4r
+4mi/
+4so/
+4re/
+=
+4mi/
+4so/
+4re/
+4mi/
+=
+4so/
+4do\
+4me\
+4re\
+=
+4ti\
+4do\
+4la/
+4mi/
+=
+4so/
+2re/
+4mi/
+=
+*-

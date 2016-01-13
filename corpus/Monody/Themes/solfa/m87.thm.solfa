@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Mahler, Gustav
+!!!CDT: 1860/05/07/-1911/05/18/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1901///
+!!!OCL: RSC
+!!!ODT: 1892, 1899-1900///
+!!!ODT: <1901/12/31/
+!!!ODT: <1906/12/31/
+!!!OMV: Mov. 4
+!!!OPC: Deutschland, Hamburg, Oesterreich, Vienna
+!!!PDT: 1906///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!splace: Deutschland, Muenchen
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Symphony No. 4 in G
+!!!title2: 4th Movement
+!!!statkey: G
+!!DEBUGGING: m87 % 294 % 1892, 1899-1900(c) % Hamburg, Vienna % M87 % . % a % 4 % orchestra % . % Symphony No. 4 in G % MAHLER, Gustav % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901-1910(rev) Vienna, New York (M87) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 294 1901(prf) Munich (M87) . a 4 orchestra . Symphony No. 4 in G MAHLER, Gustav 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 294 1906(p) Vienna (M87) . a 4 orchestra . Symphony No. 4 in G MAHLER, Gustav 1860
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+12so/L
+12mi/
+12do/J
+=
+2so\
+8laq/
+2so\
+=
+8laq/
+2so\
+8faq/
+8.mi/L
+16re/k
+8.do/
+16re/Jk
+=
+2so/
+8.re/L
+16mi/k
+8.fa/
+16re/Jk
+=
+8.so\L
+16la\Jk
+[4so\
+8.so\L]
+16la\k
+8.so\
+16la\Jk
+=
+2so\
+*-

@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1913///
+!!!OCL: RSC
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. Hopak
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874///-1880
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Royssia, St. Petersburg & Royssia, Moskova
+!!!title1: The Fair at Sorochinsk
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: m1015 % . % 1874-1880 % St. Petersburg % M1015 % .  % x % Hopak % orchestra % Opera % The Fair at Sorochinsk % MUSORGSKY, Modest Petrovich % 1839
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1913(prf) St. Petersburg, Moscow (M1015) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8so/L
+8mi/J
+16mi/LL
+16re/J
+8do/J
+=
+8do/L
+8mi/J
+4so\
+=
+8so/L
+8mi/J
+16mi/LL
+16re/J
+8do/J
+=
+8do/L
+8mi/J
+4so\
+=
+32soq/LLL
+32laq/
+32tiq/JJJ
+8do\
+16r
+16so\
+8so\L
+8so\J
+=
+8la\L
+8la\J
+4so\
+=
+*-

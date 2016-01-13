@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 338
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1780
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Symphony No. 34 in C
+!!!title2: 1st Movement
+!!!statkey: C
+!!DEBUGGING: m922 % . % 1780 % Salzburg % M922 % K 338 % a % 1 % orchestra % . % Symphony No. 34 in C % c1786(p) % 1756
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+2do\
+!!   Encoding error:  change 4 to 2
+4r
+8.r
+16do/
+=
+2.do/
+8.r
+48so/LLL
+48la/
+48ti/JJJ
+=
+4do/
+4mi/
+4so/
+4do\
+=
+8.tiT/L
+16la/Jk
+4so/
+4r
+4do\
+=
+8.tiT/L
+16la/k
+8.so/
+16do/Jk
+*-

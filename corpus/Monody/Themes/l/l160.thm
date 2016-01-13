@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Oesterreich, Vienna & France, Paris
+!!!theme: C
+!!!title1: Hungarian Rhapsody No. 5 in E Minor
+!!!statkey: c#
+!!DEBUGGING: l160 % . % 1853(p) % Vienna, Paris % L160 % . % c % . % piano % . % Hungarian Rhapsody No. 5 in E Minor % LISZT, Franz % 1811
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+[4g#/
+12g#/L]
+12.f#/
+24e/Jk
+[4e/
+12e/L]
+12.d#/
+24c#/Jk
+=
+[4c#/
+8c#/L]
+8A#/J
+8B/L
+8e/J
+8.f##/L
+16g#/Jk
+=
+4g#/
+*-

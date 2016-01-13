@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Cello Sonata No. 2
+!!!OPS: Op. 99
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: cello forte
+!!!ODT: 1886///
+!!!OCY: &Ouml;sterreich    
+!!!OPC: Wien
+!!!PDT: 1887///
+!!!MRD: 1886///
+!!!MLC: &Ouml;sterreich, Wien      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefF4
+*k[b-]
+*F:
+*M3/4
+=
+4r
+8.r
+16so\
+[4do\
+=
+4do\]
+8.r
+16me\
+[4re\
+=
+4re\]
+8.r
+16la\
+[4so\
+=
+4so\]
+4fa\
+4re\
+=
+*-

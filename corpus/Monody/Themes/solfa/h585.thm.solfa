@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!ONM: No. 92
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!title1: Symphony in G
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: h585 % 242 % 1789 % Eszterh&aacute;za % H585 % B. & H. No. 92 % x % 2 % orchestra % . % Symphony in G % HAYDN, Franz Josef % 1732
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+8.mi/L
+32re/LL
+32mi/JJJ
+8fa/L
+16.re/L
+32ti/JJk
+=
+8do/L
+8mi/J
+16so/
+16r
+8r
+=
+8.so/L
+32fa/LL
+32so/JJJ
+16la\LL
+16ti\
+16do\
+16la\JJ
+=
+8so/L
+16soq/
+16so/L
+32fa/L
+32fa/JJJ
+8mi/
+8r
+=
+*-

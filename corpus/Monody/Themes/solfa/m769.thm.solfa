@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 283
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!instrument: piano
+!!!place: Deutschland, Muenchen
+!!!theme: A
+!!!title1: Sonata in G
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: m769 % . % 1775 % Munich % M769 % K 283 % a % 3 % piano % . % Sonata in G % c1786(p) % 1756
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+4mi\
+8faT\
+16miq/LL
+16faq/JJ
+=
+8so\
+8r
+8so\
+=
+4do\
+8ti\
+=
+8tiq/
+4la\
+8so\
+=
+4mi\
+8faT\
+16miq/LL
+16faq/JJ
+=
+8so\
+8r
+8so\
+=
+4la\
+8so\
+=
+*-

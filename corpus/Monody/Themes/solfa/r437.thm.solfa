@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1863///
+!!!OCL: RSC
+!!!ODT: <1863/12/31/
+!!!OMV: Mov. Bridal March
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1862
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Dresden
+!!!theme: B
+!!!title1: Feramors
+!!!title2: Opera
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r437 % . % 1862 % St. Petersburg % R437 % . % b % Bridal March % orchestra % Opera % Feramors % RUBINSTEIN, Anton % 1829
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1863(prf) Dresden (R437) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*G:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4mi\
+4mi\
+=
+16re/LL
+16mi/J
+[8do/J
+4do/]
+=
+4mi\
+4mi\
+=
+16re/LL
+16mi/J
+[8do/J
+4do/]
+=
+4mi\
+16re/LL
+16mi/J
+8do/J
+=
+4re/
+16do/LL
+16re/J
+8la/J
+=
+4do/
+16la/LL
+16do/J
+[8so/J
+=
+2so/]
+=
+*-

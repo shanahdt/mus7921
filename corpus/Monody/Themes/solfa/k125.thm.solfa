@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Kuhnau, Johann
+!!!CDT: 1660/04/06/-1722/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1700/12/31/
+!!!PDT: 1700///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1700(p)
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!theme: D: THE CONTEST
+!!!title1: The Combat Between David and Goliath
+!!!title2: Sonata
+!!!statkey: C
+!!DEBUGGING: k125 % 273 % 1700(p) % Leipzig % K125 % . % d: The Contest % . % piano % Sonata % The Combat Between David and Goliath % KUHNAU, Johann % 1660
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1973(rev) . (K125) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+16so/LL
+16fa/
+16so/
+16fa/JJ
+8mi/
+8r
+16mi/LL
+16re/
+16mi/
+16re/JJ
+=
+8do/
+8r
+16fa/LL
+16mi/
+16fa/
+16mi/JJ
+16re/LL
+16so/
+16fa/
+16so/JJ
+16re/LL
+16mi/
+16fa/
+16so/JJ
+=
+4mi/
+*-

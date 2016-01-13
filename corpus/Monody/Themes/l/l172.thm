@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!theme: A
+!!!title1: Hungarian Rhapsody No. 12 in C Sharp Minor, Pft.
+!!!statkey: c#
+!!DEBUGGING: l172 % . % 1853(p) % Berlin % L172 % . % a % . % piano % . % . % LISZT, Franz % 1811
+**kern
+*clefF4
+*k[f#c#g#d#]
+*c#:
+*M4/4
+=
+8c#q/
+4c#\
+8f#q/
+4f#\
+8eq/
+8e\L
+8d#q/
+8d#\
+8c#q/
+8c#\
+8B#q/
+8B#\J
+=
+8c#q/
+8c#\
+8C#q/
+8C#/
+32BB#q/LLL
+32C#q/
+32Eq/
+32D#q/
+32C#q/JJJ
+8C#/
+8r
+*-

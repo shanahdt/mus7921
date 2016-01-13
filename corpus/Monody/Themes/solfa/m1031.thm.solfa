@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. IV: Bydlo
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: IV. Bydlo
+!!!statkey: g#
+!!DEBUGGING: m1031 % 343 % 1874 % St. Petersburg % M1031 % .  % x % IV: Bydlo % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**solfa
+*clefF4
+*k[f#c#g#d#a#]
+*g#:
+*M2/4
+=
+4r
+[4so\
+=
+8so\L]
+16te\L
+16le\JJ
+8so\L
+8le\J
+=
+8so\L
+8do\
+8re\
+8my\J
+=
+4re\
+8do\
+8r
+=
+4fa\
+8do\
+8r
+*-

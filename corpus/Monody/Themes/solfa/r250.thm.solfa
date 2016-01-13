@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Gagliarda
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1917
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 1
+!!!statkey: D
+!!DEBUGGING: r250 % . % 1917 % Rome % R250 % . % a % 2: Gagliarda % orchestra % Suite No. 1 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1923(rev) . (R250) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4do\
+4mi\
+4so\
+=
+4re\
+4fa\
+4do\
+=
+4mi\
+4re\
+4do\
+=
+8re\L
+8do\
+8ti\
+8la\J
+4re\
+=
+4so\
+4re\
+4fa\
+=
+4do\
+4.mi\
+8re\
+=
+2do\
+4ti\
+=
+4do\
+*-

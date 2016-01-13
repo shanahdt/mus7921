@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1810///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1816///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quartet in F Minor
+!!!OPS: Op. 95
+!!!OMV: Mov. 4 (Introduction)
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/4
+16.c/LL
+!!   Encoding error:   change 6 to 16
+32cc/JJk
+=
+8a-/L
+8en/J
+8r
+16.c/LL
+32cc/JJk
+=
+8a-/L
+8en/J
+8r
+16.f/LL
+32ff/JJk
+=
+16ee-\LL
+16dd-\J
+8cc\J
+[8bn\L
+32b\LL]
+32aa-\
+32gg\
+32ff\JJJ
+=
+8ff\
+*-

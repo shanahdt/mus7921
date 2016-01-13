@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Rigaudon No. 1
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!title2: Rigaudon No. 1
+!!!statkey: e
+!!DEBUGGING: r113 % . % 1724(p) % Paris % R113 % . % x % Rigaudon No. 1 % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R113) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/0
+8e/L
+8f#/J
+=
+8g/L
+8f#/
+8e/
+8f#/J
+8g/L
+8a/
+8b/
+8cc/J
+=
+4b\
+4e/
+4e/
+4ee\
+=
+4dd#\
+4ee\
+4ff#\
+4gg\
+=
+8ff#\L
+8ee\
+8dd#\
+8cc#\J
+4b\
+*-

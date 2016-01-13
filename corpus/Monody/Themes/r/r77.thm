@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Raff, Joseph Joachim
+!!!CDT: 1822/05/27/-1882/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1862/12/31/
+!!!ONM: No. 3
+!!!OPS: Opus 85
+!!!PDT: 1862///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1859
+!!!instrument: violn, piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: Deutschland, Leipzig
+!!!title1: Cavatina
+!!!statkey: D
+!!DEBUGGING: r77 % . % 1859 % Wiesbaden % R77 % 85 No. 3 % x % . % violn, piano % . % Cavatina % RAFF, Joseph Joachim % 1822
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1862(p) Leipzig (R77) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+4A/
+=
+2A/
+4B/
+4g/
+=
+2.f#/
+4f#/
+=
+4e/
+4a/
+4e/
+4f#/
+=
+2.g/
+4g/
+=
+4g/
+16a/LL
+16g/
+16f#/
+16g/JJ
+4b\
+4a/
+=
+4g/
+4f#/
+4a/
+4dd\
+=
+*-

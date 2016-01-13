@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1866/12/31/
+!!!OMV: Mov. St. Francis d'Assise Pr&eacute;dicant aux Oiseaux
+!!!PDT: 1866///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1863
+!!!instrument: piano
+!!!place: Italia, Roma
+!!!splace: Magyar, Budapest & France, Paris
+!!!theme: A
+!!!title1: Two Legends
+!!!title2: St. Fran\c2ois d'Assise Pr\e7dicant aux Diseaux
+!!!statkey: A
+!!DEBUGGING: l219 % . % 1863 % Rome % L219 % . % a % St. Francis d'Assise Pr&eacute;dicant aux Oiseaux % piano % . % Two Legends % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1866(p) Budapest, Paris (L219) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+2.mi\
+32ri\LLL
+32mi\JJJ
+16r
+8r
+=
+2.mi\
+32ri\LLL
+32mi\JJJ
+16r
+8r
+=
+4mi\
+32ri\LLL
+32mi\JJJ
+16r
+8r
+4mi\
+32ri\LLL
+32mi\JJJ
+16r
+8r
+=
+4.so\
+8fa\
+8mi\L
+8fa\
+8so\
+8fa\J
+=
+4re\
+*-

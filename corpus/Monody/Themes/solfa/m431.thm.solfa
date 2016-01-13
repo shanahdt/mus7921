@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 191
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1774
+!!!instrument: fagot, orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Concerto in B Flat
+!!!title2: 1st Movement
+!!!statkey: g
+!!DEBUGGING: m431 % . % 1774 % Salzburg % M431 % K 191 % b % 1 % fagot, orchestra % . % Concerto in B Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+8mi/L
+8so/J
+4do\
+=
+8ti\L
+8re\J
+4fa\
+16faq/
+8mi\L
+16re\L
+16do\JJ
+8ti/L
+8do/J
+=
+8ti\L
+8re\J
+4fa\
+16faq/
+8mi\L
+16re\L
+16do\JJ
+8ti/L
+8do/J
+=
+8la/L
+8do/J
+4la\
+*-

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 4 in E Minor
+!!!title2: 1st Movement
+!!!statkey: e
+!!DEBUGGING: h209 % . % 1720(p) % London? % H209 % . % x % 1 % piano % . % Suite No. 4 in E Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+4b\
+4b\
+4b\
+16r
+16cc\LL
+16b\
+16a\JJ
+=
+16g/LL
+16b/
+16f#/
+16b/JJ
+16e/LL
+16b/
+16d/
+16b/JJ
+16c/LL
+16b/
+16a/
+16c/JJ
+16B/LL
+16a/
+16g/
+16B/JJ
+=
+*-

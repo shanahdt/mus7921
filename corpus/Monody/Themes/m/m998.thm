@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1788/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 502
+!!!PDT: 1788///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano, violn, cello
+!!!place: Oesterreich, Vienna
+!!!title1: Trio in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: m998 % . % 1786 % Vienna % M998 % K 502 % x % 3 % piano, violn, cello % . % Trio in B Flat % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1788(p) . (M998) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+4ff\
+4ff\
+=
+8ffq/
+2ddd\
+8ee-q/
+2ccc\
+=
+8ddq/
+2bb-\
+8ccc\L
+8bb-\
+8aa\
+8gg\J
+=
+8ff\L
+8ggq/
+16ff\L
+16een\JJ
+8ff\L
+8gg\J
+8ee-\L
+8ffq/
+16ee-\L
+16dd\JJ
+8ee-\L
+8ff\J
+=
+*-

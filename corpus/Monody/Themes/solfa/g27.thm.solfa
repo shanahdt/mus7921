@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Rustic Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: As You Like It
+!!!title2: Incidental Music
+!!!statkey: A
+!!DEBUGGING: g27 % . % 1896 % London % G27 % . % x % 3: Rustic Dance % orchestra % Incidental Music % As You Like It % GERMAN, Sir Edward % 1862
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8la\L
+8do\
+8do\
+8la\J
+=
+16so\LL
+16fa\
+16mi\
+16fa\JJ
+8so\L
+8mi\J
+=
+16re\LL
+16mi\
+16re\
+16do\JJ
+16la/LL
+16do/
+16ti/
+16re/JJ
+=
+8do\L
+8so\J
+4so\
+=
+8la\L
+8do\
+8do\
+8la\J
+=
+16so\LL
+16fa\
+16mi\
+16fa\JJ
+8so\L
+8mi\J
+=
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Cannabich, Christian
+!!!CDT: 1731/12/12/-1798/01/20/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1766/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1766///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1766(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Sinfonia in B Flat
+!!!title2: 1st Movement
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c22 % . % 1766(p) % Paris % C22 % . % b % 1 % orchestra % . % Sinfonia in B Flat % CANNABICH, Christian % 1731
+**kern
+*clefG2
+*k[b-e-]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2aa-\
+4.gg\
+8gg\
+=
+4ff\
+8c/L
+8c/J
+8Bn/L
+8c/
+8d-/
+8c/J
+=
+2bb-\
+4.aa-\
+8aa-\
+=
+4gg\
+8c/L
+8c/J
+8Bn/L
+8c/
+8d-/
+8c/J
+=
+*-

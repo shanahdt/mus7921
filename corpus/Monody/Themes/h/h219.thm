@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 1: Overture
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!theme: A
+!!!title1: Suite No. 7 in G Minor
+!!!title2: 1st Movement (Overture)
+!!!statkey: g
+!!DEBUGGING: h219 % . % 1720(p) % London? % H219 % . % a % 1: Overture % piano % . % Suite No. 7 in G Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+4.gg\
+8dd\
+4.b-T\
+16a/LL
+16g/JJ
+=
+2.ddM\
+8r
+8dd\
+=
+8.dd/L
+16g/k
+8.a/
+16b-/Jk
+4.cc\
+8cc\
+=
+4.cc\
+8dd\
+4.b-\
+*-

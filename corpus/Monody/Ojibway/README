@@ -1,0 +1,63 @@
+42 OJIBWAY SONGS IN THE HUMDRUM **KERN REPRESENTATION 
+ELECTRONIC TRANSCRIPTIONS FROM THE DENSMORE COLLECTIONS
+by PAUL T. von HIPPEL, 1998
+
+These melodies were sampled at random from Densmore's (1909, 1912)
+two volumes of music by the Ojibway Indians of northern Minnesota.
+The random sample included only songs that were fully transcribed in
+common music notation -- not, that is, those songs represented only by
+an Ojibway "song picture" or by one of Densmore's analytic sketches.
+
+In addition to the standard **kern signifiers, the following signifiers
+are adapted from Densmore's transcriptions:
+
+	> indicates that the note is sung less than a semitone above the notated pitch 
+	< indicates that the note is sung less than a semitone below the notated pitch
+
+Densmore's common-music transcriptions contain much information that is
+not incorporated into this electronic edition. In particular,
+
+ (1) Many of the songs were accompanied by a drum. The drum played a
+ short repeating rhythmic pattern, which often used a different meter
+ and tempo from the sung part.
+
+ (2) Some of the songs had lyrics -- a mixture of Ojibway words and
+ nonsense syllables. Neither the lyrics nor the drum parts have been
+ incorporated into this electronic edition.
+
+ (3) Some of the songs included articulations and (often incomplete)
+ phrasing information.
+
+The electronic transcriptions were checked for errors using four different
+methods (Huron, 1988). First, syntactic errors were sought using the
+Humdrum proof command. Second, melodic intervals of unusual types
+(diminished, augmented, and compound intervals, as well as sevenths)
+were checked against the paper score. Third, common-music notation was
+generated from the electronic transcriptions using the Humdrum ms tool
+(which would not accept some of the files), and a cursory visual check
+was made for glaring errors. Finally, five of the melodies, comprising 86
+pitch-rhythm records, were selected at random for re-entry. The re-entered
+melodies were compared to the original transcriptions using the "diff"
+command, and only one pitch error in the originals was found. This
+finding is consistent with the idea that at least half of the original
+transcriptions were free of pitch errors (p<.05).
+
+Scholars using these transcriptions for research purposes should cite
+the database as follows:
+
+von Hippel, Paul T. (Ed.). (1998) 42 Ojibway songs in the Humdrum **kern
+representation: Electronic transcriptions from the Densmore collections
+[computer database].
+
+REFERENCES
+
+Densmore, F. (1909) Chippewa [i.e., Ojibway] Music, Bulletin 45 of the
+Bureau of American Ethnology, Smithsonian Institution. Washington, D.C.:
+Government Printing Office.
+
+Densmore, F. (1912) Chippewa [i.e., Ojibway] Music--II, Bulletin 53 of
+the Bureau of American Ethnology, Smithsonian Institution. Washington,
+D.C.: Government Printing Office.
+
+Huron, D. (1988) Error categories, detection, and reduction in a musical
+database. Computers and the Humanities 22: 253-264.

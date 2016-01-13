@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Serenade in C, Op. 48, Str.
+!!!title2: 1st Movement (Piece in Form of Sonatine)
+!!!statkey: C
+!!DEBUGGING: t180 % . % 1881(prf) % St. Petersburg % T180 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+=
+4.ccc\
+4.bb\
+=
+4.aa\
+8gg\L
+8aa\
+8ccc\J
+=
+[4.gg\
+4gg\]
+8ff\
+=
+4.ee\
+8ee\L
+8ee\
+8aa\J
+=
+4.gg\
+8.ff\L
+8.ee\J
+=||
+[4.dd\
+4dd\_
+16dd\LL]
+16ee\JJ
+=
+4.ee\
+*-

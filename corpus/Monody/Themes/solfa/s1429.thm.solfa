@@ -1,0 +1,55 @@
+**solfa
+*clefF4
+*k[f#]
+*M4/4
+!! NB. Key & key signature disagree.
+*A-:
+qmi
+16ri
+16di
+16ri
+16mi
+8fi
+16ri
+16r
+8mi
+16si
+16r
+8fi
+16ri
+16r
+=
+qmi
+16ri
+16di
+16ri
+16mi
+8fi
+16ri
+16r
+8si
+16li
+16r
+8fi
+16ri
+16r
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1896///-1897
+!!!place: Deutschland, Muenchen
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1429 % . % 1896-1897 % Munich % S1429 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1898///
+!!!ODT: <1898/12/31/
+!!!splace: Deutschland, Cologne
+!!!CDT: ///-
+!!DEBUGGING: . . 1898(prf) Cologne (S1429) . . . . . . .

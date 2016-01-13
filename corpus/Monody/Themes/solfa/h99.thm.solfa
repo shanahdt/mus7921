@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 9
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in F
+!!!title2: 4th Movement
+!!!statkey: F
+!!DEBUGGING: h99 % . % 1739 % London % H99 % 6 No. 9 % x % 4 % string orchestra % . % Concerto Grosso in F % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H99) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8so\
+=
+8.mi/L
+16re/Jk
+16do/LL
+16re/
+16mi/
+16do/JJ
+8so/L
+8so/J
+8r
+8so\
+=
+16la\LL
+16fa\
+16mi\
+16fa\JJ
+16so/LL
+16re/
+16do/
+16re/JJ
+16mi/LL
+16do/
+16ti/
+16do/JJ
+16re/LL
+16la/
+16so/
+16la/JJ
+=
+16ti/
+*-

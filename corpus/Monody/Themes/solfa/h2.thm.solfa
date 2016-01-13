@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Halvorsen, Johan
+!!!CDT: 1864/03/15/-1935/12/04/
+!!!CNT: Norwegian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: violn, orchestra
+!!!place: ?
+!!!theme: B
+!!!title1: Andante Religioso
+!!!statkey: B-
+!!DEBUGGING: h2 % 212 % ? % ? % H2 % . % b % . % violn, orchestra % . % Andante Religioso % HALVORSEN, Johan % 1864
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+4so/
+4la/
+8.ti/L
+16do/Jk
+=
+4do\
+8ti/L
+8la/J
+8doq/
+8.ti/L
+16la/Jk
+=
+4so/
+4do\
+8.re\L
+16mi\Jk
+=
+2mi\
+*-

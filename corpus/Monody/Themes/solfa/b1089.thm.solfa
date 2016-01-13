@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OPR, OTL, OPS, OMV, thm
+!!!COM: Berlioz, Hector
+!!!CDT: 1803/12/11/-1869/03/08/
+!!!CNT: French
+!!!MRD: 1839///
+!!!MLC: France, Paris
+!!!OPR: Romeo and Juliet
+!!!OTL: Overture
+!!!OPS: Op. 17
+!!!OMV: Mov. 2 (F&ecirc;te at the Capulets)
+!!!thm: B
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*G:
+*M2/2
+8soq/
+!! ! NB. Key & key signature disagree.
+8.fa\L
+16fa\Jk
+=
+4.fa\
+8mi\
+8mi\L
+8me\
+8me\
+8re\J
+=
+4do\
+2te\
+12re\L
+12do\
+12te\J
+=
+12te\L
+12la\
+12si\J
+4la\
+8fa\L
+8la\
+8la\
+8do\J
+=
+8do\L
+8la\J
+4te\
+*-

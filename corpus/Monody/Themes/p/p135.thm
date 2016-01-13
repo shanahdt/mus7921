@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Minuet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: oboe, piano
+!!!place: United States of America, Massachusetts
+!!!title1: Suite for Oboe and Piano
+!!!title2: 3rd Movement (Minuet)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p135 % . % 1931 % Massachusetts % P135 % . % x % 3: Minuet % oboe, piano % . % Suite for Oboe and Piano % PISTON, Walter % 1894
+**kern
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+4.b\
+8dd\
+=
+4gg\
+4.ff#\
+8ee\
+=
+4dd\
+4cc\
+4b\
+=
+4ee\
+4dd\
+4cc\
+=
+4b\
+4.b\
+8b\
+=
+4b\
+4.a/
+8g/
+=
+4fn/
+4g/
+4a/
+=
+*-

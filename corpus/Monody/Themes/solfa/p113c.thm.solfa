@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1937
+!!!instrument: piano, orchestra
+!!!place: United States of America, Massachusetts
+!!!theme: C
+!!!title1: Concertino
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p113c % 353 % 1937 % Massachusetts % P113c % . % c % . % piano, orchestra % . % Concertino % PISTON, Walter % 1894
+**solfa
+*clefG2
+*k[]
+*D:
+*M5/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+4mi/
+8so/L
+8mi/J
+8mi/L
+8fa/J
+[4do/
+=
+4do/]
+8re/L
+8fa/J
+8fa/L
+8so/
+8mi/
+8fa/J
+[4so/
+=
+8so\L]
+8do\
+8ti\
+8la\J
+[4so/
+8so/L]
+8fa/J
+4la\
+=
+4so/
+4do/
+*-

@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <-1762, c1757-1759?/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 6
+!!!OPC: Deutschland, Eisenstadt
+!!!OPS: Opus 1
+!!!PDT: -1762, c1757-1759?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1762, c1757///-1759?(p)
+!!!instrument: string
+!!!title1: Quartet in C
+!!!title2: 2nd Movement
+!!!statkey: C
+!!DEBUGGING: h321 % . % -1762, c1757-1759?(p) % Eisenstadt % H321 % 1 No. 6 % x % 2 % string % . % Quartet in C % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+2cc\
+12dd\L
+12ee\
+12ff\J
+=
+8ff\L
+8ee\
+8aa\
+8gg\J
+4gg\
+=
+[4ccc\
+8.ccc\L]
+16bb\k
+8.aa\
+16gg\Jk
+=
+4ggq/
+2ffT\
+4ee\
+=
+*-

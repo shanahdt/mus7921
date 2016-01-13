@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1895
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: E: DAVID OF THE WHITE ROCK
+!!!title1: Welsh Rhapsody
+!!!statkey: g
+!!DEBUGGING: g37 % . % 1895 % London % G37 % . % e: David of the White Rock % . % orchestra % . % Welsh Rhapsody % GERMAN, Sir Edward % 1862
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+4d/
+=
+8g\L
+8dd\
+8cc\
+8b-\J
+8a/L
+8g/J
+=
+4g/
+4f#/
+4g/
+=
+8d/L
+8f#/
+8a/
+8cc/J
+8b-/L
+8a/J
+=
+2b-\
+4a/
+=
+4g/
+4gg\
+4ff\
+=
+4ee-\
+8dd\L
+8cc\J
+4dd\
+=
+*-

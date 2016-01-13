@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906
+!!!instrument: violn, piano, cello
+!!!place: England, Chelsea
+!!!theme: C
+!!!title1: Phantasy in A Minor
+!!!statkey: A-
+!!DEBUGGING: i108 % . % 1906 % Chelsea % I108 % . % c % . % violn, piano, cello % . % Phantasy in A Minor % IRELAND, John % 1879
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+8so/L
+16r
+16do/Jk
+[4mi\
+8.mi\L]
+16fa\Jk
+[4so\
+=
+8.so\L]
+16la\k
+8.mi\
+16fa\Jk
+8.so\L
+16la\k
+8.mi\
+16fa\Jk
+=
+2so\
+2mi\
+=
+4re\
+4la\
+8so\L
+8fa\
+8mi\
+8re\J
+=
+4..do\
+16ti\
+4ti\
+*-

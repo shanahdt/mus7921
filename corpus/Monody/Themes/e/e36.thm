@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Elgar, Edward
+!!!CDT: 1857/06/02/-1934/02/23/
+!!!CNT: English
+!!!OTL: May Song for Orchestra
+!!!thm: A            
+!!!AIN: orchestra
+!!!OCY: England, UK
+!!!OPC: Worcester
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*E:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8b\L
+8cc#\J
+=
+8dd\L
+8b\J
+8.ff#\L
+16ee\Jk
+=
+2ee\
+=||
+*clefG2
+*k[f#c#g#]
+*E:
+*M2/4
+! 
+12e/L
+12.f#/
+24e/Jk
+=
+4g#/
+12f#/L
+12.g#/
+24f#/Jk
+=
+4a/
+12a/L
+12.b/
+24a/Jk
+=
+4dd\
+12dd\L
+12.ee\
+24dd\Jk
+=
+4bb\
+*-

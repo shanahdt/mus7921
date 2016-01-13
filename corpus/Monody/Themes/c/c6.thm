@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Cadman, Charles Wakefield
+!!!CDT: 1881/12/24/-1946/12/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: From the Village
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Pennsylvania, Pittsburgh
+!!!title1: Thunderbird Suite
+!!!title2: 1st Movement, From the Village
+!!!statkey: f#
+!!DEBUGGING: c6 % . % 1914 % Pittsburgh % C6 % . % x % 1: From the Village % orchestra % . % Thunderbird Suite % CADMAN, Charles Wakefield % 1881
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M3/8
+=
+8r
+8f#/L
+8a/J
+=
+8cc#\L
+8cc#\
+8cc#\J
+=
+16ff#\LL
+16cc#\JJ
+4cc#\
+=
+16ff#\LL
+16cc#\JJ
+4cc#\
+=
+16ff#\LL
+16cc#\JJ
+4cc#\
+=
+8a/L
+8f#/
+8g#/J
+=
+16f#/LL
+16e/JJ
+4c#/
+=
+*-

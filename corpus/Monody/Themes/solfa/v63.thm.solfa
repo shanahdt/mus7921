@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Veracini, Francesco
+!!!CDT: 1690/02/01/-1768/10/31/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Sonata in E Minor, Vn. & Pft.
+!!!title2: 5th Movement (Gigue)
+!!!statkey: e
+!!DEBUGGING: v63 % . % n.d. % ? % V63 % . % . % . % . % . % . % VERACINI, Francesco % 1690
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M6/8
+=
+4.do/
+4.le\
+=
+8leq/
+[4.so\
+4so\]
+8do\
+=
+8ti\L
+8do\
+8re\J
+8le\L
+8so\
+8fa\J
+=
+8me/L
+8fa/
+8so/J
+4do/
+8r
+=
+32soq/LLL
+32leq/
+32teq/JJJ
+4.do\
+4.te\
+=
+8teq/
+[4.le\
+4le\]
+8so\
+=
+8fa/L
+8so/
+8me/J
+8re/L
+8me/
+8do/J
+=
+4.so/
+*-

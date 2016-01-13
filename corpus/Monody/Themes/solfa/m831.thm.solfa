@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1778/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 304
+!!!PDT: 1778///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: violn, piano
+!!!place: Deutschland, Mannheim
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Sonata in E Minor
+!!!title2: 2nd Movement
+!!!statkey: e
+!!DEBUGGING: m831 % . % 1778 % Mannheim % M831 % K 304 % a % 2 % violn, piano % . % Sonata in E Minor % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1778(p) Paris (M831) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M3/4
+4me\
+=
+8fa\L
+8me\
+8re\
+8do\J
+[4so\
+=
+4so\]
+4re\
+4me\
+=
+4re\
+2doT\
+16tiq/LL
+16doq/JJ
+=
+4ti\
+*-

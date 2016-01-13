@@ -1,0 +1,50 @@
+**solfa
+*clefG2
+*k[]
+*M3/4
+*C:
+2.do
+=
+2.ti
+=
+4ti
+4do
+4so
+=
+2.la
+=
+2.do
+=
+2.ti
+=
+4ti
+4do
+4so
+=
+2.la
+=
+2.re
+=
+2.do
+=
+4ti
+4do
+4la
+=
+2.so
+=
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!PDT: 1889///
+!!!ODT: <1889/12/31/
+!!!date: 1889(p)
+!!!place: Deutschland, Berlin
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1267 % . % 1889(p) % Berlin % S1267 % . % . % . % . % . % . % STRAUSS, Johann Jr.

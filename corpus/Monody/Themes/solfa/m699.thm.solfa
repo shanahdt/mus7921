@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1790/12/31/
+!!!OMV: Mov. 5
+!!!OPS: Opus K 516
+!!!PDT: 1790///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quintet in G Minor
+!!!title2: 5th Movement
+!!!statkey: G
+!!DEBUGGING: m699 % . % 1787 % Vienna % M699 % K 516 % x % 5 % string % . % Quintet in G Minor % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1790(p) . (M699) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M6/8
+4so\
+8mi\
+=
+4do\
+8so\
+4mi\
+8re\
+=
+8re\L
+8do\
+8ti\J
+8ti\L
+8la\
+8so\J
+=
+8so\L
+8fa\
+8mi\J
+8re\L
+8fa\
+8la\J
+=
+4do/
+8ti/
+*-

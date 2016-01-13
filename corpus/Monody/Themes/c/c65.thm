@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Casella, Alfredo
+!!!CDT: 1883/07/25/-1947/03/05/
+!!!CNT: Italian
+!!!OTL: Serenata
+!!!OMV: Mov. 6 (Finale-Tarantella)
+!!!AIN: cello clars fagot tromp violn 
+!!!PDT: 1927///
+!!!OCY: Italia
+!!!OPC: Roma
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*E:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8dd\L
+8ee\
+8dd\J
+=
+8a/L
+8b/
+8a/J
+8cc\L
+8dd\
+8cc\J
+=
+8g/L
+8a/
+8g/J
+8b\L
+8cc\
+8b\J
+=
+8f#/L
+8g/
+8f#/J
+8a/L
+8g/
+8f#/J
+=
+8e/
+8r
+8r
+*-

@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 457
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in C Minor
+!!!title2: 2nd Movement
+!!!statkey: E-
+!!DEBUGGING: m797 % . % 1784 % Vienna % M797 % K 457 % x % 2 % piano % . % Sonata in C Minor % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M797) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+4so\
+8mi/L
+8mi/J
+8..mi/L
+32fa/Jkk
+8re/
+8r
+=
+4do/
+4re/
+16.mi\LL
+32fa\k
+32so\L
+32la\
+32ti\
+32do\JJJ
+16so\
+*-

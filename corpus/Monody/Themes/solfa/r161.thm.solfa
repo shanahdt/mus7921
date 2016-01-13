@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1912///
+!!!OCL: RSC
+!!!ODT: <1912/12/31/
+!!!OMV: Mov. La Jardin F&eacute;erique
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908///-1910
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Ma M&egrave;re L'Oye
+!!!title2: The Enchanted Garden  (La Jardin F\e7erique)
+!!!statkey: a
+!!DEBUGGING: r161 % 376 % 1908-1910 % Paris % R161 % . % x % La Jardin F&eacute;erique % orchestra % . % Ma M&egrave;re L'Oye % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(rev) . (R161) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 376 1912(prf) Paris (R161) . x La Jardin F&eacute;erique orchestra . Ma M&egrave;re L'Oye RAVEL, Maurice 1875
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4do/
+4.re/
+8do/
+=
+4mi/
+4re/
+4so/
+=
+4so/
+4.fa/
+8so/
+=
+4la/
+4mi/
+4r
+=
+4ti\
+4.la/
+8mi/
+=
+4re/
+2mi/
+=
+4ti\
+4.la/
+8so/
+=
+4mi\
+2re\
+=
+*-

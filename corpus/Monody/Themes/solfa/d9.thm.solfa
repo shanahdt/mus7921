@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Dargomizhsky, Alexander
+!!!CDT: 1813/02/14/-1869/01/17/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1856///
+!!!OCL: RSC
+!!!ODT: <1856/12/31/
+!!!OMV: Mov. Danse Slave
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1856(prf)
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Roussalka
+!!!title2: Opera
+!!!statkey: d
+!!DEBUGGING: d9 % . % 1856(prf) % St. Petersburg % D9 % . % x % Danse Slave % orchestra % Opera % Roussalka % DARGOMIJSKY, Alexander Sergeivich % 1813
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=
+8r
+24do\LL
+24re\
+24do\JJ
+8ti/L
+8so/J
+=
+8r
+24do\LL
+24re\
+24do\JJ
+8ti/L
+8so/J
+=
+8r
+16ti\LL
+16do\JJ
+8re\L
+8me\J
+=
+16req/LL
+16meq/JJ
+8fa\L
+8so\
+8me\
+8do\J
+=
+*-

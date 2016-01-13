@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1797///-1798///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1799///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.3 in E Flat for Violin and Piano                  
+!!!OPS: Op. 12
+!!!ONM: No. 3
+!!!SET: No. 3
+!!!OMV: Mov. 2
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8soq/
+4so\
+4mi\
+4do\
+=
+8.ti\L
+32re\LL
+32do\JJJ
+4ti\
+4so/
+=
+8..do/L
+32so/Jkk
+8..re\L
+32so\Jkk
+8..mi\L
+32so\Jkk
+=
+8..so\L
+32fa\Jkk
+4re\
+*-

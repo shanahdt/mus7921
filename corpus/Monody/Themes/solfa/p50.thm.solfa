@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!OPS: Opus 11
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: after 1830
+!!!instrument: violn
+!!!place: ?
+!!!splace: France, Paris & Deutschland, Mainz
+!!!title1: Moto Perpetuo
+!!!statkey: C
+!!DEBUGGING: p50 % . % after 1830 % ? % P50 % 11 % x % . % violn % . % Moto Perpetuo % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Paris and Mainz (P50) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+16do\LL
+16re\
+16do\
+16ti\JJ
+16do\LL
+16re\
+16mi\
+16do\JJ
+=
+16re\LL
+16do\
+16ti\
+16la\JJ
+16so/LL
+16la/
+16ti/
+16do/JJ
+16re\LL
+16mi\
+16fa\
+16mi\JJ
+16so\LL
+16fa\
+16mi\
+16re\JJ
+=
+16mi\LL
+16fa\
+16mi\
+16re\JJ
+16do\LL
+16re\
+16mi\
+16fa\JJ
+*-

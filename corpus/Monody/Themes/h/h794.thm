@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Holbrooke, Josef
+!!!CDT: 1878/07/05/-1958/08/05/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: C
+!!!title1: Bronwen
+!!!title2: Overture
+!!!statkey: b-
+!!DEBUGGING: h794 % . % 1914-1916 % London % H794 % . % c % . % orchestra % Overture % Bronwen % HOLBROOKE, Josef % 1878
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H794) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*b-:
+*M4/4
+=
+2b-\
+8b-\L
+8cc\J
+4dd-\
+=
+4cc\
+4b-\
+2b-\
+=
+2cc\
+8cc\L
+8dd-\J
+4ee-\
+=
+4dd-\
+4cc\
+2b-\
+=
+*-

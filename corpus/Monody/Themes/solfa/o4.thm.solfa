@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1864///
+!!!OCL: RSC
+!!!ODT: <1864/12/31/
+!!!OMV: Mov. Act III Entr'acte
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1864(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: La Belle H&eacute;l&egrave;ne
+!!!title2: Opera
+!!!statkey: F
+!!DEBUGGING: o4 % 345 % 1864(prf) % Paris % O4 % . % x % Act III Entr'acte % orchestra % Opera % La Belle H&eacute;l&egrave;ne % OFFENBACH, Jacques % 1819
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M2/4
+16mi\
+=
+8mi\L
+8fa\
+8mi\J
+16r
+16me\
+=
+8re\L
+8di\
+8re\J
+16r
+16re\
+=
+8so\L
+8ti\
+8la\J
+16r
+16le\
+=
+8so\L
+8fi\
+8so\J
+16r
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1749///
+!!!OCL: RSC
+!!!ODT: <1749/12/31/
+!!!OMV: Mov. 3: Largo alla Siciliana
+!!!PDT: 1749///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1749(p)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Fireworks Music
+!!!title2: 3rd Movement (Largo alla Siciliana "La Paix")
+!!!statkey: D
+!!DEBUGGING: h123 % . % 1749(p) % London % H123 % . % x % 3: Largo alla Siciliana % orchestra % . % Fireworks Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1749(prf) . (H123) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M12/8
+=
+8.dd\L
+16ee\k
+8dd\J
+8dd\L
+8ff#\
+8aa\J
+4.ff#\
+4.ee\
+=
+8.ee\L
+16ff#\k
+8ee\J
+8ee\L
+8gg\
+8bb\J
+4.gg\
+4.ff#\
+=
+8.aa\L
+16bb\k
+8aa\J
+8aa\L
+8ddd\
+8aa\J
+*-

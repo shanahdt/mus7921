@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Musette en Rondeau
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!title2: Musette en Rondeau
+!!!statkey: E
+!!DEBUGGING: r115 % . % 1724(p) % Paris % R115 % . % x % Musette en Rondeau % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R115) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+4mi/
+=
+2ret/
+4so\
+=
+2tit/
+4do/
+=
+8ret/L
+8do/
+8re/
+8mi/
+8fa/
+8re/J
+=
+4mi/
+4do/
+4mi/
+=
+2ret/
+4so\
+=
+2tit/
+4do/
+=
+8ret/L
+8do/
+8re/
+8mi/
+8fa/
+8re/J
+=
+2do/
+*-

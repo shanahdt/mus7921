@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <n.d./12/31/
+!!!ONM: No. 7
+!!!OPS: Opus 106
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words, Pft.
+!!!title2: No. 49: Boat-Song
+!!!statkey: A
+!!DEBUGGING: m308 % . % 1845 % Leipzig % M308 % 106 No. 7 % x % . % piano % No. 49: Boat-Song % . % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) Bonn (M308) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M6/8
+=
+4.so\
+4mi\
+8mi\
+=
+[4.mi\
+4mi\]
+8do\
+=
+4la\
+8ti\
+4do\
+8re\
+=
+[4.so\
+8so\]
+8r
+*-

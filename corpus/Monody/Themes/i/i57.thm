@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1886///
+!!!OMV: Mov. 2
+!!!OPC: France, Paris
+!!!OPS: Opus 25
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!title1: Symphony on a French Mountain Top
+!!!title2: 2nd Movement
+!!!statkey: g
+!!DEBUGGING: i57 % . % 1886(c) % Paris % I57 % 25 % x % 2 % orchestra % . % Symphony on a French Mountain Top % I29 % 1851
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+8g/
+=
+8b-\L
+8cc\J
+4.dd\
+8ff\
+=
+*M2/4
+8een\L
+8dd\J
+8cc\L
+8b-\J
+=
+*M3/4
+8b-/L
+8a/J
+8g/L
+16f/L
+16g/JJ
+8a/L
+8g/J
+=
+8b-\L
+8cc\J
+4.dd\
+8ff\
+=
+*M2/4
+8gg\L
+8een\J
+8cc\L
+8a\J
+=
+*-

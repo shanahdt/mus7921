@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!ODT: 1920///
+!!!OCY: United States of America                    
+!!!OPC: Cleveland
+!!!OTL: Sonata for Violin and Piano
+!!!OMV: Mov. 2
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4g/
+4b-\
+4cc\
+=
+4..dd\
+16ee\
+[4dd\
+=
+8..dd\L]
+32ee\Jkk
+4dd\
+4cc\
+=
+[4g/
+8..g/L]
+32a/Jkk
+8..g/L
+32a/Jkk
+=
+2g/
+4r
+=
+*-

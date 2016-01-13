@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 18: Minuet
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Water Music
+!!!title2: 18th Movement (Minuet)
+!!!statkey: g
+!!DEBUGGING: h264 % 225 % 1717(prf) % London % H264 % . % a % 18: Minuet % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H264) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+8do/L
+8re/J
+4me\
+4re/
+=
+4do/
+4le\
+4so\
+=
+4fa\
+4me\
+4re/
+=
+8do/L
+8ti/
+8do/
+8re/
+8me/
+8fa/J
+=
+4so\
+*-

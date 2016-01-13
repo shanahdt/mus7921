@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Intermezzo in E for Piano
+!!!OPS: Op. 116
+!!!ONM: No. 4
+!!!ODT: 1892///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1892///                      
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefF4
+*k[f#c#g#d#]
+*E:
+*M3/4
+12so\L
+12do\
+12so\J
+=
+4si\
+4la\
+*clefG2
+4mi\
+=
+4.la\
+8r
+4re\
+=
+4.fa/
+8r
+6la\
+12so\
+=
+2fa/
+4mi/
+=
+*-

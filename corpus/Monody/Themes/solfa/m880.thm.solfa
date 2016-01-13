@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 183
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: C
+!!!title1: Symphony No. 25 in G Minor
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: m880 % . % 1773 % Salzburg % M880 % K 183 % c % 1 % orchestra % . % Symphony No. 25 in G Minor % c1786(p) % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+16req/
+4do\
+8ti/L
+8do/J
+16miq/
+4re\
+8do\L
+8re\J
+=
+16faq/
+4mi\
+8re\L
+8mi\J
+16soq/
+4fa\
+8mi\L
+8re\J
+=
+*-

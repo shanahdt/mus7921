@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938
+!!!instrument: violn, cello, piano
+!!!place: England, London
+!!!theme: A
+!!!title1: Trio No. 3 in E Minor and Major
+!!!title2: 2nd Movement
+!!!statkey: e
+!!DEBUGGING: i117 % . % 1938 % London % I117 % . % a % 2 % violn, cello, piano % . % Trio No. 3 in E Minor and Major % IRELAND, John % 1879
+**kern
+*clefG2
+*k[f#]
+*e:
+*M9/8
+=
+[4.e/
+8e/L]
+8d/
+8e/J
+8b/L
+8a/
+8f#/J
+=
+*M6/8
+8e/L
+8r
+8e/J
+8f#/L
+8r
+8d/J
+=
+8e/L
+8e/
+8d/J
+8B/
+8r
+8B/
+=
+*M9/8
+[4.e/
+8e/L]
+8d/
+8e/J
+8b/L
+8a/
+8f#/J
+=
+*M6/8
+2.ee\
+=
+*-

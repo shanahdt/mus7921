@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Vinci, Leonardo
+!!!CDT: ?1696///-1730/05/28/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!place: ?
+!!!title1: Sonata in D, Fl. & Harpsi.
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: v112 % . % ? % ? % V112 % . % . % . % . % . % . % VINCI, Leonardo % c1690
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8so\
+=
+8do\L
+16mi\L
+16fa\JJ
+8so\L
+8do\J
+8req/
+8do\L
+8ti\J
+8r
+16ti\LL
+16do\JJ
+=
+16re\LL
+16so\
+16re\
+16mi\JJ
+8fa\L
+8fa\J
+8soq/
+8fa\L
+8mi\J
+*-

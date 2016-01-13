@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1970/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1970///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797, 1795?
+!!!instrument: violn, piano, cello
+!!!place: Oesterreich, Vienna & England, London(?)
+!!!splace: ?
+!!!title1: Trio No. 5 in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: h707 % . % -1797, 1795? % Vienna, London? % H707 % . % x % 1 % violn, piano, cello % . % Trio No. 5 in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1970(p) ? (H707) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+=
+4b-\
+4e-/
+=
+4cc\
+8.f/L
+16e-/Jk
+=
+16.e-/LL
+32d/k
+16.f/
+32d/JJk
+16.a-/LL
+32f/k
+16.cc/
+32b-/JJk
+=
+8b-q/
+4a-t/
+16.g/LL
+32f/k
+16.g/
+32a-/JJk
+=
+4b-\
+*-

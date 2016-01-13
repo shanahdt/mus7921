@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933
+!!!instrument: piano, orchestra
+!!!place: Europe
+!!!theme: A
+!!!title1: Concerto
+!!!title2: 3rd Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m386 % 310 % 1933 % Europe % M386 % . % a % 3 % piano, orchestra % . % Concerto % MILHAUD, Darius % 1892
+**solfa
+*clefF4
+*k[]
+*E:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8fa/
+8ra\L
+8se\J
+8me\L
+8le\J
+16fe\LL
+16me\
+16ra\
+16de\JJ
+=
+8ra\L
+8te\J
+8fa/L
+16so/L
+16le/JJ
+8te/L
+8se/J
+8me\
+*-

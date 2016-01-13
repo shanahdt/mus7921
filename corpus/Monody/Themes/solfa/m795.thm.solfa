@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OPS: Opus K 475
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Fantaisie in C Minor
+!!!title2: Intro to Sonata K 457
+!!!statkey: c
+!!DEBUGGING: m795 % . % 1785 % Vienna % M795 % K 475 % x % . % piano % Intro to Sonata K 457 % Fantaisie in C Minor % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M795) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+4.do/
+8me/
+8fi/L
+8so/
+8le/
+8do/J
+=
+8ti/
+8r
+8me\L
+16re\Jk
+16r
+8fi\L
+16so\Jk
+16r
+4r
+=
+*-

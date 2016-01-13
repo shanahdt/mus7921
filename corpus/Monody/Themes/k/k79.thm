@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Kodály, Zoltán
+!!!CDT: 1882/12/16/-1967/03/06/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1927///
+!!!OCL: RSC
+!!!ODT: <1927/12/31/
+!!!OMV: Mov. K&oacute;zj&aacute;t&eacute;k
+!!!OPS: Opus 15
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Magyar, Budapest
+!!!splace: Espana, Barcelona
+!!!theme: C
+!!!title1: H&aacute;ry J&aacute;nos
+!!!title2: Suite from Opera
+!!!statkey: D
+!!DEBUGGING: k79 % . % 1927 % Budapest % K79 % 15 % c % K&oacute;zj&aacute;t&eacute;k % orchestra % Suite from Opera % H&aacute;ry J&aacute;nos % KOD&Aacute;LY, Zolt&aacute;n % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1927(prf) Barcelona (K79) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+2.f#/
+8a/L
+8b/J
+=
+8a/L
+8g/J
+8aq/
+8g/L
+8f#/J
+8gq/
+8f#/L
+8e/J
+4eT/
+=
+8dq/
+4.f#/
+8a/
+12a/L
+12g/
+12f#/J
+12f#/L
+12e/
+12d/J
+=
+8c#q/
+4.e/
+8c#/
+2A/
+=
+*-

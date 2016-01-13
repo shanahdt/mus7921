@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Pergolesi, Giovanni
+!!!CDT: 1710/01/04/-1736/03/16/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: spurious?
+!!!instrument: string orchestra
+!!!place: 1710
+!!!title1: Concertino in F Minor
+!!!title2: 2nd Movement
+!!!statkey: f
+!!DEBUGGING: p72 % . % spurious? % 1710 % P72 % . % x % 2 % string orchestra % . % Concertino in F Minor % PERGOLESI, Giovanni % 1637
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/2
+=
+1f/
+=
+2c/
+2cc\
+=
+2f/
+2ff\
+=
+4een\
+4ff\
+4gg\
+4b-\
+=
+4a-/
+4b-\
+4cc\
+4f/
+=
+4en/
+4r
+*-

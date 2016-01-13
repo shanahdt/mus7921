@@ -1,0 +1,65 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Piano Trio No. 1 in B
+!!!OPS: Op. 8
+!!!OMV: Mov. 4
+!!!thm: A
+!!!AIN: cello forte violn
+!!!ODT: 1853///-1854
+!!!OCY: Deutschland    
+!!!OPC: Hamburg
+!!!PDT: 1854///
+!!!MRD: 1855///
+!!!MLC: United States of America, New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#c#]
+*G:
+*M3/4
+*>[A,B,B,C]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+=!|:
+*>B
+4G\
+4r
+8.G\L
+16G\Jk
+=
+2G\
+4F#\
+=
+4E#\
+4r
+8.E#\L
+16E#\Jk
+=
+2E#\
+4F#\
+=5:|!
+*>C
+4F#\
+4A\
+4d\
+=
+4c#\
+4A\
+4F#\
+=
+4F#\
+4E#\
+4B\
+=
+2B\
+4A\
+=
+*-

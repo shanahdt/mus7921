@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bizet, Georges
+!!!CDT: 1838/10/25/-1875/06/03/
+!!!CNT: French
+!!!ODT: 1855///
+!!!OCY: France            
+!!!OPC: Paris
+!!!OTL: Symphony No.1 in C
+!!!OMV: Mov. 2
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M9/8
+8.e/L
+16e/Jk
+=
+4.ee\
+4ee\
+32ff\LLL
+32ee\
+32dd\
+32ee\JJJ
+4ff\
+8dd\
+=
+[4.ee\
+4ee\]
+32ff\LLL
+32ee\
+32dd\
+32ee\JJJ
+4ff\
+8dd\
+=
+8.aa\L
+16gg#\L
+16aa\
+16gg#\JJ
+16ggn\LL
+16ff#\
+16gg\
+16ff#\
+16ffn\
+16ee\JJ
+*-

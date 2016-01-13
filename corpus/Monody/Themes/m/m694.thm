@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1789/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus K 515
+!!!PDT: 1789///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quintet in C
+!!!title2: 4th Movement
+!!!statkey: C
+!!DEBUGGING: m694 % 326 % 1787 % Vienna % M694 % K 515 % x % 4 % string % . % Quintet in C % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789(p) . (M694) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+2gg\
+=
+2ccc\
+=
+8bb\L
+8bb\
+8bb\
+8ddd\J
+=
+2ff\
+=
+8ee\L
+8ee\
+8ee\
+8gg\J
+=
+4.cc\
+8cc#\
+=
+8dd\L
+8ee\
+16ggq/
+8ff\
+16ee\L
+16dd\JJ
+=
+8ccn\
+*-

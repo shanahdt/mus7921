@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1829/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus 12
+!!!PDT: 1829///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1829
+!!!instrument: string
+!!!place: England, London
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Quartet No. 1 in E Flat
+!!!title2: 4th Movement
+!!!statkey: c
+!!DEBUGGING: m263 % . % 1829 % London % M263 % 12 % a % 4 % string % . % Quartet No. 1 in E Flat % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1829(p) Leipzig (M263) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*c:
+*M12/8
+8so/L
+8so/J
+[4.me\
+8me\L]
+8re\
+8do\J
+=
+[4.ti\
+8ti\]
+8r
+8ti\
+4do\
+8do\
+4re\
+8me\
+=
+[4.so\
+4so\]
+8fa\
+4me\
+8re\
+4do\
+8re\
+=
+[4.fa\
+4fa\]
+8me\
+*-

@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1876///
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1876(prf)
+!!!place: Royssia, Moskova
+!!!title1: March Slave, Op. 31, Orch.
+!!!statkey: D-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t151 % 489 % 1876(prf) % Moscow % T151 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefG2
+*k[b-e-a-d-g-]
+*A-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4so/
+8fa\L
+8fa\J
+8.mi\L
+16re\Jk
+8do\L
+8mi\J
+=
+8so\L
+8so\J
+16fa\LL
+16mi\J
+8re\J
+8.do/L
+16te/Jk
+4la/
+=
+*-

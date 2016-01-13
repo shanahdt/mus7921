@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Roussel, Albert
+!!!CDT: 1869/04/05/-1937/08/23/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1913///
+!!!OCL: RSC
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. Entr&eacute;e des Fourmis
+!!!OPS: Opus 17
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Le Festin de L'Araign'7ee
+!!!title2: Ballet
+!!!statkey: G
+!!DEBUGGING: r398 % . % 1912 % Paris % R398 % 17 % x % Entr&eacute;e des Fourmis % orchestra % Ballet % Le Festin de L'Araign'7ee % ROUSSEL, Albert % 1869
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1913(prf) . (R398) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+8so\L
+8re\
+8me\
+8fa\J
+8so\L
+8fa\
+8so\
+8le\J
+=
+8so\L
+8re\
+8me\
+8fa\J
+8so\L
+8fa\
+8so\
+8le\J
+=
+8so\L
+8so\
+8so\
+8soq/
+8le\J
+8so\L
+8so\
+8so\
+8soq/
+8le\J
+=
+*-

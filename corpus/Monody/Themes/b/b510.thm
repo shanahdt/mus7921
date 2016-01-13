@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bax, Arnold
+!!!CDT: 1883/11/08/-1953/10/03/
+!!!CNT: English
+!!!PDT: 1923///
+!!!OCY: England
+!!!OPC: London
+!!!OTL: Fantasy-Sonata for Viola and Harp
+!!!AIN: arpa viola 
+!!!OMV: Mov. 3   
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4.ee\
+8dd\
+8cc\L
+8dd\J
+=
+*M4/4
+8ee\L
+16.gg\L
+32ff\JJk
+[4ee\
+8ee\L]
+8dd\
+8a-\
+8dd\J
+=
+*M3/4
+[4ee\
+8ee\]
+4aa-\
+8gg\
+=
+*M4/4
+16ff\LK
+[8.ee\J
+8ee\]
+*-

@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1789,1790/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1789,1790///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1788
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!theme: A
+!!!title1: Quartet in A
+!!!title2: 1st Movement
+!!!statkey: A
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h395 % . % -1788 % Eszterh&aacute;za % H395 % . % a % 1 % string % . % Quartet in A % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789,1790(p) ? (H395) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/2
+=
+*^
+.	8doq/
+4r	1do/
+32faq\LLL	.
+32miq\	.
+32req\JJJ	.
+4mi\	.
+4so\	.
+4mi\	.
+=2	=
+.	8doq/
+4r	1mi/
+32req\LLL	.
+32doq\	.
+32tiq\JJJ	.
+4do\	.
+4mi\	.
+4do\	.
+=3	=
+.	8soq/
+4r	2.so/
+32doq\LLL	.
+32tiq\	.
+32laq\JJJ	.
+4ti\	.
+4re\	.
+4r	12fa/L
+.	12re/
+.	12ti/J
+*v	*v
+=
+4do\
+4r
+2r
+=
+*-

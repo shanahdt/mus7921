@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus 20
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1825
+!!!instrument: string
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Octet in E Flat
+!!!title2: 4th Movement
+!!!statkey: c
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m244 % . % 1825 % Berlin % M244 % 20 % b % 4 % string % . % Octet in E Flat % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M244) . . . . . . . .
+**solfa
+*clefF4
+*k[b-e-a-]
+*F:
+*M2/2
+!! ! NB. Key & key signature disagree.
+2so\
+=
+2do\
+2mi\
+=
+2la\
+2do\
+=
+8fa\L
+8mi\
+8re\
+8mi\J
+8fa\L
+8la\
+8so\
+8fa\J
+=
+4mi\
+4r
+*-

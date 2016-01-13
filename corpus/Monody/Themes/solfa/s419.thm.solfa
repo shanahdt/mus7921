@@ -1,0 +1,47 @@
+**solfa
+*clefG2
+*k[f#c#g#]
+*met(C)
+*M4/4
+*A:
+8.mi
+16fa
+=
+2so
+8.fa
+16mi
+8re
+8mi
+=
+[2so
+8]so
+8la
+8ti
+8do
+=
+4.re
+8mi
+8.fa
+16la
+8re
+8so
+=
+2mi
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1819 or 1825
+!!!place: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s419 % . % 1819 or 1825 % Vienna? % S419 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1829///
+!!!ODT: <1829/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1829(p) . (S419) . . . . . . .

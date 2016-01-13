@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus K 458
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in B Flat
+!!!title2: "Hunting"
+!!!statkey: B-
+!!DEBUGGING: m654 % 324 % 1784 % Vienna % M654 % K 458 % x % 4 % string % "Hunting" % Quartet in B Flat % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M654) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+4b-\
+4cc\
+=
+16b-q/
+8a/L
+16g/L
+16f/JJ
+8b-\L
+8b-\J
+=
+8cc\L
+8cc\J
+8dd\L
+8dd\J
+=
+8ff\L
+8ee-\J
+8cc\
+8r
+=
+*-

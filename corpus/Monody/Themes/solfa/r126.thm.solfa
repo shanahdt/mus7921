@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1928///
+!!!OCL: RSC
+!!!ODT: <1928/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928
+!!!instrument: orchestra
+!!!place: France, Paris(?)
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Bolero
+!!!statkey: C
+!!DEBUGGING: r126 % . % 1928 % Paris? % R126 % . % b % . % orchestra % . % Bolero % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1928(prf) Paris (R126) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+[4te\
+16te/LL]
+16la/
+16so/
+16fa/
+16te/
+16do/
+16la/
+16so/JJ
+=
+8te/L
+16la/L
+16so/JJ
+4te\
+16la/LL
+16te/
+16la/
+[16so/JJ
+=
+4so/_
+16so/LL]
+16fa/
+16mi/
+16re/JJ
+[4mi/
+=
+4mi/]
+8r
+8te\L
+8do\
+8ra\J
+=
+8ra\
+4ra\
+8ra\
+8ra\L
+8ra\J
+=
+*-

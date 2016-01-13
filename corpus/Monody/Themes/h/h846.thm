@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928
+!!!instrument: orchestra
+!!!place: Helvetia(?)
+!!!theme: B
+!!!title1: Rugby
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h846 % . % 1928 % Switzerland? % H846 % . % b % . % orchestra % . % Rugby % HONEGGER, Arthur % 1892
+**kern
+*clefG2
+*k[]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8aaq/
+4a/
+4aa\
+4ff#\
+=
+4dd\
+2a/
+=
+4a/
+4aa\
+4ff#\
+=
+4cc#\
+2a/
+=
+4a/
+4ddd\
+4aa\
+=
+4dd\
+2d/
+=
+*-

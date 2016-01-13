@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 12
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1906///-1913
+!!!instrument: piano
+!!!place: Royssia, St. Petersburg
+!!!title1: March
+!!!statkey: f
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p236 % . % 1906-1913 % St. Petersburg % P236 % 12 No. 1 % x % . % piano % . % March % PROKOFIEV, Sergey % 1891
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*C:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16doq/LL
+16req/
+16miq/JJ
+8fa\
+8r
+8do\L
+16r
+16do\Jk
+=
+8do\L
+16r
+16te\Jk
+8le/L
+16r
+16so/Jk
+=
+8le/L
+8r
+8mi/J
+8r
+=
+2fa/
+=
+8fa/
+8r
+8le/L
+16r
+16le/Jk
+=
+8te\L
+8r
+8di\J
+8r
+=
+8di\L
+8r
+8do\J
+8r
+=
+2fa/
+=
+*-

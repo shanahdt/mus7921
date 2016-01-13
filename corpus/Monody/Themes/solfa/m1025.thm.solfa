@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Intro: Promenade
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!statkey: B-
+!!DEBUGGING: m1025 % . % 1874 % St. Petersburg % M1025 % .  % x % Intro: Promenade % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M5/4
+=
+4la/
+4so/
+4do\
+8re\L
+8so\J
+4mi\
+=
+*M6/4
+8re\L
+8so\J
+4mi\
+4do\
+4re\
+4la/
+4so/
+=
+*-

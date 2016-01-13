@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1867/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 12
+!!!PDT: 1867///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1866
+!!!instrument: piano
+!!!place: Italia, Roma(?)
+!!!splace: Danmark, Copenhagen
+!!!theme: B
+!!!title1: Waltz
+!!!statkey: A
+!!DEBUGGING: g350 % . % 1866 % Rome? % G350 % 12 No. 2 % b % . % piano % . % Waltz % GRIEG, Edvard % 1843
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1867(p) Copenhagen (G350) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+2do/
+8re/L
+8ti/J
+=
+8tiq/
+8la/L
+8so/J
+2so/
+=
+4do/
+8re/L
+8mi/
+8do/
+8la/J
+=
+8tiq/
+8la/L
+8so/J
+2so/
+=
+*-

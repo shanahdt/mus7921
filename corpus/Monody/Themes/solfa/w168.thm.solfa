@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1937
+!!!place: Europe?
+!!!title1: Crown Imperial, Coronation March, Orch.
+!!!statkey: C
+!!DEBUGGING: w168 % . % 1937 % Europe? % W168 % . % . % . % . % . % . % WALTON, William Turner
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/4
+16do/LL
+16do/
+16r
+16do/JJ
+=
+2re/
+=
+8re/L
+16do/L
+16do/JJ
+8re/L
+8mi/J
+=
+8.re/
+16r
+16mi/LL
+16mi/
+16r
+16mi/JJ
+=
+[2so/
+=
+8so/L]
+8fa/J
+16so/LL
+16so/
+16r
+16fa/JJ
+=
+16so/LL
+16fa/J
+[8mi/J
+16mi/LL]
+16mi/
+16mi/
+16mi/JJ
+=
+2re/
+=
+*-

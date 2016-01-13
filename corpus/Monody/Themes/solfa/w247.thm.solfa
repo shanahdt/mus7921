@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1821///
+!!!OCL: RSC
+!!!ODT: <1821/12/31/
+!!!ODT: <c1842/12/31/
+!!!PDT: c1842///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1820
+!!!place: Cosels Garten, Germany
+!!!splace: Deutschland, Berlin
+!!!title1: Preciosa, Overture
+!!!statkey: C
+!!DEBUGGING: w247 % . % 1820 % Cosels Garten, Germany % W247 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1821(prf) Berlin (W247) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1842(p) Berlin (W247) . . . . . . WEBER, Carl Maria Von
+**solfa
+*clefG2
+*k[]
+*a:
+*M3/4
+24do\LL
+24re\
+24me\J
+24me\L
+24fa\
+24so\JJ
+=
+4so\
+4me\
+24me\LL
+24fa\
+24so\J
+24so\L
+24la\
+24te\JJ
+=
+4te\
+4so\
+24so\LL
+24la\
+24te\J
+24te\L
+24do\
+24re\JJ
+=
+8me\L
+16me\L
+16me\JJ
+8me\L
+8me\J
+8faq/
+16me\LL
+16re\
+16me\
+16so\JJ
+=
+2fa\
+*-

@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!OMV: Mov. 4: Sunday Evening
+!!!PDT: 1881///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(p)
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Sc&egrave;nes Alsaciennes
+!!!title2: Suite No. 7
+!!!statkey: D
+!!DEBUGGING: m170 % . % 1881(p) % Paris % M170 % . % a % 4: Sunday Evening % . % Suite No. 7 % Sc&egrave;nes Alsaciennes % MASSENET, Jules % 1842
+**solfa
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+8do\
+24do\LL
+24ti\
+24la\JJ
+8so/
+24so\LL
+24fa\
+24mi\JJ
+8re\L
+8la\J
+=
+8do\
+24do\LL
+24ti\
+24la\JJ
+8so/
+24so\LL
+24fa\
+24mi\JJ
+8re\L
+8fa\J
+=
+8mi\
+*-

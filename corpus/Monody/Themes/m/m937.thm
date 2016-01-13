@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 425
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1783
+!!!instrument: orchestra
+!!!place: Oesterreich, Linz
+!!!theme: B
+!!!title1: Symphony No. 36 in C
+!!!title2: "Linz"
+!!!statkey: C
+!!DEBUGGING: m937 % . % 1783 % Linz % M937 % K 425 % b % 1 % orchestra % "Linz" % Symphony No. 36 in C % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+1e/
+=
+1f/
+=
+4.g/
+16a/LL
+16b/JJ
+4cc\
+4g/
+=
+16bq/
+4a/
+4g/
+2r
+=
+1cc\
+=
+1b-\
+=
+4a/
+8bnT\L
+16a\L
+16b\JJ
+4cc\
+4dd\
+=
+*-

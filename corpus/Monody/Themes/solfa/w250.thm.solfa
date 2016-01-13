@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1819/12/31/
+!!!PDT: 1819///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1819
+!!!place: Deutschland, Hosterwitz 
+!!!splace: Deutschland, Berlin
+!!!title1: Rondo Brillant, "La Gaite," Op. 62, Pft.
+!!!statkey: c
+!!DEBUGGING: w250 % . % 1819 % Hosterwitz, Germany % W250 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1819(p) Berlin (W250) . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+32ti\LLL
+32re\JJJ
+=
+16do\LL
+32fi\L
+32la\JJJ
+16so\LL
+32fi\L
+32la\JJJ
+16so\LL
+32ti\L
+32re\JJJ
+16do\LL
+32si\L
+32ti\JJJ
+=
+16la\LL
+32mi\L
+32so\JJJ
+16fa\LL
+32si\L
+32ti\JJJ
+!!   B&M Encoding mess:   removing bar line?
+4la\
+!!   B&M Encoding mess:   removing dot?
+=
+*-

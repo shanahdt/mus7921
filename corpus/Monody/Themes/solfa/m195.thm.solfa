@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Medtner, Nicolas
+!!!CDT: 1880/01/05/-1951/11/13/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 17
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: piano
+!!!place: Royssia, Moskova(?)
+!!!title1: Novelette
+!!!statkey: G
+!!DEBUGGING: m195 % . % 1908 % Moscow? % M195 % 17 No. 1 % x % . % piano % . % Novelette % MEDTNER, Nicolas % 1880
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8r
+8mi\
+16miq/LL
+16faq/JJ
+8mi/L
+16re/L
+16mi/JJ
+=
+4.re/
+8ti/
+=
+8re/L
+8do/J
+16doq/LL
+16req/JJ
+16do/LK
+8ti/
+16la/Jk
+=
+16ti/LL
+16do/JJ
+4re/
+8mi\
+=
+*-

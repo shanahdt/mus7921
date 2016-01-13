@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!OPS: Opus 51
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: United States of America, New York
+!!!title1: Woodland Sketches
+!!!title2: No. 1: To a Wild Rose
+!!!statkey: A
+!!DEBUGGING: m37 % . % 1896 % Wiesbaden % M37 % 51 % x % . % piano % No. 1: To a Wild Rose % Woodland Sketches % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1896(p) New York (M37) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8cc#\L
+8ee\J
+4ee\
+=
+8b\L
+8ee\J
+4ee\
+=
+8cc#\L
+8ee\
+8ff#\
+8aa\J
+=
+4ff#\
+4cc#\
+=
+8f#/L
+8b/J
+4b\
+=
+4cc#\
+4g#/
+=
+*-

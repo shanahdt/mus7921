@@ -1,0 +1,60 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1803///-1804///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1805///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.21 in C for Piano                  
+!!!OPS: Op. 53
+!!!OTP: Waldstein
+!!!SET: No. 21
+!!!OMV: Mov. 2
+!!!thm: Introduction
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-]
+*F:
+*M6/8
+=
+8r
+16.C/LL
+32C/JJk
+8A\
+8r
+16.A\LL
+32A\JJk
+8d#\
+=
+8r
+8e\L
+8e\J
+4e\
+8r
+=
+*clefG2
+8r
+16.Bn/LL
+32B/JJk
+8g/
+8r
+16.c#/LL
+32c#/JJk
+8a#/
+=
+8r
+8bn\L
+8b\J
+4b\
+8r
+=
+*-

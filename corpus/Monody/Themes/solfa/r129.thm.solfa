@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1932///
+!!!OCL: RSC
+!!!ODT: <1932/12/31/
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1929///-1931
+!!!instrument: piano, orchestra
+!!!place: Montfort///-l’Amaury
+!!!splace: France, Paris
+!!!title1: Concerto
+!!!title2: 2nd Movement
+!!!statkey: E
+!!DEBUGGING: r129 % . % 1929-1931 % Montfort-l’Amaury % R129 % . % x % 2 % piano, orchestra % . % Concerto % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1932(prf) Paris (R129) . . . . . . . .
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+4mi/
+2fa/
+=
+4mi/
+4re/
+4do/
+=
+[4so\
+8so/L]
+16fa/L
+16so/JJ
+16la\LL
+[16so\J
+8so\J_
+=
+2so\_
+8so\L]
+[8so\J
+=
+4so\]
+4la\
+4so\
+=
+[2mi/
+16mi/LL]
+16re/
+16do/
+16re/JJ
+=
+16mi/LL
+[16re/J
+8re/J_
+4re/]
+*-

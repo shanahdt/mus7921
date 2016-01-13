@@ -1,0 +1,63 @@
+**solfa
+*clefG2
+*k[b-e-a-]
+*M6/8
+*c:
+16r
+16me
+16me
+16re
+16re
+16me
+16me
+16do
+16do
+16re
+16re
+16me
+=
+16me
+16so
+16so
+16fi
+16fi
+16fa
+16fa
+16me
+16me
+16re
+16re
+16me
+=
+16me
+16do
+16do
+16me
+16me
+16re
+16re
+16do
+16do
+16ti
+16ti
+16r
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1886
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s127 % . % 1886 % Paris? % S127 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1886///
+!!!ODT: <1886/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1886(p) Paris (S127) . . . . . . .

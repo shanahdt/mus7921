@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Casella, Alfredo
+!!!CDT: 1883/07/25/-1947/03/05/
+!!!CNT: Italian
+!!!OTL: Serenata
+!!!OMV: Mov. 5 (Cavatina)
+!!!AIN: cello clars fagot tromp violn 
+!!!PDT: 1927///
+!!!OCY: Italia
+!!!OPC: Roma
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4.do/
+32re/LLL
+32do/
+32ti/
+32do/JJJ
+4.fa/
+8mi/
+=
+4.re/
+8mi/
+8fa/L
+8so/J
+[4la/
+=
+8la/L]
+8ti/
+8la/
+8so/J
+8re\L
+8do\J
+[4fa\
+=
+8fa\L]
+8mi\J
+*-

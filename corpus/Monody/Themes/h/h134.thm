@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1735///
+!!!OCL: RSC
+!!!ODT: <1735/12/31/
+!!!OMV: Mov. Gavotte No. 2 From Ballet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1735(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Alcina
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: h134 % 219 % 1735(prf) % London % H134 % . % x % Gavotte No. 2 From Ballet % orchestra % Opera % Alcina % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/2
+4b\
+4dd\
+=
+4g/
+8a/L
+8b/J
+4cc\
+4b\
+=
+8a/L
+8g/
+8a/
+8b/J
+4a/
+4b\
+=
+4e/
+8f#/L
+8g/J
+4a/
+4g/
+=
+4f#/
+4d/
+*-

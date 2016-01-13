@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!splace: ?
+!!!theme: A
+!!!title1: Preludes
+!!!title2: Famous C Sharp Minor
+!!!statkey: c#
+!!DEBUGGING: r36 % . % 1892 % Moscow % R36 % 3 No. 2 % a % . % piano % Famous C Sharp Minor % Preludes % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1938(rev) ? (R36) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M4/4
+=
+4A/
+4G#/
+[2C#/
+=
+*^
+2C#\]	8r
+.	8cc#/L
+.	8ee/
+.	8dd#/J
+4A\	8r
+.	8ddn/
+4G#\	8r
+.	8b#/
+=3	=
+2C#\	8r
+.	8cc#/L
+.	8ee/
+.	8dd#/J
+4A\	8r
+.	8ddn/
+4G#\	8r
+.	8b#/
+*v	*v
+=
+2C#/
+*-

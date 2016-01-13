@@ -1,0 +1,55 @@
+**kern
+*clefG2
+*k[b-e-a-]
+*M3/4
+!! NB. Key & key signature disagree.
+*D:
+8.fff#
+16eee
+=
+2ddd
+12ddd-
+12ddd
+12eee
+=
+4.ddd
+8ddd-
+4bb
+=
+[2aa
+8]aa
+8ff#
+=
+2aa
+8.ddd-
+16bb
+=
+2aa
+12aa-
+12aa
+12bb
+=
+4.aa
+8gg
+4ee
+=
+2dd
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1897///-1898
+!!!place: Deutschland, Muenchen & Deutschland, Frankfurt
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1440 % 466 % 1897-1898 % Munich and Frankfurt % S1440 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1899///
+!!!ODT: <1899/12/31/
+!!!splace: Deutschland, Frankfurt
+!!!CDT: ///-
+!!DEBUGGING: . . 1899(prf) Frankfurt (S1440) . . . . . . .

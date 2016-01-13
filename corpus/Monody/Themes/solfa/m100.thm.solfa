@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Mahler, Gustav
+!!!CDT: 1860/05/07/-1911/05/18/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1912///
+!!!OCL: RSC
+!!!ODT: <1912/12/31/
+!!!ODT: <1913/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1913///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908///-1909
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: Oesterreich, Vienna
+!!!theme: E
+!!!title1: Symphony No. 9 in D
+!!!title2: 2nd Movement
+!!!statkey: d
+!!DEBUGGING: m100 % . % 1908-1909 % New York % M100 % . % e % 2 % orchestra % . % Symphony No. 9 in D % MAHLER, Gustav % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1912(prf) Vienna (M100) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1913(p) Vienna (M100) . e 2 orchestra . Symphony No. 9 in D MAHLER, Gustav 1860
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4mi/
+2re/
+=
+4mi/
+2re/
+=
+4.fa\
+8mi/
+4mi/
+=
+4.fa\
+8mi/
+8mi\L
+8do\J
+=
+4do\
+2ti\
+=
+4ti\
+2la\
+=
+4.laT\
+8so\
+4so\
+=
+4.fa\
+8mi/
+4mi/
+=
+*-

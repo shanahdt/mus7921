@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OPS: Opus K 511
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Rondo in A Minor
+!!!statkey: a
+!!DEBUGGING: m708 % . % 1787 % Vienna % M708 % K 511 % x % . % piano % . % Rondo in A Minor % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) . (M708) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*a:
+*M6/8
+8so\
+=
+32fiq/LLL
+32soq/
+32leq/JJJ
+8.so\L
+16fi\k
+8so\J
+8do/
+8r
+8do/
+=
+4ra\
+8re\
+8me\
+8r
+8mi\
+=
+4fa\
+8fi\
+8so\
+8r
+8do\
+=
+*-

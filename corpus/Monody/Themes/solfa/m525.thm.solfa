@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 219
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!place: Oesterreich, Salzburg
+!!!title1: Concerto in A
+!!!title2: 2nd Movement
+!!!statkey: E
+!!DEBUGGING: m525 % . % 1775 % Salzburg % M525 % K 219 % x % 2 % . % . % Concerto in A % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+8so\
+=
+16fa/LL
+16mi/
+16la/
+16fa/JJ
+16mi/LL
+16re/
+16so/
+16mi/JJ
+=
+16re/LL
+16do/JJ
+4fa/
+8mi/
+=
+16la\LL
+16so\
+16la\
+16ti\JJ
+16do\LL
+16re\
+16mi\
+16do\JJ
+=
+8.so/L
+16fa/Jk
+8mi/
+*-

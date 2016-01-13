@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Elgar, Edward
+!!!CDT: 1857/06/02/-1934/02/23/
+!!!CNT: English
+!!!OTL: Violin Sonata in E Minor
+!!!OPS: Ops. 82
+!!!OMV: Mov. 3 
+!!!thm: B
+!!!AIN: forte violn
+!!!OCY: England, UK
+!!!OPC: London
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*C:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.mi\
+8do\
+8.so\L
+16la\Jk
+[4fa\
+=
+8fa\L]
+16.r
+32ri\Jkk
+8fa\L
+8mi\J
+8r
+16.r
+32di\
+8mi\L
+8re\J
+=
+8ti\L
+8do\J
+8do\L
+8di\J
+8di\L
+8mi\J
+8mi\L
+8la\J
+=
+*-

@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Concerto No. 1 in E Minor for Piano and Orchestra
+!!!OPS: Op. 11
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte orchestra
+!!!ODT: 1830///        
+!!!OCY: Polska
+!!!OPC: Warsaw
+!!!PDT: 1833///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+8b/L
+8.g/
+16a/Jk
+=
+4.b\
+8ee\L
+8ff#\
+8gg\J
+=
+8ff#\L
+8ee\
+8b\
+16cc\L
+16dd\J
+8cc\
+8b\J
+=
+4b\
+8a/
+8r
+*-

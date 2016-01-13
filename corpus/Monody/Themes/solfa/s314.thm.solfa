@@ -1,0 +1,48 @@
+**solfa
+*clefG2
+*k[b-e-a-]
+*met(C)
+*M4/4
+*E-:
+32mi
+32fa
+=
+8.so
+16so
+8.so
+16do
+8.so
+16so
+8.so
+16mi
+=
+8.fa
+16so
+8.fa
+16mi
+4..re
+32do
+32re
+=
+8.mi
+16mi
+4mi
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1818
+!!!place: Zseliz
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s314 % . % 1818 % Zseliz % S314 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1826///
+!!!ODT: <1826/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1826(p) Vienna? (S314) . . . . . . .

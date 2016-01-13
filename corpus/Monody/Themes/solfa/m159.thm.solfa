@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1873/12/31/
+!!!PDT: 1873///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1873(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Phedre
+!!!title2: Overture
+!!!statkey: g
+!!DEBUGGING: m159 % . % 1873(p) % Paris % M159 % . % a % . % orchestra % Overture % Phedre % MASSENET, Jules % 1842
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+[2me\
+8me/L]
+16re/L
+16me/JJ
+8re/L
+8do/J
+=
+8ti/L
+8do/J
+4do/
+8r
+8do/L
+8re/
+8me/J
+=
+[2fa\
+8fa\L]
+16me\L
+16fa\JJ
+8so\L
+8le\J
+=
+8do/L
+8ti/J
+*-

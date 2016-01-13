@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Borodin, Alexander
+!!!CDT: 1833/11/12/-1887/02/27/
+!!!CNT: Russian
+!!!ODT: 1882///, 1886///-1887///
+!!!OCY: Rossiya
+!!!OPC: Sankt-Peterburg
+!!!PDT: 1888
+!!!PPP: Deutschland, Leipzig  
+!!!OTL: Symphony No. 3 in A minor, unfinished
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M2/2
+=
+4a/
+4cc\
+4dd\
+4b\
+=
+4.ee\
+8dd\
+8cc\L
+8dd\J
+4b\
+=
+4a/
+4ee\
+8ff\L
+8ee\J
+4gg\
+=
+2.ee\
+*-

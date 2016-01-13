@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1670///
+!!!OCL: RSC
+!!!ODT: <1670/12/31/
+!!!OMV: Mov. Ballet, Act I
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1670(prf)
+!!!instrument: orchestra
+!!!place: France, Chambord
+!!!theme: B: SARABANDE
+!!!title1: Le Bourgeois Gentilhomme
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: l299 % 289 % 1670(prf) % Chambord % L299 % . % b: Sarabande % Ballet, Act I % orchestra % Opera % Le Bourgeois Gentilhomme % LULLY, Jean Baptiste % 1632
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+4.so\
+8re\
+4mi\
+=
+4do\
+4la/
+4fa\
+=
+4mi\
+4.la\
+8re\
+=
+2re\
+4do\
+=
+4.do\
+8ti\
+4do\
+=
+4.mi\
+8fi\
+4so\
+=
+4.fi\
+8si\
+4la\
+=
+*-

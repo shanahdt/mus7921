@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 370
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: oboe, string
+!!!place: Deutschland, Muenchen
+!!!title1: Quartet in F
+!!!title2: 3rd Movement
+!!!statkey: F
+!!DEBUGGING: m621 % . % 1781 % Munich % M621 % K 370 % x % 3 % oboe, string % . % Quartet in F % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+8cc\
+=
+4.ff\
+32ffq/LLL
+32ggq/JJJ
+8.aa\L
+16gg\k
+8ff\J
+=
+4.ccc\
+8aa\
+8r
+8ff\
+=
+4.ddd\
+8bb-\
+8r
+8ff\
+=
+4.ccc\
+8aa\
+8r
+8ff\
+=
+8ee\L
+8ff\
+8ff#\J
+8gg\
+8r
+*-

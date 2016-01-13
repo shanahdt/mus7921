@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!title1: The Holy Boy
+!!!statkey: d
+!!DEBUGGING: i102 % . % ? % ? % I102 % . % x % . % piano % . % The Holy Boy % IRELAND, John % 1879
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=
+4do/
+8do/
+8re/L
+8mi/
+8fa/J
+=
+4.mi/
+4do/
+8do/
+=
+4fa\
+8fa\
+8so\L
+8la\
+8ti\J
+=
+[4.la\
+4la\]
+8la\
+=
+4do\
+8do\
+8ti\L
+8la\
+8so\J
+=
+4.la\
+8re/
+*-

@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Clementi, Muzio
+!!!CDT: 1752/01/23/-1832/03/10/
+!!!CNT: English
+!!!OTL: Sonata No. 1 in B Flat Major for 2 Pianos, 4 Hands
+!!!SET: No. 1
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte 
+!!!ODT: 1784///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*F:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+16a/LL
+16cc/
+16g#/
+16cc/JJ
+16an/LL
+16cc/
+16g#/
+16cc/JJ
+8an\L
+8ff\J
+=
+4.ff\
+16een\LL
+16ff\JJ
+12gg\L
+12ee\
+12b-\J
+=
+16a/LL
+16cc/
+16g#/
+16cc/JJ
+16an/LL
+16cc/
+16g#/
+16cc/JJ
+8an\L
+8ff\J
+=
+*-

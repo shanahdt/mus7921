@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1883/12/31/
+!!!PDT: 1883///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1883
+!!!instrument: piano
+!!!place: Italia, Venezia
+!!!splace: Deutschland, Berlin
+!!!theme: A
+!!!title1: Mephisto Waltz
+!!!statkey: A
+!!DEBUGGING: l192 % . % 1883 % Venice % L192 % . % a % . % piano % . % Mephisto Waltz % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1883(p) Berlin (L192) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#g#]
+*A:
+*M3/8
+=
+8r
+8E\L
+8A\J
+=
+8Aq/
+4e\
+8c#\
+=
+16B\LL
+16c#\J
+8B\
+8A\J
+=
+16G#\LL
+16A\J
+8G#\
+8F#\J
+=
+8E#\L
+16F#\L
+16G#\J
+8F#\J
+=
+8D#\L
+16En\L
+16F#\J
+8E\J
+=
+8r
+8C#/L
+8Dn/J
+=
+8D#\L
+8F#\
+8E\J
+=
+*-

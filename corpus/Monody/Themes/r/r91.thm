@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728?/12/31/
+!!!OPC: France, Paris(?)
+!!!PDT: c1728?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728?(p)
+!!!instrument: cemba
+!!!title1: Gavotte Vari&eacute;e
+!!!statkey: a
+!!DEBUGGING: r91 % . % c1728?(p) % Paris? % R91 % . % x % . % cemba % . % Gavotte Vari&eacute;e % RAMEAU, Jean Philippe % 1683
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8.a/L
+32a/LL
+32b/JJJ
+4cc\
+=
+4b\
+4a/
+=
+4a/
+4g#t/
+=
+16g#q/
+4a/
+8e/
+8r
+=
+4a/
+4b\
+=
+16bq/
+4.cc\
+8cc\
+=
+4bT\
+4a/
+=
+2ee\
+=
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1924///
+!!!OCL: RSC
+!!!ODT: <1924/12/31/
+!!!OMV: Mov. The pines of the Villa Borghese
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923///-1924
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Pines of Rome
+!!!title2: The Pines of the Villa Borghese
+!!!statkey: B-
+!!DEBUGGING: r277 % . % 1923-1924 % Rome % R277 % . % a % The pines of the Villa Borghese % orchestra % . % Pines of Rome % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1924(prf) . (R277) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M2/8
+32so/
+=
+16do\LL
+32r
+32do\k
+16mi\
+32r
+32mi\JJk
+=
+24re/LL
+24mi/
+24re/J
+24do/L
+24ti/
+24la/JJ
+=
+16so/LL
+32r
+32so/k
+16do/
+32r
+32do/JJk
+=
+16mi\LL
+32r
+32mi\JJk
+8re\
+=
+8do\
+*-

@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1867///
+!!!OCL: RSC
+!!!ODT: <1867/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1867(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: C
+!!!title1: La Grande Duchesse de Gerolstein
+!!!title2: Opera
+!!!statkey: b
+!!DEBUGGING: o7 % 346 % 1867(prf) % Paris % O7 % . % c % Overture % orchestra % Opera % La Grande Duchesse de Gerolstein % OFFENBACH, Jacques % 1819
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+8a/
+=
+8ff#\L
+8ff#\
+8ff#\
+8ff#\J
+=
+8ggq/
+8ff#\L
+16ee\L
+16ff#\JJ
+16dd/LL
+16a/
+16g#/
+16a/JJ
+=
+8dd\L
+8ff#\
+8gg\
+8ff#\J
+=
+4.ee\
+8bb\
+=
+8.ccc#\L
+16bb\k
+8.ccc#\
+16bb\Jk
+=
+8bb\L
+8aa\
+8gg\
+8ff#\J
+=
+*-

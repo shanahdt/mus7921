@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Porpora, Nicola
+!!!CDT: 1686/08/17/-1766/03/03/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1745/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1745///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1745(p)
+!!!instrument: violn, piano
+!!!place: England, London
+!!!title1: Sonata in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: p165 % . % 1745(p) % London % P165 % . % x % 1 % violn, piano % . % Sonata in G % PORPORA, Nicola % 1686
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4r
+4do/
+4mi\
+8.reT/L
+16do/Jk
+=
+2so\
+2so\
+=
+2la\
+4la\
+8ti\L
+8do\J
+=
+2ti\
+2do\
+=
+*-

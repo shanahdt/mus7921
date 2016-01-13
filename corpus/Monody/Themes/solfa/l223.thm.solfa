@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1852/12/31/
+!!!PDT: 1852///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1850
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Valse-Impromptu
+!!!statkey: f
+!!DEBUGGING: l223 % . % 1850 % Weimar % L223 % . % b % . % piano % . % Valse-Impromptu % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852(p) Leipzig (L223) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+4mi/
+=
+4di/
+4re/
+4la/
+=
+2mi/
+4mi/
+=
+4di/
+4re/
+4la/
+=
+2mi/
+4mi/
+=
+4my/
+4fi/
+4do/
+=
+2so/
+*-

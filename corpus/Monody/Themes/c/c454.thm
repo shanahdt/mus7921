@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: El Salon Mexico for Orchestra
+!!!thm: F                     
+!!!AIN: orchestra
+!!!ODT: 1937///        
+!!!OCY: Mexico                  
+!!!OPC: Ciudad de Mexico
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*G:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8dd/L
+8g/J
+=
+8dd\L
+8g\
+8dd\J
+8g\L
+8ee\
+8g\J
+=
+8dd\
+4g/
+8dd\L
+8g\
+8dd\J
+=
+8g\L
+8dd\
+8g\J
+8ee\L
+8g\
+8dd\J
+=
+4g/
+*-

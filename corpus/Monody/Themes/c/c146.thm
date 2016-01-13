@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Chávez, Carlos
+!!!CDT: 1899/06/13/-1978/08/02/
+!!!CNT: Mexican
+!!!OTL: Sinfonia India
+!!!thm: A b 
+!!!AIN: orchestra            
+!!!ODT: 1935///-1946///
+!!!OCY: Mexico
+!!!OPC: Ciudad de Mexico
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M5/8
+=
+8bb-\
+4ccc\
+8bb-\L
+8gg\J
+=
+*M2/4
+8ddd\L
+8ccc\J
+8bb-\L
+8gg\J
+=
+*M5/8
+8bb-\
+4ccc\
+8bb-\L
+8gg\J
+=
+*M2/4
+8ddd\L
+8ccc\J
+8bb-\L
+8gg\J
+=
+8ddd\L
+8ccc\J
+8bb-\L
+8gg\J
+=
+*-

@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1873///
+!!!OCL: RSC
+!!!ODT: <1873/12/31/
+!!!ODT: <1900/12/31/
+!!!OMV: Mov. Finale, Saturnales
+!!!PDT: 1900///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1873(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Les Erinnyes
+!!!title2: (Incidental Music)
+!!!statkey: g
+!!DEBUGGING: m155 % . % 1873(prf) % Paris % M155 % . % a % Finale, Saturnales % orchestra % (Incidental Music) % Les Erinnyes % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(rev. prf) . (M155) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1900(p) Paris (M155) . a Finale, Saturnales orchestra (Incidental Music) Les Erinnyes MASSENET, Jules 1842
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M2/2
+=
+4so\
+4so\
+4so\
+4so\
+=
+8leq/
+4so\
+4so\
+4so\
+4so\
+=
+8leq/
+4so\
+32faq/LLL
+32soq/JJJ
+8fa\L
+8me\J
+8fa\L
+8so\
+8te\
+8le\J
+=
+8so\L
+8do\J
+*-

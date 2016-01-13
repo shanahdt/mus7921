@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1725/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1725///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1725(p)
+!!!instrument: flt, piano
+!!!place: England, London
+!!!title1: Sonata No. 7 in F
+!!!title2: 3rd Movement
+!!!statkey: d
+!!DEBUGGING: l268 % . % 1725(p) % London % L268 % . % x % 3 % flt, piano % . % Sonata No. 7 in F % LOEILLET, Jean Baptiste % 1680
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/2
+2so\
+=
+1fa\
+2so\
+=
+1me\
+2so\
+=
+1do\
+2te\
+=
+1le\
+2fa\
+=
+2fa\
+2r
+2me\
+=
+2me\
+2r
+2ra\
+=
+2ra\
+2do\
+2do\
+=
+1do\
+2ti\
+=
+*-

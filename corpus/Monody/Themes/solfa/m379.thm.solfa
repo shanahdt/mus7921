@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: F: TANGO
+!!!title1: Le Boeuf Sur le Toit
+!!!title2: Ballet based on South American Tunes
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m379 % 309 % 1918 % Paris % M379 % . % f: Tango % . % orchestra % Ballet based on South American Tunes % Le Boeuf Sur le Toit % MILHAUD, Darius % 1892
+**solfa
+*clefG2
+*k[]
+*B-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+[2do\
+=
+16do\LK]
+8re\
+16me\Jk
+16fa\LK
+8me\
+16fa\Jk
+=
+4.so\
+8me\
+=
+4.fa\
+8re\
+=
+4me\
+*-

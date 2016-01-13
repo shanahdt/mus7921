@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1883/12/31/
+!!!PDT: 1883///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1867///-1877
+!!!instrument: piano
+!!!place: Tivoli, Weimar
+!!!splace: Deutschland, Mainz
+!!!theme: B
+!!!title1: Tarantella
+!!!statkey: B-
+!!DEBUGGING: l237 % . % 1867-1877 % Tivoli, Weimar % L237 % . % b % . % piano % . % Tarantella % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1883(p) Mainz (L237) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M6/8
+=
+8do/
+8r
+8re/
+8me\
+8r
+8fa\
+=
+8so\
+8r
+8me\
+8te\
+8r
+8le\
+=
+4so\
+8r
+8me\
+8r
+*-

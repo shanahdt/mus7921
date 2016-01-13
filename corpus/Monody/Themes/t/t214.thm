@@ -1,0 +1,38 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1877///
+!!!OCL: RSC
+!!!ODT: <1877/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1877(prf)
+!!!place: Royssia, Moskova
+!!!title1: Swan Lake, Suite from the Ballet, Op. 20a, Orch.
+!!!title2: 4th Movement (Hungarian Dance and Czardas)
+!!!statkey: a
+!!DEBUGGING: t214 % . % 1877(prf) % Moscow % T214 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+8eq/
+2ee\
+16dd\LL
+16cc\J
+[8b\J
+4b\]
+=
+16cc\LL
+16b\J
+8a\J
+8a\L
+8cc\J
+2b\
+=
+*-

@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!OMV: Mov. 3: Rondo
+!!!OPS: Opus 7
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: violn, orchestra
+!!!place: Italia, Milano(?)
+!!!splace: France, Paris & Deutschland, Mainz
+!!!theme: B
+!!!title1: Concerto No. 2 in B Minor
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: p49 % . % 1826 % Milan? % P49 % 7 % b % 3: Rondo % violn, orchestra % . % Concerto No. 2 in B Minor % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Paris and Mainz (P49) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+8ddd\
+=
+4.ddd\
+8bb\
+8r
+8ggg\
+=
+4.fff#\
+8eee\
+8r
+8ccc\
+=
+8aa\
+8r
+8ccc\
+4eee\
+8ddd\
+=
+4.ccc\
+8bb\
+*-

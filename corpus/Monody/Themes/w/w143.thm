@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Waldteufel, Emile
+!!!CDT: 1837/12/09/-1915/02/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1882/12/31/
+!!!PDT: 1882///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1882(p)
+!!!place: France, Paris & England, London
+!!!title1: The Skaters, Waltzes, Op. 183, Orch.
+!!!title2: No. 2
+!!!statkey: D
+!!DEBUGGING: w143 % . % 1882(p) % Paris/London % W143 % . % . % . % . % . % . % WALDTEUFEL, Emile
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+8f#\L
+8a\
+8dd\
+8ff#\J
+=
+4bb\
+4r
+4aa\
+=
+4r
+8aaq/
+4aaa\
+4r
+=
+[2.c#/
+=
+4c#/]
+8g\L
+8a\
+8cc#\
+8ee\J
+=
+4bb\
+4r
+4aa\
+=
+4r
+8aaq/
+4aaa\
+4r
+=
+[2.d/
+=
+4d/]
+*-

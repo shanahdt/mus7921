@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Malipiero, Gian Francesco
+!!!CDT: 1882/03/18/-1973/08/01/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Il Capinero
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: I: 1910///-1911
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!theme: A
+!!!title1: Impressioni Dal Vero
+!!!title2: Il Capinero
+!!!statkey: C
+!!DEBUGGING: m124 % . % I: 1910-1911 % Venice % M124 % . % a % Il Capinero % orchestra % . % Impressioni Dal Vero % MALIPIERO, Gian Francesco % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . II: 1914-1915 . (M124) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . III: 1921-1922 Parma (M124) . a Il Capinero orchestra . Impressioni Dal Vero MALIPIERO, Gian Francesco 1882
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8r
+8cc\
+8ff#\L
+16ee\L
+16dd\JJ
+8cc/L
+8f#/J
+8b\L
+16ee\L
+16dd\JJ
+=
+4cc\
+[2ff#\
+8ff#\]
+8r
+=
+*-

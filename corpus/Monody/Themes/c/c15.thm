@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Gavotte
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 1 in A
+!!!title2: 5th Movement, Gavotte
+!!!statkey: a
+!!DEBUGGING: c15 % 119 % 1731 % Paris % C15 % . % x % 5: Gavotte % cello, piano % . % Suite No. 1 in A % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**kern
+*clefF4
+*k[]
+*a:
+*M2/2
+4A\
+4e\
+=
+8dq/
+4c\
+8Bq/
+4A\
+8d\L
+8c\
+8B\
+8A\J
+=
+8G#\L
+8F#\J
+4E\
+4A\
+8BT\L
+16A\L
+16B\JJ
+=
+8c\L
+8A\J
+8f\L
+8e\J
+4.d\
+8e\
+=
+4e\
+*-

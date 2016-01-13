@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 3: Mercury, the Winged Messenger
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: The Planets
+!!!title2: 3nd Movement (Mercury, the Winged Messenger)
+!!!statkey: C
+!!DEBUGGING: h802 % 253 % 1914-1916 % London % H802 % 32 % a % 3: Mercury, the Winged Messenger % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H802) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*C:
+*M6/8
+=
+8so\
+8r
+8r
+8mi\
+8r
+8r
+=
+8do\
+8r
+8r
+8so/
+8r
+8r
+=
+4r
+8so\
+4mi\
+8do\
+=
+4la/
+8mi/
+8mi/L
+8fi/
+8mi/J
+=
+[2.re/
+=
+2.re/]
+=
+*-

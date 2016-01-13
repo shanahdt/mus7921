@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1870
+!!!instrument: piano
+!!!place: Europe
+!!!theme: C
+!!!title1: Valse Caprice
+!!!statkey: E-
+!!DEBUGGING: r449 % . % 1870 % Europe % R449 % . % c % . % piano % . % Valse Caprice % RUBINSTEIN, Anton % 1829
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+8b-\
+=
+2bbb-\
+[4ee-\
+=
+4ee-\]
+16ffq/LL
+16ggq/JJ
+4.ff\
+8ee-\
+=
+2bb-\
+[4dd\
+=
+4dd\]
+16ccq/LL
+16ddq/JJ
+4.cc\
+8b-\
+=
+2bbb-\
+[4a-/
+=
+4a-/]
+16gq/LL
+16a-q/JJ
+4.g/
+8f/
+=
+2bb-\
+[4e-/
+=
+4e-/]
+*-

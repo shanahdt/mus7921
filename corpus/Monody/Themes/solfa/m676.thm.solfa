@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 589
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: m676 % . % 1790 % Vienna % M676 % K 589 % x % 3 % string % . % Quartet in B Flat % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+4.so\
+16re\LL
+16do\JJ
+16ti\LL
+16la\JJ
+16so\LL
+16fa\JJ
+=
+8.fa\L
+16mi\Jk
+4mi\
+4mi\
+=
+4mi\
+8.fa\L
+16re\Jk
+8.so\L
+16mi\Jk
+=
+4la\
+*-

@@ -1,0 +1,2 @@
+grep -l 'ODT: 16[0-4]' `grep -l '^\*[A-G].*:' *.thm` > filenames
+#extract -f 1 `cat filenames` | rid -GLId | grep -v = | sort | uniq -c | sort -n

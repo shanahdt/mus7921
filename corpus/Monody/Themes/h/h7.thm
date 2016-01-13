@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1740(p)
+!!!instrument: oboe, orchestra
+!!!place: England, London
+!!!title1: Concerto No. 1 in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: h7 % . % 1740(p) % London % H7 % . % x % 3 % oboe, orchestra % . % Concerto No. 1 in B Flat % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . early work . (H7) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+[4b-\
+16b-\LL]
+16dd\
+16ff\
+16dd\JJ
+16.b-T/LL
+32a/Jk
+[8b-/J
+16b-\LL]
+16ff\
+16bb-\
+16ff\JJ
+=
+16.ggT\LL
+32ff\Jk
+[8gg\J
+16gg\LL]
+16aa\
+16ff\
+16ee-\JJ
+16dd\LL
+16cc\J
+8b-\J
+*-

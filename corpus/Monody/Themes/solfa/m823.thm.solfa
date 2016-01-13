@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 336
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1780
+!!!instrument: organ, string
+!!!place: Oesterreich, Salzburg
+!!!title1: Sonata in C
+!!!statkey: C
+!!DEBUGGING: m823 % . % 1780 % Salzburg % M823 % K 336 % x % . % organ, string % . % Sonata in C % c1786(p) % 1756
+**solfa
+*clefG2
+*k[]
+*C:
+*M2/2
+=
+4do\
+2do\
+8.re\L
+16ti\Jk
+=
+[4do\
+8.do\L]
+16re\Jk
+4mi\
+4r
+=
+4mi\
+2mi\
+8.fa\L
+16re\Jk
+=
+[4so\
+8.so\L]
+16fa\Jk
+4mi\
+4r
+=
+*-

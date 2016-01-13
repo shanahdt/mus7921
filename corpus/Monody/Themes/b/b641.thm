@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL, OPS, !"OPRTA", OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1825///-1826///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1827///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quartet in B flat
+!!!OPS: Op. 130
+!!!OPRTA:Scherzoso
+!!!OMV: Mov. 1 (Introduction)
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+4B-/
+=
+4.A/
+8A-/L
+8G/
+8e-/J
+=
+4d/
+8c/
+8r
+4b-\
+=
+4.a/
+8a-/L
+8g/
+8an/J
+=
+4a/
+8b-\
+8r
+*-

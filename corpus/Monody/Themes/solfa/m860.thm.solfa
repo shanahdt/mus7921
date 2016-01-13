@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 16
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1764///-1765
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Symphony No. 1 in E Flat
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: m860 % . % 1764-1765 % London % M860 % K 16 % x % 2 % orchestra % . % Symphony No. 1 in E Flat % c1786(p) % 1756
+**solfa
+*clefF4
+*k[b-e-a-]
+*c:
+*M2/4
+=
+8r
+16do/LL
+16re/JJ
+16me\LL
+16fa\J
+8so\J
+=
+8r
+16fa\LL
+16so\JJ
+16le\LL
+16so\J
+8fa\J
+=
+8r
+16so/LL
+16la/JJ
+16ti/LL
+16do/J
+8re/J
+=
+8r
+16do/LL
+16re/JJ
+16me\LL
+16re\J
+8do\J
+=
+*-

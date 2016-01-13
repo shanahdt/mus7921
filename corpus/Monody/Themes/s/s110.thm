@@ -1,0 +1,61 @@
+**kern
+*clefG2
+*k[b-e-]
+*M3/8
+*g:
+8g
+16gg
+16dd
+16b-
+16g
+=
+8f#
+16g
+16f#
+16e
+16f#
+=
+8d
+16e
+16f#
+16g
+16a
+=
+8b-
+16cc
+16b-
+16a
+16b-
+=
+8cc
+16dd
+16cc
+16b-
+16cc
+=
+8dd
+16bb-
+16ff
+16dd
+16b-
+=
+8a
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1885
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s110 % . % 1885 % Paris? % S110 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1885///
+!!!ODT: <1885/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1885(p) Paris (S110) . . . . . . .

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 4: Gigue
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 3 in D Minor
+!!!title2: 4th Movement (Gigue)
+!!!statkey: d
+!!DEBUGGING: h207 % 223 % 1733(p) % London? % H207 % . % x % 4: Gigue % piano % . % Suite No. 3 in D Minor % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M12/8
+8so\
+=
+8me\L
+8re\
+8do\J
+8ti\L
+8do\
+8re\J
+8do\L
+8re\
+8me\J
+8re\L
+8me\
+8fa\J
+=
+8me\L
+8re\
+8do\J
+8ti\L
+8do\
+8re\J
+8do\L
+8re\
+8me\J
+8re\L
+8me\
+8fa\J
+=
+*-

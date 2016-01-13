@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus 146
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1915
+!!!instrument: clars, string
+!!!place: Deutschland, Jena
+!!!theme: B
+!!!title1: Quintet in A
+!!!title2: 2nd Movement
+!!!statkey: e
+!!DEBUGGING: r232 % . % 1915 % Jena % R232 % 146 % b % 2 % clars, string % . % Quintet in A % REGER, Max % 1873
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+2mi\
+4so\
+=
+2do\
+4ti\
+=
+2la\
+4so\
+=
+4.fi\
+8so\
+4mi\
+=
+2re/
+4la\
+=
+2re\
+4do\
+=
+2ti\
+4la\
+=
+2si\
+4fa\
+=
+4.mi\
+*-

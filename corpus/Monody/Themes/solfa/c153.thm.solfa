@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Cherubini, Luigi
+!!!CDT: 1760/09/14/-1842/03/15/
+!!!CNT: Italian
+!!!OPR: Les Abencerages
+!!!OTL: Overture
+!!!thm: B           
+!!!AIN: orchestra            
+!!!MRD: 1813///
+!!!MLC: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[f#c#]
+*A:
+*M2/2
+!! ! NB. Key & key signature disagree.
+8so\
+=
+2do\
+4so\
+8r
+8do\
+=
+2me\
+4do\
+8r
+8do/
+=
+4.fa\
+8le\
+4do\
+8r
+8do/
+=
+4.me\
+8so\
+4do\
+8r
+8do\
+=
+4re\
+8faq/
+8me\L
+8re\J
+4re\
+4so\
+=
+*-

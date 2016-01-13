@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Symphony No. 5 in B Flat Major
+!!!OMV: Mov. 3
+!!!thm: C
+!!!AIN: orchestra
+!!!ODT: 1875///-1876///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4.mi/
+8fa/L
+8so/
+8so/J
+=
+4.mi/
+8do\L
+8so\
+8fa\J
+=
+4.mi/
+8fa/L
+8so/
+8so/J
+=
+4.fa\
+8re\L
+8so\
+8fa\J
+=
+4.mi/
+*-

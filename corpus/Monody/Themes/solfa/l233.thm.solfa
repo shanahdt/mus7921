@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1858/12/31/
+!!!OMV: Mov. Sonnet 123 of Petrarch
+!!!PDT: 1858///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837///-1849
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Mainz
+!!!title1: Years of Travel
+!!!title2: Second Year
+!!!statkey: A-
+!!DEBUGGING: l233 % . % 1837-1849 % Weimar % L233 % . % x % Sonnet 123 of Petrarch % piano % Second Year % Years of Travel % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1858(p) Mainz (L233) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+8so/
+8do/
+8re\
+=
+4.mi\
+8mi\
+12mi\L
+12so\
+12fa\J
+12la/L
+12do/
+12re/J
+=
+12mi/L
+12ti/
+12do/J
+4so/
+12r
+12fi/L
+12so/
+12do/
+12mi/
+12fa/J)
+=
+4di/
+4re\
+*-

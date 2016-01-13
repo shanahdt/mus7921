@@ -1,0 +1,59 @@
+**solfa
+*clefG2
+*k[f#c#]
+*met(C)
+*M4/4
+*b:
+8.so
+16do
+8do
+8re
+8.me
+16so
+8so
+8de
+=
+8.do
+16te
+8te
+8re
+8.de
+16so
+8so
+8de
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s801 % . % 1841 % Leipzig % S801 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!splace: D&uuml;sseldorf
+!!!CDT: ///-
+!!DEBUGGING: . . 1851(rev) D&uuml;sseldorf (S801) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) ? (S801) . . . . . . SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(prf) Leipzig (S801) . . . . . . SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1852///
+!!!ODT: <1852/12/31/
+!!!splace: D&uuml;sseldorf
+!!!CDT: ///-
+!!DEBUGGING: . . 1852(prf) D&uuml;sseldorf (S801) . . . . . . SCHUMANN, Robert

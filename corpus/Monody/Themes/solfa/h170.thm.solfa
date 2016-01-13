@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 2
+!!!OPC: England, London(?)
+!!!OPS: Opus 2
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: 2 flt or 2 violn, 2cbass
+!!!splace: England, London
+!!!title1: Sonata in G Minor
+!!!title2: 4th Movement
+!!!statkey: g
+!!DEBUGGING: h170 % 221 % c1730(p) % London? % H170 % 2 No. 2 % x % 4 % 2 flt or 2 violn, 2cbass % . % Sonata in G Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H170) . . . . . . . .
+**solfa
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8do\L
+8so\
+8so\
+8do\J
+8re\L
+8so\
+8so\
+8re\J
+=
+8me\L
+8so\
+8re\
+8so\J
+8do\L
+8so\
+8fa\
+8do\J
+=
+4ti\
+*-

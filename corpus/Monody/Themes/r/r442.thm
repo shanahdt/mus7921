@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 44
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1860
+!!!instrument: piano
+!!!place: Royssia, St. Petersburg
+!!!theme: A
+!!!title1: Romance
+!!!statkey: c
+!!DEBUGGING: r442 % . % 1860 % St. Petersburg % R442 % 44 No. 1 % a % . % piano % . % Romance % RUBINSTEIN, Anton % 1829
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+8r
+8e-/L
+8d/
+8e-/J
+8en/L
+8f/
+8f/
+8f/J
+=
+8a-/L
+8a-/
+8.g/
+16f#/Jk
+4f#/
+4g/
+=
+8r
+8g/L
+8f#/
+8g/J
+8g/L
+8a-/
+8a-/
+8a-/J
+=
+8cc\L
+8cc\
+8.b-\
+16an\Jk
+4cc\
+4b-\
+=
+*-

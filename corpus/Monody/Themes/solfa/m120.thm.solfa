@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Malipiero, Gian Francesco
+!!!CDT: 1882/03/18/-1973/08/01/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1921
+!!!instrument: orchestra
+!!!place: Italia, Parma
+!!!theme: B
+!!!title1: La Cimarosiana
+!!!title2: 3nd Movement
+!!!statkey: A
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m120 % . % 1921 % Parma % M120 % . % b % 3 % orchestra % . % La Cimarosiana % MALIPIERO, Gian Francesco % 1882
+**solfa
+*clefG2
+*k[f#c#g#]
+*E:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+16doq/LL
+16req/
+16miq/JJ
+4fa\
+8do\
+16doq/LL
+16req/
+16miq/JJ
+4fa\
+8do\
+=
+8re\L
+8do\
+8re\J
+8mi\L
+8re\
+8mi\J
+=
+*-

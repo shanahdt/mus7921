@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1798///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1805///
+!!!PPP: &Ouml;sterreich, Wien              
+!!!OTL: Romance No.2 in F for Violin and Orchestra
+!!!SET: No. 2
+!!!OPS: Op. 50
+!!!AIN: orchestra violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+2ff\
+8.aa\L
+16gg\k
+8.bb-\
+16gg\Jk
+=
+[4ff\
+16ff\LL]
+16ee\
+16gg\
+16ee\JJ
+4cc\
+8r
+8cc\
+=
+4ff\
+8aaq/
+16gg\LL
+16ff#\
+16gg\
+16gg#\JJ
+4aa\
+*-

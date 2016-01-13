@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 188
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1773
+!!!instrument: 2 flt, tromp, drum
+!!!place: Oesterreich, Salzburg
+!!!title1: Divertimento in C
+!!!title2: 3rd Movement
+!!!statkey: C
+!!DEBUGGING: m562 % . % 1773 % Salzburg % M562 % K 188 % x % 3 % 2 flt, tromp, drum % . % Divertimento in C % MOZART, Wolfgang Amadeus % 1756
+**solfa
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8mi\L
+8so\
+8fa\
+8mi\J
+4re\
+=
+8fa\L
+8la\
+8so\
+8fa\J
+4mi\
+=
+4do\
+4do\
+4do\
+=
+8fa\L
+8la\
+8so\
+8fa\J
+4mi\
+=
+*-

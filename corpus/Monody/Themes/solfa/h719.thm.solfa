@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Herbert, Victor
+!!!CDT: 1859/02/01/-1924/05/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1911///
+!!!OCL: RSC
+!!!ODT: <1911/12/31/
+!!!OMV: Mov. Dagger Dance
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1911
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, Pennsylvania, Philadelphia
+!!!title1: Natoma
+!!!title2: Opera
+!!!statkey: e
+!!DEBUGGING: h719 % . % 1911 % New York % H719 % . % x % Dagger Dance % orchestra % Opera % Natoma % HERBERT, Victor % 1859
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(prf) Philadelphia (H719) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+2.do\
+4te\
+=
+8so\
+8r
+8so\
+8r
+2fa/
+=
+8so\L
+8te\J
+2.te\
+=
+8so\L
+8te\J
+2.te\
+=
+2.do\
+4te\
+=
+8so\
+8r
+8so\
+8r
+2fa/
+=
+8so/L
+8do/J
+2.do/
+=
+*-

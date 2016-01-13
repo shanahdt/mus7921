@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Parade
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: Italia, Roma(?)
+!!!theme: A
+!!!title1: Divertissement
+!!!title2: 5th Movement (Parade)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i12 % . % 1930 % Rome? % I12 % . % a % 5: Parade % orchestra % . % Divertissement % IBERT, Jacques % 1890
+**solfa
+*clefG2
+*k[]
+*B-:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8so/
+=
+8.do\L
+16do\Jk
+8do\L
+8do\J
+=
+4do\
+8r
+8so/
+=
+8.do\L
+16do\Jk
+8do\L
+8re\J
+=
+4mi\
+8do/L
+8so/J
+=
+8.re\L
+16re\Jk
+8re\L
+8re\J
+=
+4re\
+8r
+8so/
+=
+8.do\L
+16do\Jk
+8do\L
+8re\J
+=
+4mi\
+*-

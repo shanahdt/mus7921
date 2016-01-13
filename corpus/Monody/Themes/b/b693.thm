@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1793///-1795///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1796///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.1 in F Minor for Piano                  
+!!!OPS: Op. 2
+!!!ONM: No. 1
+!!!SET: No. 1
+!!!OMV: Mov. 3
+!!!thm: B
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+4c/
+=
+8a/L
+8g/
+8a/
+8f/
+8g/
+8a/J
+=
+8b-/L
+8a/
+8b-/
+8g/
+8a/
+8b-/J
+=
+8cc\L
+8bn\
+8cc\
+8dd\
+8cc\
+8b-\J
+=
+8a/L
+8g/
+8a/
+8b-/
+8a/
+8f/J
+=
+*-

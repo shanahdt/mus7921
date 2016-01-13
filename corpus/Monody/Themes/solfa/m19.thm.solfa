@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1897
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!title1: Of a Tailor and a Bear
+!!!statkey: e
+!!DEBUGGING: m19 % . % 1897 % New York % M19 % . % x % . % piano % . % Of a Tailor and a Bear % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) . (M19) . . . . . . . .
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+8do\
+8r
+8so\
+8r
+16la\LL
+16so\
+16fa\
+16la\JJ
+8so\L
+8mi\J
+=
+8.re/L
+16mi/Jk
+8la\L
+8mi\J
+4.mi\
+8ri\
+=
+8.mi\L
+16re\Jk
+8ti\L
+8la\J
+16so\LL
+16la\
+16so\
+16mi\JJ
+8so\
+*-

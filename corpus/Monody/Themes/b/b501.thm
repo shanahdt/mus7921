@@ -1,0 +1,40 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bartók, Béla
+!!!CDT: 1881/03/25/-1945/09/26/
+!!!CNT: Hungarian
+!!!PDT: 1915///
+!!!OCY: Hungary
+!!!OPC: Budapest
+!!!OTL: Rumanian Folk Dances for Piano 
+!!!AIN: forte
+!!!OMV: Mov. 3        
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+=
+8r
+8ddd\L
+8eee#\
+8fff#\J
+=
+8eee#t\L
+8ddd\
+8eee#\
+8fff#\J
+=
+8eee#\L
+8ddd\
+8eee#\
+[8fff#t\J
+=
+8fff#\]
+4eee#T\
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wolf, Hugo
+!!!CDT: 1860/03/13/-1903/02/22/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1903/12/31/
+!!!PDT: 1903///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887
+!!!place: Oesterreich, Vienna
+!!!splace: Deutschland, Leipzig
+!!!title1: Italian Serenade, Str. Quart. or Str. Orch.
+!!!statkey: A
+!!DEBUGGING: w299 % 522 % 1887 % Vienna % W299 % . % . % . % . % . % . % WOLF, Hugo
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1892(rev) . (W299) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 522 1903(p) Leipzig (W299) . . . . . . WOLF, Hugo
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M3/8
+=
+8r
+8a\L
+8gg#\J
+=
+8aa\
+[4ccc#\
+=
+8ccc#\L]
+8bb\
+8ccc#\J
+=
+8bb\
+[4aa\
+=
+8aa\L]
+8ggn\
+8aa\J
+=
+8ggn\L
+8ff#\
+8ff#\J
+=
+16ff#q/LL
+16ggnq/JJ
+4aa\
+8gg#\
+=
+4.aa\
+=
+*-

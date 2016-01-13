@@ -1,0 +1,42 @@
+**solfa
+*clefG2
+*k[b-]
+*met(C)
+*M4/4
+*d:
+2do
+2so
+=
+2me
+2do
+=
+2so
+4me
+4fa
+=
+4re
+2me
+4le
+=
+2so
+2re
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1851
+!!!place: D&uuml;sseldorf
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s732 % . % 1851 % D&uuml;sseldorf % S732 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) ? (S732) . . . . . . .

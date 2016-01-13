@@ -1,0 +1,45 @@
+**kern
+*clefG2
+*k[b-e-a-]
+*M3/2
+!! NB. Key & key signature disagree.
+*D-:
+2d-
+2a-
+4b-
+8a-
+8f#
+=
+2a-
+4A
+4a-
+4f#
+8f
+8e-
+=
+2f
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1937///-1938
+!!!place: France, Paris
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1534f % . % 1937-1938 % Paris % S1534f % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1938///
+!!!ODT: <1938/12/31/
+!!!splace: S
+!!!CDT: ///-
+!!DEBUGGING: . . 1938(p) S (S1534f) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1938///
+!!!ODT: <1938/12/31/
+!!!splace: United States of America, Washington D.C.
+!!!CDT: ///-
+!!DEBUGGING: . . 1938(prf) Washington D.C. (S1534f) . . . . . . STRAVINSKY, Igor

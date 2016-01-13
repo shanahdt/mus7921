@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: La Milanese
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 1 in A
+!!!title2: 1st Movement, La Milanese
+!!!statkey: A
+!!DEBUGGING: c11 % . % 1731 % Paris % C11 % . % x % 1: La Milanese % cello, piano % . % Suite No. 1 in A % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**solfa
+*clefF4
+*k[f#c#g#]
+*A:
+*M6/8
+8so\
+=
+8do\L
+8ti\
+8do\J
+8re\L
+8do\
+8re\J
+=
+8.mi\L
+16re\k
+8do\J
+4do/
+8so\
+=
+8fa\L
+8so\
+8fa\J
+8mi\L
+8fa\
+8mi\J
+=
+4re\
+8so\
+4so/
+*-

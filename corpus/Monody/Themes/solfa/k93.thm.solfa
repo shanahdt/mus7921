@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Korngold, Erich Wolfgang
+!!!CDT: 1897/05/29/-1957/11/29/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Holzapfel und Schlehwein
+!!!OPS: Opus 11
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna(?)
+!!!theme: B
+!!!title1: Much Ado About Nothing
+!!!title2: Suite
+!!!statkey: C
+!!DEBUGGING: k93 % . % 1919 % Vienna? % K93 % 11 % b % 2: Holzapfel und Schlehwein % violn, piano % Suite % Much Ado About Nothing % KORNGOLD, Erich Wolfgang % 1897
+**solfa
+*clefG2
+*k[]
+*C:
+*M4/4
+8r
+24so/LL
+24la/
+24so/JJ
+16re/LL
+16so/
+16do/
+16mi/JJ
+=
+4so\
+8le\L
+16r
+16te\Jk
+4so\
+8la\L
+16r
+16ti\Jk
+=
+*^
+12so\L	4so/
+12r	.
+48do\L	.
+48re\	.
+48do\JJ	.
+12ti/L	.
+*-	*-

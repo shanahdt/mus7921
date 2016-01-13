@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bizet, Georges
+!!!CDT: 1838/10/25/-1875/06/03/
+!!!CNT: French
+!!!ODT: 1873///-1874///
+!!!OCY: France            
+!!!OPC: Paris
+!!!MRD: 1875/3/3/
+!!!MLC: France, Paris
+!!!OTL: Carmen 
+!!!OMV: Second Intermezzo      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**solfa
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+4.do\
+8re\
+8fa\L
+8mi\
+8re\
+8do\J
+=
+4so\
+12la\L
+12mi\
+12la\J
+4so\
+8r
+8so\
+=
+8la\L
+8ti\J
+[4do\
+8do\L]
+8ti\
+8la\
+8mi\J
+=
+8mi\L
+8so\
+16req/LL
+16miq/JJ
+8.re\
+16do\Jk
+4re\
+4so\
+=
+*-

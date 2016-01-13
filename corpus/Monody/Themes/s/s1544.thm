@@ -1,0 +1,68 @@
+**kern
+*clefG2
+*k[]
+*M3/4
+!! NB. Key & key signature disagree.
+*A:
+4ccc#
+4aa
+4ccc#
+=
+8bb-
+32cccn
+32bb-
+32aa
+32bb-
+4ccc
+=
+*M4/4
+4aa
+4bb-
+4ccc#
+4cccn
+=
+*M3/4
+2.aa
+=
+4ccc#
+4cccn
+4aa
+=
+2ccc#
+4aa
+=
+4bb-
+4eee
+4ggg
+=
+2.fff#
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1922///-1923
+!!!place: Helvetia, Biarritz
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1544 % 472 % 1922-1923 % Biarritz % S1544 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1924///
+!!!ODT: <1924/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . . 1924(p) R (S1544) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!splace: United States of America, California, Hollywood
+!!!CDT: ///-
+!!DEBUGGING: . 472 1952(rev) Hollywood, CA (S1544) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1952///
+!!!ODT: <1952/12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . 472 1952(p) B (S1544) . . . . . . STRAVINSKY, Igor

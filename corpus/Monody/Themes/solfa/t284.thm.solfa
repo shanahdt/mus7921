@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1893///
+!!!OCL: RSC
+!!!ODT: <1893/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Symphony No. 6 in B Minor, Op. 74 "Path\e7tique"
+!!!title2: 2nd Movement
+!!!statkey: b
+!!DEBUGGING: t284 % . % 1893(prf) % St. Petersburg % T284 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**solfa
+*clefF4
+*k[f#c#]
+*D:
+*M5/4
+=
+4mi\
+4fa\
+12so\L
+12fa\
+12so\J
+4la\
+4ti\
+=
+4do\
+4la\
+2.ti\
+=
+4so\
+4la\
+12ti\L
+12la\
+12ti\J
+4do\
+4re\
+=
+4mi\
+4do\
+2.re\
+=
+*-

@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. Les Tendres Plaintes
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!statkey: d
+!!DEBUGGING: r118 % 374 % 1724(p) % Paris % R118 % . % x % Les Tendres Plaintes % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R118) . . . . . . . .
+**solfa
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+2me\
+4so\
+=
+2do\
+4me\
+=
+4re\
+4doT\
+4ti\
+=
+2do\
+4fa\
+=
+4me\
+4reT\
+4do\
+=
+4re\
+4ti\
+4do\
+=
+4.re\
+8me\
+4fa\
+=
+8meq/
+2.re\
+=
+*-

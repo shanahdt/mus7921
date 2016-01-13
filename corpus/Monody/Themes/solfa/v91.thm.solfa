@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Verdi, Giuseppe
+!!!CDT: 1813/10/9-10/-1901/01/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1855///
+!!!OCL: RSC
+!!!ODT: <1855/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1855(prf)
+!!!place: France, Paris
+!!!title1: I Vespri Siciliani, Overture
+!!!statkey: c#
+!!DEBUGGING: v91 % . % 1855(prf) % Paris % V91 % . % . % . % . % . % . % VERDI, Giuseppe % 1813
+**solfa
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M12/8
+=
+4.mi\
+4.re\
+4do\
+8ti\
+4la\
+8so\
+=
+4.mi/
+4.so\
+4.re/
+4r
+8r
+=
+4.mi\
+4.re\
+4do\
+8ti\
+4la\
+8so\
+=
+4mi/
+32fa/LLL
+32mi/
+32ri/
+32mi/JJJ
+4la\
+8so\
+4.re/
+*-

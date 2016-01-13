@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712/12/31/
+!!!OMV: Mov. 2: Minuet
+!!!PDT: 1712///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712(p)
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G Minor
+!!!title2: 2nd Movement (Minuet)
+!!!statkey: g
+!!DEBUGGING: l273 % . % 1712(p) % London % L273 % . % x % 2: Minuet % cemba % . % Suite No. 1 in G Minor % LOEILLET, Jean Baptiste % 1680
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+8g/L
+8a/J
+4.aT/
+16g/LL
+16a/JJ
+=
+4b-\
+4g/
+4ee-\
+=
+4dd\
+[4.ccT\
+32cc\LLL]
+32b-\
+32cc\
+32dd\JJJ
+=
+2b-\
+4a/
+=
+*-

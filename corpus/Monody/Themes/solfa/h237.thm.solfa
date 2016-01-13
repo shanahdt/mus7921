@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 8 in G
+!!!title2: 2nd Set
+!!!statkey: G
+!!DEBUGGING: h237 % . % 1733(p) % London? % H237 % . % x % 2 % piano % 2nd Set % Suite No. 8 in G % HANDEL, George Frederick % 1685
+**solfa
+*clefG2
+*k[f#]
+*G:
+*M2/2
+16do/
+=
+[4do/
+16do/LL]
+16mi/
+16re/
+16do/JJ
+[4re/
+16re/LL]
+16fa/
+16mi/
+16re/JJ
+=
+[4mi\
+16mi\LL]
+16so\
+16fa\
+16mi\JJ
+[4re/
+16re/LL]
+16re/
+16mi/
+16fa/JJ
+=
+4so\
+*-

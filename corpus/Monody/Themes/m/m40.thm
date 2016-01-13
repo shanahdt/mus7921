@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!OPS: Opus 51
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: United States of America, New York
+!!!theme: A
+!!!title1: Woodland Sketches
+!!!title2: No. 5: From an Indian Lodge
+!!!statkey: c
+!!DEBUGGING: m40 % . % 1896 % Wiesbaden % M40 % 51 % a % . % piano % No. 5: From an Indian Lodge % Woodland Sketches % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1896(p) New York (M40) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/2
+=
+8cq/
+2g/
+8anq/
+2g/
+4c/
+4c/
+=
+8cq/
+2g/
+8anq/
+2g/
+4c/
+[4c/
+=
+1.c/]
+=
+*-

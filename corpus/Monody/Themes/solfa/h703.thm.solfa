@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1970/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1970///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797, 1795?
+!!!instrument: violn, piano, cello
+!!!place: Oesterreich, Vienna & England, London(?)
+!!!splace: ?
+!!!theme: A
+!!!title1: Trio No. 3 in C
+!!!title2: 1st Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h703 % . % -1797, 1795? % Vienna, London? % H703 % . % a % 1 % violn, piano, cello % . % Trio No. 3 in C % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1970(p) ? (H703) . . . . . . . .
+**solfa
+*clefG2
+*k[]
+*E:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+16doq/LL
+16meq/JJ
+8le\
+8r
+16leq/LL
+16doq/JJ
+8me\L
+16doq/LL
+16meq/JJ
+8le\J
+16meq/LL
+16leq/JJ
+8.do\L
+16te\Jk
+16teq/
+8le\L
+16so\L
+16fa\JJ
+=
+8me\L
+8mi\
+8fa\
+8do\J
+8me\L
+8ra\J
+4r
+=
+*-
