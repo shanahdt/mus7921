@@ -2,7 +2,7 @@
 
 ### Syllabus
 
-The syllabus can be found [here](/syllabus/7921_syllabus.pdf).
+The syllabus can be found [here](https://github.com/shanahdt/mus7921/blob/master/syllabus/7921_syllabus.pdf).
 
 ## Details
 
