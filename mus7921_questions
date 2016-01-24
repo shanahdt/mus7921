@@ -1,0 +1,4 @@
+mus7921_questions
+1.) What is the most common note-to-note melodic transition in National Anthems? (use context)
+
+2.) Write a script called trigram_finder.sh that find the five most common three-chord progressions in the Bach Chorales (those with harmonic analyses; you'll need to use extract and context).
