@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 3
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1892
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!splace: United States of America
+!!!title1: M&eacute;lodie
+!!!statkey: c#
+!!DEBUGGING: r32 % . % 1892 % Moscow % R32 % 3 No. 3 % x % . % piano % . % M&eacute;lodie % RAKHMANINOV, Sergey % 1873
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1940(rev) USA (R32) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#g#d#]
+*E:
+*M4/4
+4E\
+=
+2.F#\
+8.A\L
+16G#\J
+=
+[2G#\
+6G#\]
+12G#\
+6A\
+12B\
+=
+2c#\
+4c#\
+8d#\L
+8e\J
+=
+4f#\
+2g#\
+6f#\
+12e\
+=
+2e\
+*-

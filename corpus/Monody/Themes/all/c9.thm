@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Cadman, Charles Wakefield
+!!!CDT: 1881/12/24/-1946/12/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Night Song
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Pennsylvania, Pittsburgh
+!!!title1: Thunderbird Suite
+!!!title2: 4th Movement, Night Song (Blackfeet Indian Tune)
+!!!statkey: C
+!!DEBUGGING: c9 % . % 1914 % Pittsburgh % C9 % . % x % 4: Night Song % orchestra % . % Thunderbird Suite % CADMAN, Charles Wakefield % 1881
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8.g/L
+16e/Jk
+=
+4.ee\
+8dd\
+8.ee\L
+16dd\Jk
+=
+4.cc\
+8a/
+8.cc\L
+16a\Jk
+=
+4.g/
+8e/
+8.g/L
+16e/Jk
+=||
+*M4/4
+24d/LL
+24e/
+24d/J
+8c/J
+24d/LL
+24e/
+24d/J
+8c/J
+24d/LL
+24e/
+24d/J
+8c/J
+*-

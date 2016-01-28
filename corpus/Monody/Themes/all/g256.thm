@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Holberg Suite for String Orchestra
+!!!OMV: Mov. 3             
+!!!thm: B (Musette)
+!!!OPS: Op. 40
+!!!AIN: Cstr 
+!!!ODT: <1885/// 
+!!!OCY: Norge
+!!!OPC: Bergen    
+!!!PDT: 1885///
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M2/2
+8ee\L
+8dd\
+8ee\
+8gg\J
+=
+8ff\L
+8ee\
+8dd\
+8ff\J
+8ee\L
+8dd\
+8cc\
+8ee\J
+=
+8dd\L
+8b\J
+4g/
+8aa\L
+8ccc\
+8aa\
+8ff\J
+=
+8ee\L
+8gg\
+8ee\
+8cc\J
+8b\L
+8dd\
+8b\
+8g\J
+=
+2g/
+*-

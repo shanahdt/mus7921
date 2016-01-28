@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 5
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: h72 % . % 1739 % London % H72 % 6 No. 5 % x % 1 % string orchestra % . % Concerto Grosso in D % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H72) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+32r
+32d/LLL
+32d/
+32d/JJJ
+=
+4.d/
+32r
+32aa\LLL
+32bb\
+32ccc#\JJJ
+8ddd\L
+32r
+32aa\LL
+32bb\
+32ccc#\JJJ
+=
+4.ddd\
+32r
+32a\LLL
+32b\
+32cc#\JJJ
+8dd\L
+32r
+32a\LL
+32b\
+32cc#\JJJ
+=
+4.dd\
+32r
+32ee\LLL
+32dd\
+32cc#\JJJ
+8.dd\L
+16dd\Jk
+=
+4.ff#\
+*-

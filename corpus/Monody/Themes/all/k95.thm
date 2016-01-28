@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: violn, piano
+!!!place: ?
+!!!title1: Andantino
+!!!title2: Style of Padre Martini
+!!!statkey: F
+!!DEBUGGING: k95 % . % ? % ? % K95 % . % x % . % violn, piano % Style of Padre Martini % Andantino % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+8cc\
+=
+8a\L
+8cc\J
+8b-\L
+8dd\J
+=
+8.g/L
+16a/Jk
+8b-\L
+8cc\J
+=
+8a/L
+8cc/J
+8ff\L
+8dd\J
+=
+[8cc\L
+32cc\LL]
+32dd\
+32cc\
+32b-\JJJ
+8a/
+*-

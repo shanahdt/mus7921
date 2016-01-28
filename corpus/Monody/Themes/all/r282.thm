@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1924///
+!!!OCL: RSC
+!!!ODT: <1924/12/31/
+!!!OMV: Mov. Pines of the Gianicolo
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1923///-1924
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Pines of Rome
+!!!title2: Pines of the Giancolo
+!!!statkey: E
+!!DEBUGGING: r282 % . % 1923-1924 % Rome % R282 % . % b % Pines of the Gianicolo % orchestra % . % Pines of Rome % RESPIGHI, Ottorino % 1879
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1924(prf) . (R282) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M12/8
+=
+4.e/
+[4g#/
+16g#/LL]
+16b/JJ
+4.ee\
+4.gg#\
+=
+[4.ggn\
+8.gg\L]
+16ee\L
+16b\
+16a\JJ
+2.gn/
+=
+*-

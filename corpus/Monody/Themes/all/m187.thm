@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Medtner, Nicolas
+!!!CDT: 1880/01/05/-1951/11/13/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 3
+!!!OPS: Opus 7
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1904
+!!!instrument: piano
+!!!place: Royssia, Moskova(?)
+!!!title1: Arabesque
+!!!title2: "Tragedie-Fragment"
+!!!statkey: g
+!!DEBUGGING: m187 % . % 1904 % Moscow? % M187 % 7 No. 3 % x % . % piano % "Tragedie-Fragment" % Arabesque % MEDTNER, Nicolas % 1880
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M6/8
+=
+8r
+8B-/L
+8c/J
+8c#/L
+8e-/
+[8g/J
+=
+8g/L]
+8f/
+8en/J
+8e-/L
+8d/
+8g/J
+=
+8r
+8B-/L
+8c/J
+8c#/L
+8d/
+[8g/J
+=
+8g/]
+8a/L
+8b-/J
+4dd\
+8d/
+=
+*-

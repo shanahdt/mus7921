@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Haba&ntilde;era
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1907///-1908
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: C
+!!!title1: Rapsodie Espagnole
+!!!title2: 3rd Movement (Haba\n1era)
+!!!statkey: f#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r177 % 377 % 1907-1908 % Paris % R177 % . % c % 3: Haba&ntilde;era % orchestra % . % Rapsodie Espagnole % RAVEL, Maurice % 1875
+**kern
+*clefG2
+*k[f#c#g#]
+*G-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+16r
+32r
+32e#/
+8f#/L
+8g#/J
+=
+16b/LL
+16a/JJ
+16r
+32r
+32e#/
+8f#/L
+8g#/J
+=
+16b/LL
+16a/JJ
+16r
+32r
+32e#/
+8f#/L
+8g#/J
+=
+16b/LL
+16a/JJ
+16r
+32a/LLL
+32a/JJJ
+8c#/
+8r
+=
+*-

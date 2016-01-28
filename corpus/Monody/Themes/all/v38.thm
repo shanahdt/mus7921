@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931///-1934
+!!!place: England, Dorking
+!!!title1: Symphony No. 4 in E Minor
+!!!title2: 3rd Movement
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: v38 % . % 1931-1934 % Dorking, England % V38 % . % . % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**kern
+*clefF4
+*k[b-e-a-]
+*F:
+*M3/4
+!! ! NB. Key & key signature disagree.
+4EE-/
+=
+4.FF/
+8BB-/
+4E-\
+=
+2A-\
+4E-\
+=
+4.BB-/
+8E-\
+4AA-/
+=
+2FF/
+4BB-/
+=
+4.FF/
+8BB-/
+4E-\
+=
+4A-\
+4d-\
+4F\
+=
+4B-\
+4Dn\
+4G\
+=
+*-

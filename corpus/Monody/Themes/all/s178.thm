@@ -1,0 +1,50 @@
+**kern
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*C:
+[1e
+=
+4]e
+4d
+8e
+8f
+4g
+=
+1a
+=
+1b
+=
+4cc
+4aa
+4gg
+4ee
+=
+8ff
+8gg
+8aa
+[8bb
+8]bb
+8aa
+4gg
+=
+*-
+!!!COM: Satie, Erik
+!!!CNT: French
+!!!date: 1917
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s178 % . % 1917 % Paris? % S178 % . % . % . % . % . % . % SATIE, Erik
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1917///
+!!!ODT: <1917/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1917(prf) Paris (S178) . . . . . . .

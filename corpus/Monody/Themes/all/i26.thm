@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. No. 8: Le Cage de Crystal
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926
+!!!instrument: piano
+!!!place: Italia, Roma(?)
+!!!title1: Histoires
+!!!title2: No. 8,  Le Cage de Crystal  (The Crystal Cage)
+!!!statkey: e
+!!DEBUGGING: i26 % 258 % 1926 % Rome? % I26 % . % x % No. 8: Le Cage de Crystal % piano % . % Histoires % IBERT, Jacques % 1890
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4g/
+8.f#/L
+16d/Jk
+8e/L
+8e/J
+4B/
+=
+4g/
+8.f#/L
+16d/Jk
+2e/
+=
+4g/
+8.f#/L
+16d/Jk
+8e/L
+8e/J
+4B/
+=
+4g/
+8.f#/L
+16d/Jk
+2e/
+=
+*-

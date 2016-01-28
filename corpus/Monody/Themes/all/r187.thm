@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1920///
+!!!OCL: RSC
+!!!ODT: <1920/12/31/
+!!!OMV: Mov. Prelude
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1917
+!!!instrument: piano or orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Le Tombeau de Couperin
+!!!title2: Prelude
+!!!statkey: G
+!!DEBUGGING: r187 % . % 1914-1917 % Paris % R187 % . % x % Prelude % piano or orchestra % . % Le Tombeau de Couperin % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1919(rev) . (R187) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1920(prf) Paris (R187) . x Prelude piano or orchestra . Le Tombeau de Couperin RAVEL, Maurice 1875
+**kern
+*clefG2
+*k[f#]
+*G:
+*M12/16
+=
+16a/LL
+16g/
+16d/J
+16e/L
+16g/
+16b/JJ
+16a/LL
+16g/
+16d/J
+16e/L
+16g/
+16b/JJ
+=
+32aq/LLL
+32bq/JJJ
+16a/LL
+16g/
+[16a/J
+8.a/J]
+!!   Encoding error:    change 4 to 8
+32aq/LLL
+32bq/JJJ
+16a/LL
+16g/
+[16a/J
+8.a/J]
+=
+*-

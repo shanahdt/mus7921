@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1884/12/31/
+!!!ONM: No. 2
+!!!OPS: Opus 17
+!!!PDT: 1884///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1883
+!!!instrument: piano
+!!!place: Deutschland, Frankfurt(?)
+!!!splace: Deutschland, Breslau, & United States of America, New York
+!!!title1: Witches' Dance
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m36 % . % 1883 % Frankfurt? % M36 % 17 No. 2 % x % . % piano % . % Witches' Dance % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1884(p) Breslau, New York (M36) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*G:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+4.B/
+=
+4.d/
+=
+4.f#/
+=
+4e/
+8d/
+=
+4.e/
+=
+4.g/
+=
+[4.f#/
+=
+8f#/L]
+8e/
+8d/J
+=
+4.e/
+=
+4.b\
+=
+4.b\
+=
+*-

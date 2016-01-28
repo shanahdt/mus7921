@@ -1,0 +1,61 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Serenade in A for Strings  
+!!!OPS: Op. 16
+!!!OMV: Mov. 5
+!!!thm: B
+!!!AIN: Cstr     
+!!!ODT: 1858///-1859///
+!!!OCY: Deutschland   
+!!!OPC: Hamburg
+!!!PDT: 1860///
+!!!MRD: 1860///
+!!!MLC: Deutschland, Hamburg      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*E:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8b\
+=
+4g#/
+8r
+8b\
+=
+8gg#\L
+8ee\
+8dd#\
+8ff#\J
+=
+4b\
+8r
+8ee\
+=
+4cc#\
+8r
+8ee\
+=
+8dd#\L
+8cc#\
+8b\
+8a\J
+=
+20g#/LL
+20a/
+20g#/
+20f#/
+20g#/JJ
+8b/L
+8a/J
+=
+4f#/
+*-

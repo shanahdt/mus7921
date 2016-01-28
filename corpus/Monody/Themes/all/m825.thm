@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1781/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 296
+!!!PDT: 1781///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: violn, piano
+!!!place: Deutschland, Mannheim
+!!!splace: Oesterreich, Vienna
+!!!title1: Sonata in C
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: m825 % . % 1778 % Mannheim % M825 % K 296 % x % 2 % violn, piano % . % Sonata in C % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1781(p) Vienna (M825) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+8.a/L
+16b-/Jk
+=
+8.cc\L
+16a\Jk
+4cc\
+8.ff\L
+16dd\Jk
+=
+8.cc\L
+16a\Jk
+4cc\
+8.a/L
+16b-/Jk
+=
+8.cc\L
+16a\Jk
+8cc\L
+8cc\J
+*-

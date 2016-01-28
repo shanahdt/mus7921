@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1741/12/31/
+!!!OMV: Mov. La Timide
+!!!PDT: 1741///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1741(p)
+!!!instrument: flt, violn, cemba
+!!!place: France, Paris
+!!!title1: Pi&egrave;ces de Clavecin en Concert
+!!!title2: No. 3
+!!!statkey: a
+!!DEBUGGING: r97 % . % 1741(p) % Paris % R97 % . % x % La Timide % flt, violn, cemba % No. 3 % Pi&egrave;ces de Clavecin en Concert % RAMEAU, Jean Philippe % 1683
+**kern
+*clefG2
+*k[]
+*a:
+*M2/0
+8cc/L
+8b/
+8aT/
+8g#/J
+=
+8a\L
+8cc\
+8b\
+8dd\J
+8cc/L
+8b/
+8aT/
+8g#/J
+=
+8a\L
+8cc\
+8b\
+8dd\J
+8cc#\L
+8dd\
+8b\
+8cc#\J
+=
+8dd\L
+8cc#\
+8ff\
+8ee\J
+8dd\L
+8ccn\
+8b\
+8a\J
+=
+8g#/L
+8f#/J
+4e/
+*-

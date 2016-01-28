@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Chabrier, Alexis Emmanuel
+!!!CDT: 1841/01/18/-1894/09/13/
+!!!CNT: French
+!!!OTL: Joyeuse Marche for Orchestra 
+!!!thm: B
+!!!AIN: orchetstra
+!!!PDT: 1890///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*D:
+*M2/4
+8dddq/
+!! ! NB. Key & key signature disagree.
+8ccc\L
+8gg\J
+=
+8bbq/
+8aa\L
+8gg\
+8aa\
+8bbq/
+8aa\J
+=
+8cc\L
+8cc\J
+4cc\
+=
+4aa\
+8aa\L
+8bbq/
+8aa\J
+=
+8gg\L
+32ee\LL
+32gg\
+32bb\
+32ddd\JJJ
+8ccc\
+*-

@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1828///
+!!!OCL: RSC
+!!!ODT: <1828/12/31/
+!!!ODT: <1833/12/31/
+!!!OMV: Mov. Gl&uuml;ckliche Fahrt
+!!!OPS: Opus 27
+!!!PDT: 1833///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1828
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Meeresstille und Gl&uuml;ckliche Fahrt
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: m247 % . % 1828 % Berlin % M247 % 27 % b % Gl&uuml;ckliche Fahrt % orchestra % Overture % Meeresstille und Gl\3uckliche Fahrt % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1828(prf) . (M247) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1833(p) Leipzig (M247) 27 b Gl&uuml;ckliche Fahrt orchestra Overture Meeresstille und Gl\3uckliche Fahrt MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+2fff#\
+4.fffn\
+8fff\
+=
+4eee\
+4.aaa\
+8aaa\L
+8aaa\
+8ggg\J
+=
+8fff#\L
+8fff#\
+8fff#\
+8ddd\J
+8aa\L
+8aa\
+8aa\
+8ff#\J
+=
+8dd\L
+8dd\
+8dd\
+8a\J
+8f#/L
+8f#/
+8f#/
+8d/J
+=
+*-

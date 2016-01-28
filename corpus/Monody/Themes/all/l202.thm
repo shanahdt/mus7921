@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1867/12/31/
+!!!PDT: 1867///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1863
+!!!instrument: piano and orchestra
+!!!place: Italia, Roma
+!!!splace: Deutschland, Leipzig
+!!!theme: C
+!!!title1: Rapsodie Espagnole
+!!!statkey: D
+!!DEBUGGING: l202 % . % 1863 % Rome % L202 % . % c % . % piano and orchestra % . % Rapsodie Espagnole % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1867(p) Leipzig (L202) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=
+8.ff#\L
+16gg\k
+8aa\J
+=
+8ddd\L
+8ddd\
+8ddd\J
+=
+16ccc#q/LL
+16dddq/JJ
+8.ccc#\L
+16bb\k
+8aa\J
+=
+8ddd\L
+8ddd\
+8ddd\J
+=
+16ccc#q/LL
+16dddq/JJ
+8.ccc#\L
+16bb\k
+8gg\J
+=
+*-

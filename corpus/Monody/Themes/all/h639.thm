@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1794///
+!!!OCL: RSC
+!!!ODT: <1794/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 99
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Symphony in E Flat
+!!!title2: London 10 "Imperial"
+!!!statkey: E-
+!!DEBUGGING: h639 % . % 1793 % London % H639 % B. & H. No. 99 % b % 4 % orchestra % London 10 "Imperial" % Symphony in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1794(prf) . (H639) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+8eee-\
+=
+16ddd\LL
+16ccc\
+16bb-\
+16aa-\JJ
+16gg\LL
+16ff\
+16ee-\
+16dd\JJ
+=
+8ee-\L
+8gg\
+8bb-\
+8ee-\J
+=
+16dd\LL
+16cc\
+16b-\
+16a-\JJ
+16g/LL
+16f/
+16e-/
+16d/JJ
+=
+8e-/L
+8g/
+8b-/J
+*-

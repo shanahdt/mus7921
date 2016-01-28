@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 3
+!!!OPS: Opus K 605
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?(composed sep.)
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: A
+!!!title1: Deutsche T&auml;nze
+!!!title2: K 605, No. 3
+!!!statkey: C
+!!DEBUGGING: m550 % 318 % ?(composed sep.) % ? % M550 % K 605 No. 3 % a % . % orchestra % . % Deutsche T&auml;nze % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4ccc\
+4gg\
+4r
+=
+4gg\
+4ee\
+4r
+=
+4gg\
+8ee\L
+8ee\
+8ee\
+8ee\J
+=
+4ee\
+4cc\
+*-

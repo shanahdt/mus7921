@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Symphony No. 5 in B Flat Major
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: orchestra
+!!!ODT: 1875///-1876///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*C:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2c/
+8G/L
+16A/L
+16G/JJ
+8A/L
+8Bn/J
+=
+4.c/
+8d/
+4e/
+8d/L
+8e/J
+=
+4.f/
+8g/
+4a/
+4a/
+=
+4.e/
+8f/
+4e/
+4r
+=
+*-

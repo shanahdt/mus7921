@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Casella, Alfredo
+!!!CDT: 1883/07/25/-1947/03/05/
+!!!CNT: Italian
+!!!OTL: Siciliana E Burlesca for Violin, Cello, and Piano
+!!!OMV: Mov. 2 (Burlesca)
+!!!AIN: cello forte violn
+!!!PDT: 1914///
+!!!OCY: Italia
+!!!OPC: Roma
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=
+!! 8va below
+8fff\L
+8ccc\J
+32cccq/LLL
+32dddq/JJJ
+8.ccc\L
+32bb-\LL
+32ccc\JJJ
+=
+8ddd\L
+8ccc\J
+4ccc\
+=
+8fff\L
+16ccc\L
+16ddd\JJ
+16ccc\LL
+16bb-\
+16aa\
+16gg\JJ
+=
+8ggq/
+8ccc/L
+8gg/J
+4cc/
+!! end 8va
+=
+*-

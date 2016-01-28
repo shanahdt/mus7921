@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1970/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1970///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1795
+!!!instrument: violn, piano, cello
+!!!place: England, London & Oesterreich, Vienna(?)
+!!!splace: ?
+!!!theme: A
+!!!title1: Trio No. 2 in F Sharp Minor
+!!!title2: 1st Movement
+!!!statkey: f#
+!!DEBUGGING: h698 % . % -1795 % London, Vienna? % H698 % . % a % 1 % violn, piano, cello % . % Trio No. 2 in F Sharp Minor % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1970(p) ? (H698) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M4/4
+=
+2cc#\
+8eeq/
+2dd\
+=
+8cc#\L
+16ff#\L
+16ee#\JJ
+16gg#\LL
+16ff#\
+16aa\
+16ff#\JJ
+8cc#\L
+8cc#\
+8cc#\
+8cc#\J
+=
+2cc#\
+*-

@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Sonata in A Minor, Vn. & Pft.
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: t21 % . % n.d. % n/a % T21 % . % . % . % . % . % . % TARTINI, Giuseppe
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+8ee\L
+[8a\J
+16a\LL]
+16aa\
+16ff#\
+16ee\JJ
+16dd\LL
+16cc#\JJ
+8cc#q/
+4.dd\
+=
+8dd/L
+[8e/J
+16e\LL]
+16bb\
+16dd\
+32cc#\L
+32dd\JJJ
+8eeq/
+8dd\
+4.cc#\
+=
+*-

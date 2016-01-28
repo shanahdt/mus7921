@@ -1,0 +1,56 @@
+**kern
+*clefG2
+*k[f#c#]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*A:
+[2ee
+8]ee
+8cc#
+qcc#
+8b
+8a
+=
+4b-
+4b
+4a-
+4e
+=
+4ee
+8ff#
+8ee
+8ee
+8dd
+8dd
+8cc#
+=
+8cc#
+8b
+8b-
+8b
+8b-
+8b
+8cc#
+8b-
+=
+*-
+!!!COM: Spontini, Gaspare
+!!!CNT: Italian
+!!!MPD: 1807///
+!!!ODT: <1807/12/31/
+!!!date: 1807(prf)
+!!!place: France, Paris
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1180 % . % 1807(prf) % Paris % S1180 % . % . % . % . % . % . % SPONTINI, Gaspare
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1807?///
+!!!ODT: <1807?/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1807?(p) . (S1180) . . . . . . .

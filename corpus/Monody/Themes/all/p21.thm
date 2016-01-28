@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!ONM: No. 3
+!!!OPS: Opus 1
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Caprices
+!!!title2: Op. 1, No. 3
+!!!statkey: G
+!!DEBUGGING: p21 % . % c1805 % Lucca % P21 % 1 No. 3 % x % . % violn % . % Caprices % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P21) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+2ee\
+4ff#\
+4gg\
+=
+2.bt\
+4r
+=
+2gg\
+4aa\
+4bb\
+=
+2.ddT\
+4r
+=
+4ccc\
+16bb\LL
+16aa\
+16gg\
+16ff#\JJ
+16ee\LL
+16dd#\
+16cc\
+16b\JJ
+8a\L
+8ccc\J
+=
+4bb\
+*-

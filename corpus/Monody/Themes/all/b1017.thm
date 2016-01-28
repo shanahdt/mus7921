@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1822///-1824///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1824///
+!!!PDT: 1826///
+!!!PPP: Deutschland, Mainz   
+!!!OTL: Symphony No.9 in D Minor    
+!!!OPS: Op. 125
+!!!OTP: Choral
+!!!SET: No. 9
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*B-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4.ee-\
+16ff\LL
+16gg\JJ
+=
+8gg\L
+16ff\L
+16ee-\JJ
+8ee-\L
+16dd\L
+16cc\JJ
+=
+4.dd\
+16ee-\LL
+16ff\JJ
+=
+8ff\L
+16ee-\L
+16dd\JJ
+8dd\L
+16cc\L
+16b-\JJ
+=
+8b-/L
+8a/J
+*-

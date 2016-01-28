@@ -1,0 +1,37 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Rapsodie for Clarinet and Orchestra
+!!!thm: B
+!!!AIN: clars orchestra
+!!!ODT: 1911///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/4
+=
+8ccc\L
+8ccc-\
+8bb-\
+8ddd-\J
+=
+8aan\L
+8aa-\
+8gg\
+16gg-\L
+16bb-\JJ
+=
+[2ff\
+=
+8ff\]
+*-

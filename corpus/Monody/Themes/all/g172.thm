@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OPR, OAC, OTL, thm
+!!!COM: Gounod, Charles
+!!!CDT: 1818/06/18/-1893/10/18/
+!!!CNT: French
+!!!OPR: Faust                       
+!!!OTL: Ballet Music
+!!!OAC: Act 5
+!!!thm: C 
+!!!AIN: orchestra
+!!!MPD: 1859///
+!!!MLC: France, Paris
+!!!PDT: 1860///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=
+16gg\LL
+16r
+16bb-\
+16ccc\JJ
+16bb-\LL
+16aa\
+16gg\
+16bb-\JJ
+=
+8aa\L
+16r
+[16gg\Jk
+8gg\L]
+16r
+16ddd\Jk
+=
+16eee-\LL
+16fff\
+16ggg\
+16fff\JJ
+16eee-\LL
+16r
+16ggg\JJ
+16r
+=
+8ggg\L
+8ddd\J
+8r
+*-

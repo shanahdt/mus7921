@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1830/12/31/
+!!!ONM: No. 1
+!!!OPS: Opus 19
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1829
+!!!instrument: piano
+!!!place: England, London
+!!!title1: Songs Without Word
+!!!title2: No. 1
+!!!statkey: E
+!!DEBUGGING: m286 % . % 1829 % London % M286 % 19 No. 1 % x % . % piano % No. 1 % Songs Without Word % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) . (M286) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4g#/
+4f#/
+4e/
+4ee\
+=
+4dd#\
+4cc#\
+4b\
+4cc#\
+=
+4a/
+8b/L
+8f#/J
+4g#/
+32aq/LLL
+32g#q/
+32f#q/
+32g#q/JJJ
+8b/L
+8a/J
+=
+2g#/
+8f#/
+8r
+*-

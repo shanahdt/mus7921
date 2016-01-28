@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1798///-1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quartet in F
+!!!OPS: Op. 18
+!!!ONM: No. 1
+!!!OMV: Mov. 3 (Scherzo)
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+[2.f/
+=
+4f/]
+4e/
+4f#/
+=
+[2.g/
+=
+4g/]
+4f#/
+4g#/
+=
+2a/
+4bn\
+=
+4cc\
+4r
+4r
+=
+2.ddT\
+16ccq/LL
+16ddq/JJ
+=
+4ee\
+4r
+4r
+=
+*-

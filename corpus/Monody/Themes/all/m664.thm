@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 5
+!!!OPS: Opus K 465
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in C
+!!!title2: "Dissonant"
+!!!statkey: C
+!!DEBUGGING: m664 % . % 1785 % Vienna % M664 % K 465 % x % 5 % string % "Dissonant" % Quartet in C % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M664) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+8gg\L
+8gg\J
+=
+4.gg\
+8ccc\
+=
+4.bb\
+8ff\
+=
+8ee\L
+8cc\
+8a\
+8dd\J
+=
+8cc\L
+8b\J
+8g/L
+8g/J
+=
+8cc\L
+8cc\
+8cc#\
+8cc#\J
+=
+8dd\L
+8dd\J
+*-

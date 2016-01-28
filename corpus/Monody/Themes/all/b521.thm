@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!PDT: 1805///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!OTL: Andante Favori in F
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+16.cc\LL
+!!   Encoding error:   change 6 to 16
+32dd\JJk
+=
+8cc\L
+8b-\J
+16.a/LL
+32b-/JJk
+=
+8a/L
+8g/J
+16.f/LL
+32f#/JJk
+=
+[8gS/L
+16.g/L]
+32a/k
+8ccq/
+16.b-/
+32g/JJk
+=
+8f/L
+16e/Jk
+16r
+*-

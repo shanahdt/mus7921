@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1865/12/31/
+!!!PDT: 1865///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1862
+!!!instrument: piano
+!!!place: Italia, Roma
+!!!splace: Deutschland, Leipzig
+!!!title1: Berceuse
+!!!statkey: D-
+!!DEBUGGING: l104 % . % 1862 % Rome % L104 % . % x % . % piano % . % Berceuse % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1865(p) Leipzig (L104) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M12/8
+=
+4r
+8r
+!! 8va below
+4.ggg-\
+8fff\L
+8eee-\
+8bb-\J
+8ccc\L
+8fff\
+8eee-\J
+=
+8ccc/L
+8aa-/
+8een/J
+8ff/L
+8ccc/
+8bb-/J
+8aa-/
+!! end 8va
+8dd-\L
+8ee-\J
+8een\L
+8ff\
+16aa-\L
+16gg-\JJ
+=
+*-

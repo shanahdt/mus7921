@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Elgar, Edward
+!!!CDT: 1857/06/02/-1934/02/23/
+!!!CNT: English
+!!!OTL: Violin Concerto in B Minor
+!!!OPS: Op. 61
+!!!OMV: Mov. 1
+!!!thm: A b
+!!!AIN: orchestra violn
+!!!OCY: England, UK
+!!!OPC: Hereford
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.ee\
+8ee\
+4ee\
+4dd\
+=
+8a/
+4b\
+8fn/
+4a/
+4g#/
+!!   Encoding error: changing 8a- to 4g#
+=
+8ccn\
+4dd\
+8a/
+4cc\
+4b\
+=
+8ee\
+4ffn\
+8dd#\
+2een\
+=
+*-

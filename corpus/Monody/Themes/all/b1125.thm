@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bizet, Georges
+!!!CDT: 1838/10/25/-1875/06/03/
+!!!CNT: French
+!!!ODT: 1872///
+!!!OCY: France            
+!!!OPC: Paris
+!!!OTL: L'Arl&eacute;sienne, Suite No.1
+!!!OMV: Carillon
+!!!thm: B
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M6/8
+=
+8.gg#\L
+16aa\k
+8gg#\J
+4ff#\
+8gg#\
+=
+[4.ee\
+8.ee\L]
+16ff#\k
+8gg#\J
+=
+8.gg#\L
+16ff#\k
+8ee\J
+4ee\
+8dd#\
+=
+4.cc#\
+*-

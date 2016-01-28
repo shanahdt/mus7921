@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1888///
+!!!OCL: RSC
+!!!ODT: <1888/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Symphony No. 5 in E Minor, Op. 64
+!!!title2: 4th Movement
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t279 % 495 % 1888(prf) % St. Petersburg % T279 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#]
+*D:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+[1eee\
+=
+2eee\]
+8ddd\L
+8ccc#\
+8bb\
+8aa\J
+=
+2eee\
+[2ddd\
+=
+2ddd\]
+2ddd\
+=
+2ggg\
+2ggg\
+=
+2ggg\
+2fff#\
+=
+2.fff#\
+4eee\
+=
+4ddd\
+4ccc#\
+4bb\
+4aa\
+=
+*-

@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!ONM: No. 34
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1784
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!splace: Oesterreich, Vienna
+!!!title1: Sonata in E Minor
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: h513 % . % -1784 % Eszterh&aacute;za % H513 % B. & H. No. 34 % x % 2 % piano % . % Sonata in E Minor % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1799(rev) Vienna (H513) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+8.g/L
+48a/LL
+48g/
+48f#/JJJ
+8g/L
+8b/
+8dd/
+8g/J
+=
+8.f#/L
+48g/LL
+48f#/
+48e/JJJ
+32f#/LLL
+32a/
+32g/
+32b/JJJ
+32a\LLL
+32cc\
+32b\
+32dd\JJJ
+8cc\
+8r
+=
+8.a/L
+48b/LL
+48a/
+48g#/JJJ
+16a\LL
+16b\
+16cc\
+16dd\JJ
+16ee\LL
+16cc\
+16b\
+16a\JJ
+=
+*-

@@ -1,0 +1,60 @@
+**kern
+*clefG2
+*k[f#c#g#]
+*M6/8
+*A:
+8a
+8a
+8g#
+8g#
+4f#
+=
+4b
+8g#
+4.e
+=
+16f#
+16a
+16g#
+16a
+8f#
+4.g#
+=
+[4.a
+8]a
+8r
+8r
+=
+8g#
+8a
+[8b
+8]b
+16a
+16b
+16a
+16g#
+=
+4cc#
+24b
+24cc#
+24b
+4a
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1880
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s124 % . % 1880 % Paris? % S124 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1881///
+!!!ODT: <1881/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1881(p) Paris (S124) . . . . . . .

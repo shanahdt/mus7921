@@ -1,0 +1,63 @@
+**kern
+*clefG2
+*k[]
+*M2/4
+*a:
+8ee
+8a
+16r
+[16e
+32]e
+32a
+32cc
+32ee
+=
+8ff
+8cc
+16r
+[16f
+32]f
+32a
+32cc
+32ff
+=
+8.aa
+32gg
+32ff
+16ee
+16r
+16cc
+16r
+=
+2dd
+=
+8ff
+8a
+16r
+[16f
+32]f
+32a
+32dd
+32ff
+=
+8ee
+8g#
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1863
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s63 % . % 1863 % Paris? % S63 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1870///
+!!!ODT: <1870/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1870(p) Paris (S63) . . . . . . .

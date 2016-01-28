@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1840/12/31/
+!!!OMV: Mov. ("La Chasse" Paganini Caprice No. 9)
+!!!PDT: 1840///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1838
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: (6) Grandes Etudes de Paganini
+!!!title2: Etude No. 5 in E
+!!!statkey: E
+!!DEBUGGING: l123 % . % 1838 % Vienna % L123 % . % x % ("La Chasse" Paganini Caprice No. 9) % piano % Etude No. 5 in E % (6) Grandes Etudes de Paganini % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1840(p) . (L123) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+16bb\LL
+16aa\JJ
+=
+8gg#\
+16gg#\LL
+16ff#\JJ
+8ee\
+16bb\LL
+16aa\JJ
+=
+8gg#\
+16gg#\LL
+16ff#\JJ
+8ee\
+16ee\LL
+16ff#\JJ
+=
+8gg#\
+16ff#\LL
+16gg#\JJ
+8aa\
+16ff#\LL
+16aa\JJ
+=
+8bb\
+*-

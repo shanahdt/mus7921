@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1890/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 23
+!!!PDT: 1890///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1884///-1886
+!!!instrument: piano, orchestra
+!!!place: Deutschland, Frankfurt
+!!!splace: Deutschland, Leipzig, Belgie, Bruxelles
+!!!theme: A
+!!!title1: Concerto No. 2 in D Minor
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m10 % . % 1884-1886 % Frankfurt % M10 % 23 % a % 2 % piano, orchestra % . % Concerto No. 2 in D Minor % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1890(p) Leipzig, Brussels (M10) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+=
+16ff\LL
+16gg\
+16ff\
+16dd\JJ
+16b-\LL
+16a\
+16b-\
+16bn\JJ
+=
+16cc\LL
+16bn\
+16cc\
+16ee-\JJ
+16dd\LL
+16ee-\
+16ff\
+16ff#\JJ
+=
+16gg\LL
+16aa\
+16bb-\
+16ccc\JJ
+16bb-\LL
+16aa\
+16bb-\
+16ddd\JJ
+=
+16aa\LL
+16bb-\
+16ccc\
+16ccc#\JJ
+16ddd\
+*-

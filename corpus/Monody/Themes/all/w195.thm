@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Warlock, Peter
+!!!CDT: 1894/10/30/-1930/12/17/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926
+!!!place: England, London(?)
+!!!title1: Capriol, Suite for Orch.
+!!!title2: 1st Movement (Basse Dance)
+!!!statkey: F
+!!DEBUGGING: w195 % . % 1926 % London? % W195 % . % . % . % . % . % . % WARLOCK, Peter
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1928(rev) . (W195) . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4d/
+4d/
+4d/
+=
+4f/
+8e/L
+8d/J
+4c/
+=
+4f/
+8g/L
+8e/
+8f/
+8g/J
+=
+2a/
+4a/
+=
+8a/L
+8g/J
+8f/L
+8g/J
+8a/L
+8b-/J
+=
+4cc\
+8cc\L
+8b-\J
+4a/
+=
+8b-/L
+8a/J
+8g/L
+8f/J
+8g/L
+8e/J
+=
+2f/
+*-

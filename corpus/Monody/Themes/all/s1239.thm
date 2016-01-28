@@ -1,0 +1,51 @@
+**kern
+*clefG2
+*k[b-]
+*M3/4
+!! NB. Key & key signature disagree.
+*G:
+qddd
+4.ccc
+8bb
+=
+[2.ccc
+=
+4]ccc
+qddd
+4.ccc
+8bb
+=
+[2.ccc
+=
+4]ccc
+4aaa
+4aa
+=
+4.bb-
+8ddd
+4ee
+=
+8r
+8gg
+4gg
+4aa
+=
+4.bb-
+8ddd
+4ee
+=
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!PDT: 1867///
+!!!ODT: <1867/12/31/
+!!!date: 1867(p)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1239 % 456 % 1867(p) % Vienna % S1239 % . % . % . % . % . % . % STRAUSS, Johann Jr.

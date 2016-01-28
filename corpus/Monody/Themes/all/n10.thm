@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Nevin, Ethelbert
+!!!CDT: 1862/11/25/-1901/02/17/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!ONM: No. 3
+!!!OPS: Opus 21
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896(p)
+!!!instrument: piano
+!!!place: United States of America, Massachusetts, Boston
+!!!title1: Barchetta
+!!!statkey: f
+!!!statkey: c#
+!!DEBUGGING: n10 % 344 % 1896(p) % Boston % N10 % 21 No. 3 % x % . % piano % . % Barchetta % NEVIN, Ethelbert % 1862
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . -1897 Italy (N10) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/2
+=
+! 
+12c/L
+12d-/
+12dn/J
+12e-/L
+12f/
+12g/J
+12a-\L
+12b-\
+12bn\J
+12cc\L
+12gg\
+12ff\J
+=
+8ggq/
+4ff\
+4ee-\
+2r
+=3||
+*clefG2
+*k[f#c#g#d#]
+*f:
+*M2/2
+! 
+4b\
+4ee\
+8.dd#\L
+16cc#\Jk
+4dd#\
+=
+8.cc#\L
+16dd#\Jk
+8.cc#\L
+16dd#\Jk
+2b\
+=
+*-

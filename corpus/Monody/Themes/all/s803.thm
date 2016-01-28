@@ -1,0 +1,48 @@
+**kern
+*clefG2
+*k[f#c#g#]
+*met(C)
+*M4/4
+*A:
+4cc#
+4ee
+=
+8a
+8cc#
+8f#
+8aa
+4gg#
+4ff#
+=
+4ee
+4b
+4cc#
+4ee
+=
+8a
+8cc#
+8f#
+8dd
+4cc#
+4b
+=
+2cc#
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1849
+!!!place: Deutschland, Dresden
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s803 % . % 1849 % Dresden % S803 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1851///
+!!!ODT: <1851/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1851(p) ? (S803) . . . . . . .

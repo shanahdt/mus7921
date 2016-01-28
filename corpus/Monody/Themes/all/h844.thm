@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920
+!!!instrument: orchestra
+!!!place: Helvetia(?)
+!!!theme: D
+!!!title1: Pastorale D'&Eacute;t&eacute;
+!!!statkey: B-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h844 % . % 1920 % Switzerland? % H844 % . % d % . % orchestra % . % Pastorale D'&Eacute;t&eacute; % HONEGGER, Arthur % 1892
+**kern
+*clefG2
+*k[b-e-]
+*A-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.eee-\
+8ddd-\
+4.ccc\
+8bb-\
+=
+8aa-\L
+8aa-\J
+8bb-\L
+8bb-\J
+16ccc\LL
+16bb-\
+16aa-\
+16bb-\JJ
+16ccc\LL
+16bb-\
+16ccc\
+16ddd-\JJ
+=
+4.eee-\
+*-

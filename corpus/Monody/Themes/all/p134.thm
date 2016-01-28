@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Sarabande
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: oboe, piano
+!!!place: United States of America, Massachusetts
+!!!title1: Suite for Oboe and Piano
+!!!title2: 2nd Movement (Sarabande)
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p134 % . % 1931 % Massachusetts % P134 % . % x % 2: Sarabande % oboe, piano % . % Suite for Oboe and Piano % PISTON, Walter % 1894
+**kern
+*clefG2
+*k[]
+*B:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+[2.b\
+=
+4b\]
+4b\
+4dd\
+=
+4b\
+[2ff#\
+=
+4ff#\]
+4ee-\
+4dd\
+=
+8cc\L
+8dd\J
+4ee-\
+[4dd\
+=
+8dd\]
+8r
+8cc\L
+8dd\
+8dd\
+8ee-\J
+=
+8dd\L
+8cc\J
+4b\
+8a/L
+8g/J
+=
+2f/
+*-

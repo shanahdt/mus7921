@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1809///-1810///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1811///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Sonata No.26 in E Flat for Piano                  
+!!!OPS: Op. 81a
+!!!SET: No. 26
+!!!OMV: Mov. 2 (l'absence)
+!!!OTA: Les Adieux
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*G:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.  
+16.g/LL
+!!   Encoding error:   change 6 to 16
+32f#/JJk
+4.an/
+=
+16.g/LL
+32f#/JJk
+4an/
+16.a\LL
+32ee-\JJk
+=
+8ee-\L
+16.dd\L
+32g\JJk
+8g/L
+16.f#/L
+32an/JJk
+=
+16an/LK
+[8.bn/J
+8b\]
+*-

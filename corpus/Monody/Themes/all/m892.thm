@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus K 200
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1774
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Symphony No. 28 in C
+!!!title2: 4th Movement
+!!!statkey: C
+!!DEBUGGING: m892 % 336 % 1774 % Salzburg % M892 % K 200 % a % 4 % orchestra % . % Symphony No. 28 in C % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8.ggT\L
+32ff\LL
+32gg\JJJ
+4r
+8.ffT\L
+32ee\LL
+32ff\JJJ
+4r
+=
+8.eet\L
+32dd\LL
+32ee\JJJ
+4r
+8.ddT\L
+32cc\LL
+32dd\JJJ
+4r
+=
+8.ccT\L
+32b\LL
+32cc\JJJ
+4r
+8.bT\L
+32a\LL
+32b\JJJ
+4r
+=
+4cc\
+4dd\
+4ee\
+4ff\
+=
+*-

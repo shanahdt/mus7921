@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1898/12/31/
+!!!OPS: Opus 55
+!!!PDT: 1898///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1898
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!title1: Sea Pieces
+!!!title2: No. 3: A.D. 1620 
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m24 % . % 1898 % New York % M24 % 55 % x % . % piano % No. 3: A.D. 1620  % Sea Pieces % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1898(p) . (M24) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*F:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+8cq/
+4.d/
+8c/L
+8B/
+8c/J
+=
+8cq/
+4.d/
+4.e/
+=
+8cq/
+8.d/L
+8.e/J
+[4f#/
+16f#/LL]
+16g/JJ
+=
+[4.f#/
+4f#/]
+*-

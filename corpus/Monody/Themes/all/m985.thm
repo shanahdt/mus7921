@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 551
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Symphony No. 41 in C
+!!!title2: "Jupiter"
+!!!statkey: d
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m985 % . % 1788 % Vienna % M985 % K 551 % b % 2 % orchestra % "Jupiter" % Symphony No. 41 in C % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-]
+*C:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4c/
+4d/
+4e/
+=
+[8f/L
+32f/LL]
+32g/
+32e/
+32f/JJJ
+8d/
+8r
+4r
+=
+[8d/L
+24d/L]
+24Bn/
+24G/JJ
+[8e/L
+24e/L]
+24c/
+24G/JJ
+[8f/L
+24f/L]
+24d/
+24B/JJ
+=
+[8g/L
+32g/LL]
+32a/
+32f/
+32g/JJJ
+8e/
+*-

@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OPR, OPS, OTL
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OPR: Symphonic Dances for Orchestra
+!!!OPS: Op. 64
+!!!OTL: Dance No. 2
+!!!SET: No. 2
+!!!thm: A b
+!!!AIN: orchestra
+!!!ODT: 1896///-1897///
+!!!OCY: Norge 
+!!!OPC: Bergen   
+!!!PDT: 1898///
+!!!PPP: Deutschland, Leipzig      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/2
+=
+4.cc#\
+8dd\
+16cc#q/LL
+16ddq/JJ
+8cc#\L
+8b\
+8cc#\
+8dd\J
+=
+4cc#\
+4b\
+4a/
+4b\
+=
+4.cc#\
+8dd\
+16cc#q/LL
+16ddq/JJ
+8cc#\L
+8b\
+8cc#\
+8dd\J
+=
+4cc#\
+12b\L
+12cc#\
+12b\J
+4a/
+4b\
+=
+*-

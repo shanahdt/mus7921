@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Mascagni, Pietro
+!!!CDT: 1863/12/07/-1945/08/02/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1890/12/31/
+!!!OMV: Mov. Prelude
+!!!PDT: 1890///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1890(p)
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: B
+!!!title1: Cavalleria Rusticana
+!!!title2: Opera
+!!!statkey: F
+!!DEBUGGING: m137 % 297 % 1890(p) % Rome % M137 % . % b % Prelude % orchestra % Opera % Cavalleria Rusticana % MASCAGANI, Pietro % 1863
+**kern
+*clefG2
+*k[b-]
+*F:
+*M6/8
+=
+4.cc\
+4.dd\
+=
+[4.a/
+8a/L]
+8g/
+8a/J
+=
+8f/L
+8g/
+8a/J
+8cc/L
+8b-/
+8a/J
+=
+4a/
+8g/
+*-

@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1858/12/31/
+!!!OMV: Mov. Sonnet 104 of Petrarch
+!!!PDT: 1858///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837///-1849
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Mainz
+!!!title1: Years of Travel
+!!!title2: Second Year
+!!!statkey: E
+!!DEBUGGING: l232 % . % 1837-1849 % Weimar % L232 % . % x % Sonnet 104 of Petrarch % piano % Second Year % Years of Travel % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1858(p) Mainz (L232) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+2gg#\
+4gg#\
+4gg#\
+=
+[4gg#\
+12gg#\L]
+12.ff#\
+24ee\Jk
+4ee\
+8r
+8e/
+=
+8ee\
+4eee\
+[8ddd#\
+8ddd#\L]
+8ff##\
+8.gg#\
+16ccc#\Jk
+=
+[4bb\
+8bb\L]
+8aa#\J
+4aan\
+4r
+=
+*-

@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Wilhelm Friedemann
+!!!CDT: 1710/11/22/-1784/07/01/
+!!!CNT: German
+!!!PDT: 1773///
+!!!OCY: Deutschland
+!!!OPC: Berlin
+!!!OTL: Sonata in F for Two Pianos
+!!!OMV: Mov. 1
+!!!AIN: 2 forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+16f/LL
+16a/JJ
+4cc\
+4cc\
+4cc\
+16dd\LL
+16ee\JJ
+=
+[4ffT\
+8.ff\L]
+32ee\LL
+32dd\JJJ
+8cc\
+4cc\
+16dd\LL
+16ee\JJ
+=
+[4ffT\
+8.ff\L]
+32ee\LL
+32dd\JJJ
+16cc\LL
+16ee\J
+8gg\J
+8r
+32gg\LLL
+32ff\
+32ee\
+32dd\JJJ
+=
+16cc\LL
+16ff\JJ
+*-

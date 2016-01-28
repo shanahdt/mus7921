@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Dvorák, Antonin
+!!!CDT: 1841/09/08/-1904/05/01/
+!!!CNT: Czech
+!!!OTL: Concerto in A Minor for Violin and Orchestra
+!!!OPS: Op. 53
+!!!OMV: Mov. 3
+!!!thm: C  
+!!!AIN: orchestra violn
+!!!ODT: 1879///-1880///
+!!!OCY: Czechoslovakia
+!!!OPC: Prague
+!!!PDT: 1883///
+!!!PPP: Deutschland, Berlin
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+=
+8.dd\L
+16ee\Jk
+8ff\L
+8ff\J
+=
+8ff\L
+16ee\L
+16ff\JJ
+8ee\L
+8dd\J
+=
+8cc#\L
+8ddn\J
+4ee\
+=
+4dd\
+*-

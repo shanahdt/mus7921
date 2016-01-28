@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1798///-1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quartet in F
+!!!OPS: Op. 18
+!!!ONM: No. 1
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4r
+8r
+8a/
+4at/
+16gq/LL
+16aq/JJ
+=
+4.cc\
+8b-/L
+8g/
+8f/J
+=
+4e/
+8r
+8b-\
+4b-T\
+16aq/LL
+16b-q/JJ
+=
+4.dd\
+8cc/L
+8a/
+8g/J
+=
+4f/
+*-

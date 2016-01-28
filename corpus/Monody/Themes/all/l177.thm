@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1853/12/31/
+!!!PDT: 1853///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853(p)
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!theme: A
+!!!title1: Hungarian Rhapsody No. 12 in C Sharp Minor
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l177 % . % 1853(p) % Berlin % L177 % . % a % . % piano % . % Hungarian Rhapsody No. 12 in C Sharp Minor % LISZT, Franz % 1811
+**kern
+*clefG2
+*k[]
+*E:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16aaq/LL
+16bb-q/
+16cccq/JJ
+8ddq/
+8ddd\L
+8ddq/
+8ddd\
+8aq/
+8aa\
+8aq/
+8aa\J
+=
+8ddq/
+8ddd\L
+8ddq/
+8ddd\J
+8eeq/
+4eee\
+=
+8ccc\
+8.ccc\
+!!   B&M  Encoding error?   change 4 to 8
+16bb\LL
+16ccc\
+16ddd\JJ
+!!   Encoding error?   change 24's to 16's
+=
+16eee\LL
+16ddd\
+16ccc\
+16eee\JJ
+*-

@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 1
+!!!OPC: England, London(?)
+!!!OPS: Opus 2
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: flt, cbass, violn
+!!!splace: England, London
+!!!title1: Sonata in C Minor
+!!!title2: 2nd Movement
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h164 % . % c1730(p) % London? % H164 % 2 No. 1 % x % 2 % flt, cbass, violn % . % Sonata in C Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H164) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*C:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4cc\
+4ddt\
+4ee-\
+8r
+8ff\
+=
+8dd\L
+8b-\J
+8r
+8ee-\
+8ddq/
+4cc\
+8r
+8dd\
+=
+8bn/L
+8g/J
+[4gg\
+8gg\L]
+8ff\
+8ee-\
+8dd\J
+=
+8cc\L
+8b-\J
+4a-T/
+8g/
+*-

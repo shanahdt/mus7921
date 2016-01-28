@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1930/12/31/
+!!!PDT: 1930///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930(p)
+!!!place: Deutschland, Kassel
+!!!title1: Suite in A Minor, Str. & Pft.
+!!!title2: Minuet
+!!!statkey: A
+!!DEBUGGING: t83 % 483 % 1930(p) % Kassel % T83 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4cc#\
+8cc#\L
+8dd\
+8cc#\
+8b\J
+=
+4cc#\
+8cc#\L
+8dd\
+8cc#\
+8b\J
+=
+4cc#\
+4ff#\
+4ee\
+=
+2cc#t\
+4b\
+=
+4a/
+8a/L
+8b/
+8a/
+8e/J
+=
+4b\
+8b/L
+8cc#/
+8b/
+8e/J
+=
+4cc#\
+8b/L
+8a/J
+4dd\
+=
+2.bT\
+=
+*-

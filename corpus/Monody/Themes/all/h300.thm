@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1894/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 101
+!!!PDT: 1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1772
+!!!instrument: cello, orchestra
+!!!place: Eszterh&aacute;za
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Concerto in D
+!!!title2: 1st Movement
+!!!statkey: D
+!!DEBUGGING: h300 % . % -1772 % Eszterh&aacute;za % H300 % 101 % a % 1 % cello, orchestra % . % Concerto in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1894(p) Leipzig (H300) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4f#/
+16f#/LL
+16g/
+16g/
+16a/JJ
+8.a/L
+16f#/Jk
+8a/
+8r
+=
+4b\
+16eeq/
+8dd\L
+16cc#\L
+16b\JJ
+8.a/L
+16f#/Jk
+8a/L
+16a/L
+16b/JJ
+=
+16aq/
+8g/L
+16f#/L
+16e/JJ
+8e/L
+16g/L
+16a/JJ
+16gq/
+8f#/L
+16e/L
+16d/JJ
+8d/
+*-

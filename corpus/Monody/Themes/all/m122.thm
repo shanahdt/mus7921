@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Malipiero, Gian Francesco
+!!!CDT: 1882/03/18/-1973/08/01/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1921
+!!!instrument: orchestra
+!!!place: Italia, Parma
+!!!theme: B
+!!!title1: La Cimarosiana
+!!!title2: 4th Movement
+!!!statkey: B-
+!!DEBUGGING: m122 % 296 % 1921 % Parma % M122 % . % b % 4 % orchestra % . % La Cimarosiana % MALIPIERO, Gian Francesco % 1882
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+=
+8b-/L
+8a/
+8b-/J
+8ff\L
+8ff\
+8ff\J
+=
+8dd-q/
+8cc\L
+8bn\
+8cc\J
+8ff\L
+8ff\
+8ff\J
+=
+8dd-\L
+8r
+8cc\J
+8b-\L
+8r
+8een\J
+=
+4ff\
+8r
+*-

@@ -1,0 +1,57 @@
+**kern
+*clefG2
+*k[]
+*met(C)
+*M4/4
+*C:
+4c
+4A
+4.d
+8g
+=
+2e
+4.cc
+8gg
+=
+[2ff#
+8]ff#
+8gg
+8ccc
+8gg
+=
+8ee
+8gg
+8ccc
+8gg
+4dd
+8gg
+8ccc
+=
+8bb
+8gg
+2cc
+16b
+16cc
+16dd
+16a
+=
+4g
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1941
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s903 % . % 1941 % Leningrad % S903 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1942///
+!!!ODT: <1942/12/31/
+!!!splace: Kuyb&iuml;shev
+!!!CDT: ///-
+!!DEBUGGING: . . 1942(prf) Kuyb&iuml;shev (S903) . . . . . . .

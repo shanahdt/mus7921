@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Borodin, Alexander
+!!!CDT: 1833/11/12/-1887/02/27/
+!!!CNT: Russian
+!!!ODT: 1881///
+!!!OCY: Rossiya
+!!!OPC: Sankt Peterburg
+!!!PDT: 1888///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Quartet No. 2 in D    
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*C:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4a/
+2dd\
+=
+4a/
+2dd\
+=
+4bn\
+4.ee\
+8g/
+=
+4cc\
+8bn\L
+8cc\J
+8b/L
+8a/J
+=
+*-

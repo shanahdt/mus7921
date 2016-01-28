@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Aria
+!!!OPS: Opus 103a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908
+!!!instrument: violn, piano
+!!!place: Deutschland, Leipzig
+!!!title1: Suite in A Minor
+!!!title2: 3rd Movement (Aria)
+!!!statkey: A
+!!DEBUGGING: r243 % . % 1908 % Leipzig % R243 % 103a % x % 3: Aria % violn, piano % . % Suite in A Minor % REGER, Max % 1873
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+2.A/
+4c#/
+=
+4.f#/
+16d#/LL
+16e/JJ
+4.e/
+16dn/LL
+16c#/JJ
+=
+8c#/L
+8B#/J
+[4c#/
+16c#/LL]
+32c#/L
+32d/J
+32e/L
+32d/J
+16c#/JJ
+4d/
+=
+16.d#/LL
+32e/Jk
+16f#/L
+32e/L
+32d#/JJJ
+8e#/L
+16f#/L
+16g#/JJ
+8a/
+*-

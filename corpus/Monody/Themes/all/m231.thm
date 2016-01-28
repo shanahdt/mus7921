@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1827///
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. Nocturne
+!!!ONM: No. 7
+!!!OPS: Opus 61
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Stettin
+!!!title1: Midsummer's Night Dream
+!!!title2: Nocturne, Op. 61, No. 7
+!!!statkey: E
+!!DEBUGGING: m231 % . % 1826 % Berlin % M231 % 61 No. 7 % x % Nocturne % orchestra % . % Midsummer's Night Dream % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(prf) Stettin (M231) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M231) 61 No. 7 x Nocturne orchestra . Midsummer's Night Dream MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+8.B/L
+16B/Jk
+=
+4.e/
+8B/L
+8e/
+8f#/J
+=
+4f#/
+4g#/
+4b\
+=
+4a/
+4g#/
+4f#/
+=
+2b\
+4g#/
+=
+4e/
+4d#/
+4e/
+=
+4e/
+4.f#/
+*-

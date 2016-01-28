@@ -1,0 +1,58 @@
+**kern
+!ZZZ!
+*clefG2
+*k[]
+*M3/4
+!! NB. Key & key signature disagree.
+*F:
+Q32ff
+Q32ee
+Q32ee-
+2.ee
+=
+Q32gg
+Q32ff
+Q32ee
+[2.ee-
+=
+4]ee-
+48ee
+48dd
+48cc
+8.b
+48b-
+48cc
+48dd
+8.a-
+=
+2a
+=||
+4r
+16r
+16A
+16c
+16A
+32e-
+32f
+16g
+8r
+=
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1903///-1905
+!!!place: Deutschland, Berlin(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1448 % . % 1903-1905 % Berlin? % S1448 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1905///
+!!!ODT: <1905/12/31/
+!!!splace: Deutschland, Dresden
+!!!CDT: ///-
+!!DEBUGGING: . . 1905(prf) Dresden (S1448) . . . . . . .

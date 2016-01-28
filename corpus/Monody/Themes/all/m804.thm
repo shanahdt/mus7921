@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 570
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Sonata in B Flat
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: m804 % . % 1789 % Vienna % M804 % K 570 % a % 1 % piano % . % Sonata in B Flat % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+2b-\
+4f/
+=
+2d/
+4f/
+=
+2b-\
+4dd\
+=
+2ff\
+8bb-\L
+8dd\J
+=
+8ff\L
+8ee-\
+8dd\
+8cc\
+8b-\
+8a\J
+=
+8g/L
+8f/
+8en/
+8f/
+8g/
+8a/J
+=
+8b-\
+*-

@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1794///-1795///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1796///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.3 in C for Piano                  
+!!!OPS: Op. 2
+!!!ONM: No. 3
+!!!SET: No. 3
+!!!OMV: Mov. 4
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+8g/
+=
+8cc\L
+8b\
+8cc\J
+8dd\L
+8ee\
+8ff\J
+=
+8gg\L
+8aa\
+8bb\J
+8ccc\L
+8ddd\
+8eee\J
+=
+4fff\
+8eee\
+4fff\
+8eee\
+=
+4ddd\
+8r
+4r
+*-

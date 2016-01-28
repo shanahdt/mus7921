@@ -1,0 +1,72 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Tarantella and Procession
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Rossiniana
+!!!title2: Suite for Orchestra
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r291 % . % 1925 % Rome % R291 % . % a % 4: Tarantella and Procession % orchestra % Suite for Orchestra % Rossiniana % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[]
+*G:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+16eeq/LL
+16ffq/
+16ggq/JJ
+8aa\L
+8gg\
+8ff\J
+8ee\L
+8dd\
+8cc\J
+=
+8b\L
+8dd\
+8cc\J
+8g/
+8r
+8r
+=
+16eeq/LL
+16ffq/
+16ggq/JJ
+8aa\L
+8gg\
+8ff\J
+8ee\L
+8dd\
+8cc\J
+=
+8cc#\L
+8ee\
+8dd\J
+8a/
+8r
+8r
+=
+16ffq/LL
+16ggq/
+16aaq/JJ
+8bb\L
+8aa\
+8gg\J
+8ff\L
+8ee\
+8dd\J
+=
+8cc\
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!place: England, London
+!!!title1: The Wasps (Aristophanes), Orch.
+!!!title2: 3rd Movement (March Past of the Kitchen Utensils)
+!!!statkey: d
+!!DEBUGGING: v47 % 500 % 1909 % London % V47 % . % . % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+6dd\
+12aa\
+12aa\L
+12gg\
+12ee\J
+6dd\
+12dd\
+6dd\
+12ff\
+=
+6aa\
+12ccc\
+6ccc\
+12aa\
+12gg\L
+12ee\
+12cc\J
+12cc\L
+12dd\
+12ee\J
+=
+6dd\
+12aa\
+12aa\L
+12gg\
+12ee\J
+6dd\
+12dd\
+6dd\
+12ff\
+=
+*-

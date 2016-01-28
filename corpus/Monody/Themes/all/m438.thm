@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 313
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1778
+!!!instrument: flt, orchestra
+!!!place: Deutschland, Mannheim
+!!!title1: Concerto in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: m438 % . % 1778 % Mannheim % M438 % K 313 % x % 1 % flt, orchestra % . % Concerto in G % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+4gg\
+8.dd\L
+16dd\Jk
+4dd\
+4dd\
+=
+8ddd\L
+8ccc\J
+2ccc\
+16dddq/
+8ccc\L
+16bb\L
+16aa\JJ
+=
+16aaq/
+8gg\L
+16ff#\L
+16ee\JJ
+16eeq/
+8dd\L
+16cc\L
+16b\JJ
+4dd\
+4ccT\
+=
+4b\
+*-

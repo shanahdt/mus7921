@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1816///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1817///
+!!!PPP: &Ouml;sterreich, Wien  
+!!!OTL: Sonata No.28 in A for Piano                  
+!!!OPS: Op. 101
+!!!SET: No. 28
+!!!OMV: Mov. 4
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+8eee\
+=
+[4ccc#\
+16ccc#\LL]
+16ddd\
+16eee\
+16fff#\JJ
+=
+4bb\
+8r
+8eee\
+=
+[4aa\
+16aa\LL]
+16bb\
+16ccc#\
+16ddd\JJ
+=
+4gg#\
+*-

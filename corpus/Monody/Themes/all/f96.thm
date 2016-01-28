@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL, OPS
+!!!COM: Fauré, Gabriel
+!!!CDT: 1845/05/12/-1924/11/04/
+!!!CNT: French
+!!!OTL: Sicilienne for Cello and Piano
+!!!OPS: Op. 78 
+!!!AIN: cello forte      
+!!!PDT: 1898///
+!!!PPP: Ldondon and Paris 
+!!!MPD: 1898///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-]
+*g:
+*M6/8
+8D\
+=
+4G\
+8B-\
+4d\
+8g\
+*clefG2
+=
+8.b-/L
+16a/k
+8g/J
+4a/
+[8d/
+=
+8.d/L]
+16c/k
+8en/J
+8.d/L
+16c/k
+8e/J
+=
+[4.d/
+8d/]
+8r
+*-

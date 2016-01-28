@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Quintet in F Minor for Piano and Strings
+!!!OPS: Op. 34
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: cello forte viola 2 violn
+!!!ODT: 1861///-1864///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1865///
+!!!MRD: 1868///
+!!!MLC: France, Paris       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-a-d-]
+*A-:
+*M3/4
+8G\
+=
+8B-\L
+8A-\J
+4.A-\
+8B-\
+=
+8d-\L
+8c\J
+4.c\
+*clefG2
+8e-/
+=
+8g-/L
+8f/
+8g-/
+8f/
+8e-/
+8dn/J
+=
+8f/L
+8e-/
+8d-/
+8c/J
+8e-/
+*-

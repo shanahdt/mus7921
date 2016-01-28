@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!ODT: 1921///-1923///
+!!!OCY: United States of America 
+!!!OPC: Cleveland
+!!!OTL: Piano Quintet No. 1
+!!!OMV: Mov. 1          
+!!!thm: A
+!!!AIN: cello forte viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4r
+4G/
+4c/
+4b\
+=
+*M2/4
+4f#/
+4c/
+=
+*M4/4
+8G/L
+8c/J
+8c/
+8r
+8G/L
+8c/J
+8c/
+8r
+=
+*-

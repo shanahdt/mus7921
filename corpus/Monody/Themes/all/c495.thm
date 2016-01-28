@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: La Bandoline for Harpsichord
+!!!AIN: cemba        
+!!!PDT: 1713///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[]
+*a:
+*M6/8
+8A\
+8eM\L
+8f\
+8e\J
+=
+8e\L
+8G#\
+8B\J
+8dM\L
+8e\
+8d\J
+=
+8d\L
+8E\
+8A\J
+8cM\L
+8d\
+8c\J
+=
+8B\L
+8c\
+8B\J
+8AT\L
+8G#\
+8A\J
+=
+8G#t\L
+8E\J
+*-

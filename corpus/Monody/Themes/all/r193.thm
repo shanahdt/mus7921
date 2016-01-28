@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1920///
+!!!OCL: RSC
+!!!ODT: <1920/12/31/
+!!!OMV: Mov. Minuet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1917
+!!!instrument: piano or orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Le Tombeau de Couperin
+!!!title2: Minute
+!!!statkey: G
+!!DEBUGGING: r193 % . % 1914-1917 % Paris % R193 % . % a % Minuet % piano or orchestra % . % Le Tombeau de Couperin % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1919(rev) . (R193) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1920(prf) Paris (R193) . a Minuet piano or orchestra . Le Tombeau de Couperin RAVEL, Maurice 1875
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+32ddq/LLL
+32eeq/JJJ
+4dd\
+8cc\L
+8dd\J
+4dd\
+=
+4.g/
+8a/
+4b\
+=
+4a/
+32gq/LLL
+32aq/JJJ
+8g/L
+8e/J
+4f#/
+=
+2g/
+4a/
+=
+32ccq/LLL
+32ddq/JJJ
+4.cc\
+8b\
+4a/
+=
+4ee\
+8dd\L
+8ee\J
+4b\
+=
+*-

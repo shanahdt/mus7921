@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OPR, OTL, ONM, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Images                  
+!!!OTL: Gigues
+!!!ONM: No. 1
+!!!thm: B           
+!!!AIN: orchestra 
+!!!ODT: 1909///-1912///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16.g/LL
+!!   Encoding error:   change 6 to 16
+32g/k
+16.e/
+32g/JJk
+16.a/LL
+32a/k
+16.f#/
+32a/JJk
+=
+16.g/LL
+32g/k
+16.e/
+32g/JJk
+16.f#/LL
+32e-/Jk
+8c/J
+=
+*-

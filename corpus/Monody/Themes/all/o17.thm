@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1868///
+!!!MPD: 1874(rev)///
+!!!OCL: RSC
+!!!ODT: <1868/12/31/
+!!!ODT: <1874/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1868(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A
+!!!title1: La Perichole
+!!!title2: Overture
+!!!statkey: e
+!!DEBUGGING: o17 % . % 1868(prf) % Paris % O17 % . % a % . % orchestra % Overture % La Perichole % OFFENBACH, Jacques % 1819
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1874(rev)(prf) . (O17) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+8bb\L
+8ee\J
+4aa#t\
+16gg#q/LL
+16aa#q/JJ
+8bb\L
+8ee\J
+4aa#t\
+16gg#q/LL
+16aa#q/JJ
+=
+8bb\L
+16ee\L
+16ff#\JJ
+8gg\L
+8ee\J
+8ccc\L
+8ee\
+8bb\
+8ee\J
+=
+*-

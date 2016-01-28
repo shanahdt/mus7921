@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1802///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1804///
+!!!PPP: Schweiz, Zurich
+!!!OTL: Sonata No.18 in E Flat for Piano                  
+!!!OPS: Op. 31
+!!!ONM: NO. 3
+!!!SET: No. 18
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*B-:
+*M3/4
+!! ! NB. Key & key signature disagree.
+8ff\
+=
+4.bb-\
+16aan\LL
+16bb-\JJ
+8ccc\L
+8bb-\J
+=
+4.ff\
+16gg\LL
+16ff\JJ
+8ee-\L
+8dd\J
+=
+16ff#\LL
+16gg\JJ
+8r
+16ff#\LL
+16gg\JJ
+8r
+16dd\LL
+16ee-\JJ
+8r
+=
+16bn\LL
+16cc\JJ
+8r
+*-

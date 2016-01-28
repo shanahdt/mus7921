@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1675///
+!!!OCL: RSC
+!!!ODT: <1675/12/31/
+!!!ODT: <1688/12/31/
+!!!OMV: Mov. Marche des Sacrificateurs
+!!!PDT: 1688///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1675(prf)
+!!!instrument: orchestra
+!!!place: France, Saint-Germain
+!!!splace: France, Paris
+!!!title1: Th&eacute;s&eacute;e
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: l311 % . % 1675(prf) % Saint-Germain % L311 % . % x % Marche des Sacrificateurs % orchestra % Opera % Th&eacute;s&eacute;e % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1688(p) Paris (L311) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+4g/
+=
+4cc\
+8cc\L
+8dd\J
+8ee\L
+8ff\J
+4gg\
+=
+4.ee\
+8dd\
+4cc\
+4g/
+=
+4cc\
+8cc\L
+8dd\J
+8ee\L
+8dd\
+8ee\
+8ff\J
+=
+2dd\
+4g/
+*-

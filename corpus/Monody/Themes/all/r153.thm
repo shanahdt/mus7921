@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Allegro
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1905
+!!!instrument: arpa, string, flt, clars
+!!!place: France, Paris
+!!!theme: A
+!!!title1: Introduction and Allegro
+!!!title2: Allegro
+!!!statkey: e-
+!!DEBUGGING: r153 % . % 1905 % Paris % R153 % . % a % Allegro % arpa, string, flt, clars % . % Introduction and Allegro % RAVEL, Maurice % 1875
+**kern
+*clefG2
+*k[b-e-a-d-g-c-]
+*G-:
+*M3/4
+*>[A,A,B]
+*>A
+=
+2aa-\
+8gg-\L
+8ff\J
+=
+2ee-\
+8ff\L
+8gg-\J
+=
+4aa-\
+2ddd-\
+=4:|!
+*>B
+4eee-\
+4ddd-\
+4bb-\
+=
+2aa-\
+8gg-\L
+8aa-\J
+=
+4bb-\
+4aa-\
+4ff\
+=
+2ee-\
+8dd-\L
+8ee-\J
+=
+4ff\
+4dd-\
+*-

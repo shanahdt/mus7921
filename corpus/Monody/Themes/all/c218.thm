@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Fantasie in F Minor         
+!!!OPS: Op. 49
+!!!thm: C
+!!!AIN: forte           
+!!!ODT: 1841///
+!!!OCY: France               
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+8ccc\L
+8ddd-\
+8dddn\
+8eee-\J
+!! 8va below
+8fff\L
+8eee-\
+8ddd-q/
+8.cccc\
+16bbb-\Jk
+=
+8bbb-\L
+8aaa-\J
+12ggg\L
+12fff\
+12eeen\J
+8ggg\L
+16r
+16fff\Jk
+12fff\L
+12eee-\
+12dddn\J
+!! end 8va
+=
+*-

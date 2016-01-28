@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: B
+!!!title1: May Night
+!!!title2: Overture
+!!!statkey: e
+!!DEBUGGING: r333 % . % ? % ? % R333 % . % b % . % orchestra % Overture % May Night % RIMSKY-KORSAKOV, Nikolay % 1844
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+4g/
+8f#/L
+8e/J
+=
+8c#/L
+8d/J
+8g/L
+8b/J
+=
+4a/
+8g/L
+8f#/J
+=
+8d#/L
+8e/J
+8g/L
+8cc/J
+=
+4ee\
+8dd\L
+8cc\J
+=
+8a#/L
+8b/J
+8ee\L
+8gg\J
+=
+4.gg\
+8ff#\
+=
+2ee\
+=
+*-

@@ -1,0 +1,65 @@
+**kern
+*clefG2
+*k[]
+*M4/4
+*a:
+8e
+8c
+8d#
+8B
+4e
+[4e
+=
+8]e
+8c
+8d#
+8B
+4e
+8a
+8b
+=
+4dd
+8a
+8b
+4cc
+8f
+8g
+=
+2a
+2B
+=
+*-
+!!!COM: Stravinsky, Igor
+!!!CNT: Russian; French; American
+!!!date: 1928
+!!!place: Nice
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1499 % 469 % 1928 % Nice % S1499 % . % . % . % . % . % . % STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1928///
+!!!ODT: <1928/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1928(prf) Paris (S1499) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1928///
+!!!ODT: <1928/12/31/
+!!!splace: R
+!!!CDT: ///-
+!!DEBUGGING: . 469 1928(p) R (S1499) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!splace: United States of America, California, Hollywood
+!!!CDT: ///-
+!!DEBUGGING: . 469 1950(rev) Hollywood, CA (S1499) . . . . . . STRAVINSKY, Igor
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1952///
+!!!ODT: <1952/12/31/
+!!!splace: B
+!!!CDT: ///-
+!!DEBUGGING: . 469 1952(p) B (S1499) . . . . . . STRAVINSKY, Igor

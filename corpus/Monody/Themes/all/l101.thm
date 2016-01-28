@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1854/12/31/
+!!!PDT: 1854///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853
+!!!instrument: piano
+!!!place: Deutschland, Weimar
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Ballade No. 2 in B Minor
+!!!statkey: b
+!!DEBUGGING: l101 % 278 % 1853 % Weimar % L101 % . % a % . % piano % . % Ballade No. 2 in B Minor % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1854(p) Leipzig (L101) . . . . . . . .
+**kern
+*clefF4
+*k[f#c#]
+*b:
+*M6/4
+=
+1.F#\
+=
+2.G\
+2.A\
+=
+[1.B\
+=
+2B\]
+4F#\
+2A\
+4G\
+=
+1.G\
+=
+2.F#\
+*-

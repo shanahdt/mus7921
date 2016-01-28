@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1786/12/31/
+!!!OMV: Mov. 4
+!!!OPS: Opus K 499
+!!!PDT: 1786///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in D
+!!!title2: 4th Movement
+!!!statkey: D
+!!DEBUGGING: m669 % . % 1786 % Vienna % M669 % K 499 % x % 4 % string % . % Quartet in D % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1786(p) . (M669) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+12aa\L
+12gg#\
+12bb\J
+12aa\L
+12ggn\
+12ff#\J
+=
+12ee\L
+12dd#\
+12ff#\J
+8ee\
+8r
+=
+12gg\L
+12ff#\
+12aa\J
+8gg\
+8r
+=
+*-

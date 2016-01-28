@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OPS: Opus K 573
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: piano
+!!!place: Deutschland, Potsdam
+!!!splace: Deutschland, Berlin
+!!!title1: Variations
+!!!title2: (Theme of Duport)
+!!!statkey: D
+!!DEBUGGING: m1011 % . % 1789 % Potsdam % M1011 % K 573 % x % . % piano % (Theme of Duport) % Variations % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) Berlin (M1011) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+2aa\
+8ddd\L
+8aa\J
+=
+2ff#\
+8aa\L
+8ff#\J
+=
+4dd\
+4dd\
+8.eeT\L
+32dd\LL
+32ee\JJJ
+=
+4ff#\
+4dd\
+4a/
+=
+*-

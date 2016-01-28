@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1855-1856/12/31/
+!!!ONM: No. 1
+!!!OPS: Opus 30
+!!!PDT: 1855-1856///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1855///-1856(p)
+!!!instrument: piano
+!!!splace: Royssia
+!!!theme: A
+!!!title1: Barcarolle
+!!!statkey: f
+!!DEBUGGING: r424 % 390 % 1855-1856(p) % . % R424 % 30 No. 1 % a % . % piano % . % Barcarolle % RUBINSTEIN, Anton % 1829
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1852 Russia (R424) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+4f/
+2cc\
+=
+8ccq/
+12b-/L
+12a-/
+12g/J
+2b-\
+=
+8b-q/
+12a-/L
+12g/
+12f/J
+4g/
+8.dn/L
+16en/Jk
+=
+8enq/
+2.c/
+=
+*-

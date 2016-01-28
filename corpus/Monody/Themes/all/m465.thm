@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 450
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: m465 % . % 1784 % Vienna % M465 % K 450 % x % 3 % piano, orchestra % . % Concerto in B Flat % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+8ff\
+=
+4bb-\
+8bb-\
+8bb-\L
+8ccc\
+8ddd\J
+=
+8ddd\L
+8ff\
+8ff\J
+4ff\
+8ff\
+=
+4gg\
+8gg\
+8gg\L
+8aa\
+8bb-\J
+=
+8bb-\L
+8dd\
+8dd\J
+4dd\
+*-

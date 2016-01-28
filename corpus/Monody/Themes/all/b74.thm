@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, ONM, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1735///-1740///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Concerto No.3 in C minor for Two Pianos and Orchestra
+!!!SET: No. 3
+!!!AIN: 2 forte orchestra
+!!!OMV: Mov. 1
+!!!ONB: Like Concerto for 2 Violins, in D minor
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+16c/LL
+16d/
+16e-/
+16f/JJ
+8g/L
+8cc/J
+8bn/L
+8g/
+8d/
+8f/J
+=
+8en/L
+8c/J
+4.b-\
+16an/LL
+16g/J
+8a/
+8f/J
+=
+8d/L
+8f/
+8a-/
+8c/J
+8Bn/L
+8g/
+8c/J
+*-

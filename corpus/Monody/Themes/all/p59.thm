@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Paisiello, Giovanni
+!!!CDT: 1740/05/09/-1816/06/05/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1782///
+!!!OCL: RSC
+!!!ODT: <1782/12/31/
+!!!ODT: <1784?/12/31/
+!!!PDT: 1784?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782(prf)
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: France, Paris
+!!!splace: Italia, Napoli
+!!!theme: A
+!!!title1: Il Barbiere Di Siviglia
+!!!title2: Overture
+!!!statkey: C
+!!DEBUGGING: p59 % . % 1782(prf) % St. Petersburg % P59 % . % a % . % orchestra % Overture % Il Barbiere Di Siviglia % PAISELLO, Giovanni % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1784?(p) Paris (P59) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(rev) Naples (P59) . a . orchestra Overture Il Barbiere Di Siviglia PAISELLO, Giovanni 1782
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4.c/
+16B/LL
+16c/JJ
+4d/
+4r
+=
+4.e/
+16d/LL
+16e/JJ
+4f/
+4r
+=
+4.g/
+16f/LL
+16g/JJ
+4a/
+4b\
+=
+8cq/
+4.cc\
+16b\LL
+16cc\JJ
+4dd\
+4r
+=
+*-

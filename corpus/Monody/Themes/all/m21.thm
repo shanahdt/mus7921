@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1894/12/31/
+!!!ONM: No. 12
+!!!OPS: Opus 46
+!!!PDT: 1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1893///-1894
+!!!instrument: piano
+!!!place: United States of America, Massachusetts, Boston
+!!!splace: Deutschland, Leipzig & United States of America, New York
+!!!title1: Polonaise
+!!!statkey: e
+!!DEBUGGING: m21 % . % 1893-1894 % Boston % M21 % 46 No. 12 % x % . % piano % . % Polonaise % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1894(p) Leipzig, New York (M21) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+8g/L
+16f#/L
+16g/JJ
+4.e/
+8d#/
+=
+8dn/L
+16c/L
+16d/JJ
+4.B/
+16G/LL
+16A/JJ
+=
+4B/
+4B/
+4B/
+=
+16A/LL
+16B/
+16c/
+16e/JJ
+8.f#/L
+16f#/Jk
+8b\
+*-

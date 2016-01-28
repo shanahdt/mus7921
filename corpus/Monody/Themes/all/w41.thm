@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1870///
+!!!OCL: RSC
+!!!ODT: <1870/12/31/
+!!!ODT: <1874/12/31/
+!!!PDT: 1874///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1856
+!!!place: Helvetia
+!!!splace: Deutschland, Mainz
+!!!splace: Deutschland, Muenchen
+!!!title1: Die Walk\u3re, Opera (Der Ring Der Nibelungen, Part II)
+!!!title2: Magic Fire Music
+!!!statkey: E
+!!DEBUGGING: w41 % . % 1856 % Switzerland % W41 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1870(prf) Munich (W41) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1874(p) Mainz (W41) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+16bb\LL
+16gg#\
+16ee\
+16eee\JJ
+16bb\LL
+16gg#\
+16ee\
+16cccn\JJ
+16bb\LL
+16gg#\
+16ee\
+16eee\JJ
+16bb\LL
+16gg#\
+16ee\
+16ccc#\JJ
+=
+16bb\LL
+16gg#\
+16ee\
+16eee\JJ
+16bb\LL
+16dd#\
+16ee\
+16ccc#\JJ
+16bb\LL
+16ff#\
+16aa\
+16dd#\JJ
+16ff#\LL
+16b\
+16dd#\
+16ff#\JJ
+=
+*-

@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712/12/31/
+!!!PDT: 1712///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto Grosso in A Minor, Op. 3, No. 6 (L'Estro Armonico), Orch.
+!!!title2: 3rd Movement
+!!!statkey: a
+!!DEBUGGING: v153 % 505 % 1712(p) % Amsterdam % V153 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8r
+8ee\
+8aa\L
+8bb\J
+=
+8ccc\
+8r
+8bb\
+8r
+=
+4aa\
+8r
+8aa\
+=
+8gg\L
+8ff\
+8ee\
+8dd\J
+=
+8cc\L
+8b\
+8a\
+8b\J
+=
+8cc\
+8r
+8dd\
+8r
+=
+4ee\
+4r
+=
+*-

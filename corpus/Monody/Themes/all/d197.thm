@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Delius, Frederick
+!!!CDT: 1862/01/29/-1934/06/10/
+!!!CNT: English
+!!!OTL: Concerto for Violin and Orchestra
+!!!thm: E           
+!!!AIN: orchestra violn
+!!!OPC: 1916///        
+!!!OCY: France
+!!!OPC: Paris
+!!!MRD: 1919///
+!!!MLC: England, London
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*F#:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+16aa\LK
+[8.ff#\J
+4ff#\]
+4.ff#\
+8ee\
+=
+16ff#\LK
+[8.cc#\J
+4cc#\]
+2cc#\
+=
+16aa\LK
+[8.ff#\J
+4ff#\]
+4.ff#\
+8ee\
+=
+16ff#\LK
+[8.cc#\J
+4cc#\]
+2cc#\
+=
+4b\
+4gg#\
+4ff#\
+4cc#\
+=
+*-

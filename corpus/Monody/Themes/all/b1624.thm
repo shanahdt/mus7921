@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Symphony No. 3in  F
+!!!OPS: Op. 90
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: orchestra
+!!!ODT: 1883///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1884///
+!!!MRD: 1883///
+!!!MLC: &Ouml;sterreich, Wien
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+4a/
+=
+2.a/
+12b\L
+12a\
+12b\J
+=
+4cc\
+8dd\L
+8cc\J
+4b\
+4a/
+=
+2.a/
+12g#/L
+12f#/
+12g#/J
+=
+4a/
+12g#/L
+12f#/
+12g#/J
+12a/L
+12g#/
+12a/J
+8cc\L
+8a\J
+=
+4gn/
+*-

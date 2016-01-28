@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Enesco, Georges
+!!!CDT: 1881/08/19/-1955/05/03-04/
+!!!CNT: Romanian
+!!!OTL: Po&egrave;me Roumain, Symphonic Suite
+!!!OPS: Op. 1
+!!!OMV: Mov. 2
+!!!thm: D 
+!!!AIN: orchestra
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*C:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8.r
+16g/LL
+16b/
+16dd/JJ
+=
+8.ffn\L
+16g\L
+16ff\
+16g\JJ
+4eeT\
+8dd\
+=
+8.dd\L
+16g\L
+16dd\
+16g\JJ
+4cc#t\
+8b\
+=
+16eeq/LL
+16ffnq/JJ
+16ee\LL
+16dd\JJ
+4dd\
+16ccnq/LL
+16ddq/JJ
+8.cc\L
+16b\L
+16a#\
+16bn\JJ
+=
+8cc#q/
+4.ddn\
+8g/
+*-

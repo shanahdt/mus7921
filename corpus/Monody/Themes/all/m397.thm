@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 7: Corcovado
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920///-1921
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Saudades Do Brazil
+!!!title2: VII. Corcovado
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m397 % . % 1920-1921 % Paris % M397 % . % x % 7: Corcovado % piano % . % Saudades Do Brazil % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+16aa\LL
+16ff#\
+16dd\
+16a\JJ
+4f#/
+=
+16g/LL
+16e/
+16c#/
+16b/JJ
+4g/
+=
+16d/LK
+8e/
+16f#/Jk
+8a\L
+8dd\J
+=
+16b\LK
+8g\
+16ee\Jk
+8cc#\L
+8aa\J
+=
+*-

@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bloch, Ernest
+!!!CDT: 1880/07/25/-1959/07/15/
+!!!CNT: American
+!!!OCY: United States of America         
+!!!OPC: San Francisco
+!!!ODT: 1925///
+!!!OTL: Concerto Grosso for String Orchestra and Piano Obbligato
+!!!OMV: Mov. 3 (Pastorale and Rustic Dances)
+!!!thm: D
+!!!AIN: Cstr forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4ddd\
+8.ddd\L
+16eee\Jk
+8ddd\L
+8ccc\J
+=
+*M2/4
+4bb\
+4ddd\
+=
+8.eee\L
+16ddd\Jk
+8ccc\L
+8bb\J
+=
+8.aa\L
+16bb\Jk
+8ddd\L
+8ccc\J
+=
+4bb\
+4aa\
+=
+*-

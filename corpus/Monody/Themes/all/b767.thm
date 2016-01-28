@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1801///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1802//
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.14 in C Sharp Minor for Piano                  
+!!!OPS: Op. 27
+!!!ONM: No. 2
+!!!OTA: Sonata Quasi Una Fantasia
+!!!OTP: Moonlight
+!!!SET: No. 14
+!!!OMV: Mov. 3
+!!!thm: B
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*G#:
+*M4/4
+!! ! NB. Key & key signature disagree.
+2dd#\
+8.b/L
+16g#/Jk
+=
+48f##/LLL
+48g#/
+48a#/JJ
+8.g#/J
+[4f##/
+8f##/L]
+8f##/
+8.dd#/
+16f##/Jk
+=
+4a#/
+[4g#/
+8g#/L]
+8g#/
+8.dd#/
+16g#/Jk
+=
+4b\
+4a#/
+*-

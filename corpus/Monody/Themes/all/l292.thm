@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1665///
+!!!OCL: RSC
+!!!ODT: <1665/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1665(prf)
+!!!instrument: orchestra
+!!!place: France, Versailles
+!!!title1: L'Amour M&eacute;decin (Comedy-Ballet)
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: l292 % . % 1665(prf) % Versailles % L292 % . % x % Overture % orchestra % Opera % L'Amour M&eacute;decin (Comedy-Ballet) % LULLY, Jean Baptiste % 1632
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4.b\
+8cc\
+4dd\
+=
+2a/
+4dd\
+=
+4.ee\
+8ff#\
+4gg\
+=
+4.ff#t\
+8ee\L
+8dd\
+8cc\J
+=
+4.b\
+8cc\
+4dd\
+=
+2a/
+4dd\
+=
+4.dd\
+8ee\
+4cc#t\
+=
+2.dd\
+=
+*-

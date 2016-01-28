@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!CNT: German
+!!!PDT: 1773///
+!!!OCY: Deutschland
+!!!OTL: Symphony No.3 in C for Stings and Harpsichord 
+!!!SET: No.3
+!!!OMV: Mov. 1 
+!!!AIN: cemba Cstr 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8c/L
+16cc/L
+16dd/JJ
+8ee\L
+8cc\
+8b\
+8cc\J
+=
+8a/L
+8cc/
+8g/
+8cc/
+8f/
+8cc/J
+=
+8e/L
+16cc/L
+16dd/JJ
+8ee\L
+8cc\
+8b\
+8cc\J
+=
+8a/L
+8cc/
+8g/
+8cc/
+8f/
+8cc/J
+=
+8e/
+*-

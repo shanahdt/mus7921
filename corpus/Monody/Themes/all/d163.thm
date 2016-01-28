@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OPR, OAC, OTL
+!!!COM: Delibes, Clément
+!!!CDT: 1836/02/21/-1891/01/16/
+!!!CNT: French
+!!!OPR: Coppelia
+!!!OAC: Act 3
+!!!OTL: Danse de F&ecirc;te     
+!!!AIN: orchestra      
+!!!MRD: 1870///        
+!!!MLC: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8eee\L
+8ddd\J
+=
+16ccc\LL
+16bb\JJ
+4bb\
+16aa\LL
+16gg\JJ
+!!   B&M Encoding error?  change 8's to 16's
+=
+16gg\LL
+16ff\J
+8ff\J
+!!   B&M Encoding error?  change 4 to 8
+16d/LL
+16d#/
+16e/
+16fn/JJ
+=
+16f#\LL
+16cc\
+16cc\JJ
+16r
+16d/LL
+16d#/
+16e/
+16fn/JJ
+=
+16f#/LL
+16b/
+16b/JJ
+16r
+*-

@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Veracini, Francesco
+!!!CDT: 1690/02/01/-1768/10/31/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Sonata in E Minor, Vn. & Pft.
+!!!title2: 1st Movement
+!!!statkey: e
+!!DEBUGGING: v58 % . % n.d. % ? % V58 % . % . % . % . % . % . % VERACINI, Francesco % 1690
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+16.r
+!!   Encoding error:   change 6 to 16
+32b/LLK
+16b/
+32r
+32e/JJk
+=
+16e/LL
+32r
+32cc/k
+16cc/
+32r
+32b/JJk
+16b\LL
+32r
+32ee\k
+16ee\
+32r
+32dd#\JJk
+8dd#\L
+8bb\J
+16.r
+32bb\LLK
+16ccc\
+32r
+32gg\JJk
+=
+16aa\LL
+32r
+32ee\k
+16ff#\
+32r
+32cc#\JJk
+16dd#\LL
+32r
+32ff#\k
+16b\
+32r
+32aa\JJk
+8gg\L
+8eee\J
+*-

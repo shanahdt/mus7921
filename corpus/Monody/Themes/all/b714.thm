@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1795///-1797///?
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1798///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.5 in C Minor for Piano                  
+!!!OPS: Op. 10
+!!!ONM: No. 1
+!!!SET: No. 5
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=
+4.cc\
+16r
+16g\LK
+8.ee-\
+16cc\Jk
+=
+8.gg\L
+16ee-\k
+8.ccc\
+16gg\Jk
+4eee-\
+=
+4eee-\
+4r
+4cc\
+=
+2cc\
+4bn\
+=
+*-

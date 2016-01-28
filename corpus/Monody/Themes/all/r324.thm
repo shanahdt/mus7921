@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1909///
+!!!OCL: RSC
+!!!ODT: <1909/12/31/
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1907
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Royssia, Moskova
+!!!theme: B
+!!!title1: Le Coq D'Or
+!!!title2: Suite
+!!!statkey: B-
+!!DEBUGGING: r324 % . % 1907 % St. Petersburg % R324 % . % b % 3 % orchestra % Suite % Le Coq D'Or % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1909(prf) Moscow (R324) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+*>[A,A,B,B]
+*>A
+=
+8b-\L
+8cc\
+8dd\J
+24ee-\LL
+24dd\
+24ee-\JJ
+4ff\
+=
+8gg\L
+8ff\
+8ee-\J
+24ee-\LL
+24dd\
+24ee-\JJ
+4ff\
+=3:!!:
+*>B
+8ff\L
+8ee-\
+8dd\J
+8ddq/
+16cc\LL
+16b-\JJ
+4dd\
+=
+8ff\L
+8ee-\
+8dd\J
+16cc\LL
+16dd\JJ
+4b-\
+=:|!
+*-

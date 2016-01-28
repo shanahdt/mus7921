@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Telemann, Georg Philipp
+!!!CDT: 1681/03/14/-1767/06/25/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1930/12/31/
+!!!PDT: 1930///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930(p)
+!!!place: Deutschland, Kassel
+!!!title1: Suite in A Minor, Str. & Pft.
+!!!title2: Gavotte
+!!!statkey: a
+!!DEBUGGING: t78 % 483 % 1930(p) % Kassel % T78 % . % . % . % . % . % . % TELEMANN, Georg Philipp
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+4ee\
+4aa\
+=
+4.ffT\
+16ee\LL
+16ff\JJ
+4gg\
+4b\
+=
+2cc\
+4a/
+8a\L
+16b\L
+16cc\JJ
+=
+4b\
+8b\L
+16cc\L
+16dd\JJ
+4cc\
+4b\
+=
+4cc\
+4a/
+*-

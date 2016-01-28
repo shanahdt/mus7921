@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: h487 % . % -1797 % Vienna % H487 % . % x % 1 % string % . % Quartet in E Flat % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+16b-\
+=
+4g/
+4a-/
+=
+8b-\
+8r
+8.r
+16cc\
+=
+4f/
+4g/
+=
+8a-/
+8r
+8.r
+16b-\
+=
+4e-/
+4f/
+=
+8g/
+8r
+8.r
+16e-/
+=
+4a-/
+4an/
+=
+8b-\
+*-

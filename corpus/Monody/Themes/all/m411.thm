@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 2
+!!!OPS: Opus 45
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!theme: B
+!!!title1: Guitarre
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m411 % . % ? % ? % M411 % 45 No. 2 % b % . % piano % . % Guitarre % MOSZKOWSKI, Moritz % 1854
+**kern
+*clefG2
+*k[f#]
+*A:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+2.e/
+=
+2a/
+8b\L
+8cc\J
+=
+8ccq/
+8ee\L
+8ee\J
+[2ee\
+=
+2.ee\]
+=
+*-

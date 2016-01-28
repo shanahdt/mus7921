@@ -1,0 +1,56 @@
+**kern
+*clefG2
+*k[]
+*M6/8
+*C:
+4.f#
+[4f#
+16]f#
+16f#
+=
+[4a
+16]a
+16g
+4.g
+=
+4.a#
+[4a
+16]a
+16a
+qa
+=
+[4ee
+16]ee
+16dd
+[4.dd
+=
+8.]dd
+8.b
+8.cc
+8.g#
+qg#
+=
+[4b
+16]b
+16a
+4.a
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1833///-1838
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s719 % . % 1833-1838 % Vienna % S719 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1839///
+!!!ODT: <1839/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1839(p) ? (S719) . . . . . . .

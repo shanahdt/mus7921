@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1821///-1822///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1823///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.31 in A Flat for Piano                  
+!!!OPS: Op. 110
+!!!SET: No. 31
+!!!OMV: Mov. 1
+!!!thm: A b
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+4.cc\
+4ee-\
+8aa-\
+=
+4aa-\
+2gg\
+=
+4.bb-\
+4gg\
+8ee-\
+=
+4ee-\
+2aa-\
+=
+*-

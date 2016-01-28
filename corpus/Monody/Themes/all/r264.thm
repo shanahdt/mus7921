@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Bergamasca
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 2
+!!!statkey: D
+!!DEBUGGING: r264 % 381 % ? % ? % R264 % . % x % 4: Bergamasca % orchestra % Suite No. 2 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+4ff#\
+4ff#\
+=
+4gg\
+4gg\
+4ee\
+4aa\
+=
+2aa\
+4aa\
+4aa\
+=
+4bb\
+4ddd\
+4ddd\
+4ccc#\
+=
+4.ddd\
+8cccn\
+8bb\L
+8aa\
+8gg\
+8ff#\J
+=
+4gg\
+4ff#\
+4ee\
+4ee\
+=
+1ff#\
+=
+*-

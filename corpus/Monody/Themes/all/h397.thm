@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1789,1790/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1789,1790///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1788
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in A
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: h397 % . % -1788 % Eszterh&aacute;za % H397 % . % x % 2 % string % . % Quartet in A % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789,1790(p) ? (H397) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+4a/
+8.b\L
+32cc#\LL
+32dd\JJJ
+=
+16dd/LL
+16a/J
+[8a/J
+16a/LL]
+!!   B&M  Encoding error:  changing 8 to 16                                       
+32b/L
+32a/JJJ
+32g/LLL
+32f#/
+32e/
+32d/JJJ
+=
+16.c#/LL
+!!   Encoding error:  change 8 to 16                                              
+32A/k
+!!   Encoding error:  change 16 to 32                                             
+16.d/
+!!   Encoding error:  change 8 to 16                                              
+32A/JJk
+!!   Encoding error:  change 16 to 32                                             
+8g/L
+8gq/
+32f#/LL
+32e/
+32f#/
+32g/JJJ
+=
+4f#/
+*-

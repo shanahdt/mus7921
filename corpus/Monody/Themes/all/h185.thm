@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 3
+!!!OPC: England, London(?)
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: violn, cbass
+!!!splace: England, London
+!!!title1: Sonata in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: h185 % . % c1730(p) % London? % H185 % 1 No. 3 % x % 3 % violn, cbass % . % Sonata in A % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H185) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M4/4
+=
+[4c#/
+16c#/LL]
+32f#/L
+32a/
+32cc#/
+32dd/
+32.b/
+64a/JJJk
+4b\
+4r
+=
+8.c#/L
+32e#/LL
+32g#/JJJ
+32b\LLL
+32dd\
+32cc#\
+32ee#\
+32gg#\
+32bb\
+32.aa\
+64gg#\JJJk
+4aa\
+4r
+=
+*-

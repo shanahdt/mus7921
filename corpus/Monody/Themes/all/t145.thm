@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1877///
+!!!OCL: RSC
+!!!ODT: <1877/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1877(prf)
+!!!place: Royssia, Moskova
+!!!title1: Francesca da Rimini, Op. 32, Orch.
+!!!statkey: C
+!!DEBUGGING: t145 % . % 1877(prf) % Moscow % T145 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+4r
+[4ff\
+8ff\L]
+8ee-\J
+4ff\
+=
+4r
+[4ff\
+8ff\L]
+8ee-\J
+4ff\
+=
+4r
+2ff\
+[4ee\
+=
+4ee\]
+2ee-\
+[4dd\
+=
+8dd\]
+*-

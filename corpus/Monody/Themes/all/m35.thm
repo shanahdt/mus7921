@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!OMV: Mov. V: Village Festival
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1891///-1895
+!!!instrument: orchestra
+!!!place: United States of America, Massachusetts, Boston
+!!!splace: Deutschland, Leipzig & United States of America, New York
+!!!theme: B
+!!!title1: Suite No. 2
+!!!title2: (Indian0
+!!!statkey: E
+!!DEBUGGING: m35 % . % 1891-1895 % Boston % M35 % . % b % V: Village Festival % orchestra % (Indian0 % Suite No. 2 % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) Leipzig, New York (M35) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+24bb\LL
+24ccc#\
+24ddd#\JJ
+=
+8eee\L
+8bb\
+8eee\
+8eeeq/
+8ccc#\J
+=
+4bb\
+8aa\L
+8ff#\J
+=
+4ee\
+8cc#q/
+8ddn\L
+8dd\J
+=
+4ee\
+*-

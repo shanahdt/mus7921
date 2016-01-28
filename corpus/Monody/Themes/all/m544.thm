@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 5
+!!!OPS: Opus K 600
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B: DER KANARIENVOGEL
+!!!title1: Deutsche T&auml;nze
+!!!title2: K 600, No. 5
+!!!statkey: G
+!!DEBUGGING: m544 % 318 % 1791 % Vienna % M544 % K 600 No. 5 % b: Der Kanarienvogel % . % orchestra % . % Deutsche T&auml;nze % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+8gg\L
+8aa\
+8bb\
+8ccc\
+8ddd\
+8eee\J
+=
+2.fff#t\
+32eeeq/LLL
+32fff#q/JJJ
+=
+4ggg\
+4ddd\
+4bb\
+=
+8bb\L
+8ccc\J
+4aa\
+4r
+=
+*-

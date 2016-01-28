@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1826///
+!!!OCL: RSC
+!!!ODT: <1826/12/31/
+!!!ODT: <1872/12/31/
+!!!PDT: 1872///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1825///-1826
+!!!place: Deutschland, Dresden
+!!!splace: Deutschland, Berlin
+!!!splace: England, London
+!!!title1: Oberon, Overture
+!!!statkey: D
+!!DEBUGGING: w238 % . % 1825-1826 % Dresden % W238 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1826(prf) London (W238) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1872(p) Berlin (W238) . . . . . . WEBER, Carl Maria Von
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+4..d/
+16e/
+2f#;/
+=
+8.a/L
+16f#/Jk
+4b-\
+4b-\
+4a;/
+=
+4..d/
+16e/
+2f#;/
+=
+8.f#/L
+16d/Jk
+4a/
+2dd;\
+=
+*-

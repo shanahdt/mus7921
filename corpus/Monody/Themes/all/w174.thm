@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1926///
+!!!OCL: RSC
+!!!ODT: <1926/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926(prf)
+!!!place: ?
+!!!splace: England, Chelsea
+!!!title1: Fa\c2ade, Suite No. 1, Orch.
+!!!title2: Polka
+!!!statkey: c#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w174 % 516 % 1926(prf) % ? % W174 % . % . % . % . % . % . % WALTON, William Turner
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1926 Chelsea, England (W174) . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*F#:
+*M4/4
+!! ! NB. Key & key signature disagree.
+24cc#\LL
+24dd#\
+24ee#\JJ
+=
+16.ff#\LL
+32gg#\k
+16.ff#\
+32f#\JJk
+16.dd#/LL
+32ee#/k
+16.dd#/
+32d#/JJk
+8e#/L
+8dd#/J
+8.dd#\
+16r
+=
+8f#/L
+8ee#/J
+8.ee#\
+16r
+8g#\L
+8ff#\J
+8.ff#\
+16r
+=
+*-

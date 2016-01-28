@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Paderewski, Ignace Jan
+!!!CDT: 1860/11/18/-1941/06/29/
+!!!CNT: Polish
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1887/12/31/
+!!!ONM: No. 1
+!!!OPS: Opus 14
+!!!PDT: 1887///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1887(p)
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!theme: C
+!!!title1: Minuet
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p19 % . % 1887(p) % Berlin % P19 % 14 No. 1 % c % . % piano % . % Minuet % PADEREWSKI, Ignace Jan % 1860
+**kern
+*clefG2
+*k[f#]
+*C:
+*M3/4
+!! ! NB. Key & key signature disagree.
+4g/
+=
+2gg\
+4dd\
+=
+[4ee-\
+8ee-\L]
+8ffn\
+8gg\
+8ee-\J
+=
+2gg\
+4dd\
+=
+16ee-q/LL
+16ffnq/JJ
+8gg\L
+8ee-\
+8ff\
+8dd\
+8ee-\
+8cc\J
+=
+2ffn\
+4cc\
+=
+[4dd\
+8dd\L]
+8ee-\
+8ffn\
+8dd\J
+=
+*-

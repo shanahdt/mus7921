@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 9: Bour&eacute;e
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Water Music
+!!!title2: 9th Movement (Bour\e7e)
+!!!statkey: F
+!!DEBUGGING: h254 % 225 % 1717(prf) % London % H254 % . % x % 9: Bour&eacute;e % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H254) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+4cc\
+=
+4a/
+4dd\
+4cc\
+4ff\
+=
+4ee\
+4aa\
+4gg\
+4b-\
+=
+4a/
+4ff\
+4gg\
+8ff\L
+8ee\J
+=
+4ff\
+4cc\
+4f/
+*-

@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 4: Jupiter, the Bringer of Jollity
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: D
+!!!title1: The Planets
+!!!title2: 4th Movement (Jupiter, the Bringer of Jollity)
+!!!statkey: c
+!!DEBUGGING: h807 % 253 % 1914-1916 % London % H807 % 32 % d % 4: Jupiter, the Bringer of Jollity % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H807) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=
+4c/
+8c/L
+8e-/J
+8.d/L
+16B-/Jk
+=
+8e-/L
+8f/J
+4e-/
+4d/
+=
+8c/L
+8d/J
+4c/
+4B-/
+=
+2G/
+*-

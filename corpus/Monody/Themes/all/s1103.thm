@@ -1,0 +1,78 @@
+**kern
+*clefG2
+*k[b-]
+*met(C|)
+*M2/2
+*F:
+4r
+8r
+8aa
+[2ccc
+=
+8]ccc
+8ddd
+[4ccc
+8]ccc
+8aa
+[4ccc
+=
+8]ccc
+8aa
+8ccc
+8ddd
+8ccc
+8aa
+[4ccc
+=
+8]ccc
+8ddd
+8ccc
+8aa
+8ccc
+8aa
+8ccc
+8ddd
+=
+8ccc
+8aa
+8gg
+8aa
+*-
+!!!COM: Smetana, Bedrich
+!!!CNT: Czech
+!!!date: 1863///-1866
+!!!place: Czech, Prague
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1103 % . % 1863-1866 % Prague % S1103 % . % . % . % . % . % . % SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1866///
+!!!ODT: <1866/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1866(prf) . (S1103) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1869(rev)///
+!!!ODT: <1869/12/31/
+!!!splace: Czech, Prague
+!!!CDT: ///-
+!!DEBUGGING: . . 1869(rev)(prf) Prague (S1103) . . . . . . SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: . . 1869-1870(rev) Prague (S1103) . . . . . . SMETANA, Bedrich
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1870///
+!!!ODT: <1870/12/31/
+!!!splace: Czech, Prague
+!!!CDT: ///-
+!!DEBUGGING: . . 1870(prf) Prague (S1103) . . . . . . SMETANA, Bedrich

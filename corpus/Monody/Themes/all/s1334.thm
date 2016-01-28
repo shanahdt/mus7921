@@ -1,0 +1,64 @@
+**kern
+*clefG2
+*k[f#c#]
+*met(C|)
+*M2/2
+!! NB. Key & key signature disagree.
+*E-:
+qgg
+8ff#
+8ff
+=
+8ff#
+8r
+qgg
+8ff#
+8ff
+8ff#
+8r
+qgg
+8ff#
+8ff
+=
+8ff#
+8r
+8ee
+8r
+8dd
+8r
+qgg
+8ff#
+8ff
+=
+8ff#
+8r
+qgg
+8ff#
+8ff
+8ff#
+8r
+qgg
+8ff#
+8ff
+=
+8ff#
+8r
+8bb
+8r
+8aa
+8r
+*-
+!!!COM: Strauss, Johann Sr.
+!!!CNT: Austrian
+!!!PDT: 1848///
+!!!ODT: <1848/12/31/
+!!!date: 1848(p)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1334 % . % 1848(p) % Vienna % S1334 % . % . % . % . % . % . % STRAUSS, Johann Sr.

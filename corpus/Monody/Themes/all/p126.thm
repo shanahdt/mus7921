@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1933
+!!!instrument: string
+!!!place: United States of America, Massachusetts
+!!!theme: AB
+!!!title1: Quartet No. 1
+!!!title2: 1st Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p126 % . % 1933 % Massachusetts % P126 % . % ab % 1 % string % . % Quartet No. 1 % PISTON, Walter % 1894
+**kern
+*clefF4
+*k[]
+*F:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+[4C/
+8C/L]
+8C/J
+8D-\
+8r
+=
+[4C/
+8C/L]
+8C/J
+8BB/
+8r
+=
+[4C/
+8C/L]
+8C/J
+8E-\
+8r
+=
+[4C/
+8C/L]
+8CC/J
+8FF/
+8r
+=
+*-

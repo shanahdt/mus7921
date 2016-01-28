@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. V: Ballet of Unhatched Chicks
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: V. Ballet of Unhatched Chickens
+!!!statkey: F
+!!DEBUGGING: m1032 % 343 % 1874 % St. Petersburg % M1032 % .  % x % V: Ballet of Unhatched Chicks % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=
+8cccq/
+8ccc\L
+8cc\
+8cccq/
+8bbn\
+8dd-\J
+=
+8dddq/
+8ccc\L
+8cc\J
+8aa-\
+8dddq/
+8ccc\
+=
+8dddq/
+8ccc\L
+8cc\
+8cccq/
+8bbn\
+8dd-\J
+=
+8dddq/
+8ccc\L
+8cc\J
+8aa-\
+*-

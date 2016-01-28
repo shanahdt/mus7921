@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920(rev)
+!!!place: England, London
+!!!title1: The Lark Ascending, Vn. & Orch.
+!!!statkey: e
+!!DEBUGGING: v11 % . % 1920(rev) % London % V11 % . % . % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=
+4.ddd\
+4.bb\
+=
+8.aa\L
+16gg\k
+8aa\J
+4bb\
+8gg\
+=
+[4.dd\
+8dd\L]
+8ee\
+8ff#\J
+=
+4.ee\
+8.dd\L
+16ee\k
+8ff#\J
+=
+[4.ee\
+16ee\LL]
+16dd\
+16b\
+16a\
+16b\
+16dd\JJ
+=
+8eeq/
+4.eee\
+*-

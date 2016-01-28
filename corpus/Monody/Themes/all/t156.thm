@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1879/12/31/
+!!!PDT: 1879///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879(p)
+!!!place: Royssia, Moskova
+!!!title1: Polonaise from Eugen Onegin, 3rd Act
+!!!statkey: G
+!!DEBUGGING: t156 % . % 1879(p) % Moscow % T156 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+8ddd\L
+16aaq/LL
+16bbq/JJ
+16aa\L
+16gg#\JJ
+[4aa\
+16.aa\LL]
+32gg#\k
+16.aa\
+32bb\JJk
+=
+16ddd\LL
+16ggn\
+16ggq/LL
+16aaq/JJ
+16gg\
+16ff#\JJ
+[4gg\
+16.gg\LL]
+32aa\k
+16.bb\
+32ddd\JJk
+=
+8eee\L
+[8eee\J
+16.eee\LL]
+32fff#\k
+16.ggg\
+32fff#\JJk
+*-

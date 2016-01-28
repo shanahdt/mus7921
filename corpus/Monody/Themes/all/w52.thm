@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1876///
+!!!OCL: RSC
+!!!ODT: <1876/12/31/
+!!!PDT: 1876///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!place: Deutschland, Bayreuth
+!!!splace: Deutschland, Mainz
+!!!title1: G\o3tterd\a3mmerung, Opera (Der Ring Der Nibelungen, Part IV)
+!!!title2: Siegfried's Rhine Journey
+!!!statkey: A
+!!DEBUGGING: w52 % . % 1874 % Bayreuth % W52 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(prf) . (W52) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(p) Mainz (W52) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+[2a/
+8a/L]
+8b/J
+=
+[2cc#\
+8cc#\L]
+8dd\J
+=
+[2ee\
+8ee\L]
+8aa\J
+=
+2.ccc#\
+=
+[2a/
+8a/L]
+8b/J
+=
+[2cc#\
+8cc#\L]
+8dd\J
+=
+[2ee\
+8ee\L]
+8aa\J
+=
+2ccc#\
+*-

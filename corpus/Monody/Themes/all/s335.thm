@@ -1,0 +1,44 @@
+**kern
+*clefG2
+*k[b-e-]
+*M3/4
+*B-:
+8.g
+16f
+=
+4f
+4f
+12f
+12cc
+12b-
+=
+2a
+8.dd
+16cc
+=
+4cc
+4cc
+12cc
+12gg
+12ff
+=
+2dd
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1824
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s335 % . % 1824 % Vienna % S335 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1853///
+!!!ODT: <1853/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1853(p) Vienna? (S335) . . . . . . .

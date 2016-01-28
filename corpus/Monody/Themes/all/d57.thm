@@ -1,0 +1,59 @@
+!!!ref: COM CDT, OPR, OTL, ONM, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Images                  
+!!!OTL: Iberia
+!!!ONM: No. 2
+!!!OMV: Mov. 2 (Les Parfums de La Nuit)        
+!!!thm: D           
+!!!AIN: orchestra 
+!!!ODT: 1905///-1908///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M2/4
+=
+4r
+16cc#\LL
+16dd#\
+16ee#\
+16ff#\JJ
+=
+48ee#\LLL
+48ff#\
+48ee#\J
+[16dd#\J
+8dd#\J_
+16dd#\LL]
+16ee#\
+16ff#\
+16gg#\JJ
+=
+32ff#\LLL
+32ee#\J
+[16dd#\J
+8dd#\J_
+16dd#\LL]
+16ee#\
+16ff#\
+[16gg#\JJ
+=
+!!   B&M Encoding error?  adding bar line?
+24gg#\LL]
+24ff#\
+24ee#\J
+[8cc#\J
+8cc#\]
+8r
+=
+*-

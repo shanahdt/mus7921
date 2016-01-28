@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Franck, César
+!!!CDT: 1822/12/10/-1890/11/08/
+!!!CNT: French
+!!!OTL: Quintet in F MInor for Piano and Strings                     
+!!!OMV: Mov. 1
+!!!thm: A             
+!!!AIN: cello forte viola violn
+!!!ODT: 1878///-1879///
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1879/// 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M4/4
+=
+8.ddd-\L
+16ccc\Jk
+2bbn\
+4bb-\
+=
+8.aa-\L
+16gg\Jk
+4ff\
+4r
+4F/
+=
+8.G-/L
+16Fn/Jk
+8.G/L
+16F/Jk
+8.A-/L
+16G/Jk
+8F/
+16r
+16f/
+=
+8.g-/L
+16fn/Jk
+8.g/L
+16f/Jk
+8.a-/L
+16g/Jk
+8f/
+8r
+=
+*-

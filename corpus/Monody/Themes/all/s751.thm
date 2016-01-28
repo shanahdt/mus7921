@@ -1,0 +1,51 @@
+**kern
+*clefG2
+*k[b-e-]
+*M2/4
+!! NB. Key & key signature disagree.
+*F:
+8c
+=
+8.c
+16d
+8e
+8f
+=
+8g
+8a
+8b-
+8b
+=
+8.cc
+16dd
+8ee
+8ff
+=
+8gg
+8aa
+8bb-
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1841
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s751 % . % 1841 % Leipzig % S751 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(p) ? (S751) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1841///
+!!!ODT: <1841/12/31/
+!!!splace: Deutschland, Leipzig
+!!!CDT: ///-
+!!DEBUGGING: . . 1841(prf) Leipzig (S751) . . . . . . SCHUMANN, Robert

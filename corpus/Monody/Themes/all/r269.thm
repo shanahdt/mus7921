@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4: Passacaglia
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!title1: Antiche Danze Ed Arie Per Liuto
+!!!title2: Suite No. 3
+!!!statkey: g
+!!DEBUGGING: r269 % 381 % ? % ? % R269 % . % x % 4: Passacaglia % orchestra % Suite No. 3 % Antiche Danze Ed Arie Per Liuto % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+8e-/L
+8d/
+8c/J
+=
+4gg\
+16Gq/LL
+16dq/
+16bnq/JJ
+8gg/L
+8f/
+8e-/
+8d/J
+=
+4gg\
+8aa-\L
+8gg\
+8ff#\
+8aan\J
+=
+8gg\L
+8bb-\J
+4aa\
+8r
+16gg\LL
+16aa\JJ
+=
+4gg\
+4gg\
+*-

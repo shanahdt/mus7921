@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Air D&eacute;suet
+!!!OPS: Opus 91
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: flt, violn, viola, cello, arpa
+!!!place: France, Paris
+!!!title1: Suite in Parties
+!!!title2: 2nd Movement  (Air D\e7suet)
+!!!statkey: F
+!!DEBUGGING: i50 % . % 1927 % Paris % I50 % 91 % x % 2: Air D&eacute;suet % flt, violn, viola, cello, arpa % . % Suite in Parties % I29 % 1851
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+4f/
+[4cc\
+8cc\L]
+8cc\
+8dd\
+8b-\J
+=
+4cc\
+4a/
+8ff\L
+8ee\
+8dd\
+8cc\J
+=
+8dd\L
+8cc\
+8b-\
+8a\J
+4g/
+4f/
+=
+2cc\
+*-

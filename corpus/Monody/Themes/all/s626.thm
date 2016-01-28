@@ -1,0 +1,41 @@
+**kern
+*clefG2
+*k[]
+*M3/4
+*C:
+8.cc#
+16dd
+8.cc#
+16dd
+8.cc#
+16cc#
+=
+8.ee
+16dd
+8.cc
+16b
+8.a
+16g
+=
+8.aa
+16gg
+8.ff
+16ee
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1837
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s626 % . % 1837 % Leipzig % S626 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1837///
+!!!ODT: <1837/12/31/
+!!!CDT: ///-
+!!DEBUGGING: . . 1837(p) . (S626) . . . . . . .

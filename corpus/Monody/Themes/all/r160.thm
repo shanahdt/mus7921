@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1912///
+!!!OCL: RSC
+!!!ODT: <1912/12/31/
+!!!OMV: Mov. Les Entretiens de la Belle et de la B&ecirc;te
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908///-1910
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Ma M&egrave;re L'Oye
+!!!title2: Beauty and the Beast (Les Entretiens de la Belle et de la B\e9te)
+!!!statkey: d
+!!DEBUGGING: r160 % 376 % 1908-1910 % Paris % R160 % . % x % Les Entretiens de la Belle et de la B&ecirc;te % orchestra % . % Ma M&egrave;re L'Oye % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(rev) . (R160) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 376 1912(prf) Paris (R160) . x Les Entretiens de la Belle et de la B&ecirc;te orchestra . Ma M&egrave;re L'Oye RAVEL, Maurice 1875
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4r
+4dd\
+4cc\
+=
+4ff\
+4a/
+4bn\
+=
+4dd\
+4cc\
+4f/
+=
+4r
+[2a/
+=
+2.a/_
+=
+2.a/_
+=
+2.a/]
+=
+4r
+4g/
+4a/
+=
+4cc\
+4g/
+4a/
+=
+4r
+4g/
+4a/
+=
+4dd\
+4g/
+4a/
+=
+*-

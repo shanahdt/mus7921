@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Pugnani, Gaetano
+!!!CDT: 1731/11/27/-1798/07/15/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1775
+!!!instrument: violn, piano
+!!!place: England, London
+!!!title1: Sonata in E No. 1
+!!!title2: 3rd Movement
+!!!statkey: E
+!!DEBUGGING: p323 % . % c1775 % London % P323 % . % x % 3 % violn, piano % . % Sonata in E No. 1 % PUGNANI, Gaetano % 1731
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/4
+16gg#\LL
+16ee\
+16aa\
+16ff#\JJ
+=
+4bb\
+16gg#\LL
+16ee\
+16aa\
+16ff#\JJ
+=
+4bb\
+16gg#\LL
+16ee\
+16aa\
+16ff#\JJ
+=
+16bb\LL
+16gg#\
+16ff#t\
+16ee\JJ
+16bb\LL
+16gg#\
+16ff#t\
+16ee\JJ
+=
+16dd#\LL
+16ff#\
+16dd#\
+16b\JJ
+*-

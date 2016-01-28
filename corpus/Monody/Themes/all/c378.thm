@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Clementi, Muzio
+!!!CDT: 1752/01/23/-1832/03/10/
+!!!CNT: English
+!!!OTL: Sonata No. 2 in B Flat Major for 2 Pianos, 4 Hands
+!!!SET: No. 2
+!!!OMV: Mov. 2 (Tempo Di Minuetto)
+!!!AIN: forte 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+=
+2.ff\
+=
+2.gg\
+=
+8a\L
+8b-\
+8cc\
+8dd\
+8ee-\
+8ff\J
+=
+2ee-\
+4dd\
+=
+32eenq/LLL
+32ggq/JJJ
+4bb-\
+8aa\L
+8gg\
+8ff\
+8een\J
+=
+8.ee-\L
+48ff\LL
+48ee-\
+48dd\JJJ
+8ee-\L
+8aa\J
+8ccc\
+!!   B&M Encoding error:  removing bar line
+*-

@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus 77a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1904
+!!!instrument: flt, violn, viola
+!!!place: Deutschland, Muenchen
+!!!theme: B
+!!!title1: Serenade
+!!!title2: 3rd Movement
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r239 % . % 1904 % Munich % R239 % 77a % b % 3 % flt, violn, viola % . % Serenade % REGER, Max % 1873
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+4.b\
+4.b\
+=
+4.ee\
+4.ee\
+=
+4cc#\
+8b\
+4a/
+8b\
+=
+4cc#\
+8cc#\
+[4.ee\
+=
+4ee\]
+8ee\
+[4.ggn\
+=
+4.gg\_
+4gg\]
+8gg\
+=
+4.bb-\
+*-

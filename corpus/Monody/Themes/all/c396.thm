@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Le Caprice de Nanette
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1910
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Petite Suite de Concert
+!!!title2: 1st Movement (Le Caprice de Nanette)
+!!!statkey: C
+!!DEBUGGING: c396 % . % 1910 % London % C396 % . % a % 1: Le Caprice de Nanette % orchestra % . % Petite Suite de Concert % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4r
+8ee\L
+8ee\
+8ee\
+8ee\J
+=
+8ee\
+8r
+4.gg\
+8ff\
+=
+8b\
+8r
+4.dd\
+8cc\
+=
+8a/
+8r
+2g/
+=
+*-

@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Delius, Frederick
+!!!CDT: 1862/01/29/-1934/06/10/
+!!!CNT: English
+!!!OTL: Brigg Fair
+!!!thm: A           
+!!!AIN: orchestra      
+!!!OPC: 1907///        
+!!!OCY: France
+!!!OPC: Paris
+!!!MRD: 1907///
+!!!MLC: Balse
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=
+4dd\
+8ee\
+=
+4ff\
+8dd\
+=
+8.dd\L
+16cc\k
+8b-\J
+=
+4.cc\
+=
+8cc\L
+8dd\
+8ee\J
+=
+4dd\
+8g/
+=
+4g/
+8a/
+=
+[4b-\
+24b-\LL]
+24cc\
+24b-\JJ
+=
+4a/
+8f/
+=
+*-

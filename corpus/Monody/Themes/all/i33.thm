@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 12
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879///-1881
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: E
+!!!title1: Le Camp de Wallenstein
+!!!statkey: a
+!!DEBUGGING: i33 % D'INDY, Vincent % 1879-1881 % Paris % I33 % 12 % e % . % orchestra % . % Le Camp de Wallenstein % I29 % 1851
+**kern
+*clefG2
+*k[]
+*C:
+*M3/8
+=
+4aa\
+16gg\LL
+16ff\JJ
+=
+4aa\
+16gg\LL
+16ff\JJ
+=
+16aa\LL
+16gg\
+16ff\
+16ee\J
+8ff\J
+=
+8gg\L
+8.aa\
+16bb\Jk
+=
+4ccc\
+16bb\LL
+16aa\JJ
+=
+4ccc\
+16bb\LL
+16aa\JJ
+=
+16ccc\LL
+16bb\
+16aa\
+16gg\J
+8aa\J
+=
+8bb\L
+8.ccc\
+16ddd\Jk
+=
+*-

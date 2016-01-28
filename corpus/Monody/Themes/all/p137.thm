@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Piston, Walter
+!!!CDT: 1894/01/20/-1976/11/12/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Gigue
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931
+!!!instrument: oboe, piano
+!!!place: United States of America, Massachusetts
+!!!title1: Suite for Oboe and Piano
+!!!title2: 5th Movement (Gigue)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p137 % 355 % 1931 % Massachusetts % P137 % . % x % 5: Gigue % oboe, piano % . % Suite for Oboe and Piano % PISTON, Walter % 1894
+**kern
+*clefG2
+*k[]
+*D:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+8r
+8aa\L
+8aa\J
+8aa\L
+8aa\
+8aa\J
+=
+4dd\
+8ee\
+4ff\
+8dd\
+=
+8gg#\L
+8ff#\
+8gg#\J
+8ee\L
+8bb-\
+8aan\J
+=
+4dd\
+8ee\
+4ffn\
+8dd\
+=
+8gg#\L
+8ff#\
+8gg#\J
+8ee\L
+8bb-\
+8aan\J
+=
+*-

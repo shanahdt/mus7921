@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1874///
+!!!MPD: 1925///
+!!!OCL: RSC
+!!!ODT: 1868-1869///
+!!!ODT: <1874/12/31/
+!!!ODT: <1925/12/31/
+!!!OMV: Mov. Coronation Theme
+!!!OPC: Royssia, St. Petersburg
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!splace: Royssia, St. Petersburg
+!!!theme: B
+!!!title1: Boris Godunov
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: m1014 % 342 % 1868-1869(c) % St. Petersburg % M1014 % .  % b % Coronation Theme % orchestra % Opera % Boris Godunov % MUSORGSKY, Modest Petrovich % 1839
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1925(prf) Leningrad (M1014) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 342 1871-1873(rev) St. Petersburg (M1014) .  b Coronation Theme orchestra Opera Boris Godunov MUSORGSKY, Modest Petrovich 1839
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 342 1874(prf) St. Petersburg (M1014) .  b Coronation Theme orchestra Opera Boris Godunov MUSORGSKY, Modest Petrovich 1839
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+4r
+4cc\
+4g/
+=
+4cc\
+4cc\
+4dd\
+=
+8ee\L
+8gg\J
+4ff\
+4ee\
+=
+4dd\
+4cc\
+4dd\
+=
+2ee\
+4cc\
+=
+*-

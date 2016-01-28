@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1931/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1931///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1784
+!!!instrument: piano, orchestra
+!!!place: Eszterh&aacute;za
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Concerto in D
+!!!title2: 3rd Movement
+!!!statkey: b
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h309 % . % -1784 % Eszterh&aacute;za % H309 % . % b % 3 % piano, orchestra % . % Concerto in D % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1931(p) Leipzig (H309) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*E:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4gg\
+16ff#\LL
+16aa\
+16ff#\
+16dd#\JJ
+=
+8ee\L
+8aa#q/
+8bb\
+8ee\
+8aa#q/
+8bb\J
+=
+4gg\
+16ff#\LL
+16aan\
+16ff#\
+16dd#\JJ
+=
+8ee\L
+8aa#q/
+8bb\J
+4ee\
+=
+*-

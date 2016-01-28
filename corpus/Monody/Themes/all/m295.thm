@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1841/12/31/
+!!!ONM: No. 4
+!!!OPS: Opus 53
+!!!PDT: 1841///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1841
+!!!instrument: piano
+!!!place: Deutschland, Leipzig(?)
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 22: Sadness of Soul
+!!!statkey: d
+!!DEBUGGING: m295 % . % 1841 % Leipzig? % M295 % 53 No. 4 % x % . % piano % No. 22: Sadness of Soul % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1841(p) Bonn (M295) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M9/8
+8c/L
+8eq/
+8d/
+8c/J
+=
+[4.a/
+8a\L]
+8b-\
+8bn\J
+8cc/L
+8a/
+8f/J
+=
+4.e/
+4.d/
+4d/
+8c/
+=
+[4.c/
+8c/L]
+8d/
+8e/J
+8f/L
+8a/
+8f/J
+=
+*-

@@ -1,0 +1,62 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Gluck, Christoph
+!!!CDT: 1714/07/02/-1787/11/15/
+!!!CNT: Bohemian
+!!!OPR: Alceste
+!!!OTL: Overture                     
+!!!thm: B                         
+!!!AIN: orchestra      
+!!!ODT: 1767///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien           
+!!!PDT: 1769///
+!!!MPD: 1767///
+!!!MLC: &Ouml;sterreich, Wien
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*a:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.g#/
+8a/
+8bn\L
+8cc\
+8dd\
+8ee\J
+=
+4.ff\
+16ee\LL
+16dd\JJ
+4cc\
+4bn\
+=
+8a\L
+8cc\
+8ee\
+8aa\J
+8ccc\L
+8aa\J
+8r
+8cc\
+=
+8ee\L
+8cc\J
+8r
+8aa\
+8ccc\L
+8aa\J
+8dddq/
+8ccc\L
+16bbn\L
+16aa\JJ
+=
+4gg#\
+*-

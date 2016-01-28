@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Printemps, Symphonic Suite
+!!!OMV: Mov. 2
+!!!thm: A
+!!!AIN: orchestra 
+!!!ODT: 1887///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#c#g#d#a#e#]
+*F#:
+*M4/4
+=
+8r
+[4.c#\
+8c#\L]
+8A#\
+8B\
+8dn\J
+=
+8.c#\L
+16A#\Jk
+2B\
+4Gn\
+=
+8.A#\L
+16F#\Jk
+2C#/
+8.D#/L
+16AA#/Jk
+=
+8.AA#/L
+16FF#/Jk
+2DD#/
+*-

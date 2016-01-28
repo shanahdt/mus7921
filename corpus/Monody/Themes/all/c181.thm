@@ -1,0 +1,37 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Concerto No. 2 in F Minor for Piano and Orchestra
+!!!OPS: Op. 21
+!!!OMV: Mov. 2
+!!!AIN: forte orchestra
+!!!ODT: 1829///-1830///
+!!!OCY: Polska
+!!!OPC: Warsaw
+!!!PDT: 1836///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+4ccc\
+8.ddd-\L
+16ccc\Jk
+4bb-\
+4eee-\
+=
+4aa-\
+8.gg\L
+16ff\Jk
+2gg\
+=
+*-

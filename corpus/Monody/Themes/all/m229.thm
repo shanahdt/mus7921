@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1827///
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. Intermezzo
+!!!ONM: No. 5
+!!!OPS: Opus 61
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1826
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!splace: Stettin
+!!!theme: C
+!!!title1: Midsummer's Night Dream
+!!!title2: Intermezzo, Op. 61, No. 5
+!!!statkey: a
+!!DEBUGGING: m229 % . % 1826 % Berlin % M229 % 61 No. 5 % c % Intermezzo % orchestra % . % Midsummer's Night Dream % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(prf) Stettin (M229) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M229) 61 No. 5 c Intermezzo orchestra . Midsummer's Night Dream MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[]
+*a:
+*M6/8
+=
+4.A/
+4B/
+8c#/
+=
+4.d/
+4.f/
+=
+4.e/
+4c#/
+8A/
+=
+4.d/
+4.f/
+=
+4.e/
+8gq/
+4f/
+8e/
+=
+4.a/
+4a/
+8f/
+=
+*-

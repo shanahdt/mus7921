@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1813///
+!!!OCL: RSC
+!!!ODT: <1813/12/31/
+!!!ODT: <1854/12/31/
+!!!PDT: 1854///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1813(prf)
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!splace: Italia, Milano
+!!!theme: A
+!!!title1: Il Signor Bruschino
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: r376 % . % 1813(prf) % Venice % R376 % . % a % . % orchestra % Overture % Il Signor Bruschino % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1854(p) Milan (R376) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8a/
+8b\L
+8cc#\
+8dd\
+8ee\J
+=
+8ff#\L
+8aa\
+8dd\
+8dd\J
+8dd\L
+8dd\
+8dd\
+8dd\J
+=
+8cc#\L
+8ee\
+8a\
+8a\J
+8a\L
+8a\
+8b\
+8cc#\J
+=
+8dd\L
+8ee\
+8ff#\
+8gg\J
+8aa\L
+8bb\
+8ccc#\
+8ddd\J
+=
+[2aa\
+8aa\]
+*-

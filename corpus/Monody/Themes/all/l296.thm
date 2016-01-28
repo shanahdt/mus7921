@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1670///
+!!!OCL: RSC
+!!!ODT: <1670/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1670(prf)
+!!!instrument: orchestra
+!!!place: France, Chambord
+!!!theme: A
+!!!title1: Le Bourgeois Gentilhomme
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: l296 % . % 1670(prf) % Chambord % L296 % . % a % Overture % orchestra % Opera % Le Bourgeois Gentilhomme % LULLY, Jean Baptiste % 1632
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/2
+=
+[2dd\
+8dd\L]
+8dd\
+8een\
+8ff#\J
+=
+4.gg\
+8ff#\
+4.gg\
+8aa\
+=
+1bb-\
+=
+4.dd\
+8cc\
+4.dd\
+8een\
+=
+2.ff\
+*-

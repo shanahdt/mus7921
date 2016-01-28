@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!theme: B
+!!!title1: Quartet in G Minor
+!!!title2: "Horseman"
+!!!statkey: g
+!!DEBUGGING: h452 % . % 1793 % Vienna % H452 % . % b % 3 % string % "Horseman" % Quartet in G Minor % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1795, 1796 ? (H452) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+4d/
+=
+4dd\
+4dd\
+4dd\
+=
+4dd\
+4dd\
+4dd\
+=
+4ee-\
+8gg\L
+8ee-\J
+4cc#\
+=
+4dd\
+4a/
+4bn\
+=
+4ccn\
+4g/
+4a/
+=
+2.b-\
+=
+*-

@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OPS, ONM
+!!!COM: Chopin, Frédéric
+!!!CDT: 1810/03/01/-1849/10/17/
+!!!CNT: Polish; French
+!!!OTL: Mazurka No. 15
+!!!OPS: Op. 24
+!!!ONM: No. 2
+!!!AIN: forte           
+!!!ODT: 1832///-1833///
+!!!OCY: France               
+!!!OPC: Paris 
+!!!PDT: 1836///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+=
+8cc\L
+8ccc\J
+12bb\L
+12ccc\
+12bb\J
+8aa\L
+8ff\J
+=
+8dd\L
+8dd\J
+8eeq/
+4dd\
+4cc\
+=
+8a\L
+8aa\J
+12gg\L
+12aa\
+12gg\J
+8ff\L
+8dd\J
+=
+8b\L
+8b\J
+8ccq/
+4b\
+4a/
+=
+*-

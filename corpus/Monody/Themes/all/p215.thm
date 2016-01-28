@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1935///
+!!!OCL: RSC
+!!!ODT: <1935/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus 63
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: violn, orchestra
+!!!place: Caucasus, Baku
+!!!splace: Espana, Madrid
+!!!theme: B
+!!!title1: Concerto No. 2
+!!!title2: 1st Movement
+!!!statkey: B-
+!!DEBUGGING: p215 % . % 1935 % Baku, Caucasus % P215 % 63 % b % 1 % violn, orchestra % . % Concerto No. 2 % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935(prf) Madrid (P215) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4.bb-\
+8aa\
+8gg\L
+8ff\
+8dd\
+8ee-\J
+=
+4dd\
+4f/
+4cc#\
+4en/
+=
+8c#/L
+8d#/
+8f#/
+8bn/J
+4a#/
+4an/
+=
+4bbn\
+8een\L
+8gg#\J
+4dd#\
+4ddn\
+=
+*-

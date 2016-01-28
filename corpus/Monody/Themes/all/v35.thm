@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Vaughan Williams, Ralph
+!!!CDT: 1872/10/12/-1958/08/26/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1931///-1934
+!!!place: England, Dorking
+!!!title1: Symphony No. 4 in E Minor
+!!!title2: 2nd Movement
+!!!statkey: f
+!!DEBUGGING: v35 % . % 1931-1934 % Dorking, England % V35 % . % . % . % . % . % . % VAUGHAN WILLIAMS, Ralph % 1872
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M4/4
+=
+4r
+4an/
+4bn\
+4cc\
+=
+4dd-\
+2cc\
+[4bn\
+=
+4b\]
+8an/L
+8g/
+8a/
+8f/J
+[4g/
+=
+4g/]
+4.an/
+8g/L
+8a/
+8f/J
+=
+2.g/
+4an/
+=
+4bn\
+4cc\
+4dd-\
+[4ee-\
+=
+8ee-\L]
+8dd-\
+8cc\
+8bn\J
+4cc\
+*-

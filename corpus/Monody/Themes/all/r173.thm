@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Malague&ntilde;a
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1907///-1908
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Rapsodie Espagnole
+!!!title2: 2nd Movement (Malague\n1a)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r173 % . % 1907-1908 % Paris % R173 % . % b % 2: Malague&ntilde;a % orchestra % . % Rapsodie Espagnole % RAVEL, Maurice % 1875
+**kern
+*clefG2
+*k[]
+*C-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4ff#\
+8ff#\L
+8ff#\
+8ff#\
+8ff#\J
+=
+4ff#\
+8ee\L
+8dd\J
+4cc#\
+=
+4ff#\
+2cc#\
+=
+4ee\
+12dd\L
+12ee\
+12dd\J
+[4b\
+=
+4b\]
+4a/
+4b\
+=
+*-

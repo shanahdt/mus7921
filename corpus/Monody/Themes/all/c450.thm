@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: El Salon Mexico for Orchestra
+!!!thm: B (Trumpet Solo)
+!!!AIN: orchestra
+!!!ODT: 1937///        
+!!!OCY: Mexico                  
+!!!OPC: Ciudad de Mexico
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+=
+2r
+8r
+8g/
+8g/L
+8b/J
+=
+8dd\L
+8dd\J
+8b/L
+8g/J
+16ddT\LL
+16bt\
+16ddT\
+16bt\
+16dd\
+16b\
+16dd\JJ
+8b\L
+8dd\J
+=
+8cc\
+[4.dd\
+8dd\]
+8d/
+8f#/L
+8a/J
+=
+4cc\
+8a/L
+8f#/J
+8dd\
+*-

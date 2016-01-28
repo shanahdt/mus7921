@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Drigo, Riccardo
+!!!CDT: 1846/06/30/-1930/10/01/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1900///
+!!!OCL: RSC
+!!!ODT: <1900/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1900(prf)
+!!!instrument: violn, piano
+!!!place: Royssia, St. Petersburg
+!!!theme: A
+!!!title1: Les Millions d'Arlequin
+!!!title2: Serenade
+!!!statkey: A
+!!DEBUGGING: d261c % 163 % 1900(prf) % St. Petersburg % D261c % . % a % . % violn, piano % Serenade % Les Millions d'Arlequin % DRIGO, Riccardo % 1846
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/8
+=
+4.cc#\
+=
+4ee\
+8ee\
+=
+24ff#\LL
+24gg#\
+24ff#\J
+8ee\
+8cc#\J
+=
+[4.ee\
+=
+8ee\L]
+8gg#q/
+16ff#\L
+16ee\
+16dd\
+16cc#\JJ
+=
+4cc#\
+8b\
+=
+8cc#q/
+8b/L
+8a/J
+[8a/
+=
+4a/]
+8r
+=
+*-

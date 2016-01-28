@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1831/12/31/
+!!!OPS: Opus 22
+!!!PDT: 1831///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1825///-1826?
+!!!instrument: piano, orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Capriccio Brilliant
+!!!statkey: b
+!!DEBUGGING: m197 % . % 1825-1826? % Berlin % M197 % 22 % b % . % piano, orchestra % . % Capriccio Brilliant % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1831(p) Leipzig (M197) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+8ff#q/
+4fff#\
+8ddq/
+4ddd\
+8bq/
+4bb\
+=
+8bbq/
+4.bbb\
+16fff#\LL
+16bbb\JJ
+16ddd\LL
+16fff#\
+16bb\
+16ddd\JJ
+16ff#\LL
+16bb\
+16dd\
+16ff#\JJ
+=
+4b\
+8r
+24dd\LL
+24cc#\
+24b\JJ
+8a#\L
+8gg\
+8ff#\
+8cc#\J
+=
+16dd\
+*-

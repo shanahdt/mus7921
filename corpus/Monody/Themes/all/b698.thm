@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1794///-1795///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1796///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.2 in A for Piano                  
+!!!OPS: Op. 2
+!!!ONM: No. 2
+!!!SET: No. 2
+!!!OMV: Mov. 2
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4f#/
+4f#/
+4f#/
+=
+4e/
+2f#/
+=
+2g/
+4f#/
+=
+8e/
+8r
+4r
+4r
+=
+4f#/
+4f#/
+8.f#/L
+16b/Jk
+=
+2b\
+8a/L
+8g/J
+=
+8f#/L
+8e/J
+4d/
+*-

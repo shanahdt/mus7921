@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1827/12/31/
+!!!OMV: Mov. Rondo
+!!!OPS: Opus 14
+!!!PDT: 1827///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1824
+!!!instrument: piano
+!!!place: Deutschland, Berlin
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Andante and Rondo Capriccioso
+!!!title2: Rondo
+!!!statkey: e
+!!DEBUGGING: m284 % . % 1824 % Berlin % M284 % 14 % a % Rondo % piano % . % Andante and Rondo Capriccioso % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1827(p) Vienna (M284) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M6/8
+16eee\LL
+16ddd#\JJ
+=
+8eee\L
+8bb\
+8ccc\J
+8bb\L
+8gg\
+8aa\J
+=
+8gg\L
+8ee\
+8ff#\J
+8ee\L
+8b\
+16b\L
+16a#\JJ
+=
+8b\L
+8dd#\
+16b\L
+16a#\JJ
+8b\L
+8ff#\
+16b\L
+16a#\JJ
+=
+8b\L
+8bb\
+8gg\J
+8ff#\
+8r
+*-

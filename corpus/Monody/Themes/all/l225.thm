@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1839
+!!!instrument: piano
+!!!place: Oesterreich, Vienna(?)
+!!!splace: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Valse M&eacute;lancolique
+!!!statkey: E
+!!DEBUGGING: l225 % 284 % 1839 % Vienna? % L225 % . % b % . % piano % . % Valse M&eacute;lancolique % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1840 Vienna (L225) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/4
+=
+4r
+2b\
+=
+4r
+2ccn\
+=
+4r
+2f#/
+=
+4r
+8gn/L
+8g#/
+8a/
+8a#/J
+=
+4r
+2b\
+=
+4r
+2cc#\
+=
+4r
+16cc#q/LL
+16cc#q/JJ
+2gg#\
+=
+*-

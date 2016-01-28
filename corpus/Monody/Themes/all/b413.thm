@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Carl Philipp Emanuel
+!!!CDT: 1714/03/08/-1788/12/14/
+!!!CNT: German
+!!!PDT: 1779///
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Sonata No. 3 in F Minor for Piano
+!!!OPR: F&uuml;r Kenner und Lebhaber Collection No.3
+!!!OMV: Mov. 2
+!!!SET: No. 3
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+[2cc\
+8cc\L]
+8ff\
+8ee\
+8dd\J
+=
+16bnq/
+8ccS\
+4dd\
+16cc\LL
+16b\JJ
+8bq/
+8.atR\L
+16b\Jk
+4cc\
+=
+8.dS/L
+16dd/Jk
+32f#\LLL
+32g\
+32b-\
+32dd\JJJ
+32ff#\LLL
+32gg\
+32bb-\
+32ddd\JJJ
+4ffnTR\
+8ee\
+*-

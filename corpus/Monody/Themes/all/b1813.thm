@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Buxtehude, Dietrich
+!!!CDT: c1637///-1707/05/09/
+!!!CNT: German; Danish
+!!!OTL: Prelude and Fugue No. 14 in G Minor for Organ
+!!!thm: A (Prelude)
+!!!AIN: organ
+!!!OCY: 
+!!!OPC:      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*G:
+*M12/8
+=
+!! ! NB. Key & key signature disagree.  
+16r
+16ff#\LL
+16gg\
+16aa\
+16gg\
+16ff#\JJ
+16gg\LL
+16cc#\
+16ddn\
+16ee\
+16dd\
+16cc#\JJ
+16ddn\LL
+16a\
+16b-\
+16cc\
+16b-\
+16a\JJ
+16b-/LL
+16f#/
+16g/
+16a/
+16g/
+16f#/JJ
+=
+8g/
+*-

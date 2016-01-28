@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 7: Neptune, the Mystic
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: The Planets
+!!!title2: 7th Movement (Neptune, the Mystic)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h814 % 253 % 1914-1916 % London % H814 % 32 % b % 7: Neptune, the Mystic % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H814) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*B:
+*M5/4
+=
+!! ! NB. Key & key signature disagree.
+2.r
+4b\
+4cc#\
+=
+2dd\
+4cc#\
+8b\L
+8cc#\
+8b\
+8a\J
+=
+2.b\
+4b\
+4ee\
+=
+2ff\
+4gg\
+4bb\
+4ff\
+=
+2ff\
+*-

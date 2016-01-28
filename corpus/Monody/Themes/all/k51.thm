@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Mazurka
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1944
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Masquerade Suite for Orchestra
+!!!title2: 3rd Movement (Mazurka)
+!!!statkey: E-
+!!DEBUGGING: k51 % . % 1944 % Moscow % K51 % . % x % 3: Mazurka % orchestra % . % Masquerade Suite for Orchestra % KHACHATURIAN, Aram % 1903
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+12b-\L
+12cc\
+12ee-\J
+4gg\
+8ff\L
+16r
+16gg\Jk
+=
+8ff\L
+16r
+16ee-\Jk
+2ee-\
+=
+12bn\L
+12cc\
+12ee-\J
+4gg\
+8ff\L
+16r
+16gg\Jk
+=
+8ff\L
+16r
+16ee-\Jk
+2ee-\
+=
+12cc\L
+12dd\
+12ee-\J
+4gg\
+12cc\L
+12dd\
+12ee-\J
+=
+4gg\
+*-

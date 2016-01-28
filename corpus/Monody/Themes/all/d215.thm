@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Delius, Frederick
+!!!CDT: 1862/01/29/-1934/06/10/
+!!!CNT: English
+!!!OTL: Sonata No. 2 for Violin and Piano
+!!!thm: B
+!!!AIN: forte violn
+!!!OPC: 1923///        
+!!!OCY: France     
+!!!OPC: Paris      
+!!!MRD: 1924///
+!!!MLC: England, London       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.ddd\
+8ccc#\
+4.aa\
+8ff#\
+=
+4.dd\
+8cc#\
+4.a/
+8fn/
+=
+4.d/
+8e/
+4.f#/
+16e/LL
+16d/JJ
+=
+4.f#/
+8b\
+4.a/
+8f#/
+=
+4d/
+*-

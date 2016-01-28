@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1882///
+!!!OCL: RSC
+!!!ODT: <1882/12/31/
+!!!ODT: <1883/12/31/
+!!!PDT: 1883///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1882
+!!!place: Italia, Palermo
+!!!splace: Deutschland, Bayreuth
+!!!splace: Deutschland, Mainz
+!!!title1: Parsifal, Opera
+!!!title2: Prelude
+!!!statkey: A-
+!!DEBUGGING: w32 % . % 1882 % Palermo % W32 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1882(prf) Bayreuth (W32) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1883(p) Mainz (W32) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+2e-/
+4.f/
+8a-/
+=
+2a-/
+8b-\L
+8cc\
+8dd-\
+8ee-\J
+=
+[1ee-\
+=
+2ee-\]
+8ff\L
+8gg\
+8aa-\
+8bb-\J
+=
+1bb-\
+=
+*-

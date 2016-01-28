@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1748?///
+!!!OCL: RSC
+!!!ODT: <1748?/12/31/
+!!!OMV: Mov. 4
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1747
+!!!instrument: choir, string
+!!!place: England, London
+!!!title1: Concerto in F
+!!!title2: 4th Movement
+!!!statkey: d
+!!DEBUGGING: h49 % 215 % c1747 % London % H49 % . % x % 4 % choir, string % . % Concerto in F % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1748?(prf) . (H49) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M12/8
+8dd\
+4cc#\
+8dd\
+16.dd\LL
+32ee\Jk
+8ff\
+8ee\J
+=
+16.ee\LL
+32ff\Jk
+8gg\
+8ff\J
+4ee\
+8dd\
+*-

@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OPR, OPS, OTL, thm
+!!!COM: Dvorák, Antonin
+!!!CDT: 1841/09/08/-1904/05/01/
+!!!CNT: Czech
+!!!OPR: Slavonic Dances for Orchestra
+!!!OPS: Op. 72
+!!!OTL: Slavonic Dance No. 7
+!!!SET: No. 7
+!!!thm: A       
+!!!AIN: orchestra        
+!!!ODT: 1886///-1887///
+!!!OCY: Czechoslovakia
+!!!OPC: Prague
+!!!PDT: 1887///
+!!!PPP: Deutschland, Berlin
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+8.gg\L
+32ff#\LL
+32gg\JJJ
+8aa\L
+8ee\J
+=
+8gg\L
+8ee\
+8aa\
+8gg\J
+=
+16ggq/LL
+16aaq/
+16bbq/JJ
+4ccc\
+8gg\L
+8gg\J
+=
+16ff\LL
+16ee\
+16ff\
+16gg\JJ
+4ee\
+=
+*-

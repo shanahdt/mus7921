@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Locatelli, Pietro Antonio
+!!!CDT: 1696/09/03/-1764/03/30/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1721///
+!!!OCL: RSC
+!!!ODT: <1721/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 2
+!!!OPS: Opus 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1721
+!!!instrument: string orchestra, piano
+!!!place: Italia, Mantova
+!!!splace: Netherlands, Amsterdam
+!!!title1: Concerto Grosso
+!!!title2: 3rd Movement
+!!!statkey: A-
+!!DEBUGGING: l243 % . % 1721 % Mantua % L243 % 1 No. 2 % x % 3 % string orchestra, piano % . % Concerto Grosso % LOCATELLI, Pietro % 1695
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1721(prf) Amsterdam (L243) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+8r
+8e-/
+8a-\L
+8cc\J
+8ee-\L
+8aa-\J
+=
+4aa-\
+4gg\
+4r
+=
+8r
+8e-/
+8a-\L
+8cc\J
+8ee-\L
+8aa-\J
+=
+4aa-\
+4cc\
+4ee-\
+=
+8r
+8a-/
+8dd-\L
+8ff\J
+8aa-\L
+8ccc-\J
+=
+4bb-\
+4ddn\
+4ff\
+=
+*-

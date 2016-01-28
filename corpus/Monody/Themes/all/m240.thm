@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1830/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus 20
+!!!PDT: 1830///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1825
+!!!instrument: string
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Leipzig
+!!!theme: A
+!!!title1: Octet in E Flat
+!!!title2: 3rd Movement
+!!!statkey: g
+!!DEBUGGING: m240 % . % 1825 % Berlin % M240 % 20 % a % 3 % string % . % Octet in E Flat % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1830(p) Leipzig (M240) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=
+8r
+8dd\L
+8gg\
+8ff#\J
+=
+8gg\L
+8dd\
+8gg\
+8ff#\J
+=
+8gg\L
+8ff#t\
+8gg\
+8ff#t\J
+=
+8gg\L
+8ff#t\J
+16gg\LL
+16bb-\
+16aa\
+16gg\JJ
+=
+16ff#\LL
+16gg\
+16aa\
+16gg\JJ
+16ff#\LL
+16ddd\
+16ccc\
+16bb-\JJ
+=
+*-

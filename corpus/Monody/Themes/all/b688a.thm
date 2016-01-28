@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata in F for Horn and Piano                  
+!!!OPS: Op. 17
+!!!OMV: Mov. 3
+!!!AIN: cor forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+4cc\
+4cc\
+=
+2ff\
+2f/
+=
+2e/
+2bb-\
+=
+8bb-T\L
+8aa\J
+8ggT\L
+8ff\J
+8eeT\L
+8dd\J
+8ccc\L
+8bb-\J
+=
+2aa\
+4gg\
+*-

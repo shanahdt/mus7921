@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Franck, César
+!!!CDT: 1822/12/10/-1890/11/08/
+!!!CNT: French
+!!!OTL: Symphony in D Minor
+!!!OMV: Mov. 2
+!!!thm: D             
+!!!AIN: forte        
+!!!ODT: 1886///-1888///
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1896/// 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+8.b-/L
+16a-/k
+8.g/
+16a-/k
+8.b-/
+16cc/Jk
+=
+8.dd-\L
+16cc\Jk
+[4b-\
+8b-/L]
+8an/J
+=
+8.a-/L
+16g/k
+8.f/
+16g/k
+8.a-/
+16b-/Jk
+=
+8.cc-\L
+16b-\Jk
+[4a-/
+8a-/L]
+8g/J
+=
+*-

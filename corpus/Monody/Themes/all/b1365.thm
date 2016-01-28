@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Concerto in A Minor for Violin, Cello, and Orhcestra
+!!!OPS: Op. 102
+!!!ODT: 1888///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Vienna  
+!!!PDT: 1879///
+!!!MRD: 1887///        
+!!!OMV: Mov. 2
+!!!thm: B
+!!!AIN: cello orchestra violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+[4aa\
+=
+4aa\]
+4bb-\
+4ccc\
+=
+4bb-\
+4aa\
+4ddd\
+=
+4eee\
+4eee\
+4ggg\
+=
+4fff\
+4ccc\
+4cc\
+=
+4ff\
+4ee\
+4dd\
+=
+4cc\
+4bn\
+[4cc\
+=
+4cc\]
+4cc#\
+4dd\
+=
+2g/
+*-

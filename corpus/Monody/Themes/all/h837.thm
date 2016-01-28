@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1921///
+!!!OCL: RSC
+!!!ODT: <1921/12/31/
+!!!OMV: Mov. 1: Cort&egrave;ge
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1921
+!!!instrument: orchestra
+!!!place: Helvetia(?)
+!!!splace: M&eacute;zi&egrave;res
+!!!theme: B
+!!!title1: King David Symphonic Psalm
+!!!title2: 1st Movement (Cort\e8ge)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h837 % . % 1921 % Switzerland? % H837 % . % b % 1: Cort&egrave;ge % orchestra % . % King David Symphonic Psalm % HONEGGER, Arthur % 1892
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1921(prf) M&eacute;zi&egrave;res (H837) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*E:
+*M12/8
+=
+!! ! NB. Key & key signature disagree.
+8.ee\L
+16ee\k
+8ee\J
+[2.ee\
+8ee\]
+8r
+8r
+=
+8.ee\L
+16ee\k
+8ee\J
+8ee\L
+8dd\
+8ee\J
+[2.ff#\
+=
+8.ff#\L]
+8.ee\J
+[2.ff#\
+8ff#\]
+8r
+8r
+=
+*-

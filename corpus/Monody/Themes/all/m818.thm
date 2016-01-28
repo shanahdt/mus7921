@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 448
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781
+!!!instrument: 2 piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Sonata in D
+!!!title2: 3rd Movement
+!!!statkey: D
+!!DEBUGGING: m818 % . % 1781 % Vienna % M818 % K 448 % a % 3 % 2 piano % . % Sonata in D % c1786(p) % 1756
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+16eee\LL
+16ddd\
+16ccc#\
+16ddd\JJ
+=
+8aa\
+8r
+16bb\LL
+16aa\
+16gg#\
+16aa\JJ
+=
+8ff#\
+8r
+16ggn\LL
+16ff#\
+16ee#\
+16ff#\JJ
+=
+16ee\LL
+16dd\
+16cc#\
+16dd\JJ
+*-

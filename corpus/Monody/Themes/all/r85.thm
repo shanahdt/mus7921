@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1739///
+!!!OCL: RSC
+!!!ODT: <1739,1744/12/31/
+!!!ODT: <1739/12/31/
+!!!OMV: Mov. Rigaudon No. 1
+!!!PDT: 1739,1744///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739,1744(p)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Dardanus
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: r85 % . % 1739,1744(p) % Paris % R85 % . % x % Rigaudon No. 1 % orchestra % Opera % Dardanus % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1739(prf) . (R85) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/0
+4dd\
+=
+4gg\
+4gg\
+4gg\
+4gg\
+=
+4gg\
+4gg\
+4gg\
+4gg\
+=
+4gg\
+8ff#\L
+8ee\J
+4dd\
+4cc\
+=
+8bt/L
+8a/J
+2g/
+4a/
+=
+8b\L
+8cc\J
+4dd\
+4dd\
+4dd\
+=
+8bt\L
+8cc\J
+4dd\
+4dd\
+4dd\
+=
+*-

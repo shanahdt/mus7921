@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 452
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1784
+!!!instrument: piano, woodwind
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Quintet in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: m688 % . % 1784 % Vienna % M688 % K 452 % b % 1 % piano, woodwind % . % Quintet in E Flat % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+8g/
+4g/
+8a-/
+16g/LL
+16f/JJ
+4f/
+8b-\
+=
+16b-/LL
+16e-/JJ
+4e-/
+16cc/LL
+16a-/JJ
+4g/
+8f/
+8r
+=
+*-

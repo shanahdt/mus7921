@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1817/12/31/
+!!!PDT: 1817///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1815///-1816
+!!!place: Deutschland, Berlin
+!!!title1: Grand Duo Concertant, Op. 48, Cl. & Pft.
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: w219 % . % 1815-1816 % Berlin % W219 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1817(p) . (W219) . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+8r
+8e-/L
+8d/
+8e-/J
+=
+8g/L
+8e-/
+8B-/
+8G/J
+8A-/L
+8B-/
+8c/
+8d/J
+=
+8e-/L
+8f/
+8g/
+8a-/J
+8b-\L
+8cc\
+8dd\
+8ee-\J
+=
+*^
+1ff\	4.aa-/
+.	8ff/
+.	8dd/L
+.	8b-/
+.	8a-/
+.	8f/J
+*v	*v
+=
+2.d/
+*-

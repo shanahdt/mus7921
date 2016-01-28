@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: German, Edward
+!!!CDT: 1862/02/17/-1936/11/11/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1895
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: C: HUNTING THE HARE
+!!!title1: Welsh Rhapsody
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: g35 % . % 1895 % London % G35 % . % c: Hunting the Hare % . % orchestra % . % Welsh Rhapsody % GERMAN, Sir Edward % 1862
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+16aaq/LL
+16bbq/
+16ccc#q/JJ
+8ddd\L
+8r
+8dd\J
+8ff#\L
+8gg\
+8aa\J
+=
+8bb\L
+8eee\J
+8r
+8ccc#\L
+8bb\
+8aa\J
+=
+8ddd\L
+8r
+8dd\J
+8ff#\L
+8gg\
+8aa\J
+=
+8bb\L
+8eee\
+8ccc#\J
+8ddd\
+8r
+8r
+=
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus 82
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1939///-1940
+!!!instrument: piano
+!!!place: Royssia, Moskova
+!!!theme: B
+!!!title1: Sonata No. 6
+!!!title2: 3rd Movement
+!!!statkey: A-
+!!DEBUGGING: p288 % 363 % 1939-1940 % Moscow % P288 % 82 % b % 3 % piano % . % Sonata No. 6 % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/4
+=
+8e-/L
+8c/J
+4e-/
+8f/L
+8g/J
+=
+8a-/L
+8c/J
+4e-/
+8f/L
+8g/J
+=
+8a-/L
+8b-/J
+4cc\
+4a-/
+=
+2g/
+8a-/L
+8b-/J
+=
+8cc\L
+8ee-\J
+4ddn\
+8dd-\L
+8cc\J
+=
+4cc\
+*-

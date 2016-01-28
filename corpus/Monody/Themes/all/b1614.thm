@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: SYmphony No. 2 in D
+!!!OPS: Op. 73
+!!!OMV: Mov. 3
+!!!thm: D
+!!!AIN: orchestra
+!!!ODT: 1877///
+!!!OCY: &Ouml;sterreich 
+!!!OPC: Wien
+!!!PDT: 1878///
+!!!MRD: 1877///
+!!!MLC: &Ouml;sterreich, Wien
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*C:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+8ddd\L
+8ccc\
+8bb\J
+=
+8ccc\L
+8bb\
+8aa\J
+=
+8bb\L
+8aa\
+8gg\J
+=
+8aa\L
+8gg\
+8ffn\J
+=
+8ee\
+4dd\
+=
+8ee\
+4ffn\
+=
+*-

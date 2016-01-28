@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Hornpipe
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 7 in D Minor
+!!!title2: Hornpipe
+!!!statkey: d
+!!DEBUGGING: p362 % . % n.d. % London % P362 % . % x % Hornpipe % cemba % . % Suite No. 7 in D Minor % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+8.ddT\L
+16ee\Jk
+8dd\L
+8a\J
+16b-/LL
+16a/
+16g/
+16f/JJ
+=
+8eT/L
+8d/J
+16f/LL
+16g/J
+8a/J
+16bn\LL
+16cc#\J
+8dd\J
+=
+16ee\LL
+16ff\J
+8gg\J
+8ffT\L
+8ee\J
+16ff\LL
+16gg\J
+8aa\J
+=
+4.ffT\
+8ee\
+4dd\
+=
+*-

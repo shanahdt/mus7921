@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1918///
+!!!OCL: RSC
+!!!ODT: <1918/12/31/
+!!!OMV: Mov. 6: Uranus, the Magician
+!!!OPS: Opus 32
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1916
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: The Planets
+!!!title2: 6th Movement (Uranus, the Magician)
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h810 % 253 % 1914-1916 % London % H810 % 32 % b % 6: Uranus, the Magician % orchestra % . % The Planets % HOLST, Gustav Theodore % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1918(prf) . (H810) . . . . . . . .
+**kern
+*clefF4
+*k[]
+*B:
+*M6/4
+!! ! NB. Key & key signature disagree.
+4FF#/
+=
+2BB/
+4C#/
+4BB/
+4FF#/
+4BB/
+=
+4C#/
+4D\
+4C#/
+4BB/
+4C#/
+4F#\
+=
+*-

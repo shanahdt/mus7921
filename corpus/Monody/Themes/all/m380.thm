@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1918
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: G: DANCE OF THE POLICEMEN
+!!!title1: Le Boeuf Sur le Toit
+!!!title2: Ballet based on South American Tunes
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m380 % 309 % 1918 % Paris % M380 % . % g: Dance of the Policemen % . % orchestra % Ballet based on South American Tunes % Le Boeuf Sur le Toit % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*D:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+4aa\
+16ff#\LL
+16aa\JJ
+=
+4.gg\
+=
+4ff#\
+16dd\LL
+16ff#\JJ
+=
+4.ee\
+=
+16ff#\LL
+16gg\J
+8aa\
+16ff#\L
+16aa\JJ
+=
+4gg\
+8gg\
+=
+16ff#\LL
+16dd\J
+8ff#\
+16dd\L
+16ff#\JJ
+=
+4.ee\
+=
+*-

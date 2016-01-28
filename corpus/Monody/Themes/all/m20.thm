@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1902/12/31/
+!!!ONM: No. 1
+!!!OPS: Opus 62
+!!!PDT: 1902///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1901///-1902
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!splace: United States of America, Massachusetts, Boston & United States of America, New York
+!!!title1: An Old Garden
+!!!statkey: f
+!!DEBUGGING: m20 % . % 1901-1902 % New York % M20 % 62 No. 1 % x % . % piano % . % An Old Garden % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1902(p) Boston, New York (M20) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M4/4
+=
+4cc\
+4ff\
+4.cc\
+8b-\
+=
+8a-/L
+8g/J
+4f/
+4.a-/
+8d-/
+=
+4c/
+4b-\
+4a-/
+4g/
+=
+8f/L
+8g/J
+4a-/
+2cc\
+=
+*-

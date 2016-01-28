@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Thomson, Virgil
+!!!CDT: 1896/11/25/-1989/09/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!place: France, Paris & United States of America, New York
+!!!title1: The Plow That Broke the Plains (Suite from film score), Orch.
+!!!title2: 4th Movement (Blues) (Speculation)
+!!!statkey: d
+!!DEBUGGING: t116 % . % 1936 % Paris and NY % T116 % . % . % . % . % . % . % THOMSON, Virgil
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+8.dd\L
+16cc#\Jk
+8.dd\L
+16cc#\Jk
+8.a/L
+16g#/Jk
+8.gn/L
+16d/Jk
+=
+8f/
+4.f/
+2d/
+=
+8a/
+4.a/
+2g#/
+=
+8f/
+4.f/
+2e/
+=
+*-

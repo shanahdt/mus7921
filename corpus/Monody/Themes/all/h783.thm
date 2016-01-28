@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1936?/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1936?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!title1: Trauermusik
+!!!title2: For George V of England
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h783 % 252 % 1936 % Berlin % H783 % . % x % 3 % orchestra % For George V of England % Trauermusik % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1936?(p) Mainz (H783) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*B-:
+*M12/8
+!! ! NB. Key & key signature disagree.
+[4.B-/
+4B-/]
+8c/
+=
+4.f/
+4.f/
+[4.f/
+8f/L]
+8e-/
+8f/J
+=
+2.g-/
+8f/
+8r
+8r
+8r
+8r
+8f/
+=
+4.a-/
+4.f-/
+8d-/
+*-

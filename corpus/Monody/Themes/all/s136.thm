@@ -1,0 +1,59 @@
+**kern
+*clefG2
+*k[]
+*M6/8
+*a:
+[2.aa
+=
+4.]aa
+8gg
+8r
+8gg
+=
+qgg
+4ff
+8ee
+4ee
+8ee
+=
+qff
+4ee
+8dd
+4dd
+8dd
+=
+qee
+4dd
+8cc
+4cc
+8cc
+=
+qdd
+4cc
+8b-
+4b-
+8b-
+=
+qcc
+8b-
+8r
+8a
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1857
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s136 % . % 1857 % Paris? % S136 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1857///
+!!!ODT: <1857/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1857(p) Paris (S136) . . . . . . .

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1926///
+!!!OCL: RSC
+!!!ODT: <1926/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926(prf)
+!!!place: ?
+!!!splace: England, Chelsea
+!!!title1: Fa\c2ade, Suite No. 1, Orch.
+!!!title2: Tarantella-Sevillana
+!!!statkey: c#
+!!DEBUGGING: w182 % 516 % 1926(prf) % ? % W182 % . % . % . % . % . % . % WALTON, William Turner
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1926 Chelsea, England (W182) . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M6/8
+=
+4b\
+8b#\
+4cc#\
+8cc##\
+=
+4dd#\
+8ddn\
+4cc#\
+8ccn\
+=
+8b\L
+8ccn\
+8ee\J
+8aa#\L
+8bb\
+[8ccn\J
+=
+8cc\L]
+8cc#\
+8ggn\J
+8dddn\L
+8ddd#\
+8dd#\J
+=
+*-

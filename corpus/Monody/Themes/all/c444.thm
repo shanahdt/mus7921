@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: Nocturne for Violin and Piano
+!!!thm: A           
+!!!AIN: forte violn
+!!!ODT: 1926///        
+!!!OCY: United States of America
+!!!OPC: New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+2r
+8b\L
+[8dd\J
+16dd\LL]
+[16ee\J
+8ee\J]
+=
+2gg\
+8ff\L
+[8dd\J
+16dd\LL]
+[16cc\J
+8cc\J]
+=
+2gg\
+8ff\L
+[8dd\J
+16dd\LL]
+[16ff\J
+8ff\J]
+=
+2bb-\
+8aa-\L
+8ff\J
+16ff\LL
+[16ee-\J
+8ee-\J]
+=
+2bb\
+*-

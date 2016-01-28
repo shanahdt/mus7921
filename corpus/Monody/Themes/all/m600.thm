@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1781///
+!!!MPD: 1786///
+!!!OCL: RSC
+!!!ODT: <1781/12/31/
+!!!ODT: <1786/12/31/
+!!!OPS: Opus K 366
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Muenchen
+!!!splace: Oesterreich, Vienna
+!!!title1: Idomeneo
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: m600 % . % 1781(prf) % Munich % M600 % K 366 % x % . % orchestra % Overture % Idomeneo % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1786(prf) Vienna (M600) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+2.ddd\
+8.r
+48A/LLL
+48B/
+48c#/JJJ
+=
+2d/
+4.d/
+8d/
+=
+2.f#/
+8.r
+32d/LLL
+32e/JJJ
+=
+2f#/
+4.f#/
+8f#/
+=
+2.a/
+8.r
+32f#/LLL
+32g/JJJ
+=
+2a/
+*-

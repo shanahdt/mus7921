@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 3: Sarabande
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 4 in D Minor
+!!!title2: 2nd Set
+!!!statkey: F
+!!DEBUGGING: h234 % . % 1733(p) % London? % H234 % . % x % 3: Sarabande % piano % 2nd Set % Suite No. 4 in D Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/2
+=
+2f/
+2f/
+4r
+4g/
+=
+2e/
+2e/
+2r
+=
+2a/
+2a/
+4r
+4b-\
+=
+2g/
+2g/
+4r
+4a/
+=
+2b-\
+2b-\
+4r
+4cc\
+=
+2a/
+*-

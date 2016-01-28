@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1912///
+!!!OCL: RSC
+!!!ODT: <1912/12/31/
+!!!OMV: Mov. Petit Poucet
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908///-1910
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Ma M&egrave;re L'Oye
+!!!title2: Hop O'My Thumb (Petit Poucet)
+!!!statkey: c
+!!DEBUGGING: r158 % 376 % 1908-1910 % Paris % R158 % . % x % Petit Poucet % orchestra % . % Ma M&egrave;re L'Oye % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(rev) . (R158) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 376 1912(prf) Paris (R158) . x Petit Poucet orchestra . Ma M&egrave;re L'Oye RAVEL, Maurice 1875
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M5/4
+=
+8gg\L
+8aa\
+8bb-\J
+=
+*M3/4
+4gg\
+8ff\L
+8gg\
+8cc\
+8dd\J
+=
+*M2/4
+8ff\L
+8ee-\
+8dd\
+8cc\J
+=
+4b-\
+8cc\L
+8dd\J
+=
+8dd\L
+8cc\J
+4cc\
+=
+*-

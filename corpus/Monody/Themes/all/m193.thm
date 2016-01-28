@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Medtner, Nicolas
+!!!CDT: 1880/01/05/-1951/11/13/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 51
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1928?
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Fairy Tales
+!!!statkey: d
+!!DEBUGGING: m193 % . % 1928? % Paris % M193 % 51 No. 1 % x % . % piano % . % Fairy Tales % MEDTNER, Nicolas % 1880
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+32d/LLL
+32e/
+32f/
+32g/JJJ
+=
+8a\L
+8dd\J
+8a/L
+8a/J
+=
+8r
+8b-q/
+4a/
+16g/LL
+16f/JJ
+=
+16a/LL
+16g/
+16f/
+16e/JJ
+8g/L
+8g/J
+=
+8.d/L
+32e/LL
+32d/JJJ
+!!   B&M   Encoding error?   change 16's to 32's
+8c/L
+8A/J
+=
+*-

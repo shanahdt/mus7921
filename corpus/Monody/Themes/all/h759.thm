@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1935?/12/31/
+!!!OMV: Mov. 1: Zwischen Berg
+!!!PDT: 1935?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: viola, orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!theme: A
+!!!title1: Der Schwanendreher
+!!!title2: Concerto on Old Folk Tunes
+!!!statkey: C
+!!DEBUGGING: h759 % . % 1935 % Berlin % H759 % . % a % 1: Zwischen Berg % viola, orchestra % Concerto on Old Folk Tunes % Der Schwanendreher % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935?(p) Mainz (H759) . . . . . . . .
+**kern
+*clefF4
+*k[]
+*C:
+*M4/4
+4C/
+4C/
+=
+2G\
+2c\
+=
+4B-\
+4A\
+2F\
+=
+4r
+4F\
+4B-\
+4G\
+=
+2A\
+2G\
+=
+*-

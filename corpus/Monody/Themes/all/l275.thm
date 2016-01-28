@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1712/12/31/
+!!!OMV: Mov. 4
+!!!PDT: 1712///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1712(p)
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 1 in G Minor
+!!!title2: 4th Movement
+!!!statkey: g
+!!DEBUGGING: l275 % . % 1712(p) % London % L275 % . % x % 4 % cemba % . % Suite No. 1 in G Minor % LOEILLET, Jean Baptiste % 1680
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M12/8
+8dd\
+=
+4g/
+8g/
+4g/
+8g/
+8g/L
+8a/
+8f#/J
+8g/L
+8a/
+8b-/J
+=
+8a/L
+8g/
+8a/J
+8a\L
+8b-\
+8cc\J
+8b-/L
+8a/
+8g/J
+8a\L
+8b-\
+8cc\J
+=
+8b-/L
+8a/
+8g/J
+8cc\L
+8dd\
+8ee-\J
+8dd\L
+8cc\
+8b-\J
+*-

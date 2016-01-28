@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1939///
+!!!OCL: RSC
+!!!ODT: <1939/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 78
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1939(prf)
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!splace: Royssia
+!!!theme: A
+!!!title1: Alexander Nevsky
+!!!title2: Cantata for Solo
+!!!statkey: B-
+!!DEBUGGING: p180 % . % 1939(prf) % Moscow % P180 % 78 % a % 2 % orchestra % Cantata for Solo % Alexander Nevsky % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1939 Russia (P180) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+8d/L
+8c/J
+=
+4B-/
+4B-/
+=
+4B-/
+4c/
+=
+8d/L
+8e-/
+8f/
+8e-/J
+=
+2d/
+*clefF4
+=
+4BB-/
+4C/
+=
+4D\
+4BB-/
+=
+2E-\
+=
+8G\L
+8A\J
+4G\
+=
+4B-\
+4B-\
+=
+2BB-/
+=
+*-

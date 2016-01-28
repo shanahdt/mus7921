@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Nevin, Ethelbert
+!!!CDT: 1862/11/25/-1901/02/17/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1898/12/31/
+!!!OMV: Mov. 3: Venetian Love Song
+!!!OPS: Opus 25
+!!!PDT: 1898///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1898(p)
+!!!place: United States of America, Ohio, Cincinnati
+!!!theme: A
+!!!title1: A Day in Venice, Op. 25, Pft.
+!!!title2: 3rd Movement (Venetian Love Song)
+!!!statkey: A-
+!!DEBUGGING: n14 % . % 1898(p) % Cincinnati % N14 % 25 % a % 3: Venetian Love Song % . % . % . % NEVIN, Ethelbert % 1862
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . -1897 Italy (N14) . . . . . . . .
+**kern
+*clefF4
+*k[b-e-a-d-]
+*A-:
+*M4/4
+=
+4E-\
+8.E-\L
+16E-\Jk
+4E-\
+4E-\
+=
+4.E-\
+8F\
+4.E-\
+8E-\
+=
+8E-\L
+8F\
+8G\
+8A-\J
+4d-\
+4c\
+=
+2c\
+2B-\
+=
+*-

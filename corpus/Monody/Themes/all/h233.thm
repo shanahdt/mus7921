@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 2: Courante
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 4 in D Minor
+!!!title2: 2nd Set
+!!!statkey: d
+!!DEBUGGING: h233 % . % 1733(p) % London? % H233 % . % x % 2: Courante % piano % 2nd Set % Suite No. 4 in D Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+8a/
+=
+4.a/
+8a/L
+8b-/
+8g/J
+=
+2.a/
+=
+4.dd\
+8ff\L
+8ee\
+8dd\J
+=
+8cc#\L
+8ee\
+8a\J
+*-

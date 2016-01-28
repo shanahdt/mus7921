@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Rachmaninoff, Serge
+!!!CDT: 1873/04/01/-1943/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 29
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: Deutschland, Dresden
+!!!theme: B
+!!!title1: Isle of the Dead
+!!!statkey: E-
+!!DEBUGGING: r31 % . % 1909 % Dresden % R31 % 29 % b % . % orchestra % . % Isle of the Dead % RAKHMANINOV, Sergey % 1873
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+6bb-\
+12aan\
+4ccc\
+6bb-\
+12aa\
+=
+12aan\L
+12gg\
+12aa\J
+4bb-\
+6aa\
+12gg\
+=
+6gg\
+12ff#\
+6aan\
+[12ff#\
+6ff#\]
+12gg\
+=
+6bb-\
+[12gg\
+6gg\]
+12aan\
+6ccc\
+12aa\
+=
+*-

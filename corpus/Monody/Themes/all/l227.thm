@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!PDT: 1881///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881///-1885?
+!!!instrument: piano
+!!!place: Italia, Roma
+!!!splace: Deutschland, Berlin
+!!!theme: B
+!!!title1: Valse Oubli&eacute;e
+!!!statkey: F#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l227 % . % 1881-1885? % Rome % L227 % . % b % . % piano % . % Valse Oubli&eacute;e % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881(p) Berlin (L227) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#a#e#]
+*C#:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4a#/
+4r
+[4a#/
+=
+4a#/]
+4e#/
+4a#/
+=
+4an/
+8r
+8a/
+4a/
+=
+4g#/
+4e#/
+4c#/
+=
+4g#/
+8r
+8g#/
+4g#/
+=
+4gn/
+4en/
+4c#/
+=
+*-

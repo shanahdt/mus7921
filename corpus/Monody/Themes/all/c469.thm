@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Corelli, Arcangelo
+!!!CDT: 1653/02/17/-1713/01/08/
+!!!CNT: Italian
+!!!OTL: Concerto Grosso in B Flat Major for String Orchestra     
+!!!OMV: Mov. 1                
+!!!thm: B           
+!!!AIN: Cstr
+!!!OPS: Op. 6
+!!!ONM: No. 11
+!!!PDT: 1714///       
+!!!PPP: Amsterdam         
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*B-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+[4gg\
+8gg\L]
+8cc\J
+[4ff\
+=
+8ff\L]
+8ee\J
+8ee\L
+16dd\L
+16cc\JJ
+8dd\L
+8g\J
+[4gg\
+=
+8gg\L]
+8ff\J
+8ff\L
+16ee\L
+16dd\JJ
+8ee\L
+8a\J
+[4aa\
+=
+8aa\L]
+16gg\L
+16ff\JJ
+4gg\
+*-

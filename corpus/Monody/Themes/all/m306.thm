@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <n.d./12/31/
+!!!ONM: No. 5
+!!!OPS: Opus 102
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!place: Deutschland, Leipzig
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 47: The Joyous Peasant
+!!!statkey: A
+!!DEBUGGING: m306 % . % 1845 % Leipzig % M306 % 102 No. 5 % x % . % . % No. 47: The Joyous Peasant % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) Bonn (M306) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+8ee\L
+8cc#\
+8cc#\
+8dd\J
+=
+8.ee\L
+16ff#\Jk
+4ee\
+=
+8aa\L
+8cc#\
+8cc#\
+8cc#\J
+=
+8.cc#\L
+16dd\Jk
+4cc#\
+=
+8cc#/L
+8a/
+8a/
+8b/J
+=
+8cc#\L
+8cc#\
+8eeq/
+8dd\
+8cc#\J
+=
+*-

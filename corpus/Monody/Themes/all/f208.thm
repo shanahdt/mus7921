@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Francoeur, François
+!!!CDT: 1698/09/21/-1787/08/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720
+!!!instrument: violn, piano
+!!!place: France, Paris
+!!!title1: Siciliano
+!!!statkey: d
+!!DEBUGGING: f208 % . % 1720 % Paris % F208 % . % x % . % violn, piano % . % Siciliano % FRANCOEUR, Fran&ccedil;ois % 1698
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+8a/
+=
+4dd\
+8a/
+8.ff\L
+16ee\k
+8dd\J
+=
+[4.ee\
+8.ee\L]
+16ff\k
+8ee\J
+=
+4dd\
+8cc#\
+4ddn\
+8ee\
+=
+4cc#\
+8bn\
+8.a/L
+16d/k
+8e/J
+=
+4f/
+*-

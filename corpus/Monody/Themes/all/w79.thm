@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!place: Deutschland, Dresden
+!!!splace: Deutschland, Dresden
+!!!title1: Tannhau3ser, Opera
+!!!title2: Act II, March
+!!!statkey: B
+!!DEBUGGING: w79 % 511 % 1845 % Dresden % W79 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(prf) . (W79) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 511 1845(p) Dresden (W79) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M4/4
+=
+2f#/
+8.e#/L
+16f#/k
+8.g#/
+16a#/Jk
+=
+2b\
+8cc#q/
+8.b\L
+16a#\k
+8.b\
+16dd#\Jk
+=
+4.ff#\
+8ee#\
+8een\L
+8dd#\
+8.cc#\
+16b\Jk
+=
+2a#/
+8g#\L
+8b#\
+8cc#\
+8ee\J
+=
+2gg#\
+*-

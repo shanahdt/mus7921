@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Ireland, John
+!!!CDT: 1879/08/13/-1962/06/12/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: piano, orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Concerto in E Flat
+!!!title2: 2nd Movement
+!!!statkey: g#
+!!DEBUGGING: i98 % . % 1930 % London % I98 % . % a % 2 % piano, orchestra % . % Concerto in E Flat % IRELAND, John % 1879
+**kern
+*clefG2
+*k[f#c#g#d#a#]
+*B:
+*M3/4
+4ff#\
+=
+2gn/
+4ee\
+=
+4e#/
+4ddn\
+4d#/
+=
+8e/L
+16e/L
+16e/JJ
+16g#/LL
+16f#/
+16e/
+16d#/JJ
+8.g#/L
+16g#/Jk
+=
+8g#/L
+8a#/
+8b/
+8cc#/J
+8dd#\L
+16dd#\L
+16dd#\JJ
+=
+8.dd#/L
+16g#/Jk
+4g#/
+*-

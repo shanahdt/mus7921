@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 298
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: flt, string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m618 % . % 1777 % Vienna % M618 % K 298 % x % 3 % flt, string % . % Quartet in A % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+8a/L
+8g#/J
+=
+8a/L
+8e/
+8cc#/
+8b/J
+=
+8cc#\L
+8a\
+8ee\
+8dd#\J
+=
+8ee\L
+8cc#\
+8b\
+8a\J
+=
+8a/L
+8g#/
+8b/
+8a#/J
+=
+8b\
+*-

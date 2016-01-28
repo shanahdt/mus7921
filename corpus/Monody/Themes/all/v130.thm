@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!place: ?
+!!!title1: Concerto in A, Vn. & Orch.
+!!!title2: 2nd Movement
+!!!statkey: b
+!!DEBUGGING: v130 % . % ? % ? % V130 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+=
+8b\L
+16dd\L
+16gg\JJ
+32bb\LLL
+32aa\
+32gg\
+32ff#\
+32ee\
+32dd\
+32cc#\
+32b\JJJ
+8ggT\L
+8ff#\J
+8ccnt\L
+8b\J
+=
+32f#\LLL
+32a#\
+32ee\
+32gg\JJJ
+16gg\LL
+32ff#\L
+32ee\JJJ
+16ee\LL
+32aa#\L
+32ee\JJJ
+16ee\LL
+32ccc#\L
+32ee\JJJ
+16dd\LL
+16cc#\J
+8b\J
+4r
+=
+*-

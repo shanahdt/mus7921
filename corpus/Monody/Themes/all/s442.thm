@@ -1,0 +1,49 @@
+**kern
+*clefG2
+*k[f#c#g#]
+*M2/4
+*A:
+4.a
+8b
+=
+4.cc#
+8a
+=
+4.b
+8ee
+=
+4.ee
+8cc#
+=
+4.ff#
+8ee-
+=
+4.ee
+8cc#
+=
+8b
+8a
+8b
+qdd
+8cc#
+=
+4.b
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1824
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s442 % . % 1824 % Vienna % S442 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1871///
+!!!ODT: <1871/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1871(p) Vienna? (S442) . . . . . . .

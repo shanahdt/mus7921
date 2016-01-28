@@ -1,0 +1,52 @@
+**kern
+*clefG2
+*k[f#c#]
+*M3/4
+*D:
+8a
+8b
+8cc#
+8dd
+8ee
+8ff#
+=
+4gg
+4ff#
+4ee
+=
+4.dd
+8cc#
+4b
+=
+2.a
+=
+8b
+8cc#
+8dd
+8ee
+8ff#
+8gg
+=
+4aa
+4gg
+4ee
+=
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1829///-1831
+!!!place: Deutschland, Leipzig
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s644 % . % 1829-1831 % Leipzig % S644 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1831///
+!!!ODT: <1831/12/31/
+!!!splace: (by Kistner)?
+!!!CDT: ///-
+!!DEBUGGING: . . 1831(p) (by Kistner)? (S644) . . . . . . .

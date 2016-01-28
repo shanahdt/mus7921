@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Pachelbel, Johann
+!!!CDT: <1653/09/01/-<1706/03/09/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: organ
+!!!place: ?
+!!!title1: Ciacona in F Minor
+!!!statkey: f
+!!DEBUGGING: p2 % . % n.d. % ? % P2 % . % x % . % organ % . % Ciacona in F Minor % PACHELBEL, Johann % 1653
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+8f/L
+8g/J
+4.a-/
+8a-/
+=
+8g\L
+8gg\J
+4.cc\
+8en/
+=
+[4f/
+16f/LL]
+16f/
+16g/
+16a-/JJ
+8.gT/L
+16f/Jk
+=
+4.en/
+8cc\
+4e/
+=
+*-

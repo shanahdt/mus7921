@@ -1,0 +1,39 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. I: The Gnome
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!theme: A
+!!!title1: Pictures from an Exhibition
+!!!title2: I. The Gnome
+!!!statkey: G-
+!!DEBUGGING: m1026 % . % 1874 % St. Petersburg % M1026 % .  % a % I: The Gnome % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefF4
+*k[b-e-a-d-g-c-]
+*e-:
+*M3/4
+=
+8c-\L
+8E-\
+8Dn\
+8c-\
+8B-\
+8D\J
+=
+[2.G-;\
+=
+2G-\_
+8G-\]
+8r
+=
+*-

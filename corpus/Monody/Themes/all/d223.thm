@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Dett, Robert Nathaniel
+!!!CDT: 1882/10/11/-1943/10/02/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1913/12/31/
+!!!PDT: 1913///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1913(p)
+!!!instrument: piano
+!!!place: United States of America, New York
+!!!theme: B
+!!!title1: In the Bottoms
+!!!title2: Juba Dance
+!!!statkey: B-
+!!!statkey: B-
+!!DEBUGGING: d223 % . % 1913(p) % New York % D223 % . % b % . % piano % Juba Dance % In the Bottoms % DETT, Robert % 1882
+**kern
+*clefF4
+*k[b-e-]
+*B-:
+*M2/4
+=
+! A
+8FF/
+=
+[2BB-/
+=
+8BB-/L]
+16BB-/L
+16D/JJ
+16C/LL
+16AA/J
+8FF/J
+=||
+=
+*clefF4
+*k[b-e-]
+*B-:
+*M2/4
+! B
+8F\
+=
+8B-\L
+8c\J
+16d\LL
+16c\
+16d\
+16B-\JJ
+=
+8G\L
+8B-\
+8A\
+8c\J
+=
+*-

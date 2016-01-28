@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Nardini, Pietro
+!!!CDT: 1722/04/12/-1793/05/07/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.?
+!!!instrument: violn, piano
+!!!place: France, Paris(?)
+!!!title1: Sonata No. 7 in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: n8 % . % n.d.? % Paris? % N8 % . % x % 3 % violn, piano % . % Sonata No. 7 in B Flat % NARDINI, Pietro % 1722
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/8
+16ff\LL
+16gg\
+16ff\JJ
+=
+16ee-\LL
+16dd\
+16cc\
+16b-\
+16a\
+16g\JJ
+=
+16f/LL
+16e-/
+16d/
+16b-/
+16d/
+16b-/JJ
+=
+16e-/LL
+16b-/
+16f/
+16b-/
+16g/
+16b-/JJ
+=
+8e-T/L
+16d/Jk
+*-

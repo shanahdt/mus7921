@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!OPS: Opus K 287
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: 2 violn, viola, cbass, 2 cor
+!!!place: Oesterreich, Salzburg
+!!!title1: Divertimento in B Flat
+!!!title2: 4th Movement
+!!!statkey: E-
+!!DEBUGGING: m576 % 320 % 1777 % Salzburg % M576 % K 287 % x % 4 % 2 violn, viola, cbass, 2 cor % . % Divertimento in B Flat % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+[8b-\L
+16.b-\L]
+64cc\LL
+64dd\JJJJ
+!!   B&M  Encoding error:   changing 32's to 64's
+8ee-\L
+16ggq/
+8ff\J
+4ee-\
+8dd\
+8r
+=
+[8b-\L
+16.b-\L]
+64cc\LL
+64b-\JJJJ
+!!   B&M  Encoding error:   changing 32's to 64's
+8aa-\L
+16cccq/
+8bb-\J
+4aa-\
+8gg\
+8r
+=
+*-

@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: Le Carillon de Cythere for Harpsichord
+!!!AIN: cemba        
+!!!PDT: 1722///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+8r
+8dd\L
+8eeM\
+8ff#\J
+=
+8dd\L
+8ff#\
+8eeTR\
+8ff#\J
+=
+8dd\L
+8ff#\J
+8gg\L
+16ff#t\L
+16ee\JJ
+=
+16ff#M\LL
+16gg\
+16ee\
+16ff#\JJ
+8gg\L
+16ff#t\L
+16ee\JJ
+=
+4ff#M\
+*-

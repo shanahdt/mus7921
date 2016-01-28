@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Hindemith, Paul
+!!!CDT: 1895/11/16/-1963/12/28/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1935?/12/31/
+!!!OMV: Mov. 3: Theme for Variations "Seid Ihr Der Schwanendreher"
+!!!PDT: 1935?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: viola, orchestra
+!!!place: Deutschland, Berlin
+!!!splace: Deutschland, Mainz
+!!!title1: Der Schwanendreher
+!!!title2: Concerto on Old Folk Tunes
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h764 % 251 % 1935 % Berlin % H764 % . % x % 3: Theme for Variations "Seid Ihr Der Schwanendreher" % viola, orchestra % Concerto on Old Folk Tunes % Der Schwanendreher % HINDEMITH, Paul % 1895
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1935?(p) Mainz (H764) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*G:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+8dd\L
+8cc\
+8b\
+8a\J
+4g/
+4a/
+=
+4b\
+4b\
+4a/
+4a/
+=
+4b\
+4cc\
+4dd\
+4dd\
+=
+4.ee\
+8dd\
+4cc\
+8dd\L
+8ee\J
+=
+4ff\
+4dd\
+4ee\
+*-

@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Reger, Max
+!!!CDT: 1873/03/19/-1916/05/11/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 5
+!!!OPS: Opus 82
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1904///-1912
+!!!instrument: piano
+!!!place: Deutschland, Leipzig & Deutschland, Meiningen
+!!!title1: Gavotte
+!!!statkey: E
+!!DEBUGGING: r225 % . % 1904-1912 % Leipzig, Meiningen % R225 % 82 No. 5 % x % . % piano % . % Gavotte % REGER, Max % 1873
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/2
+=
+4ee\
+4ee\
+[4ee\
+16ee\LL]
+16dd#\
+16cc#\
+16b\JJ
+=
+8cc#\L
+8dd#\
+8b\
+8cc#\J
+2a/
+=
+8gn/L
+16a/L
+16g/JJ
+8fn/L
+8g/J
+2e/
+=
+8dd#\L
+16ee\L
+16dd#\JJ
+8cc#\L
+8dd#\J
+4ff#\
+16gg#\LL
+16ff#\
+16ee\
+16dd#\JJ
+=
+*-

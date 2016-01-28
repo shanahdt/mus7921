@@ -1,0 +1,60 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Grieg, Edvard
+!!!CDT: 1843/06/16/-1907/09/04/
+!!!CNT: Norwegian
+!!!OTL: Concerto in A Minor for Piano and Orchestra
+!!!OPS: Op. 16
+!!!OMV: Mov. 1
+!!!thm: C b
+!!!AIN: forte orchestra
+!!!ODT: 1868///
+!!!OCY: Norge
+!!!OPC: Bergen           
+!!!PDT: 1872///
+!!!PPP: Deutschland, Leipzig
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4cc\
+12a\L
+12b\
+12cc\J
+8ee\L
+8dd\J
+4cc\
+=
+4dd\
+12b\L
+12cc#\
+12dd\J
+8ff#\L
+8ee\J
+4dd\
+=
+4ee\
+12cc\L
+12ee\
+12ccc\J
+8bb\L
+8aa\J
+12gg\L
+12ee\
+12cc\J
+=
+4a/
+8dd\L
+8b\J
+4a/
+4g/
+=
+*-

@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: La Mer for Orchestra    
+!!!OMV: Mov. 1 (De L'Aube A Midi Sur La Mer)
+!!!thm: D           
+!!!AIN: orchestra  
+!!!ODT: 1903///-1905///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*C#:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+8r
+8cc-\L
+[8cc-\J
+16cc-\LL]
+16dd-\
+16cc-\
+[16a-\J
+8a-\J_
+!!   B&M   Encoding error?  change 4 to 8?
+=
+8a-/]
+8r
+8cc-\
+8dd-\L
+8cc-\
+8a-\J
+=
+16gn/LL
+16a-/J
+8f/
+8a-/J
+8b-/L
+8a-/
+8f/J
+=
+16gn/LL
+[16a-/JJ
+4a-/]
+4f/
+[8e-/
+=
+16e-/LL]
+16d-/JJ
+*-

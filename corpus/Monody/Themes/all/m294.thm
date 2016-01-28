@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1841/12/31/
+!!!ONM: No. 3
+!!!OPS: Opus 53
+!!!PDT: 1841///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1839
+!!!instrument: piano
+!!!place: Deutschland, Leipzig(?)
+!!!splace: Deutschland, Bonn
+!!!title1: Songs Without Words
+!!!title2: No. 20: The Fleecy Cloud
+!!!statkey: E-
+!!DEBUGGING: m294 % . % 1839 % Leipzig? % M294 % 53 No. 3 % x % . % piano % No. 20: The Fleecy Cloud % Songs Without Words % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1841(p) Bonn (M294) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+8g/L
+8a-/
+8an/J
+=
+4.b-\
+8cc\L
+8dd\
+8ee-\J
+=
+4.gg\
+8ff\L
+8ee-\
+8dd\J
+=
+8cc\L
+8b-\
+8an\
+8a-\
+8cc\
+8a-\J
+=
+4g/
+*-

@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1787///
+!!!MPD: 1789///
+!!!OCL: RSC
+!!!ODT: 1787///
+!!!ODT: <1787/12/31/
+!!!ODT: <1789/12/31/
+!!!OPS: Opus K 527
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787(prf)
+!!!instrument: orchestra
+!!!place: Czech, Prague
+!!!splace: Czech, Prague
+!!!splace: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Don Giovanni
+!!!title2: Overture
+!!!statkey: D
+!!DEBUGGING: m598 % . % 1787(prf) % Prague % M598 % K 527 % a % . % orchestra % Overture % Don Giovanni % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789(prf) Vienna (M598) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(c) Prague (M598) K 527 a . orchestra Overture Don Giovanni MOZART, Wolfgang Amadeus 1756
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/2
+=
+1dd\
+=
+1dd#\
+=
+4ee\
+2gg\
+4ff#\
+=
+4ee\
+2bb\
+4aa\
+=
+8aa\L
+8gg\
+8gg\
+8gg\J
+8gg\L
+8ff#\
+8ff#\
+8ff#\J
+=
+8ff#\L
+8ee\
+8ee\
+8ee\J
+8dd\L
+8cc#\
+8b\
+8cc#\J
+=
+4dd\
+*-

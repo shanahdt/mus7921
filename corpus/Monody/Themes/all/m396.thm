@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: Sorocaba
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920///-1921
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Saudades Do Brazil
+!!!title2: I. Sorocaba
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m396 % . % 1920-1921 % Paris % M396 % . % x % 1: Sorocaba % piano % . % Saudades Do Brazil % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*B-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+8r
+8f\L
+8b-\
+8dd\J
+=
+8ee\L
+8cc\
+8g\
+8cc\J
+=
+8dd\L
+8b-\
+8f\
+8b-\J
+=
+2cc\
+=
+4.a/
+8f#/
+=
+2g/
+=
+*-

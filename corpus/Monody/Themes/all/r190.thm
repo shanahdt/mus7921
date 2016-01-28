@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1920///
+!!!OCL: RSC
+!!!ODT: <1920/12/31/
+!!!OMV: Mov. Forlane
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914///-1917
+!!!instrument: piano or orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: B
+!!!title1: Le Tombeau de Couperin
+!!!title2: Forlane
+!!!statkey: e
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r190 % . % 1914-1917 % Paris % R190 % . % b % Forlane % piano or orchestra % . % Le Tombeau de Couperin % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1919(rev) . (R190) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1920(prf) Paris (R190) . b Forlane piano or orchestra . Le Tombeau de Couperin RAVEL, Maurice 1875
+**kern
+*clefG2
+*k[f#]
+*B:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8ff#\
+32ff#q/LLL
+32ggq/JJJ
+4ff#\
+8ee\
+=
+4ff#\
+8bb\
+4bb\
+8aa\
+=
+4ccc#\
+8ff#\
+32ff#q/LLL
+32ggq/JJJ
+4ff#\
+8ee\
+=
+4ff#\
+8bb\
+8aa\L
+8ff#\
+8ggn\J
+=
+8aa\
+8r
+*-

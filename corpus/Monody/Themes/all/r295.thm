@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Adoration of the Magi
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Trittico Botticelliano
+!!!title2: 2nd Movement (Adoration of the Magi)
+!!!statkey: c#
+!!DEBUGGING: r295 % 383 % 1927 % Rome % R295 % . % a % 2: Adoration of the Magi % orchestra % . % Trittico Botticelliano % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M12/8
+=
+8.c#/L
+16d#/k
+8c#/J
+8.d#/L
+16c#/k
+8e/J
+8.c#/L
+16d#/k
+8c#/J
+4B/
+8c#/
+=
+8.c#/L
+16d#/k
+8c#/J
+8a/L
+8g#/
+8e/J
+8.f#/L
+16e/k
+8f#/J
+4B/
+8c#/
+=
+*-

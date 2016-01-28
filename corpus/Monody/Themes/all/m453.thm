@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 271
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Concerto in E Flat
+!!!title2: 3rd Movement
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m453 % . % 1777 % Salzburg % M453 % K 271 % b % 3 % piano, orchestra % . % Concerto in E Flat % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*A-:
+*M3/4
+!! ! NB. Key & key signature disagree.
+8.ee-\L
+16cc\Jk
+=
+2aa-\
+8.ccc\L
+16een\Jk
+=
+2ff\
+8.aa-\L
+16dd-\Jk
+=
+32ccq/
+4.ee-\
+8ddn\
+8.dd-\L
+16b-\Jk
+=
+4a-/
+4r
+*-

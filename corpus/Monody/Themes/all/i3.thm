@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Ibert, Jacques
+!!!CDT: 1890/08/15/-1962/02/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: saxA, orchestra
+!!!place: Italia, Roma(?)
+!!!title1: Concerto
+!!!title2: 2nd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: i3 % . % 1935 % Rome? % I3 % . % x % 2 % saxA, orchestra % . % Concerto % IBERT, Jacques % 1890
+**kern
+*clefG2
+*k[]
+*E:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+[2.b\
+=
+8b/L]
+8cc/
+8b/
+8dd/
+8f/
+8cc/J
+=
+4.b\
+4.e/
+=
+4.a/
+8b\
+4a/
+=
+[2g/
+8g/L]
+8f#/J
+=
+8a/L
+8g/J
+12B-/L
+12d/
+12f#/J
+4e/
+=
+*-

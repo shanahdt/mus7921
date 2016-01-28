@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OPS: Opus K 265
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1781///-1782
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!title1: Variations in C
+!!!title2: "Ah, Vous Dirai///-Je, Maman"
+!!!statkey: C
+!!DEBUGGING: m1008 % . % 1781-1782 % Vienna % M1008 % K 265 % x % . % piano % "Ah, Vous Dirai-Je, Maman" % Variations in C % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M1008) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4cc\
+4cc\
+=
+4gg\
+4gg\
+=
+4aa\
+4aa\
+=
+4gg\
+4gg\
+=
+4ff\
+4ff\
+=
+4ee\
+4ee\
+=
+4dd\
+8.dd\L
+16ee\Jk
+=
+2cc\
+=
+*-

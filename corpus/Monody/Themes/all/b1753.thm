@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Symphony No. 3 in D Minor
+!!!OMV: Mov. 2
+!!!thm: C
+!!!AIN: orchestra
+!!!ODT: 1873///-1877///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!MRD: 1877///
+!!!MLC: &Ouml;sterreich, Wien
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*G-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4dd-\
+4dd-\
+8r
+8dd-\
+=
+4ee-\
+4a-/
+8r
+8b-\
+=
+4dd-\
+8cc-\L
+8b-\J
+16a-/LL
+16g-/
+16b-/
+16a-/JJ
+=
+4g-/
+4fn/
+*-

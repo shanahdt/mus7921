@@ -1,0 +1,45 @@
+!!!ACO: Classical; RSC
+!!!COM: Hanson, Howard
+!!!CDT: 1896/10/28/-1981/02/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!theme: C
+!!!title1: Symphony No. 2
+!!!title2: "Romantic"
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h276 % . % 1930 % New York % H276 % . % c % 1 % orchestra % "Romantic" % Symphony No. 2 % HANSON, Howard % 1896
+**kern
+*clefG2
+*k[]
+*B-:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+2dd\
+=
+4cc\
+4dd\
+=
+2f/
+=
+2dd\
+=
+4cc\
+4dd\
+=
+4dd\
+[4d/
+=
+4d/]
+4f/
+=
+*-

@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1832///
+!!!OCL: RSC
+!!!ODT: 1830///
+!!!ODT: <1832/12/31/
+!!!OPC: Italia, Roma
+!!!OPS: Opus 26
+!!!PDT: 1832///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!splace: Deutschland, Leipzig
+!!!splace: England, London
+!!!theme: B
+!!!title1: Fingal's Cave
+!!!title2: Overture
+!!!statkey: b
+!!DEBUGGING: m250 % . % 1830(c) % Rome % M250 % 26 % b % . % orchestra % Overture % Fingal's Cave % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1832(rev) London (M250) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1832(p) Leipzig (M250) 26 b . orchestra Overture Fingal's Cave MENDELSSOHN, Felix 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1832(prf) London (M250) 26 b . orchestra Overture Fingal's Cave MENDELSSOHN, Felix 1809
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+8f#\L
+8b\
+8cc#\J
+=
+[2dd\
+8dd\L]
+8dd\
+8cc#\
+8b\J
+=
+[2ff#\
+8ff#\L]
+8ee\
+8dd\
+8cc#\J
+=
+4dd\
+8cc#\L
+8b\J
+4cc#\
+4f#/
+=
+2b\
+*-

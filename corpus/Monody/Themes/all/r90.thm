@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: cemba
+!!!place: ?
+!!!title1: La Follette
+!!!statkey: D
+!!DEBUGGING: r90 % . % ? % ? % R90 % . % x % . % cemba % . % La Follette % RAMEAU, Jean Philippe % 1683
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M6/8
+8dd\L
+8ee\J
+=
+8ff#\L
+8gg\
+8ee\J
+4aa\
+8gg\
+=
+4.ff#t\
+8ee\L
+8gg\
+8ff#\J
+=
+8ee\L
+8ff#\
+8dd\J
+4cc#t\
+8dd\
+=
+4.eeT\
+*-

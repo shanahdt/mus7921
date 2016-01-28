@@ -1,0 +1,47 @@
+!!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1803///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1804///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Concerto No.3 in C Minor for Piano
+!!!SET: No.3
+!!!OPS: Op. 37
+!!!OMV: Mov. 2
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M3/8
+=
+4g#/
+16.a/LL
+32g#/JJk
+=
+[32g#/LLL
+64g#/L]
+64f#/J
+32e/
+64g#/L
+64f#/JJJJ
+8.e/L
+16e/Jk
+=
+8f#/L
+16f#/L
+16f#/
+16f#/
+16f#/JJ
+=
+4g#/
+*-

@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1881///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879
+!!!instrument: orchestra
+!!!place: France, Paris(?)
+!!!splace: Deutschland, Berlin
+!!!theme: A: INTRO
+!!!title1: Rapsodie Norv&eacute;gienne
+!!!title2: 1st Movement
+!!!statkey: a
+!!DEBUGGING: l24 % . % 1879 % Paris? % L24 % . % a: Intro % 1 % orchestra % . % Rapsodie Norv&eacute;gienne % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1881(p) Berlin (L24) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+4.eee\
+8eee\
+=
+4eee\
+16dddq/LL
+16eeeq/JJ
+8ddd\L
+8ccc\J
+[4aa\
+=
+8aa\]
+4aa\
+32bb\LLL
+32aa\
+32bb\
+32aa\JJJ
+8ccc\L
+8bb\J
+=
+8gg#\
+[4.g#/
+!!   B&M  Encoding error?  add dot
+8.g#/L]
+16a/Jk
+=
+4a/
+*-

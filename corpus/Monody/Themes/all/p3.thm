@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Pachelbel, Johann
+!!!CDT: <1653/09/01/-<1706/03/09/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: ?
+!!!title1: Fugue in D Minor
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p3 % . % n.d. % ? % P3 % . % x % . % cemba % . % Fugue in D Minor % PACHELBEL, Johann % 1653
+**kern
+*clefF4
+*k[]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4.d\
+8d\
+4c#\
+4cn\
+=
+4B\
+4B-\
+8A\L
+8Bn\
+8c\
+8A\J
+=
+8e\L
+8E\
+8B\
+8c\J
+8d\L
+8D\
+8A\
+8B\J
+=
+4.c\
+16B\LL
+16A\JJ
+4.B\
+8c#\
+=
+2d\
+*-

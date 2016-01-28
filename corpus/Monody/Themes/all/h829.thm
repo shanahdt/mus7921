@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Honegger, Arthur
+!!!CDT: 1892/03/10/-1955/11/27/
+!!!CNT: Swiss; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1917
+!!!instrument: orchestra
+!!!place: Helvetia(?)
+!!!theme: D
+!!!title1: Chant de Nigamon
+!!!statkey: c
+!!DEBUGGING: h829 % . % 1917 % Switzerland? % H829 % . % d % . % orchestra % . % Chant de Nigamon % HONEGGER, Arthur % 1892
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M12/8
+=
+4d/
+8c/
+2.d/
+4c/
+8An/
+=
+4.c/
+8.An/L
+16A/k
+8G/J
+2.G/
+=
+4f/
+8d/
+4.f/
+8.d/L
+16d/k
+8d/J
+[4.c/
+=
+4c/]
+*-

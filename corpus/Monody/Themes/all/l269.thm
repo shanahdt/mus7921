@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1725/12/31/
+!!!OMV: Mov. 4: Gavotte
+!!!PDT: 1725///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1725(p)
+!!!instrument: flt, piano
+!!!place: England, London
+!!!title1: Sonata No. 7 in F
+!!!title2: 4th Movement (Gavotte)
+!!!statkey: F
+!!DEBUGGING: l269 % . % 1725(p) % London % L269 % . % x % 4: Gavotte % flt, piano % . % Sonata No. 7 in F % LOEILLET, Jean Baptiste % 1680
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+4aa\
+4bb-\
+=
+4ccc\
+8bb-\L
+8aa\J
+4gg\
+8aa\L
+8bb-\J
+=
+4aa\
+4ff\
+4ccc\
+8bb-\L
+8aa\J
+=
+4ddd\
+4ccc\
+4bb-\
+4aa\
+=
+2gg\
+*-

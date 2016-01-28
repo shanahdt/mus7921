@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: late 1730s
+!!!OCY: Deutschland
+!!!OPC: Leipzig
+!!!OTL: Suite No.2 in B Minor for Flute and Strings
+!!!SET: No. 2
+!!!OMV: Badinerie
+!!!AIN: Cstr flt
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M2/4
+8bb\L
+16ddd\L
+16bb\JJ
+=
+8ff#\L
+16bb\L
+16ff#\JJ
+8dd\L
+16ff#\L
+16dd\JJ
+=
+4b\
+16f#\LL
+16b\
+16dd\
+16b\JJ
+=
+16cc#\LL
+16b\
+16cc#\
+16b\JJ
+16a#\LL
+16cc#\
+16ee\
+16cc#\JJ
+=
+8dd\L
+8b\J
+*-

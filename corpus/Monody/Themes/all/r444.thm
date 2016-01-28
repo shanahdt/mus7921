@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 7
+!!!OPS: Opus 103
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1879
+!!!instrument: piano
+!!!place: Royssia, St. Petersburg(?)
+!!!theme: A
+!!!title1: Toreador et Andalouse
+!!!title2: Bal Costum&eacute;
+!!!statkey: c
+!!DEBUGGING: r444 % . % 1879 % St. Petersburg? % R444 % 103 No. 7 % a % . % piano % Bal Costum&eacute; % Toreador et Andalouse % RUBINSTEIN, Anton % 1829
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M6/8
+=
+8r
+8g/L
+[8cc/J
+8cc\L]
+8.dd\
+16bn\Jk
+=
+8cc/L
+24a-/L
+24b-/
+24a-/J
+[8g/J
+4.g/_
+=
+4g/]
+8r
+4r
+8r
+=
+2.r
+=
+4g/
+[8cc\
+8cc\L]
+8.b-\
+16a-\Jk
+=
+24g/LL
+24a-/
+24g/J
+24f/L
+24g/
+24f/J
+[8e-/J
+4.e-/]
+=
+*-

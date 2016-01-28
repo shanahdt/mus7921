@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!ONM: No. 6
+!!!OPS: Opus 1
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1805
+!!!instrument: violn
+!!!place: Italia, Lucca
+!!!splace: Italia, Milano
+!!!title1: Caprices
+!!!title2: Op. 1, No. 6 (Liszt)
+!!!statkey: g
+!!DEBUGGING: p24 % . % c1805 % Lucca % P24 % 1 No. 6 % x % . % violn % . % Caprices % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Milan (P24) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+4.dd\
+8gg\L
+8ff#\
+8ee-\J
+=
+4.dd\
+8dd\L
+8cc\
+8b-\J
+=
+4.a/
+8cc/L
+8a/
+8g/J
+=
+4g/
+*-

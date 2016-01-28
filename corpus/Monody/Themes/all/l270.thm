@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Loeillet, Jean Baptiste
+!!!CDT: 1653///-1728///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1725/12/31/
+!!!OMV: Mov. 5: Aria
+!!!PDT: 1725///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1725(p)
+!!!instrument: flt, piano
+!!!place: England, London
+!!!title1: Sonata No. 7 in F
+!!!title2: 5th Movement (Aria)
+!!!statkey: f
+!!DEBUGGING: l270 % . % 1725(p) % London % L270 % . % x % 5: Aria % flt, piano % . % Sonata No. 7 in F % LOEILLET, Jean Baptiste % 1680
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M2/2
+4ff\
+4ccc\
+=
+4aa-\
+8gg\L
+8ff\J
+4een\
+8ff\L
+8gg\J
+=
+4ff\
+4cc\
+4aa-\
+8gg\L
+8ff\J
+=
+4gg\
+4cc\
+4bb-\
+8aa-\L
+8gg\J
+=
+4aa-\
+4ff\
+*-

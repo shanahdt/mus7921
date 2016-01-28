@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 9
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in F
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: h97 % . % 1739 % London % H97 % 6 No. 9 % x % 2 % string orchestra % . % Concerto Grosso in F % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H97) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8cc\
+=
+8ff\L
+8ff\
+8ff\
+8ff\J
+4cc\
+4dd\
+=
+8cc\L
+16b-\L
+16a\JJ
+8b-/L
+8g/J
+4a/
+4dd\
+=
+8cc\L
+16b-\L
+16a\JJ
+8b-/L
+8g/J
+4a/
+8r
+*-

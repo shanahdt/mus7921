@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 503
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in C
+!!!title2: 3rd Movement
+!!!statkey: C
+!!DEBUGGING: m502 % . % 1786 % Vienna % M502 % K 503 % x % 3 % piano, orchestra % . % Concerto in C % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+8ccc\L
+8ccc\J
+=
+8gg\L
+8gg\
+8aa\
+8aa\J
+=
+8ee\L
+8ee\
+8ff\
+8ff\J
+=
+16gg\LL
+16ee\
+16gg\
+16ee\JJ
+16aa\LL
+16gg\
+16ff\
+16ee\JJ
+=
+16cc#\LL
+16dd\J
+8dd\J
+*-

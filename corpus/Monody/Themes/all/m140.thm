@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1885///
+!!!OCL: RSC
+!!!ODT: <1885/12/31/
+!!!OMV: Mov. 1: Castillane
+!!!PDT: 1885///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1885(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Le Cid
+!!!title2: Opera
+!!!statkey: a
+!!DEBUGGING: m140 % . % 1885(prf) % Paris % M140 % . % x % 1: Castillane % orchestra % Opera % Le Cid % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1885(p) . (M140) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M6/8
+8ee\L
+8ff\J
+=
+16gg\LL
+16gg\J
+8gg\
+8aa\J
+16bb-\LL
+16bb-\J
+8bb-\
+8ccc\J
+=
+8bb-\
+[4aa\
+8aa\]
+8dd\L
+8ee\J
+=
+16ff\LL
+16ff\J
+8ff\
+8gg\J
+16aa\LL
+16aa\J
+8aa\
+8bbn\J
+=
+8aa\
+4gg\
+*-

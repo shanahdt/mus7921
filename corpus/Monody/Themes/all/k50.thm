@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Nocturne
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1944
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!title1: Masquerade Suite for Orchestra
+!!!title2: 2nd Movement (Nocturne)
+!!!statkey: a
+!!DEBUGGING: k50 % . % 1944 % Moscow % K50 % . % x % 2: Nocturne % orchestra % . % Masquerade Suite for Orchestra % KHACHATURIAN, Aram % 1903
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+8r
+8e/L
+8f#/
+8g#/J
+8a\L
+8b\
+8cc\
+8dd\J
+=
+8ee\L
+8a\
+8cc\
+8dd#\J
+8ee/L
+8e/J
+12a\L
+12cc\
+12ee\J
+=
+[4gg\
+8gg\L]
+16aa\L
+16gg\JJ
+4ff#\
+4aa\
+=
+4aa\
+8ggn\L
+8ff\J
+4aa\
+8gg\L
+8ff\J
+=
+1ee\
+=
+*-

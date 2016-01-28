@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1842/12/31/
+!!!OPS: Opus 54
+!!!PDT: 1842///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1841
+!!!instrument: piano
+!!!place: Deutschland, Berlin(?)
+!!!splace: Oesterreich, Vienna
+!!!title1: Variations Serieuses
+!!!statkey: d
+!!DEBUGGING: m364 % . % 1841 % Berlin? % M364 % 54 % x % . % piano % . % Variations Serieuses % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1842(p) Vienna (M364) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+[4a/
+=
+8a/L]
+8g#/J
+[4dd\
+=
+8dd\L]
+8cc#\J
+8ff\L
+8ee\J
+=
+8dd\L
+8ccn\J
+8.cc\L
+16b-\Jk
+=
+4a/
+[4a/
+=
+8a/L]
+8g#/J
+[4gn/
+=
+8g/L]
+8f#/J
+8b-/L
+8a/J
+=
+8g/L
+8f/J
+*-

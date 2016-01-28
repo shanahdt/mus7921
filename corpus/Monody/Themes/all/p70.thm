@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Pasquini, Bernardo
+!!!CDT: 1637/12/07/-1710/11/22/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: ?
+!!!title1: Toccata Con Lo Scherzo Del Cucc&ograve;
+!!!statkey: A
+!!DEBUGGING: p70 % . % n.d. % ? % P70 % . % x % . % cemba % . % Toccata Con Lo Scherzo Del Cucc&ograve; % PASQUINI, Bernardo % 1637
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+8ee\
+=
+2cc#\
+[2b\
+=
+2b\]
+[2ee\
+=
+4ee\]
+8.ddT\L
+16cc#\Jk
+[2dd\
+=
+4dd\]
+8.cc#\L
+16b\Jk
+[2cc#\
+=
+2cc#\]
+2a/
+=
+2a/
+*-

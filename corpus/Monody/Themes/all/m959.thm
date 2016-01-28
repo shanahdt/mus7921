@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 504
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Symphony No. 38 in D
+!!!title2: "Prague"
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m959 % . % 1786 % Vienna % M959 % K 504 % b % 2 % orchestra % "Prague" % Symphony No. 38 in D % c1786(p) % 1756
+**kern
+*clefG2
+*k[f#]
+*D:
+*M6/8
+!! ! NB. Key & key signature disagree.
+8ff#\L
+8dd\
+8gg\J
+=
+8ee\
+4aa\
+8ff#\L
+8dd\
+8gg\J
+=
+8ee\
+4aa\
+8ff#\L
+8gg\
+8aa\J
+=
+8.bb\L
+16ccc#\k
+8ddd\J
+8a/L
+8a/
+8a/J
+=
+4g/
+8f#/
+*-

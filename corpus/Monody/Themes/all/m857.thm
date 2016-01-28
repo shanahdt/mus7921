@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OMV: Mov. 3
+!!!OPS: Opus K 526
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!title1: Sonata in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m857 % . % 1787 % Vienna % M857 % K 526 % x % 3 % violn, piano % . % Sonata in A % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) . (M857) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+8aa\L
+8gg#\
+8ff#\
+8ee\J
+=
+8dd#\L
+8ee\
+8ff#\
+8ee\J
+8ee\L
+8ddn\
+8cc#\
+8b\J
+=
+8dd\L
+8cc#\
+8b\
+8a\J
+*-

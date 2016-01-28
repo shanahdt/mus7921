@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Leclair, Jean-Marie
+!!!CDT: 1697/05/10/-1764/10/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728/12/31/
+!!!OMV: Mov. 3: Sarabande
+!!!ONM: No. 8
+!!!OPC: France, Paris
+!!!OPS: Opus 2
+!!!PDT: c1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728(p)
+!!!instrument: flt, cemba, viols
+!!!title1: Trio-Sonata in D
+!!!title2: 3rd Movement (Sarabande)
+!!!statkey: b
+!!DEBUGGING: l62 % . % c1728(p) % Paris % L62 % 2 No. 8 % x % 3: Sarabande % flt, cemba, viols % . % Trio-Sonata in D % LECLAIR, Jean-Marie % 1697
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+=
+8.b\L
+16cc#\Jk
+8.dd\L
+16ee\Jk
+4ff#\
+=
+4b\
+4.bb\
+8aa\
+=
+8aaq/
+4.gg\
+8ff#\
+8.ee\L
+16dd\Jk
+=
+2cc#t\
+4b\
+=
+4ff#\
+8.gg\L
+16ff#\Jk
+8.gg\L
+16ff#\Jk
+=
+4ee\
+8.ff#\L
+16ee\Jk
+8.ff#\L
+16ee\Jk
+=
+4dd\
+*-

@@ -1,0 +1,70 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Arabesque No. 2 in G Major for Piano
+!!!SET: No. 2            
+!!!thm: A  
+!!!AIN: forte
+!!!ODT: 1888///-1891///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+*>[A,A,B]
+*>A
+=
+24ee\LL
+24ff#\
+24ee\J
+8b\J
+24dd\LL
+24ee\
+24dd\J
+8g\J
+24b/LL
+24cc/
+24b/J
+8d/J
+24a/LL
+24b/
+24a/J
+8e/J
+=2:|!
+*>B
+24g/LL
+24a/
+24g/J
+8d/J
+12e/L
+12g/
+12b/J
+24g/LL
+24a/
+24g/J
+8d/J
+12e/L
+12g/
+12b/J
+=
+24a/LL
+24b/
+24a/J
+8e/J
+8ee\L
+8dd\J
+8bb\L
+8aa\J
+8ff#\L
+8dd\J
+=
+*-

@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 12
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in B Minor
+!!!title2: 4th Movement
+!!!statkey: b
+!!DEBUGGING: h118 % . % 1739 % London % H118 % 6 No. 12 % x % 4 % string orchestra % . % Concerto Grosso in B Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H118) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+=
+16r
+16b\LL
+16dd\
+16b\JJ
+8g#/L
+8g#/J
+16r
+16b\LL
+16dd\
+16b\JJ
+8g#/L
+8g#/J
+=
+16r
+16ee#\LL
+16gg#\
+16ee#\JJ
+8cc#\L
+8cc#\J
+16r
+16cc#\LL
+16ff#\
+16cc#\JJ
+16a/LL
+16a/
+16cc#/
+16a/JJ
+=
+8f#/
+*-

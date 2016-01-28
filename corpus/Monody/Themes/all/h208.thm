@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 5: Minuet
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 3 in D Minor
+!!!title2: 5th Movement (Minuet)
+!!!statkey: d
+!!DEBUGGING: h208 % 223 % 1733(p) % London? % H208 % . % x % 5: Minuet % piano % . % Suite No. 3 in D Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/4
+=
+4aa\
+4aa\
+4aa\
+=
+2aaM\
+4a/
+=
+4dd\
+8dd\L
+8ff\J
+8ee\L
+8dd\J
+=
+4cc#\
+8b\L
+8cc#\J
+4a/
+=
+*-

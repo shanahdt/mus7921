@@ -1,0 +1,47 @@
+!!!ref: COM CDT, OTL, OTP, OPS
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1802///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien              
+!!!OTL: Rondo in G fo Piano
+!!!OTP: Rage over the Lost Penny                   
+!!!OPS: Op. 129
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*G:
+*M2/4
+=
+!! ! NB. Key & key signature disagree.
+4bn\
+8dd\L
+8dd\J
+=
+8gg\L
+8gg\J
+4bbn\
+=
+16ddd\LL
+16ccc\
+16ddd\
+16ccc\JJ
+8aa\
+8r
+=
+16ddd\LL
+16ccc\
+16ddd\
+16ccc\JJ
+8aa\
+8r
+=
+*-

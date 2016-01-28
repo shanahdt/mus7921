@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Thomson, Virgil
+!!!CDT: 1896/11/25/-1989/09/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1937
+!!!place: France, Paris & United States of America, New York
+!!!title1: The River, Film Suite, Small Orch.
+!!!title2: 1st Movement (Old South)
+!!!statkey: F
+!!DEBUGGING: t118j % . % 1937 % Paris and NY % T118j % . % . % . % . % . % . % THOMSON, Virgil
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+4f/
+4a/
+=
+2cc\
+8a/L
+8g/J
+=
+2a/
+4cc\
+=
+2ff\
+8dd\L
+8cc\J
+=
+2a/
+8f/L
+8a/J
+=
+2dd\
+4f/
+=
+2a/
+4g/
+=
+[2.f/
+=
+4f/]
+*-

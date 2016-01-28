@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Platti, Giovanni
+!!!CDT: <1692///-1763/01/11/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1743?/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1743?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1743?(p)
+!!!instrument: flt or violn, piano
+!!!place: Deutschland, Nuremberg
+!!!title1: Sonata No. 1 in E Minor
+!!!title2: 2nd Movement
+!!!statkey: G
+!!DEBUGGING: p148 % . % 1743?(p) % Nuremberg % P148 % . % x % 2 % flt or violn, piano % . % Sonata No. 1 in E Minor % PLATTI, Giovanni % c1700
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4g/
+4gg\
+24gg\LL
+24ff#\
+24ee\J
+24dd\L
+24cc\
+24b\JJ
+=
+8.ccT\L
+16b\Jk
+4cc\
+4r
+=
+4a/
+[4aa\
+24aa\LL]
+24gg\
+24ff#\J
+24ee\L
+24dd\
+24cc\JJ
+=
+8.bt/L
+16a/Jk
+4b\
+4r
+=
+*-

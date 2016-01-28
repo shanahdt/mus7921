@@ -1,0 +1,65 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1873///
+!!!OCL: RSC
+!!!ODT: <1873/12/31/
+!!!ODT: <1900/12/31/
+!!!OMV: Mov. Danse Grecque
+!!!PDT: 1900///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1873(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!theme: A
+!!!title1: Les Erinnyes
+!!!title2: (Incidental Music)
+!!!statkey: d
+!!DEBUGGING: m150 % . % 1873(prf) % Paris % M150 % . % a % Danse Grecque % orchestra % (Incidental Music) % Les Erinnyes % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1876(rev. prf) . (M150) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1900(p) Paris (M150) . a Danse Grecque orchestra (Incidental Music) Les Erinnyes MASSENET, Jules 1842
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+=
+4.aa\
+4ff\
+8r
+=
+4.aa\
+4ff\
+8r
+=
+4aa\
+8ff\
+4aa\
+8ff\
+=
+8aa\L
+8ff\
+8aa\J
+8ff\L
+8aa\
+8ff\J
+=
+8ddd\L
+8bb-\
+8gg\J
+8ee\L
+8r
+8ee\J
+=
+8ffq/
+4ee\
+8dd\
+4ee\
+*-

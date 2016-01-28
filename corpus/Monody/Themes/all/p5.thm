@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Pachelbel, Johann
+!!!CDT: <1653/09/01/-<1706/03/09/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1920?/12/31/
+!!!PDT: 1920?///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920?(p)
+!!!instrument: organ
+!!!place: Deutschland, Leipzig
+!!!title1: Toccata in C
+!!!statkey: a
+!!DEBUGGING: p5 % . % 1920?(p) % Leipzig % P5 % . % x % . % organ % . % Toccata in C % PACHELBEL, Johann % 1653
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+8g/L
+8a/
+8f/
+8g/J
+8e/L
+8f/
+8d/
+8f/J
+=
+8e/L
+8f/
+8d/
+8e/J
+8c/L
+8d/J
+16B/LL
+16c/
+16d/
+16B/JJ
+=
+8c/L
+8d/J
+4.e/
+16f/LL
+16g/JJ
+[4a/
+=
+8a/L]
+8a/J
+16g/LL
+16a/
+16g/
+16f/JJ
+16e/LL
+16f/
+16g/
+16e/JJ
+*-

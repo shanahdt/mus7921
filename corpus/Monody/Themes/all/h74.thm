@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1740/12/31/
+!!!OMV: Mov. 3
+!!!ONM: No. 5
+!!!OPS: Opus 6
+!!!PDT: 1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1739
+!!!instrument: string orchestra
+!!!place: England, London
+!!!title1: Concerto Grosso in D
+!!!title2: 3rd Movement
+!!!statkey: D
+!!DEBUGGING: h74 % . % 1739 % London % H74 % 6 No. 5 % x % 3 % string orchestra % . % Concerto Grosso in D % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1740(p) . (H74) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/8
+=
+8dd\
+8r
+8r
+=
+8ff#\
+8r
+8r
+=
+8aa\
+8r
+8r
+=
+8ddd\
+8r
+8r
+=
+16ff#\LL
+16gg\
+16aa\
+16ff#\
+16gg\
+16ee\JJ
+=
+16dd\LL
+16ee\
+16ff#\
+16dd\
+16ee\
+16cc#\JJ
+=
+16b\LL
+16cc#\
+16dd\
+16b\
+16cc#\
+16a\JJ
+=
+*-

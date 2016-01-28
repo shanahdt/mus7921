@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Bartók, Béla
+!!!CDT: 1881/03/25/-1945/09/26/
+!!!CNT: Hungarian
+!!!PDT: 1908///
+!!!OCY: Hungary
+!!!OPC: Budapest
+!!!OTL: Quartet No. 1 
+!!!SET: No. 1
+!!!OPS: Op. 7
+!!!AIN: Cstr
+!!!OMV: Mov. 3
+!!!thm: A          
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*B:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4b\
+4b-\
+4c#/
+4d/
+=
+4A/
+4B/
+2r
+!!   B&M Encoding error?  Change 4 to 2?
+=
+4b\
+4b-\
+8c#/L
+8c#/
+8c#/
+8d/J
+=
+4.A/
+8B/
+8cn/
+4G/
+8A/
+=
+4.G/
+*-

@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1921///
+!!!OCL: RSC
+!!!ODT: <1921/12/31/
+!!!OMV: Mov. March
+!!!OPS: Opus 33
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, Illinois, Chicago
+!!!title1: Love of Three Oranges
+!!!title2: Opera
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p234 % . % 1919 % New York % P234 % 33 % x % March % orchestra % Opera % Love of Three Oranges % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1921(prf) Chicago (P234) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*A-:
+*M4/4
+!! ! NB. Key & key signature disagree.
+16e-/LL
+16e-/JJ
+=
+8e-/L
+8r
+8f/
+8r
+8e-/
+8r
+8a-/J
+8r
+=
+8b\L
+16r
+16b\Jk
+2.a-/
+=
+8cc\L
+16r
+16cc\Jk
+4a-/
+8b\L
+16r
+16b\Jk
+4a-/
+=
+8ee-\L
+16r
+16ee-\Jk
+2.g/
+=
+*-

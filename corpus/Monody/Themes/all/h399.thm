@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1789,1790/12/31/
+!!!OMV: Mov. 4
+!!!PDT: 1789,1790///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1788
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: ?
+!!!title1: Quartet in A
+!!!title2: 4th Movement
+!!!statkey: A
+!!DEBUGGING: h399 % . % -1788 % Eszterh&aacute;za % H399 % . % x % 4 % string % . % Quartet in A % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1789,1790(p) ? (H399) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/2
+8bb\L
+8aa\J
+=
+8gg#\L
+8aa\
+8ff#\
+8gg#\J
+8ee\L
+8ff#\
+8dd\
+8ee\J
+=
+4cc#\
+4cc#\
+4cc#\
+4cc#\
+=
+4ee\
+4dd#\
+4ddn\
+4cc#\
+=
+8cc#q/
+8b\L
+8a\
+8b\
+8cc#\J
+4b\
+*-

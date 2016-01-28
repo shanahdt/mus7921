@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Porpora, Nicola
+!!!CDT: 1686/08/17/-1766/03/03/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1745/12/31/
+!!!OMV: Mov. 2: Fugue
+!!!PDT: 1745///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1745(p)
+!!!instrument: violn, piano
+!!!place: England, London
+!!!title1: Sonata in G
+!!!title2: 2nd Movement (Fugue)
+!!!statkey: G
+!!DEBUGGING: p166 % . % 1745(p) % London % P166 % . % x % 2: Fugue % violn, piano % . % Sonata in G % PORPORA, Nicola % 1686
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+4dd\
+=
+4ee\
+8.ccT\L
+32b\LL
+32cc\JJJ
+4dd\
+8r
+8b\
+=
+8cc\L
+16b\L
+16cc\JJ
+8a\L
+8dd\J
+8b\
+8r
+16gg\
+16r
+8r
+=
+*-

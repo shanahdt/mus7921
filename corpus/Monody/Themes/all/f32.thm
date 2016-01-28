@@ -1,0 +1,66 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Falla, Manuel De
+!!!CDT: 1876/11/23/-1946/11/14/
+!!!CNT: Spanish
+!!!OPR: Pi&egrave;ces Espagnoles for Piano
+!!!OTL: Andaluza      
+!!!thm: B           
+!!!AIN: forte 
+!!!ODT: 1902///-1908///
+!!!OCY: France        
+!!!OPC: Paris 
+!!!MPD: 1909///
+!!!MLC: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+[4ee\
+8ee\L]
+24ff\L
+24gg\
+24ff\JJ
+4ee\
+=
+8r
+8aa\L
+8gg\
+8ff\
+8ee\
+8ff\J
+=
+20gg\LL
+20aa\
+20gg\
+20ff\
+20ee\JJ
+2dd\
+=
+8r
+8ff\L
+8ee\
+8dd\
+8cc\
+8dd\J
+=
+8ee\L
+[8ff\J
+16ff\LL]
+16ee\
+16dd\
+16cc\JJ
+16b-\LL
+16cc\
+16dd\
+16ee\JJ
+=
+*-

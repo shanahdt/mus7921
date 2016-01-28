@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///-1801///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1802//
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.12 in A Flat for Piano                  
+!!!OPS: Op. 26
+!!!SET: No. 12
+!!!OMV: Mov. 1
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/8
+8e-/
+=
+8e-/L
+8a-/
+8a-/J
+=
+16a-/LL
+16g/
+16.g/
+32f/k
+16.g/
+32e-/JJk
+=
+4a-/
+8b-\
+=
+16.dd-\LL
+32cc\JJk
+8b-\
+*-

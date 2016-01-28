@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OPR: Pr&eacute;ludes, Book 1, for Piano
+!!!OTL: Pr&eacute;lude No. 10 (La Cathedrale Engloutie)
+!!!SET: No. 10
+!!!thm: A
+!!!AIN: forte      
+!!!ODT: 1910///        
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*E:
+*M6/4
+!! ! NB. Key & key signature disagree.
+2eee\
+[2ccc#\
+=
+2ccc#\]
+2ddd#\
+2ggg#\
+=
+2eee\
+2ccc#\
+[2gg#\
+=
+2gg#\]
+2aa#\
+2ddd#\
+=
+2bb\
+2gg#\
+2aa#\
+=
+2ddd#\
+2ccc#\
+2ddd#\
+=
+1bb\
+*-

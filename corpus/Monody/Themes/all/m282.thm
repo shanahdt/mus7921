@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1838/12/31/
+!!!OMV: Mov. 4
+!!!ONM: No. 2
+!!!OPS: Opus 44
+!!!PDT: 1838///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1837
+!!!instrument: string
+!!!place: Deutschland, Bingen am Rhein
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Quartet No. 4 in E Minor
+!!!title2: 4th Movement
+!!!statkey: G
+!!DEBUGGING: m282 % . % 1837 % Bingen am Rhein % M282 % 44 No. 2 % b % 4 % string % . % Quartet No. 4 in E Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1838(p) Leipzig (M282) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+2f#/
+4g/
+=
+4g#/
+4a/
+4b\
+=
+4cc\
+4b\
+4a/
+=
+2gg\
+4ff#\
+=
+2f#/
+4g/
+=
+4g#/
+4a/
+4b\
+=
+4cc\
+4dd\
+4ff#\
+=
+2bb\
+4aa\
+=
+*-

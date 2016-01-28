@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Wilhelm Friedemann
+!!!CDT: 1710/11/22/-1784/07/01/
+!!!CNT: German
+!!!ODT: c1778///
+!!!OCY: Deutschland
+!!!OPC: Berlin
+!!!OTL: Sonata in C for Harpsichord
+!!!OMV: Mov. 1
+!!!AIN: cemba
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+=
+16r
+16cc\LL
+16ee\
+16cc\JJ
+16gg\LL
+16ee\
+16ccc\
+16gg\JJ
+16ee\LL
+16cc\
+16gg\
+16ee\JJ
+16ccc\LL
+16gg\
+16ee\
+16cc\JJ
+=
+8aa\
+4aa\
+8aa\
+8aa\L
+8gg\J
+4r
+=
+8aa\
+4ddd\
+8ff\
+8ff\L
+8ee\J
+8r
+8f/
+=
+8fT/L
+8e/J
+*-

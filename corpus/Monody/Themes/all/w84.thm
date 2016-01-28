@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1845///
+!!!OCL: RSC
+!!!ODT: <1845/12/31/
+!!!PDT: 1845///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1845
+!!!place: Deutschland, Dresden
+!!!splace: Deutschland, Dresden
+!!!title1: Tannhau3ser, Opera
+!!!title2: Act II, Bacchanale (Venusberg Music)
+!!!statkey: c#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w84 % 511 % 1845 % Dresden % W84 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1845(prf) . (W84) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 511 1845(p) Dresden (W84) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[f#c#g#d#]
+*B:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+4f#/
+8.dd#\L
+16dd#\Jk
+=
+[2.dd#\
+=
+2dd#\]
+4cc#\
+=
+4r
+4b\
+8.ff#\L
+16ff#\Jk
+=
+[2.ff#\
+=
+4.ff#\]
+8ee#\
+8een\L
+8dd#\J
+=
+4cc#\
+4.gg#\
+8gg#\
+=
+[2.gg#\
+=
+2gg#\]
+*-

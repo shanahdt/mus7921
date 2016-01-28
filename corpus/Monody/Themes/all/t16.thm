@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Quartet in D, Str.
+!!!title2: 2nd Movement
+!!!statkey: b
+!!DEBUGGING: t16 % . % n.d. % n/a % T16 % . % . % . % . % . % . % TARTINI, Giuseppe
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+16r
+16ff#\LL
+16.bb\
+32aa#\JJk
+=
+16bbT\LL
+32aa#\L
+32bb\JJ
+[8ff#\J
+16.ff#\LL]
+32gg\k
+16.gg\
+32gg\JJk
+16ggT\LL
+32ff#\L
+32gg\JJ
+[8ff#\J
+16.ff#\LL]
+32ff#\k
+16.bb\
+32aa#\JJk
+=
+16bb\LL
+32aa#\L
+32bb\JJ
+[8ff#\J
+16.ff#\LL]
+32dd\k
+16.eeT\
+32ff#\JJk
+!!   B&M  Encoding error:  removing bar line
+4ff#\
+*-

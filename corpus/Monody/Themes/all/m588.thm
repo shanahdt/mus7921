@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 397 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782 or 1786///-1787
+!!!instrument: piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Fantasia in D Minor
+!!!statkey: d
+!!DEBUGGING: m588 % . % 1782 or 1786-1787 % Vienna % M588 % K 397  % a % . % piano % . % Fantasia in D Minor % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*d:
+*M4/4
+=
+4..ff\
+32ee\LLL
+32ff\JJJ
+8gg\L
+8ff\
+8ee\
+8dd\J
+=
+4cc#\
+8r
+16r
+16dd\
+8dd#\L
+8ee\J
+4r
+=
+4..gg\
+32ff#\LLL
+32gg\JJJ
+8aa\L
+8gg\
+8ffn\
+8ee\J
+=
+4dd\
+*-

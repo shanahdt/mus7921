@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Khachaturian, Aram
+!!!CDT: 1903/06/06/-1978/05/01/
+!!!CNT: Armenian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1940
+!!!instrument: violn, orchestra
+!!!place: Royssia, Moskova(?)
+!!!theme: B
+!!!title1: Concerto
+!!!title2: 3rd Movement
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k35 % . % 1940 % Moscow? % K35 % . % b % 3 % violn, orchestra % . % Concerto % KHACHATURIAN, Aram % 1903
+**kern
+*clefG2
+*k[]
+*F#:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+8ccc#\
+4ff#\
+=
+8ff#\
+4cc#\
+=
+8cc#q/
+8.b/L
+16a/k
+8b/J
+=
+8cc#\
+4ff#\
+=
+8f#/L
+8cc#/
+8cc#/J
+=
+8ff#\L
+8ccc#\
+8ccc#\J
+=
+16bbq/LL
+16ccc#q/JJ
+8.bb\L
+16aa\k
+8bb\J
+=
+8ccc#\
+4fff#\
+=
+*-

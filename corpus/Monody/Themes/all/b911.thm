@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1801///-1802///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1803///
+!!!PDT: 1804///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Symphony No.2 in D    
+!!!OPS: Op. 36
+!!!SET: No. 2
+!!!OMV: Mov. 2
+!!!thm: C
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*E:
+*M3/8
+!! ! NB. Key & key signature disagree.
+16b\
+=
+8.bb\L
+16ccc#\L
+16bb\
+16aa\JJ
+=
+16aa\LK
+8gg#\J
+16bb\LL
+16gg#\
+16ee\JJ
+=
+16ee\LK
+8dd#\J
+16ff#\LL
+16dd#\
+16a\JJ
+=
+16g#\LL
+16b\
+16ee\
+16gg#\
+16bb\JJ
+*-

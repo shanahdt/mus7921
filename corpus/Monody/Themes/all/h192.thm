@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 2
+!!!ONM: No. 13
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1750
+!!!instrument: violn, cbass
+!!!place: England, London(?)
+!!!splace: England, London
+!!!title1: Sonata in D
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: h192 % . % c1750 % London? % H192 % 1 No. 13 % x % 2 % violn, cbass % . % Sonata in D % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1730(p) . (H192) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H192) 1 No. 13 x 2 violn, cbass . Sonata in D HANDEL, George Frederick 1685
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+=
+2aa\
+8ff#\L
+8dd\
+8ff#\
+8dd\J
+=
+8ee\L
+8a\
+8ee\
+8a\J
+8dd\L
+16ee\L
+16ff#\JJ
+8gg\L
+8gg\J
+=
+8gg\L
+16ff#\L
+16ee\JJ
+8ff#\L
+16gg\L
+16aa\JJ
+8bb\L
+8bb\J
+8.bb\
+*-

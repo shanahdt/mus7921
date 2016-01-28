@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 315
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1779///-1780
+!!!instrument: flt, orchestra
+!!!place: Oesterreich, Salzburg(?)
+!!!title1: Andante in C
+!!!statkey: C
+!!DEBUGGING: m429 % . % 1779-1780 % Salzburg? % M429 % K 315 % x % . % flt, orchestra % . % Andante in C % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+4cc\
+4b\
+=
+8cc\L
+8ddT\
+8ee\J
+16.eet\LL
+32ff\JJk
+=
+16gg\LL
+16ee\JJ
+4cc\
+8dd\
+=
+8dd#\L
+8ee\J
+16r
+16ee\LL
+16ff\
+16gg\JJ
+=
+16aa\LL
+16ff\J
+8ccc\J
+*-

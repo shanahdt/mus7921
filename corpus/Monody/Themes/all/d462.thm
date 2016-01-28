@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OPS, "OTP," OMV, thm
+!!!COM: Dvorák, Antonin
+!!!CDT: 1841/09/08/-1904/05/01/
+!!!CNT: Czech
+!!!OTL: Trio in F Minor for Violin, Cello, and Piano
+!!!OPS: Op. 90
+!!!OTP: Dumky
+!!!OMV: Mov. 5
+!!!thm: Introduction
+!!!AIN: cello forte violn
+!!!ODT: 1891///
+!!!OCY: Czechoslovakia
+!!!OPC: Prague
+!!!PDT: 1894///
+!!!PPP: Deutschland, Berlin
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/8
+=
+8r
+[8gg\
+16gg\LL]
+32ff\L
+32ee-\JJJ
+16dd\LL
+16ee-\JJ
+!!   B&M  Encoding error?  change 8's to 16's?
+=
+4cc\
+8g/
+16r
+16g/
+=
+8.g/L
+32cc/LL
+32b-/JJJ
+8.g/L
+32cc/LL
+32b-/JJJ
+=
+4.g/
+*-

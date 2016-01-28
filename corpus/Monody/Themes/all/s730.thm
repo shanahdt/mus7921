@@ -1,0 +1,42 @@
+**kern
+*clefG2
+*k[f#c#g#d#]
+*met(C)
+*M4/4
+!! NB. Key & key signature disagree.
+*F-:
+4cc
+=
+4.cc#
+8a
+=
+4a
+8g#
+16b
+16a
+=
+4a
+8b-
+16cc#
+16b
+=
+4b
+*-
+!!!COM: Schumann, Robert
+!!!CNT: German
+!!!date: 1851
+!!!place: D&uuml;sseldorf
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s730 % 429 % 1851 % D&uuml;sseldorf % S730 % . % . % . % . % . % . % SCHUMANN, Robert
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1852///
+!!!ODT: <1852/12/31/
+!!!splace: ?
+!!!CDT: ///-
+!!DEBUGGING: . . 1852(p) ? (S730) . . . . . . .

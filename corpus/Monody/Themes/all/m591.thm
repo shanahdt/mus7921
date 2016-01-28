@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 2
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1762
+!!!instrument: piano
+!!!place: Oesterreich, Salzburg
+!!!title1: Minuet
+!!!statkey: F
+!!DEBUGGING: m591 % . % 1762 % Salzburg % M591 % K 2 % x % . % piano % . % Minuet % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+8ff\L
+8aa\J
+4cc\
+4cc\
+=
+8dd\L
+8ff\J
+4b-\
+4b-\
+=
+8a\L
+8cc\J
+4f/
+4e/
+=
+2e/
+4f/
+=
+*-

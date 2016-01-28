@@ -1,0 +1,53 @@
+**kern
+*clefG2
+*k[f#]
+*M12/4
+!! NB. Key & key signature disagree.
+*D:
+12bb
+12bb
+12bb
+8bb
+8ccc
+=
+12ddd
+12ddd
+12ddd
+8ddd
+8ccc
+=
+12bb
+12bb
+12bb
+8bb
+8aa
+=
+16ff#
+[8.ff
+4]ff
+=
+12ee
+12ee
+12ff#
+8ee
+8ff#
+=
+12aa
+12aa
+12ff#
+8aa
+8ff#
+=
+*-
+!!!COM: Scarlatti, Alessandro
+!!!CNT: Italian
+!!!date: 1716
+!!!place: Italia, Napoli
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s182 % . % 1716 % Naples % S182 % . % . % . % . % . % . % SCARLATTI, Alessandro

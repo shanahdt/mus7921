@@ -1,0 +1,49 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1797///-1798///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1799///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.2 in A for Violin and Piano                  
+!!!OPS: Op. 12
+!!!ONM: No. 2
+!!!SET: No. 2
+!!!OMV: Mov. 2
+!!!AIN: forte violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+4.cc\
+16b/LL
+16a/JJ
+=
+16.g#/LL
+32a/k
+16.b/
+32a/JJk
+16.cc\LL
+32b\k
+16.dd\
+32cc\JJk
+=
+4ee\
+8.ff\L
+16dd\Jk
+=
+8b\
+8r
+4r
+=
+*-

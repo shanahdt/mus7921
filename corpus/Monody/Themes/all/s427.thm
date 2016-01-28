@@ -1,0 +1,41 @@
+**kern
+*clefG2
+*k[]
+*M3/4
+!! NB. Key & key signature disagree.
+*F:
+[2a
+8]a
+16b-
+16a
+=
+4g
+4b-
+4dd-
+=
+2cc
+4a
+=
+2cc
+4b-
+=
+2a
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1823
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s427 % . % 1823 % Vienna % S427 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1839///
+!!!ODT: <1839/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1839(p) Vienna? (S427) . . . . . . .

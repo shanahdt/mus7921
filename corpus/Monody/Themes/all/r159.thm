@@ -1,0 +1,64 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1912///
+!!!OCL: RSC
+!!!ODT: <1912/12/31/
+!!!OMV: Mov. Laideronnette, Imp&eacute;ratrice des Pagodes
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1908///-1910
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!splace: France, Paris
+!!!title1: Ma M&egrave;re L'Oye
+!!!title2: Empress of the Pagodas (Laideronnette, Imp\e7ratrice des Pagodes)
+!!!statkey: d#
+!!DEBUGGING: r159 % 376 % 1908-1910 % Paris % R159 % . % x % Laideronnette, Imp&eacute;ratrice des Pagodes % orchestra % . % Ma M&egrave;re L'Oye % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1911(rev) . (R159) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 376 1912(prf) Paris (R159) . x Laideronnette, Imp&eacute;ratrice des Pagodes orchestra . Ma M&egrave;re L'Oye RAVEL, Maurice 1875
+**kern
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M2/4
+=
+16ff#\LL
+16dd#\
+16cc#\
+16dd#\JJ
+8a#\L
+16ff#\L
+16cc#\JJ
+=
+8dd#\L
+8dd#\J
+16ff#\LL
+16dd#\
+16cc#\
+16dd#\JJ
+=
+16a#\LL
+16dd#\
+16ff#\
+16cc#\JJ
+8dd#\L
+16ff#\L
+16dd#\JJ
+=
+16cc#\LL
+16dd#\
+16a#\
+16cc#\JJ
+16g#/LL
+16a#/
+16f#/
+16g#/JJ
+=
+8d#/
+*-

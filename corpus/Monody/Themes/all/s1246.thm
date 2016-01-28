@@ -1,0 +1,56 @@
+**kern
+*clefG2
+*k[b-]
+*M3/4
+*F:
+8a
+8c
+8a-
+8a
+=
+8dd
+8r
+8cc
+8r
+8cc
+8r
+=
+4r
+8b-
+8c
+8a
+8b-
+=
+8dd
+8r
+8cc
+8r
+8cc
+8r
+=
+2.ff
+=
+2.ee
+=
+2.b-
+=
+4dd
+8cc
+8r
+4cc
+=
+*-
+!!!COM: Strauss, Johann Jr.
+!!!CNT: Austrian
+!!!PDT: 1874///
+!!!ODT: <1874/12/31/
+!!!date: 1874(p)
+!!!place: Oesterreich, Vienna
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1246 % . % 1874(p) % Vienna % S1246 % . % . % . % . % . % . % STRAUSS, Johann Jr.

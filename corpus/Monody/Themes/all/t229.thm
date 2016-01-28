@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Symphony No. 2 in C Minor, Op. 17, "Little Russia"
+!!!title2: 1st Movement
+!!!statkey: c
+!!DEBUGGING: t229 % . % 1881(prf) % St. Petersburg % T229 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+2.a-/
+4aa-\
+=
+4gg\
+4ff\
+6ee-\
+6dd\
+6dd-\
+=
+[2cc\
+6cc\]
+6ee-\
+6cc\
+=
+4.b-\
+8a-/
+6g/
+6f#/
+6g/
+=
+6a-/
+6b-\
+6cc\
+6dd\
+6ee-\
+6ff\
+=
+8gg\
+*-

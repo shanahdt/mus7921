@@ -1,0 +1,66 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1676///
+!!!OCL: RSC
+!!!ODT: <1676/12/31/
+!!!ODT: <1689/12/31/
+!!!OMV: Mov. Gavotte: Air Pour la Suite de Flore
+!!!PDT: 1689///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1676(prf)
+!!!instrument: orchestra
+!!!place: France, Saint-Germain
+!!!splace: France, Paris
+!!!title1: Atys
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: l295 % . % 1676(prf) % Saint-Germain % L295 % . % x % Gavotte: Air Pour la Suite de Flore % orchestra % Opera % Atys % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1689(p) Paris (L295) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/2
+4b\
+16ccq/LL
+16ddq/JJ
+8cc\L
+16b\L
+16cc\JJ
+=
+4dd\
+8cc\L
+8b\J
+4cc\
+8b/L
+8a/J
+=
+4b\
+4g/
+4b\
+8cc\L
+16b\L
+16cc\JJ
+=
+4dd\
+8cc\L
+8b\J
+4cc\
+8b/L
+8a/J
+=
+8b\L
+8a\
+8b\
+8cc\J
+4.a/
+8g/
+=
+4g/
+*-

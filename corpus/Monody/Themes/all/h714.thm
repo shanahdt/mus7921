@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1794///-1795
+!!!instrument: 2 flt, cello
+!!!place: England, London
+!!!title1: Trio No. 2 in G
+!!!title2: "London"
+!!!statkey: G
+!!DEBUGGING: h714 % . % 1794-1795 % London % H714 % . % x % 1 % 2 flt, cello % "London" % Trio No. 2 in G % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+8.dd\L
+16dd\Jk
+=
+2gg\
+4.dd\
+8cc\
+=
+4cc\
+4b\
+4r
+8.dd\L
+16dd\Jk
+=
+8.ee\L
+16ff#\k
+8.gg\
+16ee\Jk
+8.ff#\L
+16gg\k
+8.aa\
+16ff#\Jk
+=
+8.gg\L
+16aa\k
+8.bb\
+16ccc\Jk
+4ddd\
+*-

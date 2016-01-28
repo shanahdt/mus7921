@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Dinicu, Grigora
+!!!CDT: 1889/04/03/-1949/03/28/
+!!!CNT: Romanian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1906///
+!!!OPC: Romania, Bucharest
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: A
+!!!title1: Hora Staccato
+!!!statkey: E-
+!!DEBUGGING: d224 % . % 1906(c) % Bucharest % D224 % . % a % . % violn, piano % . % Hora Staccato % DINICU % 1915
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+=
+8r
+8g/L
+8a-/
+8an/J
+=
+8ccq/
+[2b-T\
+=
+2b-T\_
+=
+2b-T\_
+=
+2b-T\]
+16anq/LL
+16b-q/JJ
+=
+16ee-\LL
+16ee-\
+16dd\
+16dd\JJ
+16cc\LL
+16cc\
+16b-\
+16b-\JJ
+=
+16a-/LL
+16a-/
+16g/
+16g/JJ
+16f/LL
+16f/
+16e-/
+16e-/JJ
+=
+*-

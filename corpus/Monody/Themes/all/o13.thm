@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1858///
+!!!MPD: 1874(rev)///
+!!!OCL: RSC
+!!!ODT: <1858/12/31/
+!!!ODT: <1874/12/31/
+!!!OMV: Mov. Act I Duo
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1858(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Orpheus in Hades
+!!!title2: Opera
+!!!statkey: E
+!!DEBUGGING: o13 % . % 1858(prf) % Paris % O13 % . % x % Act I Duo % orchestra % Opera % Orpheus in Hades % OFFENBACH, Jacques % 1819
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1874(rev)(prf) . (O13) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M6/8
+8ee\L
+8ff#\J
+=
+4gg#\
+8gg#\
+4aa\
+8aa#\
+=
+4bb\
+8bb\
+4fff#\
+8eee\
+=
+4ccc#\
+8bb\
+8aa\L
+8b\
+8ff#\J
+=
+16gg#q/LL
+16aaq/JJ
+8.gg#\L
+16ff#\k
+8ee\J
+8r
+*-

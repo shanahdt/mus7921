@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Sextet No. 1 in B Flat for Strings
+!!!OPS: Op. 18
+!!!OMV: Mov. 2
+!!!AIN: 2 cello 2 viola 2 violn
+!!!ODT: 1858///-1860///
+!!!OCY: Deutschland   
+!!!OPC: Hamburg
+!!!PDT: 1860///
+!!!MRD: 1860///
+!!!MLC: Deutschland, Hanover      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/4
+8A/
+=
+4.d/
+16e/LL
+16f/JJ
+=
+4.e/
+8A/
+=
+4.f/
+16gq/LL
+16fq/
+16eq/
+16fq/JJ
+16g/LL
+16a/JJ
+=
+4.g/
+8G/
+=
+4.g/
+16aq/LL
+16gq/
+16fq/
+16gq/JJ
+16a/LL
+16b-/JJ
+=
+4cc\
+*-

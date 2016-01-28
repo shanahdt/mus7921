@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Quintet in B Minor for Clarinet and Strings
+!!!OPS: Op. 115
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: cello clars viola 2 violn
+!!!ODT: 1891///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1892///
+!!!MRD: 1891///
+!!!MLC: Deutschland, Berlin       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M6/8
+=
+4.ff#\
+16gg\LL
+16ff#\
+16ee\
+16ff#\
+16gg\
+16ee\JJ
+=
+4.ff#\
+16ee\LL
+16dd\
+16cc#\
+16dd\
+16ee\
+16cc#\JJ
+=
+4dd\
+8cc#\
+4a#/
+8b\
+=
+4an/
+8g/
+4e#/
+8f#/
+=
+*-

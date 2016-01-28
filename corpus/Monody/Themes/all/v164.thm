@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1711/12/31/
+!!!PDT: 1711///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1711(p)
+!!!place: Netherlands, Amsterdam
+!!!title1: Concerto Grosso in D Minor, Op. 3, No. 11, Orch.
+!!!title2: 2nd Movement
+!!!statkey: F
+!!DEBUGGING: v164 % 506 % 1711(p) % Amsterdam % V164 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefG2
+*k[b-]
+*d:
+*M6/8
+=
+8.aa\L
+16gg\k
+8ff\J
+8.ff\L
+16ee\k
+8dd\J
+=
+8.bb-\L
+16ee\k
+8bb-\J
+4cc\
+8bb-\
+=
+4bb-\
+8aa\
+8r
+8ddd\L
+8dd\J
+=
+8.gg\L
+16aa\k
+8bb-\J
+8.bb-\L
+16aa\k
+8gg\J
+=
+*-

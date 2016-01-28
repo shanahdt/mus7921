@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Sextet No. 2 in G  for Strings
+!!!OPS: Op. 36
+!!!OMV: Mov. 3
+!!!AIN: 2 cello 2 viola 2 violn
+!!!ODT: 1864///-1865///
+!!!OCY: &Ouml;sterreich    
+!!!OPC: Wien
+!!!PDT: 1866///
+!!!MRD: 1867///
+!!!MLC: &Ouml;sterreich, Wien      
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*e:
+*M4/4
+=
+4b\
+4ee\
+4ff#\
+4bb\
+=
+8aa\L
+8gg\
+8ggT\
+8ff#\J
+4ee\
+4ccc\
+=
+4a/
+4dd\
+4ee\
+4aa\
+=
+8gg\L
+8ff#\
+8ff#t\
+8ee\J
+4dd#\
+4ff#\
+=
+*-

@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Howells, Herbert
+!!!CDT: 1892/10/17/-1983/02/23/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 20
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1917///-1920
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Puck's Minuet
+!!!statkey: b
+!!DEBUGGING: h848 % . % 1917-1920 % London % H848 % 20 No. 1 % b % . % orchestra % . % Puck's Minuet % HOWELLS, Herbert % 1892
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M3/4
+=
+8ff#\
+8r
+8ff#q/
+4ee\
+8dd\L
+8cc#\J
+=
+8dd\L
+8cc#\J
+8b\
+8r
+8bq/
+12cc#\L
+12dd\
+12ee\J
+=
+8ff#\L
+16gg\L
+16ff#\JJ
+8ee\L
+16ff#\L
+16ee\JJ
+8dd\L
+8cc#\J
+=
+8dd\L
+8cc#\J
+8b\
+8r
+4r
+=
+*-

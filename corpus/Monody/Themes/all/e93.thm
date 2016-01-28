@@ -1,0 +1,56 @@
+!!!ref: COM CDT, OTL, OPS, thm
+!!!COM: Enesco, Georges
+!!!CDT: 1881/08/19/-1955/05/03-04/
+!!!CNT: Romanian
+!!!OTL: Roumanian Rhapsody No. 1 for Orchestra
+!!!OPS: Op. 11
+!!!thm: C b
+!!!AIN: orchestra
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+16.ee\LL
+!!   Encoding error:   change 6 to 16
+32aa\k
+16.gg#\
+32aa\JJk
+=
+16.bbT\LL
+32aa\Jk
+8ccc#\J
+16.ee\LL
+32aa\k
+16.gg#\
+32aa\JJk
+=
+16.bbT\LL
+32gg#\Jk
+8aa\J
+16.ee\LL
+32aa\k
+16.gg#\
+32aa\JJk
+=
+16.bbT\LL
+32aa\Jk
+8ccc#\J
+16.eee\LL
+32ddd\k
+16.ccc#\
+32bb\JJk
+=
+24ddd\LL
+24ccc#\
+24bb\J
+8aa\J
+*-

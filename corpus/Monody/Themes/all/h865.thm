@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Humperdinck, Engelbert
+!!!CDT: 1854/09/01/-1921/09/27/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1897///
+!!!MPD: 1910///
+!!!OCL: RSC
+!!!ODT: <1897/12/31/
+!!!ODT: <1910/12/31/
+!!!OMV: Mov. Prelude to Act II
+!!!PDT: 1897///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1897(prf)
+!!!instrument: orchestra
+!!!place: Deutschland, Muenchen
+!!!splace: Deutschland, Leipzig
+!!!splace: United States of America, New York
+!!!theme: A: "CHILDREN'S ROUNDS"
+!!!title1: K&ouml;nigskinder
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: h865 % . % 1897(prf) % Munich % H865 % . % a: "Children's Rounds" % Prelude to Act II % orchestra % Opera % K&ouml;nigskinder % HUMPERDINCK, Engelbert % 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1897(p) Leipzig (H865) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1910(rev) New York (H865) . a: "Children's Rounds" Prelude to Act II orchestra Opera K&ouml;nigskinder HUMPERDINCK, Engelbert 1854
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1910(prf) New York (H865) . a: "Children's Rounds" Prelude to Act II orchestra Opera K&ouml;nigskinder HUMPERDINCK, Engelbert 1854
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/2
+4dd\
+8ee\L
+8dd\J
+=
+4cc\
+8dd\L
+8cc\J
+8b\L
+8b\
+8cc\
+8b\J
+=
+4a/
+!!   Encoding error:  changing 8 to 4
+12d/L
+12f#/
+12a/J
+4cc\
+8cc\L
+8cc\J
+=
+8b\L
+8b\
+8cc\
+8b\J
+8a/L
+8a/
+8b/
+8a/J
+=
+4g/
+*-

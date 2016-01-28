@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1683/12/31/
+!!!OMV: Mov. 5
+!!!PDT: 1683///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1680
+!!!instrument: 2 violn, cemba
+!!!place: England, London
+!!!title1: Sonata No. 9 in F
+!!!title2: "Golden Sonata"
+!!!statkey: F
+!!DEBUGGING: p351 % . % c1680 % London % P351 % . % x % 5 % 2 violn, cemba % "Golden Sonata" % Sonata No. 9 in F % PURCELL, Henry % 1659
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1683(p) . (P351) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/8
+=
+8ff\L
+8cc\
+8cc\J
+=
+8dd\L
+8a\
+8a\J
+=
+8b-/L
+8g/
+8cc/J
+=
+4f/
+8ff\
+=
+16ee\LL
+16dd\
+16ee\
+16ff\
+16ee\
+16dd\JJ
+=
+16cc\LL
+16b-\
+16cc\
+16dd\
+16cc\
+16b-\JJ
+=
+8a/
+4bn\
+=
+4cc\
+8r
+=
+*-

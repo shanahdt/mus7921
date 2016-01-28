@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1881///
+!!!OCL: RSC
+!!!ODT: <1881/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1881(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Serenade in C, Op. 48, Str.
+!!!title2: 3rd Movement (Elegie)
+!!!statkey: D
+!!DEBUGGING: t185 % . % 1881(prf) % St. Petersburg % T185 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4e/
+8f#/L
+8g/
+8a/
+8b/J
+=
+8cc#\L
+8dd\J
+4ee\
+4ff#\
+=
+8gg\L
+8ff#\J
+4gg\
+8ff#\L
+8ee\J
+=
+4dd\
+4ee\
+*-

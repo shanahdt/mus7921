@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 466
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1785
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Concerto in D Minor
+!!!title2: 3rd Movement
+!!!statkey: F
+!!DEBUGGING: m479 % 315 % 1785 % Vienna % M479 % K 466 % b % 3 % piano, orchestra % . % Concerto in D Minor % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+2.ccc\
+4gg\
+=
+4gg\
+8aa\
+8r
+2ff\
+=
+4aa\
+8bb-\
+8r
+2gg\
+=
+8ccc\L
+8bbn\
+8ccc\
+8ddd\J
+4ccc\
+4r
+=
+*-

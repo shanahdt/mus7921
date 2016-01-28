@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1889/12/31/
+!!!OMV: Mov. 1: The Sea and Sinbad's Ship
+!!!OPS: Opus 35
+!!!PDT: 1889///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!theme: C
+!!!title1: Scheherezade
+!!!title2: 1st Movement (The Sea & Sinbad's Ship)
+!!!statkey: a
+!!DEBUGGING: r340 % . % 1888 % St. Petersburg % R340 % 35 % c % 1: The Sea and Sinbad's Ship % orchestra % . % Scheherezade % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1889(p) Leipzig (R340) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*C:
+*M6/4
+=
+4r
+4g/
+4a/
+4a/
+4g/
+4a/
+=
+4cc\
+4cc\
+4dd\
+4dd\
+4cc\
+4dd\
+=
+4ee\
+4gg\
+4aa\
+4aa\
+4gg\
+4aa\
+=
+4ccc\
+4ccc\
+4ddd\
+4ddd\
+4ccc\
+4ddd\
+=
+1.eee\
+=
+*-

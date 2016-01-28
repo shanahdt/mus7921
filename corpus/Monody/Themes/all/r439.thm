@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1855/12/31/
+!!!ONM: No. 22
+!!!OPS: Opus 10
+!!!PDT: 1855///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1853///-1854
+!!!instrument: piano
+!!!place: Royssia
+!!!splace: ?
+!!!theme: B
+!!!title1: Kamennoi///-Ostrow
+!!!statkey: f#
+!!DEBUGGING: r439 % . % 1853-1854 % Russia % R439 % 10 No. 22 % b % . % piano % . % Kamennoi-Ostrow % RUBINSTEIN, Anton % 1829
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1855(p) ? (R439) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M2/2
+=
+8r
+8f#/L
+8g#/
+8a/J
+4cc#\
+8.b/L
+16a/Jk
+=
+4a/
+8.dd\L
+16dd\Jk
+2cc#\
+=
+8r
+8f#/L
+8g#/
+8a/J
+4cc#\
+8.b/L
+16a/Jk
+=
+4a/
+8.b\L
+16b\Jk
+2g#/
+=
+*-

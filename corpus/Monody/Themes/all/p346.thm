@@ -1,0 +1,38 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Ground Bass
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: 2 violn, cemba
+!!!place: England, London
+!!!title1: Sonata No. 6 in G Minor
+!!!statkey: g
+!!DEBUGGING: p346 % 365 % n.d. % London % P346 % . % x % Ground Bass % 2 violn, cemba % . % Sonata No. 6 in G Minor % PURCELL, Henry % 1659
+**kern
+*clefF4
+*k[b-e-]
+*g:
+*M3/4
+=
+2.G\
+=
+2.F\
+=
+2.E-\
+=
+4.D\
+8C/
+4BB-/
+=
+4C/
+2D\
+=
+2.G\
+=
+*-

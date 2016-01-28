@@ -1,0 +1,35 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus K 67
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1772
+!!!instrument: organ, string
+!!!place: Oesterreich, Salzburg
+!!!title1: Sonata in E
+!!!statkey: E-
+!!DEBUGGING: m821 % . % 1772 % Salzburg % M821 % K 67 % x % . % organ, string % . % Sonata in E % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+8b-\
+=
+8b-\L
+8ee-\J
+4.gg\
+8aa-\
+=
+8.ffT\L
+32ee-\LL
+32ff\JJJ
+4ee-\
+4r
+=
+*-

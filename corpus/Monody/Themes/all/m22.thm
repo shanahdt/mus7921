@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1887///
+!!!ODT: <1901/12/31/
+!!!ONM: No. 2
+!!!OPC: Deutschland, Wiesbaden
+!!!OPS: Opus 31
+!!!PDT: 1901///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: piano
+!!!splace: United States of America, Massachusetts, Boston & United States of America, New York
+!!!splace: United States of America, New York
+!!!title1: Scotch Poem
+!!!statkey: f
+!!DEBUGGING: m22 % . % 1887(c) % Wiesbaden % M22 % 31 No. 2 % x % . % piano % . % Scotch Poem % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(rev) New York (M22) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1901(p) Boston, New York (M22) 31 No. 2 x . piano . Scotch Poem MACDOWELL, Edward 1860
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M6/8
+8c/
+=
+8..f/L
+32g/kk
+8an/J
+16cc\LL
+[16ff\JJ
+4ff\]
+=
+8..ddn\L
+32cc\kk
+8b-\J
+4.cc\
+=
+8..g/L
+32an/kk
+8b-/J
+16a/LL
+[16f/JJ
+4f/]
+=
+4g/
+8dn/
+4f/
+*-

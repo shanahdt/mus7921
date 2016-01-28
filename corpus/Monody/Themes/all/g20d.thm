@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Gautier, Jean
+!!!CDT: 1822///-1878///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: N/A
+!!!instrument: violn, piano
+!!!place: France, Paris
+!!!theme: B
+!!!title1: The Secret
+!!!statkey: a
+!!DEBUGGING: g20d % . % N/A % Paris % G20d % . % b % . % violn, piano % . % The Secret % GAUTIER, Jean Fran&ccedil;ous Eug&egrave;ne % 1822
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+8g/L
+8g#/J
+=
+8a\L
+8ff\
+8a\
+8a-\J
+8g/L
+8f#/
+8g/
+8g#/J
+=
+8a\L
+8ee\
+8a\
+8a-\J
+8g/L
+8f#/
+8g/
+8g#/J
+=
+8a\L
+8a#\
+8bn\
+8gg\J
+8b\L
+8b-\
+8a\
+8ff\J
+=
+8a\L
+8a-\
+8g\
+8ff\J
+4ee\
+*-

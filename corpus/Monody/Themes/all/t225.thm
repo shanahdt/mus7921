@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1883///
+!!!OCL: RSC
+!!!ODT: <1883/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1883(prf)
+!!!place: Royssia, Moskova
+!!!title1: Symphony No. 1, Op. 13, "R\e9verie d'Hiver"
+!!!title2: 4th Movement
+!!!statkey: G
+!!DEBUGGING: t225 % . % 1883(prf) % Moscow % T225 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/2
+=
+4r
+4ddd\
+4bb\
+4gg\
+=
+4eee\
+4r
+[2ddd\
+=
+4ddd\]
+4ddd\
+4bb\
+4gg\
+=
+4ggg\
+4r
+[2fff#\
+=
+4fff#\]
+2bb\
+[4ddd\
+=
+4ddd\]
+2aa\
+[4bb\
+=
+4bb\]
+2bb\
+[4ddd\
+=
+4ddd\]
+*-

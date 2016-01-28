@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Thomson, Virgil
+!!!CDT: 1896/11/25/-1989/09/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1938/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938(prf)
+!!!place: United States of America, Connecticut, Hartford 
+!!!title1: Filling Station, Ballet
+!!!title2: No. 1 (Intro)
+!!!statkey: a
+!!DEBUGGING: t111a % 485 % 1938(prf) % Hartford, CT % T111a % . % . % . % . % . % . % THOMSON, Virgil
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+2eee\
+2eee\
+=
+8ddd\L
+8eee\J
+4fff\
+4eee\
+4aa\
+=
+2ccc\
+8bb\
+4ccc\
+8ddd\
+=
+8ccc\
+4aa\
+8ccc\
+4bb\
+*-

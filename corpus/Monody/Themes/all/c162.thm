@@ -1,0 +1,54 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Cherubini, Luigi
+!!!CDT: 1760/09/14/-1842/03/15/
+!!!CNT: Italian
+!!!OPR: Les Deux Journ&eacute;es
+!!!OTL: Overture
+!!!thm: A            
+!!!AIN: orchestra            
+!!!MRD: 1800///
+!!!MLC: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4.eee\
+8eee\
+4bb\
+4gg#\
+=
+[4.ff#\
+16ff#\LL]
+16aa\JJ
+4ccc#\
+4r
+=
+4.ccc#\
+8ccc#\
+4aa\
+4ff#\
+=
+[4.dd#\
+16dd#\LL]
+16ff#\JJ
+4aa\
+4r
+=
+4.aa\
+8aa\
+4ff#\
+4dd#\
+=
+[4.ee\
+16ee\LL]
+16gg#\JJ
+4bb\
+*-

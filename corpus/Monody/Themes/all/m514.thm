@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 216
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: A
+!!!title1: Concerto in G
+!!!title2: 3rd Movement
+!!!statkey: G
+!!DEBUGGING: m514 % 317 % 1775 % Salzburg % M514 % K 216 % a % 3 % piano, orchestra % . % Concerto in G % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+8dq/
+4dd\
+16cc\LL
+16a\JJ
+=
+8g/L
+8g/
+8g/J
+=
+8eq/
+4ee\
+16cc\LL
+16a\JJ
+=
+8f#/L
+8f#/
+8f#/J
+=
+8g/L
+8d/
+8b/J
+=
+8a/L
+8d/
+8cc/J
+=
+8b/L
+8d/
+8dd/J
+=
+4b\
+8a/
+=
+*-

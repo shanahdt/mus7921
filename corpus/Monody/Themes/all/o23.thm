@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1866///
+!!!OCL: RSC
+!!!ODT: <1866/12/31/
+!!!OMV: Mov. Overture
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1866(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: A
+!!!title1: La Vie Parisienne
+!!!title2: Opera
+!!!statkey: G
+!!DEBUGGING: o23 % . % 1866(prf) % Paris % O23 % . % a % Overture % orchestra % Opera % La Vie Parisienne % OFFENBACH, Jacques % 1819
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+8.g/L
+16a/Jk
+=
+4b\
+8.b\L
+16b\Jk
+4b\
+4b\
+=
+4.cc\
+8b\
+8cc\L
+8ee\
+8dd\
+8cc\J
+=
+8.b\L
+16dd\k
+8.cc\
+16b\Jk
+8.a/L
+16cc/k
+8.b/
+16a/Jk
+=
+4g/
+*-

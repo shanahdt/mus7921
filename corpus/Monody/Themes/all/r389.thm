@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1823///
+!!!OCL: RSC
+!!!ODT: <1823/12/31/
+!!!ODT: <1826/12/31/
+!!!PDT: 1826///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1823(prf)
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!splace: Italia, Roma
+!!!theme: C
+!!!title1: Semiramide
+!!!title2: Overture
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r389 % . % 1823(prf) % Venice % R389 % . % c % . % orchestra % Overture % Semiramide % ROSSINI, Gioachino Antonio % 1792
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1826(p) Rome (R389) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*A-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8g#q/
+4a/
+8g#q/
+4a/
+8g#q/
+4a/
+8g#q/
+4a/
+=
+2.ee\
+12dd\L
+12b\
+12cc#\J
+=
+8a/
+8r
+12dd\L
+12b\
+12cc#\J
+8a/
+8r
+12dd\L
+12b\
+12cc#\J
+=
+12a\L
+12cc#\
+12ee\J
+2aa\
+12gg#\L
+12bb\
+12aa\J
+=
+8ff#\
+8r
+*-

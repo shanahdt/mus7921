@@ -1,0 +1,68 @@
+!!!ACO: Classical; RSC
+!!!COM: Wagner, Richard
+!!!CDT: 1813/05/22/-1883/02/13/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1842///
+!!!OCL: RSC
+!!!ODT: <1842/12/31/
+!!!ODT: <1844/12/31/
+!!!PDT: 1844///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1840
+!!!place: France, Paris
+!!!splace: Deutschland, Dresden
+!!!title1: Rienzi, Opera
+!!!title2: Overture
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w35 % . % 1840 % Paris % W35 % . % . % . % . % . % . % WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1843(rev) Dresden (W35) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1842(prf) Dresden (W35) . . . . . . WAGNER, Richard
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1844(p) Dresden (W35) . . . . . . WAGNER, Richard
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M2/2
+=
+!! ! NB. Key & key signature disagree.
+4r
+8e/L
+8e/J
+[2a/
+=
+4a/]
+8e/L
+8e/J
+4cc#\
+4dd\
+=
+2a#/
+4b\
+4e/
+=
+4.ee\
+8cc#\
+4a/
+4r
+=
+4r
+8e/L
+8e/J
+[2a/
+=
+4a/]
+8e/L
+8e/J
+4cc#\
+4dd\
+=
+2a#/
+4b\
+*-

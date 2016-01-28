@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Almand
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 7 in D Minor
+!!!title2: Almand
+!!!statkey: d
+!!DEBUGGING: p360 % . % n.d. % London % P360 % . % x % Almand % cemba % . % Suite No. 7 in D Minor % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/2
+16dd\
+=
+[4dd\
+16.dd\LL]
+32dd\k
+16.eeT\
+32ff\JJk
+8a/
+16.aat\LL
+32bb-\JJk
+8ee\L
+16.ffT\L
+32gg\JJk
+=
+[8ff\L
+32ff\LL]
+32ee\
+32ff\
+32dd\JJJ
+*-

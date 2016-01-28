@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Caix d'Rhervelois, Louis de
+!!!CDT: c1680///-c1755///
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Sarabande
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1731
+!!!instrument: cello, piano
+!!!place: France, Paris
+!!!title1: Suite No. 1 in A
+!!!title2: 2nd Movement, Sarabande
+!!!statkey: A
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c12 % . % 1731 % Paris % C12 % . % x % 2: Sarabande % cello, piano % . % Suite No. 1 in A % CAIX d~RHERVELOIS, Louis de % 1670(?)
+**kern
+*clefF4
+*k[f#c#g#]
+*D:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8AAq/
+2E\
+8F#\L
+16G#\L
+16A\JJ
+=
+2G#\
+8A\L
+16B\L
+16c#\JJ
+=
+4B\
+4B\
+8c#\L
+8d\J
+=
+4.c#\
+8B\
+4B\
+=
+*-

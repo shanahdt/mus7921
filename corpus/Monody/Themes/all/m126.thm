@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Malipiero, Gian Francesco
+!!!CDT: 1882/03/18/-1973/08/01/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Il Picchio
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: I: 1910///-1911
+!!!instrument: orchestra
+!!!place: Italia, Venezia
+!!!theme: A
+!!!title1: Impressioni Dal Vero
+!!!title2: Il Picchio
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m126 % . % I: 1910-1911 % Venice % M126 % . % a % Il Picchio % orchestra % . % Impressioni Dal Vero % MALIPIERO, Gian Francesco % 1882
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . II: 1914-1915 . (M126) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . III: 1921-1922 Parma (M126) . a Il Picchio orchestra . Impressioni Dal Vero MALIPIERO, Gian Francesco 1882
+**kern
+*clefG2
+*k[]
+*G:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+16f#/LL
+16f#/
+16f#/
+16f#/J
+8f#/J
+=
+16e/LL
+16e/
+16e/
+16e/J
+8e/J
+=
+16b\LL
+16b\
+16b\
+16b\J
+8b\J
+=
+16ee\LL
+16ee\
+16b\
+16b\J
+8g\J
+=
+*-

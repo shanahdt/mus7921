@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1797
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in C
+!!!title2: "Emperor"
+!!!statkey: c
+!!DEBUGGING: h472 % . % -1797 % Vienna % H472 % . % x % 4 % string % "Emperor" % Quartet in C % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M4/4
+=
+4gg\
+4r
+4aa-\
+4r
+=
+4gg\
+4r
+4r
+4ccc\
+=
+2bbn\
+4ccc\
+4ddd\
+=
+2eee-\
+4ddd\
+4r
+=
+*-

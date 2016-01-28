@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. 3
+!!!PDT: 1791///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1790
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!theme: A
+!!!title1: Quartet in B Flat
+!!!title2: 3rd Movement
+!!!statkey: B-
+!!DEBUGGING: h408 % 233 % 1790 % Vienna % H408 % . % a % 3 % . % . % Quartet in B Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1791(p) ? (H408) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M3/4
+8aa\L
+8bb-\J
+=
+4ff\
+4r
+8aa\L
+8bb-\J
+=
+8ff\L
+8ddd\
+8ccc\
+8bb-\
+8aa\
+8gg\J
+=
+4ff\
+8ff\L
+8dd\
+8ee-\
+8gg\J
+=
+4ff\
+*-

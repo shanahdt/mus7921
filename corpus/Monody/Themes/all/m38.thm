@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Macdowell, Edward
+!!!CDT: 1861/12/18/-1908/01/23/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1896/12/31/
+!!!OPS: Opus 51
+!!!PDT: 1896///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1896
+!!!instrument: piano
+!!!place: Deutschland, Wiesbaden
+!!!splace: United States of America, New York
+!!!title1: Woodland Sketches
+!!!title2: No. 2: Will O' the Wisp
+!!!statkey: A
+!!DEBUGGING: m38 % . % 1896 % Wiesbaden % M38 % 51 % x % . % piano % No. 2: Will O' the Wisp % Woodland Sketches % MACDOWELL, Edward % 1860
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1896(p) New York (M38) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*f#:
+*M9/8
+=
+8c#/
+8r
+[8c#/
+8c#/L]
+8B#/
+8c#/J
+4d/
+8e/
+=
+8c#/
+8r
+[8c#/
+8c#/L]
+8B#/
+8c#/J
+8Bn/
+4G#/
+=
+*-

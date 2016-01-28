@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Borodin, Alexander
+!!!CDT: 1833/11/12/-1887/02/27/
+!!!CNT: Russian
+!!!ODT: 1869///-1870///, 1874-1887///
+!!!OCY: Rossiya
+!!!OPC: Sankt Peterburg
+!!!MRD: 1890///
+!!!PDT: 1889///
+!!!PPP: Deutschland, Leipzig
+!!!OPR: Prince Igor
+!!!OTL: Polovetsian Dances     
+!!!thm: C
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4r
+4aa\
+8bb\
+8r
+=
+4r
+4bb\
+8ccc#\
+8r
+=
+4r
+4ccc#\
+8ddd\
+8r
+=
+4r
+4ddd\
+8eee\
+8r
+=
+4r
+4.fff#\
+8ggg\
+=
+8ggg\L
+8fff#\J
+8fff#\L
+8eee#\J
+8eee#\L
+8eeen\J
+=
+*-

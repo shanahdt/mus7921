@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Symphony No. 9 in D Minor
+!!!OMV: Mov. 2
+!!!thm: A
+!!!AIN: orchestra
+!!!ODT: 1891///-1896///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien       
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*C#:
+*M3/4
+!! ! NB. Key & key signature disagree.
+4eee\
+=
+4ccc#\
+4bb-\
+4gg#\
+=
+4ee\
+4cc#\
+4g#/
+=
+8c#/L
+8e/
+8g#/
+8cc#/
+8ee/
+8gg#/J
+=
+4ccc#\
+4r
+*clefF4
+4C#/
+=
+4D#\
+4En\
+4G#\
+=
+4B-\
+4c#\
+4d#\
+=
+8e\
+*-

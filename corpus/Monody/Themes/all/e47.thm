@@ -1,0 +1,72 @@
+!!!ref: COM CDT, OPR, OPS, OTL, thm
+!!!COM: Elgar, Edward
+!!!CDT: 1857/06/02/-1934/02/23/
+!!!CNT: English
+!!!OPR: Pomp and Circumstance, Military Marches
+!!!OPS: Ops. 39
+!!!OTL: March No. 4
+!!!SET: No. 4
+!!!thm: A
+!!!AIN: orchestra
+!!!OCY: England, UK
+!!!OPC: Malvern
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M2/4
+=
+8dd\L
+16r
+16ff#\Jk
+8ff#\L
+16r
+16ee\Jk
+=
+16ee\LL
+16b\J
+[8ee\J
+8ee\L]
+8dd\J
+=
+8b\L
+16r
+16ee\Jk
+8ee\L
+16r
+16dd\Jk
+=
+16cc\LL
+16g\J
+[8cc\J
+8cc\L]
+8b\J
+=
+8g/L
+16r
+16cc/Jk
+8cc\L
+16r
+16b\Jk
+=
+16b/LL
+16e/J
+[8b/J
+8b/L]
+8a/J
+=
+8e/L
+16r
+16a/Jk
+8a/L
+16r
+16a/Jk
+=
+8g/
+*-

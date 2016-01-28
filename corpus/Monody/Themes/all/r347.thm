@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Rimsky-Korsakov, Nikolay
+!!!CDT: 1844/03/18/-1908/06/21/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1889/12/31/
+!!!OMV: Mov. 4: Festival at Baghdad
+!!!OPS: Opus 35
+!!!PDT: 1889///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1888
+!!!instrument: orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: Deutschland, Leipzig
+!!!title1: Scheherezade
+!!!title2: 4th Movement (Festival at Bagdad)
+!!!statkey: e
+!!DEBUGGING: r347 % 386 % 1888 % St. Petersburg % R347 % 35 % x % 4: Festival at Baghdad % orchestra % . % Scheherezade % RIMSKY-KORSAKOV, Nikolay % 1844
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1889(p) Leipzig (R347) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*e:
+*M6/16
+=
+8f#/L
+16g#/Jk
+8a/L
+16gn/Jk
+=
+8f#/L
+16g#/Jk
+8a/L
+16gn/Jk
+=
+8f#/L
+16g#/Jk
+8a/L
+16f#/Jk
+=
+16gn/LL
+16f#/
+16g/JJ
+16e/LL
+16f#/
+16g/JJ
+=
+*-

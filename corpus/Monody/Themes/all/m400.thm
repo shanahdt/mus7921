@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Milhaud, Darius
+!!!CDT: 1892/09/04/-1974/06/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 12: Paysandu
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1920///-1921
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Saudades Do Brazil
+!!!title2: XII. Paysandu
+!!!statkey: a
+!!DEBUGGING: m400 % . % 1920-1921 % Paris % M400 % . % x % 12: Paysandu % piano % . % Saudades Do Brazil % MILHAUD, Darius % 1892
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8r
+8e/
+8a/L
+8f#/J
+=
+2b\
+=
+8r
+8g#/
+8cc#/L
+8a/J
+=
+2dd\
+=
+8r
+8cc#\
+8ff#\L
+8dd\J
+=
+8ee\L
+8dd\
+8cc#\
+8b#\J
+=
+*-

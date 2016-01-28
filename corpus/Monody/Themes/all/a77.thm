@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Auric, Georges
+!!!CDT: 1899/02/15/-1983/07/23/
+!!!CNT: French
+!!!ODT: 1924
+!!!MLC: France, Paris
+!!!AIN: orchestra
+!!!OTL: Les Matelots
+!!!XEN: The Sailors
+!!!OMV: Mov. 2
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*met(C)
+*M4/4
+*G:
+8ddd
+qeee
+8ddd
+8ccc#
+=
+4ddd
+4eee
+8ddd
+16bb
+16cccn
+8ddd
+8ccc
+=
+8bb
+8ccc
+4.aa
+8ccc
+8ccc
+8bb
+=
+4ccc
+4ddd
+8ccc
+16bb
+16ccc
+8aa
+8ddd
+=
+2bb
+*-

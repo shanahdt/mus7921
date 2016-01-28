@@ -1,0 +1,41 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Danse (Tarantelle Styrienne) for Piano
+!!!thm: B 
+!!!AIN: forte     
+!!!ODT: 1890///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+=
+2.ee\
+=
+[4.ff#\
+4ff#\]
+8ee\
+=
+2.aa\
+=
+[4.gg\
+4gg\]
+8ff#\
+=
+2.ee\
+=
+2.ff#\
+=
+2.cc#\
+=
+*-

@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1799///-1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien      
+!!!PDT: 1802///
+!!!PPP: Deutschland, Leipzig        
+!!!OTL: Septet in E Flat                   
+!!!OPS: Op. 129
+!!!OMV: Mov. 4
+!!!AIN: cbass cello clars cor fagot viola violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M2/4
+8b-\
+=
+8a/L
+8f/
+8b-/
+8cc/J
+=
+4dd\
+8cc\L
+8dd\J
+=
+8ffq/
+8ee-\L
+8dd\
+8cc\
+8b-\J
+=
+8a/L
+8g/
+8f/J
+*-

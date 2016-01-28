@@ -1,0 +1,54 @@
+**kern
+*clefG2
+*k[b-]
+*M3/4
+*F:
+4r
+12r
+12f
+12f
+12f
+12e
+12f
+=
+*M4/4
+4g
+4f
+4.A
+8f
+=
+*M3/4
+[4f
+12]f
+12a
+12a
+12a
+12a-
+12a
+=
+*M4/4
+4b
+4a
+4.c
+8a
+=
+4a
+*-
+!!!COM: Strauss, Richard
+!!!CNT: German
+!!!date: 1896///-1897
+!!!place: Deutschland, Muenchen
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1430 % . % 1896-1897 % Munich % S1430 % . % . % . % . % . % . % STRAUSS, Richard
+!!SUPPLEMENTARY INFORMATION
+!!!MPD: 1898///
+!!!ODT: <1898/12/31/
+!!!splace: Deutschland, Cologne
+!!!CDT: ///-
+!!DEBUGGING: . . 1898(prf) Cologne (S1430) . . . . . . .

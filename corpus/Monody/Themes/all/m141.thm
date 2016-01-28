@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1885///
+!!!OCL: RSC
+!!!ODT: <1885/12/31/
+!!!OMV: Mov. 2: Andalouse
+!!!PDT: 1885///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1885(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!title1: Le Cid
+!!!title2: Opera
+!!!statkey: C
+!!DEBUGGING: m141 % . % 1885(prf) % Paris % M141 % . % x % 2: Andalouse % orchestra % Opera % Le Cid % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1885(p) . (M141) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+8.r
+16ee\LK
+8aa\
+8gg#\J
+=
+2ccc\
+=
+12ccc\L
+12bb\
+12ccc\J
+8ddd\L
+8eee\J
+=
+8ddd\
+4.ccc\
+=
+8.r
+16ee\LK
+8aa\
+8gg#\J
+=
+2ccc\
+=
+*-

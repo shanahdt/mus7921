@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Funeral March
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Othello Suite
+!!!title2: 3rd Movement (Funeral March)
+!!!statkey: B-
+!!DEBUGGING: c391 % . % 1909 % London % C391 % . % a % 3: Funeral March % orchestra % . % Othello Suite % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+8.r
+16d/
+8.d/L
+16c/Jk
+8.B-/L
+16c/Jk
+[4d/
+=
+4d/]
+8en/L
+8f#/J
+[2d/
+=
+8d/]
+16r
+16d/
+8.d/L
+16c/Jk
+8.B-/L
+16c/Jk
+[4d/
+=
+4d/]
+8en/L
+8f#/J
+[2b-\
+=
+8b-\]
+*-

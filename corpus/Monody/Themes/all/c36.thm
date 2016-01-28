@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Carpenter, John Alden
+!!!CDT: 1876/02/28/-1951/04/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Dogs
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Illinois, Chicago
+!!!theme: A
+!!!title1: Adventures in a Perambulator
+!!!title2: 5th Movement, Dogs
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: c36 % 121 % 1914 % Chicago % C36 % . % a % 5: Dogs % orchestra % . % Adventures in a Perambulator % CARPENTER, John Alden % 1876
+**kern
+*clefG2
+*k[]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+2r
+[4B/
+8B/L]
+8c/J
+=
+[2d/
+8.d/L]
+16e/Jk
+16f#/LL
+16g/
+16f#/
+16e/JJ
+=
+2.d/
+*-

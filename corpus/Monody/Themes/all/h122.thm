@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1749///
+!!!OCL: RSC
+!!!ODT: <1749/12/31/
+!!!OMV: Mov. 2: Bour&eacute;e
+!!!PDT: 1749///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1749(p)
+!!!instrument: orchestra
+!!!place: England, London
+!!!title1: Fireworks Music
+!!!title2: 2nd Movement (Bour\e7e)
+!!!statkey: F
+!!DEBUGGING: h122 % . % 1749(p) % London % H122 % . % x % 2: Bour&eacute;e % orchestra % . % Fireworks Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1749(prf) . (H122) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*d:
+*M2/2
+4aa\
+=
+4bb-\
+4gg\
+4aa\
+4ff\
+=
+8gg\L
+8ff\
+8ee\
+8gg\J
+4ff\
+4a/
+=
+8b-\L
+8cc\
+8dd\
+8cc\J
+4b-\
+4a/
+=
+2.g/
+*-

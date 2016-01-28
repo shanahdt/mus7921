@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1820/12/31/
+!!!PDT: 1820///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1819
+!!!place: Deutschland, Hosterwitz 
+!!!splace: Deutschland, Berlin
+!!!title1: Trio in G Minor, Op. 63, Vn., Vcl. & Pft.
+!!!title2: 4th Movement
+!!!statkey: g
+!!DEBUGGING: w268 % . % 1819 % Hosterwitz, Germany % W268 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1820(p) Berlin (W268) . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/2
+=
+8gq/
+2.gg\
+8ff#\L
+8een\J
+=
+8een\L
+8dd\
+8cc#\
+8dd\J
+8ee\L
+8dd\
+8ddq/
+8ccn\
+8bn\J
+=
+8dd\L
+8cc\
+8ccq/
+8bn\
+8a\J
+8g#/L
+8a/
+8b/
+8a/J
+=
+8a/L
+8gn/
+8bn/
+8a/J
+2g/
+=
+*-

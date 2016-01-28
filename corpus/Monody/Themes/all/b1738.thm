@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Bruckner, Anton
+!!!CDT: 1824/09/04/-1896/10/11/
+!!!CNT: Austrian
+!!!OTL: Overture in G Minor
+!!!thm: A
+!!!AIN: orchestra 
+!!!ODT: 1862///-1863///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Linz              
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huro
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M4/4
+=
+2.gg\
+4g/
+=
+2.g/
+4r
+=
+*clefF4
+4r
+4D\
+4G\
+4B-\
+=
+4d\
+4c#\
+4.a\
+8en\
+=
+2g\
+4f\
+4r
+=
+*-

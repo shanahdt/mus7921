@@ -1,0 +1,46 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1802//
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1803//
+!!!PPP: Schweiz, Zurich
+!!!OTL: Sonata No.16 in G for Piano                  
+!!!OPS: Op. 31
+!!!ONM: NO. 1
+!!!SET: No. 16
+!!!OMV: Mov. 2
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*C:
+*M9/8
+=
+2.ccT\
+16bq/LL
+16ccq/JJ
+[4ee\
+16.ee\LL]
+32cc\JJk
+=
+[4.g/
+4g/]
+16f#/LL
+16g/JJ
+16g#/LL
+16a/
+16b-/
+16bn/
+16cc/
+16cc#/JJ
+=
+*-

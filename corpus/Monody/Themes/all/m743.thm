@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1781///
+!!!OMV: Mov. 1
+!!!OPC: Oesterreich, Vienna
+!!!OPS: Opus K 375
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: woodwind
+!!!theme: A
+!!!title1: Serenade in E Flat
+!!!title2: 1st Movement
+!!!statkey: E-
+!!DEBUGGING: m743 % . % 1781(c) % Vienna % M743 % K 375 % a % 1 % woodwind % . % Serenade in E Flat % c1786(p) % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1782(rev) . (M743) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+1ee-\
+=
+2ee-\
+4.ee-\
+8ee-\
+=
+2.ee-\
+8ee-\
+8r
+=
+8ee-\
+8r
+8ee-\
+8r
+8ee-\
+8r
+8ee-\
+8r
+=
+2.ee-\
+8.gg\L
+16ff\Jk
+=
+8ee-\
+8r
+8.ee-\L
+16dd\Jk
+8cc\
+8r
+8.cc\L
+16b-\Jk
+=
+2.a-/
+*-

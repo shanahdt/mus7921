@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. b
+!!!OPS: Opus K 622
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791
+!!!instrument: clars, orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: Concerto in A
+!!!title2: 2nd Movement
+!!!statkey: D
+!!DEBUGGING: m435 % 313 % 1791 % Vienna % M435 % K 622 % x % b % clars, orchestra % . % Concerto in A % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4a/
+4.dd\
+8ff#\
+=
+8ff#\L
+8ee\J
+4dd\
+4r
+=
+4.a/
+8dd\L
+8ff#\
+8aa\J
+=
+8aa\L
+8gg\J
+4ff#\
+4r
+=
+4.ee\
+8aa\L
+8ff#\
+8aa\J
+=
+4.ee\
+8aa\L
+8b\
+8ff#\J
+=
+2a/
+*-

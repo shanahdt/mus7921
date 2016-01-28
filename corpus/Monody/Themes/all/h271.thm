@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Hanson, Howard
+!!!CDT: 1896/10/28/-1981/02/26/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Prelude to Act II and Maypole Dances
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938
+!!!place: United States of America, New York
+!!!theme: A
+!!!title1: Merry Mount Suite
+!!!title2: Prelude to Act II & Maypole Dances
+!!!statkey: a
+!!DEBUGGING: h271 % . % 1938 % New York % H271 % . % a % Prelude to Act II and Maypole Dances % . % . % Merry Mount Suite % HANSON, Howard % 1896
+**kern
+*clefG2
+*k[]
+*a:
+*M4/4
+=
+8r
+8dd\
+8ff#\L
+8ee\J
+8dd\L
+8cc#\
+8b\
+8a\J
+=
+8r
+8ff#\
+8bb\L
+8aa\J
+8gg#\L
+8ff#\
+8ee\
+8dd\J
+=
+*-

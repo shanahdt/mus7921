@@ -1,0 +1,38 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!title1: Liebestraum No. 3
+!!!statkey: f
+!!DEBUGGING: l189 % . % ? % ? % L189 % . % x % . % piano % . % Liebestraum No. 3 % LISZT, Franz % 1811
+**kern
+*clefF4
+*k[b-e-a-d-]
+*A-:
+*M6/4
+4E-\
+=
+2.c\
+2.c\
+=
+[2.c\
+2c\]
+4c\
+=
+2c\
+4c\
+2d-\
+4c\
+=
+2.c\
+4F\
+4r
+*-

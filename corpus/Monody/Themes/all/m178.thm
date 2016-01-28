@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1874/12/31/
+!!!OMV: Mov. 2: Air De Ballet
+!!!PDT: 1874///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874(p)
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Sc&egrave;nes Pittoresques
+!!!title2: Suite No. 4
+!!!statkey: G
+!!DEBUGGING: m178 % 299 % 1874(p) % Paris % M178 % . % b % 2: Air De Ballet % . % Suite No. 4 % Sc&egrave;nes Pittoresques % MASSENET, Jules % 1842
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+=
+16r
+16ddd\LL
+16ddd\
+16eee\
+16eee\
+16ddd\JJ
+=
+16ddd\LL
+16r
+16ccc#\
+16r
+16cccn\JJ
+16r
+=
+16bb\LL
+16r
+16ccc\
+16r
+16ee\JJ
+16r
+=
+16bb\LL
+16aa\JJ
+8r
+16gg\LL
+16ff#\JJ
+=
+16aa\LL
+16gg\JJ
+*-

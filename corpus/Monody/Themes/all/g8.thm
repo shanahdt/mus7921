@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Gade, Niels
+!!!CDT: 1817/02/22/-1890/12/21/
+!!!CNT: Danish
+!!!OTL: Trio for Violin, Cello, and Piano
+!!!OPS: Op. 42
+!!!OMV: Mov. 4
+!!!thm: A 
+!!!AIN: cello forte violn
+!!!ODT: <1864///
+!!!OCY: Danmark   
+!!!OPC: K&oslash;benhavn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/2
+=
+4..c/
+16c/
+4..e/
+16e/
+=
+4..a/
+16a/
+4..cc\
+16ee\
+=
+4gg\
+4aa\
+8bb-\L
+8ff#\
+8gg\
+8ee\J
+=
+4cc\
+*-

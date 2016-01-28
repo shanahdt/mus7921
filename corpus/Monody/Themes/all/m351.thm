@@ -1,0 +1,43 @@
+!!!ACO: Classical; RSC
+!!!COM: Mendelssohn, Felix
+!!!CDT: 1809/02/03/-1847/11/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1840/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 49
+!!!PDT: 1840///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1839
+!!!instrument: violn, cello, piano
+!!!place: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Trio No. 1 in D Minor
+!!!title2: 2nd Movement
+!!!statkey: B-
+!!DEBUGGING: m351 % . % 1839 % Leipzig % M351 % 49 % b % 2 % violn, cello, piano % . % Trio No. 1 in D Minor % MENDELSSOHN, Felix % 1809
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1840(p) . (M351) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+4ff\
+4ff\
+=
+4ff\
+8.ee-\L
+16dd-\Jk
+4dd-\
+8.cc\L
+16b-\Jk
+=
+4b-\
+8.a-/L
+16g-/Jk
+4f/
+*-

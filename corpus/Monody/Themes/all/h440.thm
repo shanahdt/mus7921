@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 4
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1793
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!splace: ?
+!!!theme: B
+!!!title1: Quartet in C 
+!!!title2: 4th Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h440 % . % 1793 % Vienna % H440 % . % b % 4 % string % . % Quartet in C  % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1795, 1796 ? (H440) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+!! ! NB. Key & key signature disagree.
+8g/
+=
+8f#/L
+8g/
+8a/
+8cc/J
+=
+8b/L
+8g/J
+8r
+8dd\
+=
+8a/L
+8b/J
+16ddq/
+8cc\L
+16b\L
+16a\JJ
+=
+16g/LL
+16f#/
+16g/
+16a/JJ
+8b\
+*-

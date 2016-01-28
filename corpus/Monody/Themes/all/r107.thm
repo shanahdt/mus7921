@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1728/12/31/
+!!!OPC: France, Paris
+!!!PDT: c1728///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1728(p)
+!!!instrument: cemba
+!!!title1: La Poule
+!!!statkey: g
+!!DEBUGGING: r107 % . % c1728(p) % Paris % R107 % . % x % . % cemba % . % La Poule % RAMEAU, Jean Philippe % 1683
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+=
+8r
+8g/L
+8g/
+8g/
+8g/
+8g/J
+=
+32g/LLL
+32b-/J
+16dd/JJ
+8g/L
+8g/
+8g/
+8g/
+8g/J
+=
+32g\LLL
+32b-\
+32dd\
+32gg\JJJ
+8r
+4r
+8r
+8dd\
+=
+8ee-\L
+8ee-\
+8ee-\
+8ee-\J
+8.ee-\L
+48gg\LL
+48aa\
+48ccc\JJJ
+=
+8cc\L
+8cc\
+8cc\
+8cc\
+8cc\J
+*-

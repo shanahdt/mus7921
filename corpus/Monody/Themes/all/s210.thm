@@ -1,0 +1,54 @@
+**kern
+*clefG2
+*k[f#]
+*M12/8
+*G:
+24dd
+24ee
+24ff#
+=
+8gg
+8dd
+8b
+8g
+8d
+8B
+8G
+8D
+8BB
+8GG
+8gg
+8dd
+=
+8cc
+20ee
+20ff#
+20gg
+20aa
+20bb
+8ccc
+8aa
+8ff#
+8b
+20dd
+20ee
+20ff#
+20gg
+20aa
+8bb
+8gg
+8ee
+=
+*-
+!!!COM: Scarlatti, Domenico
+!!!CNT: Italian
+!!!date: n.d.
+!!!place: ?
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s210 % . % n.d. % ? % S210 % . % . % . % . % . % . % SCARLATTI, Domenico

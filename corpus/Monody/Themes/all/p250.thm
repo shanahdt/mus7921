@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1931///
+!!!OCL: RSC
+!!!ODT: <1931/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 50
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1930
+!!!instrument: string
+!!!place: France, Paris
+!!!splace: United States of America, Washington
+!!!theme: A
+!!!title1: Quartet
+!!!title2: 2nd Movement
+!!!statkey: a
+!!DEBUGGING: p250 % . % 1930 % Paris % P250 % 50 % a % 2 % string % . % Quartet % PROKOFIEV, Sergey % 1891
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1931(prf) Washington (P250) . . . . . . . .
+**kern
+*clefF4
+*k[]
+*C:
+*M2/4
+=
+8C/L
+8C/J
+4D\
+=
+16C\LL
+16D\
+16E\
+16F\JJ
+16G\LL
+16r
+16G#\JJ
+16r
+=
+8A\L
+16c\Jk
+16r
+8G#\L
+16B\Jk
+16r
+=
+8F#\
+4.A\
+=
+*-

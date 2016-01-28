@@ -1,0 +1,46 @@
+!!!ACO: Classical; RSC
+!!!COM: Diamond, David
+!!!CDT: 1915/07/09/-///
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1944///
+!!!OCL: RSC
+!!!ODT: <1944/12/31/
+!!!OMV: Mov. 1
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1944(prf)
+!!!instrument: string orchestra
+!!!place: United States of America, New York
+!!!theme: B
+!!!title1: Rounds
+!!!title2: 1st Movement
+!!!statkey: E
+!!DEBUGGING: d223b % . % 1944(prf) % New York % D223b % . % b % 1 % string orchestra % . % Rounds % DIAMOND, David % 1915
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M2/2
+=
+4c#/
+2e/
+4f#/
+=
+2g#/
+4g#/
+4e/
+=
+4f#/
+4e/
+2f#/
+=
+4r
+2e/
+8c#/L
+8B/J
+=
+4c#/
+4g#/
+*-

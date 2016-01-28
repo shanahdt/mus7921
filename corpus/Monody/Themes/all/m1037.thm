@@ -1,0 +1,41 @@
+!!!ACO: Classical; RSC
+!!!COM: Musorgsky, Modest
+!!!CDT: 1839/03/21/-1881/03/28/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. IX: The Hut of Baba Yaga
+!!!OPS: Opus . 
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874
+!!!instrument: piano or orchestra
+!!!place: Royssia, St. Petersburg
+!!!title1: Pictures from an Exhibition
+!!!title2: IX. The Hut of Baba Yaga
+!!!statkey: C
+!!DEBUGGING: m1037 % 343 % 1874 % St. Petersburg % M1037 % .  % x % IX: The Hut of Baba Yaga % piano or orchestra % . % Pictures from an Exhibition % MUSORGSKY, Modest Petrovich % 1839
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+=
+8cc\
+8r
+4gg\
+=
+4gg\
+4gg\
+=
+8aa-q/
+8gg\
+8r
+4cc\
+=
+[4dd\
+8dd\]
+8r
+=
+*-

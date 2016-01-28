@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Copland, Aaron
+!!!CDT: 1900/11/14/-1990/12/2/
+!!!CNT: American
+!!!OTL: Two Pieces for String Orchestra
+!!!OMV: Mov. 2 (Rondino)    
+!!!thm: A                   
+!!!AIN: Cstr
+!!!ODT: 1959///        
+!!!OCY: United States of America
+!!!OPC: New York         
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M8/8
+=
+8g/L
+8a/J
+=
+8b-\L
+8dd-\
+8bb-\J
+=
+4ee-\
+4gg\
+8ff#\
+=
+8aa\L
+8gg\
+8ddn\J
+=
+4ee-\
+4gg\
+8aa\
+=
+8ccc\L
+8bb-\
+8ff\
+8ee-\J
+8gg\L
+8cc\
+8dd\
+8ff\J
+=
+*-

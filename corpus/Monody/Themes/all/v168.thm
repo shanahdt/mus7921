@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Vivaldi, Antonio
+!!!CDT: 1678/03/04/-1741/07/08/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1740/12/31/
+!!!OPC: France, Paris
+!!!PDT: c1740///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1740(p)
+!!!title1: Sonata No. 5 in E Minor, Vcl. & Harpsi.
+!!!title2: 2nd Movement
+!!!statkey: e
+!!DEBUGGING: v168 % 506 % c1740(p) % Paris % V168 % . % . % . % . % . % . % VIVALDI, Antonio % 1678
+**kern
+*clefF4
+*k[f#]
+*e:
+*M4/4
+8BB/
+=
+16E\LL
+16G\
+16F#\
+16E\JJ
+16B\LL
+16G\
+16F#\
+16E\JJ
+8BB\L
+8c\J
+16B\LL
+16A\
+16G\
+16F#\JJ
+=
+16E\LL
+16G\
+16F#\
+16E\JJ
+16B\LL
+16G\
+16F#\
+16E\JJ
+8BB\L
+8c\J
+16B\LL
+16A\
+16G\
+16F#\JJ
+=
+16G\LL
+16F#\J
+8E\J
+*-

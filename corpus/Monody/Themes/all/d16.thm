@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Arabesque No. 1 in E Major for Piano
+!!!SET: No. 1            
+!!!thm: A b
+!!!AIN: forte
+!!!ODT: 1888///-1891///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4r
+12ee\L
+12ff#\
+12cc#\J
+12ee\L
+12b\
+12cc#\J
+12g#/L
+12b/
+12f#/J
+=
+12g#/L
+12e/
+12g#/J
+2d#/
+4c#/
+=
+8B/
+8r
+*-

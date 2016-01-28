@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OPS: Opus 34
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1934
+!!!instrument: clars, piano, string
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Hebrew Themes
+!!!title2: Overture
+!!!statkey: a
+!!DEBUGGING: p240 % . % 1934 % Paris % P240 % 34 % b % . % clars, piano, string % Overture % Hebrew Themes % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[]
+*a:
+*M2/4
+=
+4.e/
+8b\
+=
+[2b\
+=
+4b\]
+4a/
+=
+4cc\
+4b\
+=
+2a/
+=
+4g#/
+4a/
+=
+4g#/
+4f/
+=
+4e/
+4f/
+=
+2d/
+=
+2e/
+=
+*-

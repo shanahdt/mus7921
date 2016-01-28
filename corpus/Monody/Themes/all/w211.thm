@@ -1,0 +1,70 @@
+!!!ACO: Classical; RSC
+!!!COM: Weber, Carl Maria von
+!!!CDT: 1786/11/~19/-1826/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1823///
+!!!OCL: RSC
+!!!ODT: <1823/12/31/
+!!!ODT: <1866/12/31/
+!!!PDT: 1866///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1822///-1823
+!!!place: Deutschland, Hosterwitz 
+!!!splace: Deutschland, Berlin
+!!!splace: Oesterreich, Vienna
+!!!title1: Euryanthe, Overture
+!!!statkey: c
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w211 % 518 % 1822-1823 % Hosterwitz, Germany % W211 % . % . % . % . % . % . % WEBER, Carl Maria Von
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1823(prf) Vienna (W211) . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . 518 1866(p) Berlin (W211) . . . . . . WEBER, Carl Maria Von
+**kern
+*clefG2
+*k[b-e-a-]
+*B-:
+*M4/4
+!! ! NB. Key & key signature disagree.
+4f/
+=
+4.dd\
+8an/
+8ccq/
+8b-\L
+8a\
+8b-\
+8gg\J
+=
+2.ff\
+4cc\
+=
+4.dd\
+8an/
+8ccq/
+8b-\L
+8a\
+8b-\
+8gg\J
+=
+2.ff\
+4cc\
+=
+2dd\
+4ee-\
+8cc\L
+8an\J
+=
+2ff\
+2ff#\
+=
+8aan\L
+8gg\J
+8r
+8ffn\
+8ff\L
+8ee-\J
+*-

@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Un Sonnet D'Amour
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1910
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Petite Suite de Concert
+!!!title2: 3rd Movement (Un Sonnet D'Amour)
+!!!statkey: f#
+!!DEBUGGING: c401 % 139 % 1910 % London % C401 % . % b % 3: Un Sonnet D'Amour % orchestra % . % Petite Suite de Concert % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+4r
+8e/L
+8f#/J
+=
+8g#/L
+8a/
+8b/
+8cc#/J
+=
+8f#/
+8r
+[4f#/
+=
+2f#/]
+=
+4r
+8e#/L
+8f#/J
+=
+8g#/L
+8a/J
+8b\L
+8cc#\J
+=
+[2e/
+=
+2e/]
+=
+*-

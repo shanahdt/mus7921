@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1733/12/31/
+!!!OMV: Mov. 2
+!!!PDT: 1733///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1733(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 3 in D Minor
+!!!title2: 2nd Movement
+!!!statkey: d
+!!DEBUGGING: h205 % . % 1733(p) % London? % H205 % . % x % 2 % piano % . % Suite No. 3 in D Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-]
+*d:
+*M3/8
+=
+16aa\LL
+16gg\
+16ff\
+16ee\
+16dd\
+16cc#\JJ
+=
+16dd/LL
+16ccn/
+16b-/
+16a/
+16g/
+16f/JJ
+=
+16e/LL
+16d/
+16c#/
+16b-/
+16a/
+16g/JJ
+=
+8.fT/L
+16e/k
+8d/J
+=
+*-

@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, thm
+!!!COM: Field, John
+!!!CDT: 1782/07/c26/-1837/01/23/
+!!!CNT: Irish
+!!!OTL: Nocturne No. 4 for Piano          
+!!!SET: No. 4
+!!!thm: A
+!!!AIN: forte
+!!!ODT: 1817///
+!!!OCY: Rossiya   
+!!!OPC: Sankt Peterburg
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M4/4
+=
+4a/
+8e/
+8r
+4ff#\
+8ee\
+16r
+16g#/
+=
+4b\
+8a/
+8r
+8r
+8ee\L
+8.dd\
+16cc#\Jk
+=
+[8cc#\L
+16.cc#\L]
+64b\LL
+64a\JJJJ
+[8a/L
+16.a/L]
+64g#/LL
+64f#/JJJJ
+16.f#/LL
+32e/JJk
+*-

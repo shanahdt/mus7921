@@ -1,0 +1,61 @@
+!!!ACO: Classical; RSC
+!!!COM: Offenbach, Jacques
+!!!CDT: 1819/06/20/-1880/10/05/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1850-1876/12/31/
+!!!OPC: France, Paris
+!!!PDT: c1850-1876///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1850///-1876(p)
+!!!instrument: orchestra
+!!!theme: A
+!!!title1: Le Roi Carrotte Waltz
+!!!title2: "Apache Dance"
+!!!statkey: C
+!!DEBUGGING: o19 % . % c1850-1876(p) % Paris % O19 % . % a % . % orchestra % "Apache Dance" % Le Roi Carrotte Waltz % OFFENBACH, Jacques % 1819
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+8e/L
+8f/
+8e/J
+=
+8e/L
+8d/J
+8eq/
+8d/L
+8c#/
+8d/
+8e/J
+=
+4.cn/
+8e/L
+8f/
+8e/J
+=
+8e/L
+8d/J
+8eq/
+8d/L
+8c#/
+8d/
+8e/J
+=
+4.cn/
+8e/L
+8f/
+8g/J
+=
+4g#/
+2a/
+=
+4f#/
+2g/
+=
+*-

@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Bernstein, Leonard
+!!!CDT: 1918/08/25/-1990/10/14/
+!!!CNT: American
+!!!ODT: 1943///
+!!!OCY: United States of America
+!!!OPC: New York
+!!!OTL: Jeremiah Symphony
+!!!OTA: Symphony No. 1
+!!!OMV: Mov. 3 
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*F:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+6ccc\
+6bb-\
+6bb-\
+8bb-\L
+8bb-\J
+=
+*M2/4
+8bb-\
+4aa-\
+8bb-\
+=
+*M3/4
+16ddd-\LL
+16ccc\J
+[8bb-\J
+8bb-\L]
+8ff\
+8bb-\
+8bb-\J
+=
+12aa-\L
+12gg\
+[12ff\J
+2ff\]
+=
+*-

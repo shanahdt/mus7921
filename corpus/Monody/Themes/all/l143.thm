@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!theme: A
+!!!title1: Gnomenreigen
+!!!title2: Etude
+!!!statkey: f#
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l143 % . % ? % ? % L143 % . % a % . % piano % Etude % Gnomenreigen % LISZT, Franz % 1811
+**kern
+*clefG2
+*k[f#c#g#]
+*G:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+8r
+8dq/
+8c#/
+8f#q/
+8e#/
+8aq/
+8g#/
+8aq/
+8g#/
+8cc#q/
+8b\
+=
+8ddq/
+8cc#\
+8ddq/
+8cc#\
+8ff#q/
+8ee#\
+8aaq/
+8gg#\
+8aaq/
+8gg#\
+8ccc#q/
+8bb\
+=
+*-

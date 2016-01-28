@@ -1,0 +1,53 @@
+**kern
+*clefG2
+*k[b-]
+*met(C|)
+*M2/2
+!! NB. Key & key signature disagree.
+*C:
+4c
+8d
+8e
+8f
+8g
+8a
+8g
+=
+8f
+8e
+8d
+8c
+4B
+4r
+=
+qgg
+4ff
+4ff
+4r
+4dd
+=
+4ee
+4ee
+4r
+4dd
+=
+4r
+4dd
+4r
+4b
+=
+*-
+!!!COM: Stamitz, Carl
+!!!CNT: German
+!!!PDT: 1774///
+!!!ODT: <1774/12/31/
+!!!date: 1774(p)
+!!!place: France, Strasbourg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s1191 % . % 1774(p) % Strasbourg % S1191 % . % . % . % . % . % . % STAMITZ, Carl

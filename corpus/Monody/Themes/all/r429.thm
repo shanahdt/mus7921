@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1866 and 1872/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus 70
+!!!PDT: 1866 and 1872///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1864
+!!!instrument: piano, orchestra
+!!!place: Royssia, St. Petersburg
+!!!splace: ?
+!!!title1: Concerto No. 4 in D Minor
+!!!title2: 2nd Movement
+!!!statkey: d
+!!DEBUGGING: r429 % . % 1864 % St. Petersburg % R429 % 70 % x % 2 % piano, orchestra % . % Concerto No. 4 in D Minor % RUBINSTEIN, Anton % 1829
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1866 and 1872(p) ? (R429) . . . . . . . .
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4ff\
+4..ff\
+16ff\
+=
+2.ee\
+=
+4b-\
+4..b-\
+16b-\
+=
+2a/
+8.r
+16a/
+=
+2dd\
+8.cc/L
+16f/Jk
+=
+2b-\
+4a/
+=
+4d/
+8e/L
+8f/J
+8.g/L
+16g/Jk
+=
+2.g/
+=
+*-

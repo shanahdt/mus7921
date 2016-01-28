@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1785/12/31/
+!!!OMV: Mov. 1
+!!!OPS: Opus K 387
+!!!PDT: 1785///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1782
+!!!instrument: string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: m636 % . % 1782 % Vienna % M636 % K 387 % x % 1 % string % . % Quartet in G % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1785(p) . (M636) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+8g/
+=
+4dd\
+4gg\
+4gg\
+8ff#\L
+8ee\J
+=
+8dd\L
+8dd#\
+8ee\
+8b\J
+4ddn\
+8cc\
+8r
+=
+8.ccT\L
+32dd\LL
+32ee\JJJ
+16dd\LL
+16cc\
+16b\
+16a\JJ
+4g/
+8f#/L
+8e/J
+=
+4d/
+*-

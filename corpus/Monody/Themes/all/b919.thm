@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1803///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1805///
+!!!PDT: 1806///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Symphony No.3 in E Flat    
+!!!OPS: Op. 55
+!!!SET: No. 3
+!!!OTP: Eroica
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*B-:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4r
+4.gg\
+8ff\
+=
+4een\
+4.ff\
+8ee-\
+=
+4cc\
+4.eee-\
+8ccc\
+=
+4aan\
+4.ccc\
+8ee-\
+=
+4dd\
+*-

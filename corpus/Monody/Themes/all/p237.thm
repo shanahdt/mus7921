@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. March
+!!!OPS: Opus 65
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1935
+!!!instrument: piano
+!!!place: France, Paris
+!!!title1: Music for Children
+!!!title2: March
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: p237 % . % 1935 % Paris % P237 % 65 % x % March % piano % . % Music for Children % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[]
+*G:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8Bq/
+4e/
+4e/
+8cq/
+4d#/
+4d#/
+=
+8Bq/
+4e/
+4e/
+4.g/
+8f/
+=
+8cq/
+4e/
+4e/
+8cq/
+4g/
+4g/
+=
+4cc\
+8b/L
+8a/J
+4.g/
+*-

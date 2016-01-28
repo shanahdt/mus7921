@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Respighi, Ottorino
+!!!CDT: 1879/07/09/-1936/04/18/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2: Lament
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1925
+!!!instrument: orchestra
+!!!place: Italia, Roma
+!!!theme: A
+!!!title1: Rossiniana
+!!!title2: Suite for Orchestra
+!!!statkey: c
+!!DEBUGGING: r287 % . % 1925 % Rome % R287 % . % a % 2: Lament % orchestra % Suite for Orchestra % Rossiniana % RESPIGHI, Ottorino % 1879
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M12/8
+=
+[2.g/
+4.g/]
+[4a-/
+16a-/LL]
+16g/JJ
+=
+[4.g/
+8g/]
+8r
+8r
+2.r
+=
+[2.g/
+!!   Encoding error:  changing 4 to 2
+4.g/]
+[4a-/
+16a-/LL]
+16g/JJ
+=
+[4.g/
+8g/]
+8r
+8r
+2.r
+=
+2.cc\
+[4.b-\
+4b-\_
+16b-/LL]
+16f/JJ
+=
+4.g/
+*-

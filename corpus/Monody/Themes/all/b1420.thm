@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Quartet in A for Piano and Strings
+!!!OPS: Op. 26
+!!!OMV: Mov. 2
+!!!AIN: cello forte viola violn
+!!!ODT: 1861///-1862///
+!!!OCY: Deutschland 
+!!!OPC: Hamburg
+!!!PDT: 1863///
+!!!MRD: 1862///
+!!!MLC: &Ouml;sterreich, Wien                 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M4/4
+=
+4g#/
+4b\
+4ee\
+4dd#\
+=
+4cc#\
+12b\L
+12cc#\
+12a\J
+4a/
+12g#/L
+12a/
+12f#/J
+=
+4f#/
+[4b\
+8b\L]
+8cc#\
+8dd#\
+8ee\J
+=
+4bb\
+8aa\L
+8gg#\J
+4bb\
+*-

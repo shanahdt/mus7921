@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Toch, Ernst
+!!!CDT: 1887/12/07/-1964/10/01/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!title1: Pinocchio, Overture
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: t122a % . % . % . % T122a % . % . % . % . % . % . % TOCH, Ernst
+**kern
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8dd\L
+8a\J
+8dd\L
+8a\J
+16cc\LL
+16dd\J
+8a\J
+=
+8dd\L
+8a\J
+16b\LL
+16cc\J
+8a\J
+8dd\L
+8a\J
+=
+16a/LL
+16b/
+16g/
+16a/JJ
+16b\LL
+16cc\
+16dd\
+16ee\JJ
+16ff#\LL
+16gg\
+16aa\
+16ff#\JJ
+=
+8bb\
+*-

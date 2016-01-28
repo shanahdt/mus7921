@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Sonata in G Minor for Violin and Piano
+!!!OMV: Mov. 3
+!!!AIN: forte violn    
+!!!ODT: 1916///-1918///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M9/16
+=
+16gg\LL
+16aa\
+16bb\JJ
+8ccc\L
+16bb\Jk
+16aa\LL
+16ccc\
+16bb\JJ
+=
+8.aa\
+16gg\LL
+16aa\
+16bb\J
+16ccc\L
+16ddd\
+16eee\JJ
+=
+16fff#\LL
+16ggg\
+16fff#\J
+16eee\L
+16ddd\
+16ccc\JJ
+16bb\LL
+16ccc\
+16ddd\JJ
+=
+*-

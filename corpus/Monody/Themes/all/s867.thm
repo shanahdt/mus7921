@@ -1,0 +1,51 @@
+**kern
+*clefF4
+*k[f#]
+*met(C|)
+*M2/2
+*G:
+8d
+8D
+=
+2.B
+8G
+8D
+=
+2.e
+8d
+8G
+=
+4f
+2e
+4a
+=
+8d
+16e
+16f
+16g
+16f
+16e
+16d
+8c
+16d
+16e
+16f
+16e
+16d
+16c
+=
+4B-
+4B-
+*-
+!!!COM: Shostakovich, Dmitri
+!!!CNT: Russian
+!!!date: 1940
+!!!place: Royssia, St. Petersburg
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s867 % 436 % 1940 % Leningrad % S867 % . % . % . % . % . % . % SHOSTAKOVICH, Dmitri

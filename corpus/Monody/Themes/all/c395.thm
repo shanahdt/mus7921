@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Colleridge-Taylor, Samuel
+!!!CDT: 1875/08/15/-1912/09/01/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Military March
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: Othello Suite
+!!!title2: 5th Movement (Military March)
+!!!statkey: c#
+!!DEBUGGING: c395 % . % 1909 % London % C395 % . % b % 5: Military March % orchestra % . % Othello Suite % COOLERIDGE-TAYLOR, Samuel % 1875
+**kern
+*clefG2
+*k[f#c#g#d#]
+*E:
+*M2/2
+=
+2gg#\
+[2cc#\
+=
+2cc#\]
+8ff#\L
+8ff#\
+8ff#\
+8ff#\J
+=
+2ff#\
+[2b\
+=
+2b\]
+8ee\L
+8ee\
+8ee\
+8ee\J
+=
+6ee\
+6dd#\
+6cc#\
+6ee\
+6dd#\
+6cc#\
+=
+6cc#\
+6b\
+6a/
+6a/
+6g#/
+6f#/
+=
+4g#/
+*-

@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Tchaikovsky, Pytor Ilyich
+!!!CDT: 1840/05/07/-1893/11/06/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1885///
+!!!OCL: RSC
+!!!ODT: <1885/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1885(prf)
+!!!place: Royssia, St. Petersburg
+!!!title1: Suite No. 3, Op. 55, Orch.
+!!!title2: 2nd Movement (Waltz)
+!!!statkey: e
+!!DEBUGGING: t205 % . % 1885(prf) % St. Petersburg % T205 % . % . % . % . % . % . % TCHAIKOVSKY, Pytor Il~Ryich
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+12e/L
+12d#/
+12e/J
+=
+4f#/
+4e/
+4e/
+=
+4r
+4r
+12f#/L
+12e/
+12f#/J
+=
+4a/
+4g/
+4g/
+=
+4r
+4r
+4g/
+=
+4cc\
+4cc\
+4cc\
+=
+16ccq/LL
+16eeq/JJ
+2dd\
+4cc\
+=
+4b\
+2ee\
+=
+*-

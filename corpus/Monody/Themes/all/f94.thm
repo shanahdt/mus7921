@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Fauré, Gabriel
+!!!CDT: 1845/05/12/-1924/11/04/
+!!!CNT: French
+!!!OTL: Quartet in E Minor 
+!!!OPS: Op. 121
+!!!OMV: Mov. 2
+!!!AIN: cello viola violn
+!!!ODT: 1923///-1924///
+!!!OCY: France
+!!!OPC: Paris
+!!!PDT: 1925///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[]
+*D:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4a/
+[4cc\
+8.cc\L]
+16b-\Jk
+4a/
+=
+4a/
+[4dd\
+8dd\L]
+8dd\J
+[4ee-\
+=
+8ee-\L]
+8ee-\
+8ff\
+8gg\J
+4.aa\
+8ff\
+=
+2gg\
+4.een\
+8dd\
+=
+8ee\L
+8cc\
+8dd\
+8ee\J
+*-

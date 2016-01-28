@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Indy, Vincent d'
+!!!CDT: 1851/03/27/-1931/12/02/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Sarabande
+!!!OPS: Opus 91
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1927
+!!!instrument: flt, violn, viola, cello, arpa
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Suite in Parties
+!!!title2: 3rd Movement  (Sarabande)
+!!!statkey: c#
+!!DEBUGGING: i52 % . % 1927 % Paris % I52 % 91 % b % 3: Sarabande % flt, violn, viola, cello, arpa % . % Suite in Parties % I29 % 1851
+**kern
+*clefG2
+*k[f#c#g#d#]
+*c#:
+*M3/2
+8g#\L
+8cc#\
+8dd#\J
+=
+8gg#\L
+8aa\J
+[4gg#\
+8gg#\L]
+8bb\J
+[4gg#\
+8gg#\L]
+8ccc#\
+8bb\
+8gg#\J
+=
+8aa\L
+8bb\J
+[4aa\
+8aa\L]
+8cccn\J
+[4aa\
+8aa\L]
+8ddn\
+8dd#\
+8ee\J
+=
+8aa\L
+8gg#\J
+[4dd#\
+8dd#\L]
+8ee\J
+4cc#\
+*-

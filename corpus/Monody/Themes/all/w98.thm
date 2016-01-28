@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Waldteufel, Emile
+!!!CDT: 1837/12/09/-1915/02/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1886/12/31/
+!!!PDT: 1886///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1886(p)
+!!!place: France, Paris & England, London
+!!!title1: Espa\n1a, Waltzes, Op. 286, Orch.
+!!!title2: No. 1
+!!!statkey: d
+!!DEBUGGING: w98 % . % 1886(p) % Paris/London % W98 % . % . % . % . % . % . % WALDTEUFEL, Emile
+**kern
+*clefG2
+*k[b-]
+*F:
+*M3/4
+=
+4r
+8fff\L
+8fff\J
+4fff\
+=
+8ddd\L
+8ddd\J
+4ddd\
+4ccc\
+=
+4ccc\
+8ddd\L
+8ddd\J
+4ddd\
+=
+4eee\
+4ddd\
+4ccc\
+=
+4ccc\
+8ccc\L
+8ccc\J
+4ccc\
+=
+8ddd\L
+8ddd\J
+4ddd\
+4eee\
+=
+4eee\
+8fff\L
+8fff\J
+4fff\
+=
+*-

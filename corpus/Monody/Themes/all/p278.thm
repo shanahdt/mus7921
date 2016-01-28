@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Romeo and Juliet Before Parting
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: A
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 2
+!!!statkey: g
+!!DEBUGGING: p278 % . % 1936 % Moscow % P278 % 64 % a % 5: Romeo and Juliet Before Parting % orchestra % Suite No. 2 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+8.ddd\L
+16ddd-\Jk
+=
+8ccc\L
+16dddn\L
+16eee-\JJ
+8fff\L
+8ddd\J
+8ccc\L
+16aa\L
+16bb-\JJ
+8gg\L
+8gg\J
+=
+2dd\
+2r
+=
+*-

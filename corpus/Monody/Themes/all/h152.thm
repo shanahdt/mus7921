@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <c1730/12/31/
+!!!ODT: <c1732/12/31/
+!!!OMV: Mov. 1
+!!!ONM: No. 9
+!!!OPC: England, London(?)
+!!!OPS: Opus 1
+!!!PDT: c1730///
+!!!PDT: c1732(rev)///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1730(p)
+!!!instrument: flt, cbass
+!!!splace: England, London
+!!!title1: Sonata in B Minor
+!!!title2: 1st Movement
+!!!statkey: b
+!!DEBUGGING: h152 % . % c1730(p) % London? % H152 % 1 No. 9 % x % 1 % flt, cbass % . % Sonata in B Minor % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1732(rev)(p) London (H152) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*b:
+*M4/4
+=
+4.b\
+16dd\LL
+32cc#\L
+32b\JJJ
+4b\
+8r
+8ff#\
+=
+8cc#\L
+16dd\L
+16ee\JJ
+8.dd\L
+16cc#\Jk
+4dd\
+*-

@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Tartini, Giuseppe
+!!!CDT: 1692/04/08/-1770/02/26/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!place: ?
+!!!title1: Concerto in D, Vcl. & Orch.
+!!!title2: 4th Movement
+!!!statkey: D
+!!DEBUGGING: t11 % . % n.d. % ? % T11 % . % . % . % . % . % . % TARTINI, Giuseppe
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+4a/
+=
+4a/
+4a/
+=
+4a/
+16ff#\LL
+16gg\
+16ff#\
+16gg\JJ
+=
+4aa\
+4ggT\
+=
+4ff#\
+4a/
+=
+4a/
+4a/
+=
+4a/
+16dd\LL
+16ee\
+16dd\
+16ee\JJ
+=
+4ff#\
+4eeT\
+=
+4dd\
+*-

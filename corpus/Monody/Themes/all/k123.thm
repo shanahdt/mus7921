@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Kuhnau, Johann
+!!!CDT: 1660/04/06/-1722/06/05/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1700/12/31/
+!!!PDT: 1700///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1700(p)
+!!!instrument: piano
+!!!place: Deutschland, Leipzig
+!!!theme: B: THE PRAYER OF THE ISRAELITES
+!!!title1: The Combat Between David and Goliath
+!!!title2: Sonata
+!!!statkey: a
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k123 % 273 % 1700(p) % Leipzig % K123 % . % b: The Prayer of the Israelites % . % piano % Sonata % The Combat Between David and Goliath % KUHNAU, Johann % 1660
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1973(rev) . (K123) . . . . . . . .
+**kern
+*clefG2
+*k[]
+*E:
+*M4/4
+!! ! NB. Key & key signature disagree.
+2b\
+=
+2e/
+2b\
+=
+2cc\
+2b\
+=
+2g/
+2a/
+=
+1b\
+=
+4e/
+4e/
+2b\
+=
+2cc\
+2dd\
+=
+2cc\
+2a/
+=
+2g/
+2f/
+=
+1e/
+=
+*-

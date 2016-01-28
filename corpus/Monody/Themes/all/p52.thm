@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Paganini, Nicolò
+!!!CDT: 1782/10/27/-1840/05/27/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!OMV: Mov. Theme
+!!!OPS: Opus 13
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1819
+!!!instrument: violn, orchestra
+!!!place: Italia
+!!!splace: France, Paris & Deutschland, Mainz
+!!!title1: I Palpiti
+!!!statkey: A
+!!DEBUGGING: p52 % 350 % 1819 % Italy % P52 % 13 % x % Theme % violn, orchestra % . % I Palpiti % PAGANINI, Nicol&ograve; % 1782
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Paris and Mainz (P52) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+4cc#\
+8cc#\L
+8cc#\J
+=
+8ddq/
+16.cc#\LL
+32b\k
+16.cc#\
+32dd\JJk
+4ee\
+=
+24dd\LL
+24ee\
+24dd\J
+24cc#\L
+24dd\
+24cc#\JJ
+8b\L
+16ff#\L
+16ee\JJ
+=
+24cc#\LL
+24dd\
+24cc#\J
+24b\L
+24cc#\
+24b\JJ
+4a/
+=
+*-

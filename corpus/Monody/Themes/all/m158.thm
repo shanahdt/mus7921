@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1894///
+!!!OCL: RSC
+!!!ODT: <1894/12/31/
+!!!PDT: 1894///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1894(prf)
+!!!instrument: orchestra
+!!!place: France, Paris
+!!!theme: B
+!!!title1: Opera Thais
+!!!title2: Meditation
+!!!statkey: D
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m158 % . % 1894(prf) % Paris % M158 % . % b % . % orchestra % Meditation % Opera Thais % MASSENET, Jules % 1842
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1894(p) . (M158) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*F:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8..fn/L
+32e/Jkk
+[4e/
+8e/]
+4f/
+8f/
+=
+8..fn/L
+32e/Jkk
+4.e/
+4f/
+8f/
+=
+8..fn/L
+32e/Jkk
+[4e/
+8e/]
+4g/
+8b-\
+=
+8.b-\
+*-

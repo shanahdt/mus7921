@@ -1,0 +1,45 @@
+!!!ref: COM CDT, OTL
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1806
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1807
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Thirty-two Variations in C Minor for Piano
+!!!AIN: forte  
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=
+4r
+4..cc\
+16ee-\
+=
+8dd\
+8r
+4.g/
+32g/LLL
+32an/JJ
+48bn/LL
+48cc/
+48dd/JJJ
+=
+8een\
+8r
+4..ee\
+16gg\
+=
+8ff\
+8r
+4.f/
+*-

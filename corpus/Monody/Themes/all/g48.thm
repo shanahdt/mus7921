@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Gershwin, George
+!!!CDT: 1898/09/26/-1937/07/11/
+!!!CNT: American
+!!!OTL: Concerto in F Major for Piano and Orchestra
+!!!OMV: Mov. 2
+!!!thm: B              
+!!!AIN: forte orchestra  
+!!!ODT: 1925/// 
+!!!OCY: United States of America
+!!!OPC: New York
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*C:
+*M4/4
+8ggnq/
+!! ! NB. Key & key signature disagree.
+8aa-\L
+8ggq/
+8aa-\
+8ggq/
+8aa-\J
+=
+8ggnq/
+1aa-\
+=
+8r
+8aanq/
+8bb-\L
+8bb-\
+8bb-\J
+8bb-\L
+8ee-q/
+8een\
+8ee\
+8ee\J
+=
+16een\LL
+16ff\J
+8dd-\J
+8dd-\L
+[8dd-\J
+2dd-\_
+=
+2dd-\]
+*-

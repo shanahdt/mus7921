@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 581
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1789
+!!!instrument: clars, string
+!!!place: Oesterreich, Vienna
+!!!theme: B
+!!!title1: Quintet in A
+!!!title2: 3rd Movement
+!!!statkey: A
+!!DEBUGGING: m685 % . % 1789 % Vienna % M685 % K 581 % b % 3 % clars, string % . % Quintet in A % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#c#g#]
+*a:
+*M3/4
+8a/L
+8cc#/J
+=
+8ee\L
+8cc#\
+8aa\J
+8r
+8ee\L
+8cc#\J
+=
+8b\L
+8dd\
+8ff#\J
+8r
+8dd\L
+8b\J
+=
+8a\L
+8g#\
+8cc#\
+8b\
+8ee\
+8dd\J
+=
+4b#\
+8cc#\
+*-

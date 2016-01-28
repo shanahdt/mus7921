@@ -1,0 +1,62 @@
+!!!ACO: Classical; RSC
+!!!COM: Rameau, Jean Philippe
+!!!CDT: 1683/09/25/-1764/09/12/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1724/12/31/
+!!!OMV: Mov. La Triompante
+!!!PDT: 1724///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1724(p)
+!!!instrument: cemba
+!!!place: France, Paris
+!!!title1: Suite in E Minor
+!!!statkey: A
+!!DEBUGGING: r122 % 374 % 1724(p) % Paris % R122 % . % x % La Triompante % cemba % . % Suite in E Minor % RAMEAU, Jean Philippe % 1683
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1731(rev) . (R122) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/0
+=
+8A/L
+8B/
+8c#/
+8e/J
+8a\L
+8cc#\
+8ee\
+8a\J
+=
+8aa\L
+8a\J
+2aa\
+8bbq/
+8.aaT\L
+32gg#\LL
+32aa\JJJ
+=
+8bb\L
+8aa\
+8gg#\
+8ff#\J
+8ee\L
+8dd\
+8cc#t\
+8b\J
+=
+8cc#\L
+8ee\
+8a\
+8cc#\J
+8b\L
+8dd\
+8g#\
+8b\J
+=
+*-

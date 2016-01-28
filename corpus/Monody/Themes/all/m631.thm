@@ -1,0 +1,42 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 80
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1770
+!!!instrument: string
+!!!place: Lodi
+!!!title1: Quartet in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: m631 % . % 1770 % Lodi % M631 % K 80 % x % 1 % string % . % Quartet in G % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4dd\
+4.dd\
+8gg\
+=
+8aaq/
+4ggT\
+4.ff#\
+8gg\
+=
+8aa\L
+8ff#\J
+4.dd\
+8cc\
+=
+8ddq/
+4cc\
+4b\
+*-

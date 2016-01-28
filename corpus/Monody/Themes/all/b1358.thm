@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Concerto in D for Violin and Orhcestra
+!!!OPS: Op. 77
+!!!ODT: 1878///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Vienna  
+!!!PDT: 1879///
+!!!MRD: 1879///
+!!!MLC: Deutschland, Leipzig        
+!!!OMV: Mov. 1
+!!!thm: C
+!!!AIN: orchestra violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*A:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4.gg#\
+8aa\
+[4dd\
+=
+4dd\]
+8cc#\L
+8ee\
+8bb\
+8aa\J
+=
+4.gg#\
+8aa\
+[4b\
+=
+4b\]
+8a\L
+8ee\
+8aa\
+8gg#\J
+=
+8ff#\
+8a/
+4.ccc#\
+8cc#\
+=
+4.aa\
+*-

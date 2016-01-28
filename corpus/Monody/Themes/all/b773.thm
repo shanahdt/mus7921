@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OTP, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1801///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1802///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.15 in D for Piano                  
+!!!OPS: Op. 28
+!!!OTP: Pastoral
+!!!SET: No. 15
+!!!OMV: Mov. 3
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+2.ff#\
+=
+2.f#/
+=
+*clefF4
+2.F#\
+=
+2.FF#/
+=
+*clefG2
+8a/L
+8f#/J
+4d/
+4r
+=
+8b/L
+8g/J
+4e/
+4r
+=
+8g/L
+8e/J
+4c#/
+4r
+=
+4d/
+4d/
+4r
+=
+*-

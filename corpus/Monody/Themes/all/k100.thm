@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Kreisler, Fritz
+!!!CDT: 1875/02/02/-1962/01/29/
+!!!CNT: Austrian; American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: n.d.///
+!!!OPC: ?
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: violn, piano
+!!!theme: B: PAVANE
+!!!title1: Chanson Louis XIII et Pavane
+!!!title2: Style of Couperin
+!!!statkey: b
+!!DEBUGGING: k100 % . % n.d.(c) % ? % K100 % . % b: Pavane % . % violn, piano % Style of Couperin % Chanson Louis XIII et Pavane % KREISLER, Fritz % 1875
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+=
+8dd\L
+8b\J
+4cc#\
+=
+16dd\LL
+16cc#\J
+8b\J
+4cc#\
+=
+16ddq/LL
+16eeq/JJ
+16dd\LL
+16cc#\
+16dd\
+16b\JJ
+8cc#\L
+8dd\J
+=
+16b\LL
+16cc#\
+16dd\
+16ee\JJ
+8dd\L
+8cc#t\J
+=
+*-

@@ -1,0 +1,55 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Falla, Manuel De
+!!!CDT: 1876/11/23/-1946/11/14/
+!!!CNT: Spanish
+!!!OPR: El sombrero de tres picos
+!!!OPREN: The Three-Cornered Hat
+!!!OTL: Dance of the Neighbors
+!!!thm: A           
+!!!AIN: orchestra
+!!!ODT: 1919///
+!!!OCY: Espa&ntild;a
+!!!OPC: Madrid
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+8r
+16ddd\LL
+16ddd\JJ
+8ddd\L
+8ddd\J
+8.eee\L
+16ddd\Jk
+=
+8ccc#\L
+16aa\L
+16bb\JJ
+8.cccn\L
+16aa\Jk
+8.bb\L
+16aa\Jk
+=
+8gg\L
+16aa\L
+16bb\JJ
+8.aa\L
+16ff#\Jk
+8.gg\L
+16ff#\Jk
+=
+8.ee\L
+!!   Encoding error:   add dot
+32ff#\LL
+32ee\JJJ
+2dd\
+=
+*-

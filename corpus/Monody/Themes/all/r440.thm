@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Rubinstein, Anton
+!!!CDT: 1829/11/28/-1894/11/20/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ONM: No. 1
+!!!OPS: Opus 3
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1848
+!!!instrument: piano
+!!!place: Royssia
+!!!theme: A
+!!!title1: Melody in F
+!!!statkey: F
+!!DEBUGGING: r440 % . % 1848 % Russia % R440 % 3 No. 1 % a % . % piano % . % Melody in F % RUBINSTEIN, Anton % 1829
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=
+4c/
+8Bn/L
+8c/J
+=
+4c/
+8Bn/L
+8c/J
+=
+4f/
+8e/L
+8f/J
+=
+2cc\
+=
+4b-\
+8a/L
+8g/J
+=
+4a/
+4g/
+=
+4f/
+8e/L
+8d/J
+=
+4e/
+4d/
+=
+*-

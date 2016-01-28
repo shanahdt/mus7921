@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Drdla, Frantisek Alois
+!!!CDT: 1868///-1944///
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1904
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna
+!!!theme: A
+!!!title1: Souvenir
+!!!statkey: b
+!!DEBUGGING: d261a % . % 1904 % Vienna % D261a % . % a % . % violn, piano % . % Souvenir % DRDLA, Franz % 1869
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/4
+=
+4r
+12a\L
+12dd\
+12ff#\J
+8.aa\L
+16bb\Jk
+=
+[2.ff#\
+=
+4ff#\]
+12a\L
+12dd\
+12ff#\J
+8.aa\L
+16ccc#\Jk
+=
+[2.bb\
+=
+4bb\]
+12a\L
+12dd\
+12ff#\J
+8.aa\L
+16ddd\Jk
+=
+[2eee\
+8.eee\L]
+16bb\Jk
+=
+[2ddd\
+8.ddd\L]
+16ccc#\Jk
+=
+2.ff#\
+=
+*-

@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Debussy, Claude
+!!!CDT: 1862/08/22/-1918/03/25/
+!!!CNT: French
+!!!OTL: Quartet in G Minor
+!!!OMV: Mov. 3
+!!!thm: B b
+!!!AIN: cello viola violn
+!!!ODT: 1893///
+!!!OCY: France
+!!!OPC: Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#c#g#d#]
+*G#:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+4B\
+24A#\LL
+24Bn\
+24A#\JJ
+=
+16G#\LL
+16B\J
+8d#\
+8g#\J
+=
+4f#\
+24d#\LL
+24f#\
+24d#\JJ
+!!   Encoding error:  change 12's to 24's
+=
+4c#\
+8B\
+=
+16A#\LL
+16Bn\J
+8G#\
+16B\L
+16d#\JJ
+=
+4c#\
+8B\
+=
+*-

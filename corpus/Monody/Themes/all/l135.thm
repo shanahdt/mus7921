@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1857///
+!!!OCL: RSC
+!!!ODT: <1857/12/31/
+!!!OMV: Mov. 3: Mephistopholes
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1854///-1857
+!!!instrument: orchestra
+!!!place: Deutschland, Weimar
+!!!theme: A
+!!!title1: Faust Symphony
+!!!title2: 3rd Movement (Mephistopholes)
+!!!statkey: c
+!!DEBUGGING: l135 % 280 % 1854-1857 % Weimar % L135 % . % a % 3: Mephistopholes % orchestra % . % Faust Symphony % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1857(prf) . (L135) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M6/8
+16Bn/LL
+16c/
+16c#/
+16d/JJ
+=
+8e-/L
+8Bn/
+8e-/J
+16r
+16e-/LL
+16d/
+16c#/
+16cn/
+16B/JJ
+=
+8d/L
+8c#/
+8cn/J
+8r
+8a-q/
+8g/L
+8f#/J
+=
+8gq/
+8f#/L
+8fn/J
+8ee-q/
+8dd\
+*-

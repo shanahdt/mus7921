@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1791///
+!!!OCL: RSC
+!!!ODT: <1791/12/31/
+!!!OMV: Mov. Intro
+!!!OPS: Opus K 620
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1791(prf)
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!title1: The Magic Flute
+!!!title2: Overture
+!!!statkey: E-
+!!DEBUGGING: m601 % . % 1791(prf) % Vienna % M601 % K 620 % x % Intro % orchestra % Overture % The Magic Flute % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M4/4
+=
+2ee-\
+4r;
+8.r
+16gg\
+=
+2gg\
+4r;
+8.r
+16bb-\
+=
+2bb-\
+4r;
+8.r
+48b-/LLL
+48a-/
+48g/JJJ
+=
+4f/
+2f/
+4f/
+=
+[4f/
+16f/LL]
+16a-/
+16cc/
+16a-/JJ
+4f/
+*-

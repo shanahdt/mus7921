@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Air
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite in G Minor
+!!!title2: Air
+!!!statkey: g
+!!DEBUGGING: p364 % . % n.d. % London % P364 % . % x % Air % cemba % . % Suite in G Minor % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/2
+16b-/LL
+16a/JJ
+=
+8g\L
+8dd\
+8a\
+8dd\J
+8b-\L
+8dd\
+8a\
+8dd\J
+=
+8b-\L
+16ee-\L
+16dd\JJ
+8cc\L
+8ff\J
+8dd\L
+8ff\
+8cc\
+8ff\J
+=
+8dd\L
+8gg\
+8een\
+8aa\J
+8ff#\L
+8dd\J
+16bb-\LL
+16aa\
+16gg\
+16ff#\JJ
+=
+*-

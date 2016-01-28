@@ -1,0 +1,67 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1926///
+!!!OCL: RSC
+!!!ODT: <1926/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1926(prf)
+!!!place: ?
+!!!splace: England, Chelsea
+!!!title1: Fa\c2ade, Suite No. 1, Orch.
+!!!title2: Tango-Pasodoble
+!!!statkey: E-
+!!DEBUGGING: w180 % 516 % 1926(prf) % ? % W180 % . % . % . % . % . % . % WALTON, William Turner
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1926 Chelsea, England (W180) . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M2/4
+*>[A,A,B]
+*>A
+8b-\
+=
+24cc\LL
+24dd\
+24cc\J
+16.b-\L
+32g\JJk
+16.f/LL
+32e-/k
+16.d/
+32e-/JJk
+=
+32b-\LLL
+32cc\J
+16b-\J
+16r
+16b-\k
+8b-\
+8b-\J
+=3:|!
+*>B
+24dd\LL
+24ee-\
+24dd\J
+16.cc\L
+32a-\JJk
+16.g/LL
+32f/k
+16.en/
+32f/JJk
+=
+32cc\LLL
+32dd\J
+16cc\J
+16r
+16cc\Jk
+8cc\L
+8cc#\J
+=
+*-

@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!OPS: Opus K 138
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1772
+!!!instrument: 2 violn, viola, bass
+!!!place: Oesterreich, Salzburg
+!!!title1: Divertimento in F
+!!!title2: 3rd Movement
+!!!statkey: F
+!!DEBUGGING: m556 % . % 1772 % Salzburg % M556 % K 138 % x % 3 % 2 violn, viola, bass % . % Divertimento in F % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-]
+*F:
+*M2/4
+=
+4ff\
+8.ff\L
+32ee\LL
+32ff\JJJ
+=
+4.cc\
+8a/
+=
+16cc\LL
+16b-\
+16a\
+16b-\JJ
+8dd/L
+8f/J
+=
+16f/LL
+16e/
+16d/
+16e/JJ
+8g/L
+8c/J
+=
+*-

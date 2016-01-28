@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Prokofiev, Sergey
+!!!CDT: 1891/04/23/-1953/03/05/
+!!!CNT: Russian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: The Montagues and the Capulets
+!!!OPS: Opus 64
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1936
+!!!instrument: orchestra
+!!!place: Royssia, Moskova
+!!!theme: C
+!!!title1: Romeo and Juliet
+!!!title2: Suite No. 2
+!!!statkey: e
+!!DEBUGGING: p270 % . % 1936 % Moscow % P270 % 64 % c % 1: The Montagues and the Capulets % orchestra % Suite No. 2 % Romeo and Juliet % PROKOFIEV, Sergey % 1891
+**kern
+*clefG2
+*k[f#]
+*e:
+*M3/4
+=
+[2.b\
+=
+8b\L]
+16ee\L
+16gg\JJ
+4bb\
+4b\
+=
+[2.b\
+=
+8b\L]
+16dd\L
+16ff#\JJ
+4bb\
+4b\
+=
+4b\
+4cc\
+4dd\
+=
+4ee-\
+4dd-\
+4cc-\
+=
+4dd-\
+4cc-\
+4a-/
+=
+2b-\
+4bn\
+=
+*-

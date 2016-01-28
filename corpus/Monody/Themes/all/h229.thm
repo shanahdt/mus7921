@@ -1,0 +1,51 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1720/12/31/
+!!!OMV: Mov. 4: Courante
+!!!PDT: 1720///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1720(p)
+!!!instrument: piano
+!!!place: England, London(?)
+!!!title1: Suite No. 8 in F Minor
+!!!title2: 4th Movement (Courante)
+!!!statkey: f
+!!DEBUGGING: h229 % 224 % 1720(p) % London? % H229 % . % x % 4: Courante % piano % . % Suite No. 8 in F Minor % HANDEL, George Frederick % 1685
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M3/4
+=
+8r
+8c/L
+8f/
+8c/
+8a-/
+8f/J
+=
+8g/L
+8c/
+8cc/
+8b-/
+8a-/
+8g/J
+=
+*^
+2.a-\	4r
+.	4cc/
+.	4ff/
+=4	=
+2.b-\	4r
+.	4een/
+.	4gg/
+*v	*v
+=
+4cc\
+*-

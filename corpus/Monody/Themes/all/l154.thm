@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1851/12/31/
+!!!PDT: 1851///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1847
+!!!instrument: piano
+!!!place: Royssia
+!!!splace: Deutschland, Leipzig & Italia, Milano
+!!!theme: F
+!!!title1: Hungarian Rhapsody No. 2 in C Sharp Minor
+!!!statkey: F#
+!!DEBUGGING: l154 % . % 1847 % Russia % L154 % . % f % . % piano % . % Hungarian Rhapsody No. 2 in C Sharp Minor % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1851(p) Leipzig, Milan (L154) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#g#d#a#e#]
+*F#:
+*M2/4
+=
+4cc#\
+4ee#\
+=
+4.aa#\
+8gg#\
+=
+8ff#\L
+8ee#\
+8een\
+8dd#\J
+=
+8ddn\L
+8cc#\
+8b#\
+8cc#\J
+=
+*-

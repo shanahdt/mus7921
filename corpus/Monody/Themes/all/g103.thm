@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OMV, thm
+!!!COM: Glinka, Mikhail
+!!!CDT: 1804/06/01/-1857/02/15/
+!!!CNT: Russian
+!!!OTL: Quartet in F Major 
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: cello viola violn
+!!!ODT: 1830///
+!!!OCY: Rossiya
+!!!OPC: Sankt Peterburg
+!!!PDT: 1878///
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC  
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+8cc\
+=
+8cc\L
+8ff\J
+[4ff\
+8ff\L]
+8a\J
+8a\L
+8cc\J
+=
+4cc\
+4e/
+8r
+8eT/L
+8d/
+8e/J
+=
+8f/L
+8g/J
+[4a/
+8a/L]
+8d/
+8d/
+8dd/J
+=
+2f/
+8e/
+*-

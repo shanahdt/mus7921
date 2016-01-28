@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Purcell, Henry
+!!!CDT: 1659/09/?10/-1695/11/21/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. Almand
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: n.d.
+!!!instrument: cemba
+!!!place: England, London
+!!!title1: Suite No. 2 in G Minor
+!!!title2: Almand
+!!!statkey: B-
+!!DEBUGGING: p357 % . % n.d. % London % P357 % . % x % Almand % cemba % . % Suite No. 2 in G Minor % PURCELL, Henry % 1659
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/2
+8a/
+=
+[2b-\
+8.b-\L]
+16b-\Jk
+4a/
+=
+8.a/L
+16a/Jk
+8.d/L
+16g/Jk
+8.c/L
+16f/Jk
+8.B-/L
+[16e-/Jk
+=
+8.e-/L]
+16B-/Jk
+8.A/L
+[16d/Jk
+8.d/L]
+16d/Jk
+4cT/
+=
+4.d/
+*-

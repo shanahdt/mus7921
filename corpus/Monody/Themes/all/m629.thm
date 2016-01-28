@@ -1,0 +1,56 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1787/12/31/
+!!!OMV: Mov. 2
+!!!OPS: Opus K 493
+!!!PDT: 1787///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1786
+!!!instrument: piano, string
+!!!place: Oesterreich, Vienna
+!!!title1: Quartet in E Flat
+!!!title2: 2nd Movement
+!!!statkey: A-
+!!DEBUGGING: m629 % . % 1786 % Vienna % M629 % K 493 % x % 2 % piano, string % . % Quartet in E Flat % MOZART, Wolfgang Amadeus % 1756
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1787(p) . (M629) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-d-]
+*A-:
+*M3/8
+=
+32e-q/LLL
+32a-q/
+32ccq/JJJ
+8ee-\L
+16dd-\L
+16cc\
+16b-\
+16an\JJ
+=
+16.b-\LL
+32dd-\Jk
+8ff\J
+8r
+=
+32fq/
+8dd-\L
+16cc\L
+16b-\
+16a-\
+16g\JJ
+=
+16a-/LL
+32cc/L
+32a-/JJJ
+8e-/
+8r
+=
+*-

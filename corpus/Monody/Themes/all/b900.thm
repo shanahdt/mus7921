@@ -1,0 +1,62 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!MRD: 1800///
+!!!PDT: 1801///
+!!!PPP: Deutschland, Leipzig   
+!!!OTL: Symphony No.1 in C    
+!!!OPS: Op. 21
+!!!SET: No. 1
+!!!OMV: Mov. 2
+!!!thm: C
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*C:
+*M3/8
+=
+!! ! NB. Key & key signature disagree.
+24ff\LL
+24aa\
+24gg\JJ
+24ff\LL
+24ee\
+24dd\JJ
+24cc\LL
+24bn\
+24dd\JJ
+=
+24cc\LL
+24ee\
+24dd\JJ
+24cc\LL
+24bn\
+24a\JJ
+24g\LL
+24f#\
+24a\JJ
+=
+24g/LL
+24f#/
+24a/JJ
+24g/LL
+24a/
+24g/JJ
+24fn/LL
+24e/
+24d/JJ
+=
+24c/
+!!   Encoding Error:  all 16's changed to 24's
+*-

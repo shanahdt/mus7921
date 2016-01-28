@@ -1,0 +1,51 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Berlioz, Hector
+!!!CDT: 1803/12/11/-1869/03/08/
+!!!CNT: French
+!!!ODT: 1830///
+!!!OCY: France
+!!!OPC: Paris
+!!!OTL: Symphonie fantastique
+!!!XEN: Fantastic Symphony
+!!!OPS: Op. 14
+!!!OMV: Mov. 5 (Witches' Sabbath) 
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*D:
+*M6/8
+8anq/
+!! ! NB. Key & key signature disagree.
+8b-\
+=
+8anq/
+4b-\
+8ddq/
+8ee-\
+4b-\
+8ff#q/
+8gg\
+=
+4ggt\
+8aa-\
+4aa-T\
+8gg\
+=
+4ggt\
+8ff\
+4ffT\
+8ee-\
+=
+8.ee-\L
+16ff\k
+8ee-\J
+4dd\
+*-

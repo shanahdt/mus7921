@@ -1,0 +1,60 @@
+**kern
+*clefG2
+*k[f#c#g#]
+*M6/8
+*A:
+8d#
+8e
+8r
+8e#
+8f#
+8r
+=
+8f##
+8g#
+8r
+8cc#
+8g#
+8r
+=
+qcc#
+8b
+8a
+8r
+8g#
+8a
+8r
+=
+8cc#
+8ee
+8r
+8aa
+8gg#
+8r
+=
+8gg#
+8ff#
+8r
+8ee#
+8ff#
+8r
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1872
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s78 % . % 1872 % Paris? % S78 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1872///
+!!!ODT: <1872/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1872(p) Paris (S78) . . . . . . .

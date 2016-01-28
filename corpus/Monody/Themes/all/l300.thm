@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1670///
+!!!OCL: RSC
+!!!ODT: <1670/12/31/
+!!!OMV: Mov. Ballet, Act I
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1670(prf)
+!!!instrument: orchestra
+!!!place: France, Chambord
+!!!theme: C: GAILLARDE
+!!!title1: Le Bourgeois Gentilhomme
+!!!title2: Opera
+!!!statkey: g
+!! NB. Key & key signature disagree.
+!!DEBUGGING: l300 % 289 % 1670(prf) % Chambord % L300 % . % c: Gaillarde % Ballet, Act I % orchestra % Opera % Le Bourgeois Gentilhomme % LULLY, Jean Baptiste % 1632
+**kern
+*clefG2
+*k[b-e-]
+*C:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+8.bn\L
+16b\k
+8.cc\
+16cc\Jk
+8.ddt\L
+32cc\LL
+32dd\JJJ
+=
+[4ee-\
+8ee-\]
+16r
+16cc\LK
+8.gg\
+16gg\Jk
+=
+8.aa-\L
+16gg\k
+8.ff\
+16ee-\k
+8.dd\
+16cc\Jk
+=
+[4cc\
+8cc\]
+*-

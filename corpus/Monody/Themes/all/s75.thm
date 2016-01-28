@@ -1,0 +1,56 @@
+**kern
+*clefG2
+*k[]
+*M4/4
+!! NB. Key & key signature disagree.
+*G:
+2g
+2f#
+=
+8e
+8B
+4e
+4r
+4d
+=
+2g
+2f#
+=
+8e
+8B
+4e
+4r
+4d
+=
+4g
+4f#
+4e
+4d
+=
+2c#
+2d
+=
+[1d#
+=
+2]d#
+2e
+=
+*-
+!!!COM: Saint-sa&euml;ns, Camille
+!!!CNT: French
+!!!date: 1873
+!!!place: France, Paris(?)
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s75 % . % 1873 % Paris? % S75 % . % . % . % . % . % . % SAINT-SA&Euml;NS, Camille
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1875///
+!!!ODT: <1875/12/31/
+!!!splace: France, Paris
+!!!CDT: ///-
+!!DEBUGGING: . . 1875(p) Paris (S75) . . . . . . .

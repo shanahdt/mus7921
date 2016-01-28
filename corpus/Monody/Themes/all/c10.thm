@@ -1,0 +1,60 @@
+!!!ACO: Classical; RSC
+!!!COM: Cadman, Charles Wakefield
+!!!CDT: 1881/12/24/-1946/12/30/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Wolf Song
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1914
+!!!instrument: orchestra
+!!!place: United States of America, Pennsylvania, Pittsburgh
+!!!title1: Thunderbird Suite
+!!!title2: 5th Movement, Wolf Song (War Dance)
+!!!statkey: e
+!!DEBUGGING: c10 % . % 1914 % Pittsburgh % C10 % . % x % 5: Wolf Song % orchestra % . % Thunderbird Suite % CADMAN, Charles Wakefield % 1881
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=
+8ee\L
+16ee\L
+16ff#\JJ
+8ee\L
+16ee\L
+16ff#\JJ
+=
+8ee\L
+8ee\J
+8ee\L
+8ee\J
+=
+8b\L
+16b\L
+16cc\JJ
+8b\L
+16b\L
+16cc\JJ
+=
+8b\L
+8b\J
+8b\L
+8b\J
+=
+8f#/L
+16f#/L
+16g/JJ
+8f#/L
+16f#/L
+16g/JJ
+=
+8f#/L
+8f#/J
+8f#/L
+8f#/J
+=
+*-

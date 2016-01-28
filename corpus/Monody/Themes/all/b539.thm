@@ -1,0 +1,43 @@
+!!!ref: COM CDT, OTL, OPS, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1807///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1808///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Concerto No.4 in G for Piano
+!!!SET: No.4
+!!!OPS: Op. 58
+!!!OMV: Mov. 2
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*e:
+*M2/4
+=
+8e/
+8r
+16.r
+32g/LLK
+16.f#/
+32g/JJk
+=
+8e/L
+8B/J
+8dq/
+16.c/LL
+32B/k
+16.c/
+32c/JJk
+=
+4c/
+*-

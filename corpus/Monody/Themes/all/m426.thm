@@ -1,0 +1,44 @@
+!!!ACO: Classical; RSC
+!!!COM: Moszkowski, Moritz
+!!!CDT: 1854/08/23/-1925/03/04/
+!!!CNT: German
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: piano
+!!!place: ?
+!!!theme: B
+!!!title1: Valse Mignonne
+!!!statkey: A
+!!DEBUGGING: m426 % . % ? % ? % M426 % . % b % . % piano % . % Valse Mignonne % MOSZKOWSKI, Moritz % 1854
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+=
+4.cc#\
+8b\
+4a/
+=
+2.ff#\
+=
+4.ee\
+8cc#\
+4a/
+=
+[2.aa\
+=
+4aa\]
+4gg#\
+4ff#\
+=
+4ee\
+4dd#\
+4ddn\
+=
+4cc#\
+*-

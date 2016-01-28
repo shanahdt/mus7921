@@ -1,0 +1,58 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Berlioz, Hector
+!!!CDT: 1803/12/11/-1869/03/08/
+!!!CNT: French
+!!!ODT: 1830///
+!!!OCY: France
+!!!OPC: Paris
+!!!OTL: Symphonie fantastique
+!!!XEN: Fantastic Symphony
+!!!OPS: Op. 14
+!!!OMV: Mov. 4 (March to the Scaffold) 
+!!!thm: A
+!!!AIN: orchestra
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-e-]
+*g:
+*M4/4
+2g\
+=
+2f\
+4e-\
+8d\L
+8c\J
+=
+4B-\
+4r
+4A\
+4r
+=
+2G\
+4F\
+8E-\L
+8D\J
+=
+4C/
+4r
+4BB-/
+4r
+=
+2AA/
+4GG/
+8AA/L
+8BB-/J
+=
+4C/
+4r
+4AA/
+4r
+=
+2D\
+*-

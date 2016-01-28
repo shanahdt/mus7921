@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Dvorák, Antonin
+!!!CDT: 1841/09/08/-1904/05/01/
+!!!CNT: Czech
+!!!OTL: Sonatina in G Major for Violin and Piano
+!!!OPS: Op. 100
+!!!OMV: Mov. 2
+!!!thm: A      
+!!!AIN: forte violn     
+!!!ODT: 1893///
+!!!OCY: Czechoslovakia
+!!!OPC: Prague
+!!!PDT: 1894///
+!!!PPP: Deutschland, Berlin
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M2/4
+=
+8.b-\L
+16cc\Jk
+16dd\LL
+16dd\
+16dd\
+16dd\JJ
+=
+8.dd\L
+16cc\Jk
+16b-/LL
+16g/
+16g/
+16g/JJ
+=
+8.g/L
+16a/Jk
+16b-\LL
+16dd\
+16b-\
+16a\JJ
+=
+16b-/LL
+16g/JJ
+4g/
+8r
+=
+*-

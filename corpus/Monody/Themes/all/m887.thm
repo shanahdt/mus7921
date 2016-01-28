@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 200
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1774
+!!!instrument: orchestra
+!!!place: Oesterreich, Salzburg
+!!!theme: B
+!!!title1: Symphony No. 28 in C
+!!!title2: 1st Movement
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m887 % . % 1774 % Salzburg % M887 % K 200 % b % 1 % orchestra % . % Symphony No. 28 in C % c1786(p) % 1756
+**kern
+*clefG2
+*k[]
+*G:
+*M3/4
+=
+!! ! NB. Key & key signature disagree.
+4dd\
+4dd\
+4dd\
+=
+4.ee\
+8ff#\
+4gg\
+=
+32a\LLL
+32b\JJ
+8.cc\J
+16ff#\LL
+16gg\
+16ff#\
+16gg\JJ
+4aa\
+=
+32b\LLL
+32cc\JJ
+8.dd\J
+16gg\LL
+16aa\
+16gg\
+16aa\JJ
+4bb\
+=
+*-

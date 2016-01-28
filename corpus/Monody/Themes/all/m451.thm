@@ -1,0 +1,47 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 271
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1777
+!!!instrument: piano, orchestra
+!!!place: Oesterreich, Salzburg
+!!!title1: Concerto in E Flat
+!!!title2: 2nd Movement
+!!!statkey: c
+!!DEBUGGING: m451 % . % 1777 % Salzburg % M451 % K 271 % x % 2 % piano, orchestra % . % Concerto in E Flat % MOZART, Wolfgang Amadeus % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*c:
+*M3/4
+=
+8c/L
+8G/J
+8r
+8G/L
+8A-/
+8G/J
+=
+8d/L
+8G/J
+8r
+8G/L
+8A-/
+8G/J
+=
+8e-/L
+8G/J
+8r
+8c/L
+8Bn/
+8c/J
+=
+4.a-/
+*-

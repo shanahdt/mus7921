@@ -1,0 +1,53 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1796///-1797///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1798///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Sonata No.6 in F for Piano                  
+!!!OPS: Op. 10
+!!!ONM: No. 2
+!!!SET: No. 6
+!!!OMV: Mov. 3
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[b-]
+*F:
+*M2/4
+8C/
+=
+8F\L
+8F\
+8F\
+8C\J
+=
+8A\L
+8A\
+8A\
+8F\J
+=
+8c\L
+8c\J
+16c\LL
+16d\
+16c\
+16B-\JJ
+=
+8A\L
+8A\J
+16A\LL
+16B-\
+16A\
+16G\JJ
+=
+*-

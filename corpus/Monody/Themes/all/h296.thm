@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1778-1779/12/31/
+!!!PDT: 1778-1779///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: c1770///-1774
+!!!instrument: piano
+!!!place: Eszterh&aacute;za
+!!!title1: Arietta in E Flat
+!!!title2: Theme and Variations
+!!!statkey: E-
+!!DEBUGGING: h296 % . % c1770-1774 % Eszterh&aacute;za % H296 % . % x % . % piano % Theme and Variations % Arietta in E Flat % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1778-1779(p) ? (H296) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+2b-\
+(8ddq/
+8cc\L)
+8b-\J
+=
+4b-\
+4b-\
+4b-\
+=
+4ee-\
+4ee-\
+4ee-\
+=
+2ee-\
+4dd\
+=
+2cc\
+4ff\
+=
+2b-\
+4ee-\
+=
+*-

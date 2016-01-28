@@ -1,0 +1,55 @@
+!!!ACO: Classical; RSC
+!!!COM: Massenet, Jules
+!!!CDT: 1842/05/12/-1912/08/13/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1874/12/31/
+!!!OMV: Mov. 1: March
+!!!PDT: 1874///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1874(p)
+!!!place: France, Paris
+!!!theme: D
+!!!title1: Sc&egrave;nes Pittoresques
+!!!title2: Suite No. 4
+!!!statkey: B-
+!!DEBUGGING: m176 % 299 % 1874(p) % Paris % M176 % . % d % 1: March % . % Suite No. 4 % Sc&egrave;nes Pittoresques % MASSENET, Jules % 1842
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M4/4
+=
+4.ff\
+32gg\LLL
+32aa\
+32bb-\
+32ccc\JJJ
+8ddd\
+8r
+8bb-\
+8r
+=
+4bb-\
+16aa\LL
+16r
+16gg\JJ
+16r
+16ff\LL
+16r
+16ee-\
+16r
+16dd\
+16r
+16cc\JJ
+16r
+=
+2b-\
+4dd\
+4ff\
+=
+2ff\
+*-

@@ -1,0 +1,54 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <n.d./12/31/
+!!!OMV: Mov. 2
+!!!PDT: n.d.///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ///-1777
+!!!instrument: string
+!!!place: Eszterh&aacute;za
+!!!splace: England, London
+!!!theme: B
+!!!title1: Quartet in B Flat 
+!!!title2: 2nd Movement
+!!!statkey: E-
+!!DEBUGGING: h329 % . % -1777 % Eszterh&aacute;za % H329 % . % b % 2 % string % . % Quartet in B Flat  % HAYDN, Franz Josef % 1732
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . n.d.(p) London (H329) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . (spurious) London (H329) . b 2 string . Quartet in B Flat  HAYDN, Franz Josef 1732
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M3/4
+=
+8e-/L
+8e-/
+8d/
+8e-/
+8g/
+8e-/J
+=
+4B-/
+4e-/
+4r
+=
+8f/L
+8f/
+8en/
+8f/
+8a-/
+8f/J
+=
+4B-/
+4f/
+4r
+=
+*-

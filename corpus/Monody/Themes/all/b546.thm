@@ -1,0 +1,57 @@
+!!!ref: COM CDT, OTL, OTP, OPS, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1809///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1811///
+!!!PPP: Deutschland, Leipzig
+!!!OTL: Concerto No.5 in E Flat for Piano
+!!!OTP: "Emperor Concerto"
+!!!SET: No.5
+!!!OPS: Op. 73
+!!!OMV: Mov. 3
+!!!thm: A
+!!!AIN: forte
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-]
+*E-:
+*M6/8
+=
+8b-\L
+8ee-\J
+8ee-\L
+8gg\J
+8r
+16gg\LL
+16bb-\JJ
+=
+16bb-\LL
+16eee-\JJ
+[4eee-\
+4eee-\]
+16eee-\LL
+16ggg\JJ
+=
+8fff\
+8r
+16ddd\LL
+16fff\JJ
+8eee-\
+8r
+16gg\LL
+16aa-\JJ
+=
+[4bb-T\
+16bb-\LL]
+16aan\JJ
+4bb-\
+*-

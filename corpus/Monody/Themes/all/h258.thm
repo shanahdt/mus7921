@@ -1,0 +1,57 @@
+!!!ACO: Classical; RSC
+!!!COM: Handel, George Frederick
+!!!CDT: 1685/02/23/-1759/04/14/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1717///
+!!!OCL: RSC
+!!!ODT: <1717/12/31/
+!!!ODT: <c1760/12/31/
+!!!OMV: Mov. 13
+!!!PDT: c1760///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1717(prf)
+!!!instrument: orchestra
+!!!place: England, London
+!!!theme: A
+!!!title1: Water Music
+!!!title2: 13th Movement
+!!!statkey: D
+!!DEBUGGING: h258 % 225 % 1717(prf) % London % H258 % . % a % 13 % orchestra % . % Water Music % HANDEL, George Frederick % 1685
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . c1760(p) . (H258) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M3/2
+=
+2a/
+2dd\
+2eeT\
+=
+4ff#\
+2dd\
+4ee\
+4ff#\
+4dd\
+=
+4ee\
+2aa\
+4ee\
+4ff#\
+8ee\L
+8dd\J
+=
+4ee\
+2aa\
+4ee\
+4ff#\
+8ee\L
+8dd\J
+=
+4ee\
+2.a/
+*-

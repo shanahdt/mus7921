@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 2
+!!!OPS: Opus K 550
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1788
+!!!instrument: orchestra
+!!!place: Oesterreich, Vienna
+!!!theme: C
+!!!title1: Symphony No. 40 in G Minor
+!!!title2: 2nd Movement
+!!!statkey: E-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: m976 % 340 % 1788 % Vienna % M976 % K 550 % c % 2 % orchestra % . % Symphony No. 40 in G Minor % c1786(p) % 1756
+**kern
+*clefG2
+*k[b-e-a-]
+*B-:
+*M6/8
+=
+!! ! NB. Key & key signature disagree.
+4bb-\
+16ff\
+16r
+4bb-\
+16ff\
+16r
+=
+8.bb-\L
+32aan\LL
+32gg\JJJ
+16ff\
+16r
+8.bb-\L
+32aa\LL
+32gg\JJJ
+16ff\
+16r
+=
+8ff\L
+8ff#\
+8gg\J
+8ffnq/
+4ee-\
+8dd\
+=
+*-

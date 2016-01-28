@@ -1,0 +1,52 @@
+!!!ref: COM CDT, OTL, OTA, OMV
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: Concert No. 8 in G Major
+!!!OTA: Dans Le Go&ucirc;t Th&eacute;atral
+!!!SET: No. 8
+!!!OMV: Mov. 5 (Air L&eacute;ger No. 1)
+!!!PDT: 1724///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/8
+8b\
+=
+4b\
+8aT/
+=
+8g/L
+8d/J
+8dd\
+=
+4dd\
+8cc\
+=
+8bt/L
+8g/J
+8gg\
+=
+4gg\
+8ff#\
+=
+8ee\L
+8ff#\
+8gg\J
+=
+8dd\L
+16ee\L
+16dd\
+16cc\
+16b\JJ
+=
+4aT/
+*-

@@ -1,0 +1,48 @@
+!!!ACO: Classical; RSC
+!!!COM: Mozart, Wolfgang Amadeus
+!!!CDT: 1756/01/27/-1791/12/05/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1
+!!!OPS: Opus K 283
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1775
+!!!instrument: piano
+!!!place: Deutschland, Muenchen
+!!!title1: Sonata in G
+!!!title2: 1st Movement
+!!!statkey: G
+!!DEBUGGING: m767 % . % 1775 % Munich % M767 % K 283 % x % 1 % piano % . % Sonata in G % c1786(p) % 1756
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+8.dd\L
+16b\Jk
+=
+4dd\
+4r
+4g/
+=
+4f#/
+4r
+8.aa\L
+16ff#\Jk
+=
+4aa\
+4r
+4cc\
+=
+4b\
+4r
+8.gg\L
+16ff#\Jk
+=
+8ff#\L
+8ee\J
+4ee\
+*-

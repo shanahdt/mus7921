@@ -1,0 +1,77 @@
+!!!ACO: Classical; RSC
+!!!COM: Rossini, Gioachino Antonio
+!!!CDT: 1792/02/29/-1868/11/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 5: Can-Can
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: ?
+!!!instrument: orchestra
+!!!place: ?
+!!!theme: A
+!!!title1: La Boutique Fantasque
+!!!title2: Ballet
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: r371 % 387 % ? % ? % R371 % . % a % 5: Can-Can % orchestra % Ballet % La Boutique Fantasque % ROSSINI, Gioachino Antonio % 1792
+**kern
+*clefG2
+*k[]
+*A-:
+*M2/4
+*>[A,B,B,C]
+*>A
+=
+!! ! NB. Key & key signature disagree.
+! 
+8ccc\
+=
+8ccc\L
+8gg\
+8gg\
+8aa-\J
+=
+8aa-\L
+8ee-\
+8ee-\
+8ff\J
+=
+8ff\L
+8b\
+8b\
+8cc\J
+=
+8cc/L
+8g/
+8g/J
+=6||
+*clefG2
+*>B
+! 
+16eeq/LL
+16ffq/JJ
+4aa\
+16eeq/LL
+16ffq/JJ
+4aa\
+=7:|!
+*>C
+16eeq/LL
+16ffq/JJ
+8aa\L
+16gg\L
+16ff\JJ
+8ee\L
+8ff\J
+=
+16gg\LL
+16aa\
+16gg\
+16ee\JJ
+8cc\
+8r
+=
+*-

@@ -1,0 +1,52 @@
+!!!ACO: Classical; RSC
+!!!COM: Pizzetti, Ildebrando
+!!!CDT: 1880/09/20/-1968/02/13/
+!!!CNT: Italian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1924
+!!!instrument: violn, piano
+!!!place: Italia, Milano
+!!!title1: Tre Canti
+!!!title2: No. 1
+!!!statkey: D-
+!!DEBUGGING: p144 % . % 1924 % Milan % P144 % . % x % . % violn, piano % No. 1 % Tre Canti % PIZZETTI, Ildebrando % 1880
+**kern
+*clefG2
+*k[b-e-a-d-g-]
+*D-:
+*M4/4
+=
+4r
+2a-/
+4dd-\
+=
+4a-/
+8f/L
+8g-/J
+4a-/
+4dd-\
+=
+4a-/
+8f/L
+8g-/J
+8a-\L
+8dd-\
+8a-\
+8dd-\J
+=
+4ee-\
+4ff\
+8ee-\L
+8dd-\
+8cc\
+8b-\J
+=
+8cc\L
+8b-\J
+2.a-/
+=
+*-

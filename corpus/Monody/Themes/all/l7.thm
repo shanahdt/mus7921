@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Lalo, Edouard
+!!!CDT: 1823/01/27/-1892/04/22/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1877/12/31/
+!!!OMV: Mov. 2: Intermezzo
+!!!PDT: 1877///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1877
+!!!instrument: cello, orchestra
+!!!place: ?
+!!!splace: Deutschland, Berlin
+!!!theme: B
+!!!title1: Concerto in D Minor
+!!!title2: 2nd Movement (Intermezzo)
+!!!statkey: G
+!!DEBUGGING: l7 % . % 1877 % ? % L7 % . % b % 2: Intermezzo % cello, orchestra % . % Concerto in D Minor % LALO, Edouard % 1823
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1877(p) Berlin (L7) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M6/8
+16d/LL
+16e/JJ
+8f#/L
+8g/
+8a/J
+=
+[4.b\
+8b/L]
+8a/
+8g/J
+=
+16a/
+16r
+4a/
+4b\
+8a/
+=
+16g/
+16r
+4g/
+4a/
+8b\
+=
+2.a/
+=
+4b\
+8dd\
+8b\L
+8a\
+8b\J
+=
+16cc\
+16r
+4a/
+*-

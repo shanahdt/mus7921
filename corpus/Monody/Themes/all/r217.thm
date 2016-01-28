@@ -1,0 +1,58 @@
+!!!ACO: Classical; RSC
+!!!COM: Ravel, Maurice
+!!!CDT: 1875/03/07/-1937/12/28/
+!!!CNT: French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1912(rev)///
+!!!OCL: RSC
+!!!ODT: <1912/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1911
+!!!instrument: piano, orchestra
+!!!place: France, Paris
+!!!title1: Valses Nobles et Sentimentales
+!!!title2: No. 8
+!!!statkey: e
+!!DEBUGGING: r217 % 379 % 1911 % Paris % R217 % . % x % . % piano, orchestra % No. 8 % Valses Nobles et Sentimentales % RAVEL, Maurice % 1875
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1912(rev)(prf) . (R217) . . . . . . . .
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+=
+4r
+4g/
+4f#/
+=
+2e/
+4f#/
+=
+4r
+4g/
+4b\
+=
+2e/
+4f#/
+=
+4r
+4ff#\
+4dd#\
+=
+4ff#\
+4ee\
+[4b\
+=
+8b/L]
+8d#/J
+4.b\
+8d#/
+=
+4b\
+4a/
+4e/
+=
+*-

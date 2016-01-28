@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Walton, William Turner
+!!!CDT: 1902/03/29/-1983/03/08/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1938///
+!!!OCL: RSC
+!!!ODT: <1938/12/31/
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1938(prf)
+!!!place: ?
+!!!title1: Fa\c2ade, Suite No. 2, Orch.
+!!!title2: Old Sir Faulk
+!!!statkey: C
+!! NB. Key & key signature disagree.
+!!DEBUGGING: w191 % 517 % 1938(prf) % ? % W191 % . % . % . % . % . % . % WALTON, William Turner
+**kern
+*clefF4
+*k[]
+*E-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+8.E-\L
+16F\Jk
+8.G\L
+16A-\Jk
+8B-\L
+8c\J
+8.r
+16c\
+=
+8.e-\L
+16c\Jk
+8e-\L
+[8c\J
+8c\]
+8r
+4r
+*clefG2
+=
+8.r
+16e-/
+12g-/L
+12g-/
+12g-/J
+8.f/L
+16e-/Jk
+8.f/L
+16e-/Jk
+=
+8g-/L
+8e-/J
+8g-/L
+[8f/J
+8f/]
+*-

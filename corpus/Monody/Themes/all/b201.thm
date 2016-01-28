@@ -1,0 +1,44 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/03/21/-1750/07/26/
+!!!CNT: German
+!!!ODT: 1717///-1723///
+!!!OCY: Deutschland
+!!!OPC: C&ouml;then
+!!!OTL: Sonata No.5 in F Minor for Violin and Piano
+!!!SET: No. 5
+!!!OMV: Mov. 2
+!!!AIN: forte violn 
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-a-d-]
+*f:
+*M4/4
+=
+2ff\
+2gg\
+=
+8aa-\L
+16gg\L
+16ff\JJ
+8een\L
+8gg\J
+4cc\
+[4ccc\
+=
+8ccc\L]
+16bb-\L
+16aa-\JJ
+8gg\L
+8bb-\J
+8een\L
+8cc\J
+4ff\
+=
+*-

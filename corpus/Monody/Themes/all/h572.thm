@@ -1,0 +1,63 @@
+!!!ACO: Classical; RSC
+!!!COM: Haydn, Franz Josef
+!!!CDT: 1732/03/31/-1809/05/31/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3
+!!!ONM: No. 88
+!!!OPS: Opus B. & H.
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1787?
+!!!instrument: orchestra
+!!!place: Eszterh&aacute;za
+!!!theme: A
+!!!title1: Symphony in G
+!!!title2: 3rd Movement
+!!!statkey: G
+!! NB. Key & key signature disagree.
+!!DEBUGGING: h572 % . % 1787? % Eszterh&aacute;za % H572 % B. & H. No. 88 % a % 3 % orchestra % . % Symphony in G % HAYDN, Franz Josef % 1732
+**kern
+*clefG2
+*k[f#]
+*A:
+*M3/4
+32aaq/LLL
+32ggq/
+32ff#q/JJJ
+!! ! NB. Key & key signature disagree.
+4gg\
+=
+4bb\
+4gg\
+4ddd\
+=
+2ddd\
+32dddq/LLL
+32cccq/
+32bbq/JJJ
+4ccc\
+=
+4bb\
+4gg\
+4gg\
+=
+2gg\
+32cccq/LLL
+32bbq/
+32aaq/JJJ
+4bb\
+=
+4aa\
+4ff#\
+4ff#\
+=
+2ff#\
+32eeq/LLL
+32ddq/
+32cc#q/JJJ
+4dd\
+=
+*-

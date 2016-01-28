@@ -1,0 +1,52 @@
+**kern
+*clefG2
+*k[b-e-]
+*met(C|)
+*M2/2
+*B-:
+4.b-
+8dd
+4ff
+4ff
+=
+2ff
+2r
+=
+4.a
+8cc
+4ff
+4ff
+=
+2ff
+2r
+=
+4.ee-
+8gg
+4bb-
+4bb-
+=
+2bb-
+8aa
+8gg
+8ff
+8ee-
+=
+*-
+!!!COM: Schubert, Franz
+!!!CNT: Austrian
+!!!date: 1816
+!!!place: Deutschland, Erdberggasse
+!!!CDT: ///-
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.0
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+!!DEBUGGING: s500 % . % 1816 % Erdberggasse % S500 % . % . % . % . % . % . % SCHUBERT, Franz
+!!SUPPLEMENTARY INFORMATION
+!!!PDT: 1885///
+!!!ODT: <1885/12/31/
+!!!splace: Oesterreich, Vienna(?)
+!!!CDT: ///-
+!!DEBUGGING: . . 1885(p) Vienna? (S500) . . . . . . .

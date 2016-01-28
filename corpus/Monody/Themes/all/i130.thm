@@ -1,0 +1,53 @@
+!!!ACO: Classical; RSC
+!!!COM: Ives, Charles
+!!!CDT: 1874/10/20/-1954/05/19/
+!!!CNT: American
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: <1937/12/31/
+!!!PDT: 1937///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1909
+!!!instrument: orchestra
+!!!place: United States of America, New York
+!!!splace: United States of America, California, San Francisco
+!!!theme: A: BARN DANCE
+!!!title1: New England Holidays
+!!!title2: Washington's Birthday
+!!!statkey: D
+!!DEBUGGING: i130 % . % 1909 % New York % I130 % . % a: Barn Dance % . % orchestra % Washington's Birthday % New England Holidays % IVES, Charles % 1874
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1937(p) San Francisco (I130) . . . . . . . .
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+16A/LL
+16d/JJ
+=
+8f#/L
+16A/L
+16d/JJ
+8f#/L
+16f#/L
+16a/JJ
+=
+8g/L
+8f#/J
+8e/L
+16f#/L
+16a/JJ
+=
+8g/L
+8f#/J
+8e/L
+16e/L
+16f#/JJ
+=
+8d/L
+8B/J
+8A/
+*-

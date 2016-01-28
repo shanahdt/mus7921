@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OTL, OPS, ONM, OMV, thm
+!!!COM: Beethoven, Ludwig van
+!!!CDT: 1770/12/17/-1827/04/26/
+!!!CNT: German
+!!!ODT: 1798///-1800///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1801///
+!!!PPP: &Ouml;sterreich, Wien
+!!!OTL: Quartet in B Flat
+!!!OPS: Op. 18
+!!!ONM: No. 6
+!!!OMV: Mov. 1
+!!!thm: B
+!!!AIN: cello viola 2 violn
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-e-]
+*F:
+*M2/2
+!! ! NB. Key & key signature disagree.
+4c/
+=
+4a/
+4r
+4.a/
+8a/
+=
+[2a/
+4.a/]
+8a/
+=
+16ccq/
+4.b-\
+8a/
+16ccq/
+4.b-\
+8a/
+=
+[2g/
+4.g/]
+*-

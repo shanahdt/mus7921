@@ -1,0 +1,59 @@
+!!!ACO: Classical; RSC
+!!!COM: Lully, Jean-Baptiste
+!!!CDT: 1632/11/29/-1687/03/22/
+!!!CNT: Italian; French
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!MPD: 1680///
+!!!OCL: RSC
+!!!ODT: <1680/12/31/
+!!!OMV: Mov. 1
+!!!PDT: 1680///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1680(prf)
+!!!instrument: orchestra
+!!!place: France, Saint-Germain
+!!!splace: France, Paris
+!!!title1: Proserpine, Menuet des Ombres Heureuses
+!!!title2: Opera
+!!!statkey: B-
+!!DEBUGGING: l303 % . % 1680(prf) % Saint-Germain % L303 % . % x % 1 % orchestra % Opera % Proserpine, Menuet des Ombres Heureuses % LULLY, Jean Baptiste % 1632
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1680(p) Paris (L303) . . . . . . . .
+**kern
+*clefG2
+*k[b-e-]
+*B-:
+*M6/8
+=
+8.b-\L
+16a\k
+8b-\J
+8f/L
+8b-/
+8f/J
+=
+8b-\L
+16b-\L
+16cc\J
+8dd\J
+8cc\L
+8dd\
+8ee-\J
+=
+16dd\LL
+16cc\
+16b-\
+16cc\
+16dd\
+16ee-\JJ
+16ff\LL
+16ee-\
+16ff\
+16gg\
+16aa\
+16ff\JJ
+=
+8bb-\
+*-

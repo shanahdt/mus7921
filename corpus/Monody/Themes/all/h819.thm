@@ -1,0 +1,40 @@
+!!!ACO: Classical; RSC
+!!!COM: Holst, Gustav Theodore
+!!!CDT: 1874/09/21/-1934/05/25/
+!!!CNT: English
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 3: Intermezzo
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1912///-1913
+!!!instrument: string orchestra
+!!!place: England, London
+!!!theme: B
+!!!title1: St. Paul's Suite
+!!!title2: 3rd Movement (Intermezzo)
+!!!statkey: A
+!!DEBUGGING: h819 % 254 % 1912-1913 % London % H819 % . % b % 3: Intermezzo % string orchestra % . % St. Paul's Suite % HOLST, Gustav Theodore % 1874
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M2/4
+=
+16A/LL
+16B/J
+8c#/J
+8c#/L
+16d/L
+16B/JJ
+=
+8c#/L
+16d/L
+16B/JJ
+8c#/L
+8B/J
+=
+8A/
+8r
+*-

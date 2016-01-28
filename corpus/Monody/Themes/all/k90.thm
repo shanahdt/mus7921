@@ -1,0 +1,49 @@
+!!!ACO: Classical; RSC
+!!!COM: Korngold, Erich Wolfgang
+!!!CDT: 1897/05/29/-1957/11/29/
+!!!CNT: Austrian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!OMV: Mov. 1: M&auml;dchen im Brautgemach
+!!!OPS: Opus 11
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!date: 1919
+!!!instrument: violn, piano
+!!!place: Oesterreich, Vienna(?)
+!!!theme: A
+!!!title1: Much Ado About Nothing
+!!!title2: Suite
+!!!statkey: G-
+!! NB. Key & key signature disagree.
+!!DEBUGGING: k90 % . % 1919 % Vienna? % K90 % 11 % a % 1: M&auml;dchen im Brautgemach % violn, piano % Suite % Much Ado About Nothing % KORNGOLD, Erich Wolfgang % 1897
+**kern
+*clefF4
+*k[b-e-a-d-g-c-]
+*B-:
+*M4/4
+=
+!! ! NB. Key & key signature disagree.
+4BB-/
+4A-\
+16Gnq/LL
+16A-q/JJ
+16G\LL
+16En\
+16G-\
+16E-\JJ
+4d-\
+=
+8cn\L
+8d-q/
+16c\L
+16B-\JJ
+16c\LL
+16An\
+16c-\
+16A-\JJ
+*clefG2
+2g-/
+=
+*-

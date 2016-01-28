@@ -1,0 +1,42 @@
+!!!ref: COM CDT, OTL, OMV
+!!!COM: Couperin, François
+!!!CDT: 1668/11/10/-1733/09/11/
+!!!CNT: French
+!!!OTL: Concert Royal No. 2 for Chamber Orchestra
+!!!AIN: chamber orchestra
+!!!SET: No. 2 
+!!!OMV: Mov. 2 (Allemande Fufu&eacute;e)
+!!!PDT: 1722///
+!!!PPP: Frace, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M4/4
+8aa\
+8ff#m\L
+8aa\
+8eeM\
+8aa\J
+=
+8ddM\L
+8aa\
+8cc#M\
+8aa\J
+8ggT\L
+16ff#\L
+16gg\JJ
+8ee\L
+8aa\J
+=
+8ff#t\L
+16ee\L
+16ff#\JJ
+8dd\
+*-

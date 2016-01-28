@@ -1,0 +1,48 @@
+!!!ref: COM CDT, OPR, OTL, thm
+!!!COM: Delibes, Clément
+!!!CDT: 1836/02/21/-1891/01/16/
+!!!CNT: French
+!!!OPR: Le Roi L'A Dit
+!!!OTL: Overture      
+!!!thm: D
+!!!AIN: orchestra      
+!!!MRD: 1873///        
+!!!MLC: France, Paris
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 CCARH and David Huron
+!!!YEN: United States of America
+**kern
+*clefG2
+*k[b-]
+*F:
+*M4/4
+=
+8cc\L
+8a\
+8b-\
+8dd\J
+8cc\L
+8a\
+8b-\
+8dd\J
+=
+4cc\
+8ccq/
+8aa\
+8r
+4.a/
+8b-\
+=
+4g/
+8gq/
+8cc\
+8r
+4.c/
+8g/
+=
+4a/
+8f/
+*-

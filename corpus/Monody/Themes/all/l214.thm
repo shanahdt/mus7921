@@ -1,0 +1,50 @@
+!!!ACO: Classical; RSC
+!!!COM: Liszt, Franz
+!!!CDT: 1811/10/22/-1886/07/31/
+!!!CNT: Hungarian
+!!!EEV: Version 1.05
+!!!ENC: David Huron & Walter Hewlett
+!!!OCL: RSC
+!!!ODT: 1848///
+!!!ODT: <1856/12/31/
+!!!OPC: Deutschland, Weimar
+!!!PDT: 1856///
+!!!YEM: Copyright 1999 CCARH & David Huron
+!!!YEN: United States of America
+!!!instrument: orchestra
+!!!splace: Deutschland, Leipzig
+!!!theme: B
+!!!title1: Les Pr&eacute;ludes
+!!!title2: Symphonic Poem No. 3
+!!!statkey: C
+!!DEBUGGING: l214 % . % 1848(c) % Weimar % L214 % . % b % . % orchestra % Symphonic Poem No. 3 % Les Pr&eacute;ludes % LISZT, Franz % 1811
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1854(rev) . (L214) . . . . . . . .
+!!SUPPLEMENTARY INFORMATION
+!!DEBUGGING: . . 1856(p) Leipzig (L214) . b . orchestra Symphonic Poem No. 3 Les Pr&eacute;ludes LISZT, Franz 1811
+**kern
+*clefG2
+*k[]
+*C:
+*M9/8
+=
+2.e/
+4e/
+8d/
+=
+[2.g/
+8g/L]
+8e/
+8d/J
+=
+4.c/
+4.A/
+4c/
+8d/
+=
+[2.e/
+8e/]
+8r
+8r
+=
+*-

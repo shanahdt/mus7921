@@ -1,0 +1,50 @@
+!!!ref: COM CDT, OTL, OPS, OMV, thm
+!!!COM: Brahms, Johannes
+!!!CDT: 1833/05/07/-1897/04/03/
+!!!CNT: German
+!!!OTL: Quintet No. 2 in G for Strings
+!!!OPS: Op. 111
+!!!OMV: Mov. 1
+!!!thm: A
+!!!AIN: cello 2 viola 2 violn
+!!!ODT: 1890///
+!!!OCY: &Ouml;sterreich
+!!!OPC: Wien
+!!!PDT: 1891///
+!!!MRD: 1890///
+!!!MLC: &Ouml;sterreich, Wien              
+!!!ENC: David Huron & Walter Hewlett
+!!!EEV: Version 1.1
+!!!OCL: RSC
+!!!ACO: Classical; RSC
+!!!YEM: Copyright 1999 Center for Computer Assisted Research in the Humanities & David Huron
+!!!YEN: United States of America
+**kern
+*clefF4
+*k[f#]
+*G:
+*M9/8
+4GG/
+8r
+=
+[4.DD/
+8.DD/L]
+16GG/L
+16BB/
+16E/JJ
+4D\
+16AA/LL
+16DD/JJ
+=
+[4.GG/
+8.GG\L]
+16B\L
+16d\
+16a\JJ
+4g\
+16e\LL
+16G\JJ
+=
+[4.d\
+4d\]
+*-
