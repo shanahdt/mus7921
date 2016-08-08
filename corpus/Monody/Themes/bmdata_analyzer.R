@@ -52,7 +52,8 @@ library(corrplot)
 corrplot(my_cor, method = "square")
 
 ####with p value
-library(Hmisc)
+library(Hmisc)corrplot(mycor, method = "square")
+
 rcorr(my_cor, type="spearman") 
 
 ###subset data by country:

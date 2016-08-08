@@ -1,0 +1,1 @@
+myRhythmicVar=$(./npvi $file)
